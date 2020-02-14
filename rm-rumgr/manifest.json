@@ -1,8 +1,8 @@
 {
     "dictionaries": {
-        "de-AT": "dictionaries/rm.dic"
+        "rm": "dictionaries/rm.dic"
     },
-    "version": "1",
+    "version": "1.0.1",
     "browser_specific_settings": {
         "gecko": {
             "id": "rm@dictionaries.addons.mozilla.org"
