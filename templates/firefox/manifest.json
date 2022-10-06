@@ -1,0 +1,13 @@
+{
+  "dictionaries": {
+    "{{ language_code }}": "dictionaries/{{ language_code }}.dic"
+  },
+  "version": "{{ version }}",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{{ id }}"
+    }
+  },
+  "name": "{{ name }}",
+  "manifest_version": 2
+}

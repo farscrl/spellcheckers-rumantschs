@@ -1,0 +1,29 @@
+{
+  "name": "spellchecker-pagkager",
+  "version": "1.0.0",
+  "description": "Spellchecker rumantsch",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pack-surmiran": "node src/index.js -- surmiran",
+    "pack-rumgris": "node src/index.js -- rumantschgrischun",
+    "pack-invalid": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gion-andri/spellchecker-rumantsch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gion-andri/spellchecker-rumantsch/issues"
+  },
+  "homepage": "https://github.com/gion-andri/spellchecker-rumantsch#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^10.1.0",
+    "handlebars": "^4.7.7",
+    "read-ini-file": "^3.0.1",
+    "zip-dir": "^2.0.0"
+  }
+}
