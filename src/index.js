@@ -33,10 +33,11 @@ function packIdiom(idiom) {
     console.log(version)
 
     createFirefoxXpi(config, version);
+    createLibreofficeXpi(config, version);
 }
 
 function createFirefoxXpi(config, version) {
-    cleanOutputDir();
+    cleanTempDir();
 
     const ver = version.split('-');
     version = ver[0] + 'build' + ver[1].replace('.', '')
@@ -55,7 +56,34 @@ function createFirefoxXpi(config, version) {
     zipTempFolderToFile('build/' + config.language_code, 'firefox_' + config.language_code + '_' +version + '.xpi');
 }
 
-function cleanOutputDir() {
+function createLibreofficeXpi(config, version) {
+    cleanTempDir();
+
+    const descriptionTemplate = fs.readFileSync('templates/libreoffice/description.xml');
+    const descriptionHandlebars = handlebars.compile(descriptionTemplate.toString());
+    fs.writeFileSync('tmp/description.xml', descriptionHandlebars({
+        language_code: config.language_code,
+        id: config.libreoffice.id,
+        version: version,
+        description_en: config.libreoffice.description_en,
+        description_rm: config.libreoffice.description_rm,
+        description_de: config.libreoffice.description_de,
+    }));
+
+    const dictionariesTemplate = fs.readFileSync('templates/libreoffice/dictionaries.xcu');
+    const dictionariesHandlebars = handlebars.compile(dictionariesTemplate.toString());
+    fs.writeFileSync('tmp/dictionaries.xcu', dictionariesHandlebars({
+        language_code: config.language_code,
+    }));
+
+    copyFolder('templates/libreoffice/META-INF/', 'tmp/META-INF');
+
+    copyFolder('dictionaries/' + config.language_code, 'tmp/dictionaries');
+
+    zipTempFolderToFile('build/' + config.language_code, 'libreoffice_' + config.language_code + '_' +version + '.oxt');
+}
+
+function cleanTempDir() {
     const directory = "tmp";
     fsExtra.emptyDirSync(directory);
 }
