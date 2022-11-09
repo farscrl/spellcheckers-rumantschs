@@ -28,12 +28,13 @@ function packIdiom(idiom) {
     const configPath = path.join(__dirname, '..', 'config', idiom + '.ini');
     const config = loadIniFile.sync(configPath);
 
-    let version = fs.readFileSync('dictionaries/' + config.language_code + '/version.txt').toString();
+    let version = fs.readFileSync('dictionaries/' + config.language_code + '/' + config.language_code + '_version.txt').toString();
     version = version.replace(/(\r\n|\n|\r)/gm, ""); // remove newlines,...
     console.log(version)
 
     createFirefoxXpi(config, version);
     createLibreofficeXpi(config, version);
+    createWebsiteStructure(config, version);
 }
 
 function createFirefoxXpi(config, version) {
@@ -81,6 +82,14 @@ function createLibreofficeXpi(config, version) {
     copyFolder('dictionaries/' + config.language_code, 'tmp/dictionaries');
 
     zipTempFolderToFile('build/' + config.language_code, 'libreoffice_' + config.language_code + '_' +version + '.oxt');
+}
+
+function createWebsiteStructure(config, version) {
+    cleanTempDir();
+
+    copyFolder('dictionaries/' + config.language_code, 'build/web/' + config.language_code);
+    copyFolder('dictionaries/' + config.language_code, 'tmp/dictionaries');
+    zipTempFolderToFile('build/web/', config.language_code + '.zip');
 }
 
 function cleanTempDir() {
