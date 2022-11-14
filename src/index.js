@@ -33,7 +33,7 @@ function packIdiom(idiom) {
     console.log(version)
 
     createFirefoxXpi(config, version);
-    createLibreofficeXpi(config, version);
+    createLibreofficeOxt(config, version);
     createWebsiteStructure(config, version);
 }
 
@@ -57,7 +57,7 @@ function createFirefoxXpi(config, version) {
     zipTempFolderToFile('build/' + config.language_code, 'firefox_' + config.language_code + '_' +version + '.xpi');
 }
 
-function createLibreofficeXpi(config, version) {
+function createLibreofficeOxt(config, version) {
     cleanTempDir();
 
     const descriptionTemplate = fs.readFileSync('templates/libreoffice/description.xml');
