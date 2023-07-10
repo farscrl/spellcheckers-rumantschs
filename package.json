@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "pack-surmiran": "node src/index.js -- surmiran",
+    "pack-sutsilvan": "node src/index.js -- sutsilv",
     "pack-rumgris": "node src/index.js -- rumantschgrischun",
     "pack-invalid": "node src/index.js"
   },
