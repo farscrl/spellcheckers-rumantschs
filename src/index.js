@@ -9,7 +9,7 @@ const zipDir = require('zip-dir');
 
 const validIdioms = ['surmiran'];
 
-function pack() {
+async function pack() {
     const idiom = process.argv[3];
 
     if (idiom === undefined) {
@@ -18,13 +18,13 @@ function pack() {
     }
 
     if (validIdioms.includes(idiom)) {
-        packIdiom(idiom);
+        await packIdiom(idiom);
     } else {
         console.error(chalk.red.bold("\nYou didn't specify a valid idiom!\n"));
     }
 }
 
-function packIdiom(idiom) {
+async function packIdiom(idiom) {
     const configPath = path.join(__dirname, '..', 'config', idiom + '.ini');
     const config = loadIniFile.sync(configPath);
 
@@ -32,12 +32,12 @@ function packIdiom(idiom) {
     version = version.replace(/(\r\n|\n|\r)/gm, ""); // remove newlines,...
     console.log(version)
 
-    createFirefoxXpi(config, version);
-    createLibreofficeOxt(config, version);
-    createWebsiteStructure(config, version);
+    await createFirefoxXpi(config, version);
+    await createLibreofficeOxt(config, version);
+    await createWebsiteStructure(config, version);
 }
 
-function createFirefoxXpi(config, version) {
+async function createFirefoxXpi(config, version) {
     cleanTempDir();
 
     const ver = version.split('-');
@@ -54,10 +54,10 @@ function createFirefoxXpi(config, version) {
 
     copyFolder('dictionaries/' + config.language_code, 'tmp/dictionaries');
 
-    zipTempFolderToFile('build/' + config.language_code, 'firefox_' + config.language_code + '_' +version + '.xpi');
+    await zipTempFolderToFile('build/' + config.language_code, 'firefox_' + config.language_code + '_' +version + '.xpi');
 }
 
-function createLibreofficeOxt(config, version) {
+async function createLibreofficeOxt(config, version) {
     cleanTempDir();
 
     const descriptionTemplate = fs.readFileSync('templates/libreoffice/description.xml');
@@ -81,15 +81,15 @@ function createLibreofficeOxt(config, version) {
 
     copyFolder('dictionaries/' + config.language_code, 'tmp/dictionaries');
 
-    zipTempFolderToFile('build/' + config.language_code, 'libreoffice_' + config.language_code + '_' +version + '.oxt');
+    await zipTempFolderToFile('build/' + config.language_code, 'libreoffice_' + config.language_code + '_' +version + '.oxt');
 }
 
-function createWebsiteStructure(config, version) {
+async function createWebsiteStructure(config, version) {
     cleanTempDir();
 
     copyFolder('dictionaries/' + config.language_code, 'build/web/' + config.language_code);
     copyFolder('dictionaries/' + config.language_code, 'tmp/dictionaries');
-    zipTempFolderToFile('build/web/', config.language_code + '.zip');
+    await zipTempFolderToFile('build/web/', config.language_code + '.zip');
 }
 
 function cleanTempDir() {
@@ -104,13 +104,11 @@ function copyFolder(sourceDir, destDir) {
     fsExtra.copySync(sourceDir, destDir, undefined);
 }
 
-function zipTempFolderToFile(destDir, fileName) {
+async function zipTempFolderToFile(destDir, fileName) {
     if (!fs.existsSync(destDir)){
         fs.mkdirSync(destDir, { recursive: true });
     }
-    zipDir('tmp/', { saveTo: destDir + '/' + fileName }, function (err, buffer) {
-
-    });
+    await zipDir('tmp/', { saveTo: destDir + '/' + fileName });
 }
 
 pack();
