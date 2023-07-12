@@ -41,7 +41,8 @@ async function createFirefoxXpi(config, version) {
     cleanTempDir();
 
     const ver = version.split('-');
-    version = ver[0] + 'build' + ver[1].replace('.', '')
+    const v = ver[1].split('.');
+    version = ver[0] + '.' + v[0];
 
     const manifestTemplate = fs.readFileSync('templates/firefox/manifest.json');
     const manifestHandlebars = handlebars.compile(manifestTemplate.toString());
