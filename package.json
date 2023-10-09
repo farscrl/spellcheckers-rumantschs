@@ -5,10 +5,11 @@
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "pack-puter": "node src/index.js -- puter",
+    "pack-rumgr": "node src/index.js -- rumgr",
     "pack-surmiran": "node src/index.js -- surmiran",
     "pack-sutsilvan": "node src/index.js -- sutsilv",
-    "pack-rumgris": "node src/index.js -- rumantschgrischun",
-    "pack-invalid": "node src/index.js"
+    "pack-vallader": "node src/index.js -- vallader"
   },
   "repository": {
     "type": "git",
