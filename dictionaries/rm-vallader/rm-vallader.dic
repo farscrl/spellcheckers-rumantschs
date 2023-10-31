@@ -1,15 +1,4 @@
-177091
----/TQRSS
--a/T
--laj'la/TS
--laj/TS
--laja'l/TS
--laja/TQRSS
--lajan/TS
--lajast/TS
--lajat/TS
--lajna/TS
--upla/T
+178557
 A/T
 Aaron/T
 Aarons/T
@@ -65,6 +54,7 @@ Aita/T
 Aitas/T
 Alain
 Alasca/T
+Albanaisas/T
 Albania/T
 Albert
 Alberta/T
@@ -142,6 +132,7 @@ Andrietta/T
 Andriettas/T
 Andrin
 Andris/T
+Andry
 André
 Angel/T
 Angela/T
@@ -307,6 +298,7 @@ Basc/T
 Basca/T
 Bascas/T
 Bascs/T
+Basilaisas/T
 Basilea/T
 Bass
 Bassa/T
@@ -368,6 +360,8 @@ Bergiagliottas/T
 Bergün
 Berna/T
 Bernadette
+Bernais/T
+Bernaisa/T
 Bernard
 Bernasconi
 Bernhard
@@ -384,6 +378,7 @@ Bettinas/T
 Bever/T
 Beverin
 Beyeler
+Bezzola
 Bianchi
 Bibla/T
 Biblas/T
@@ -481,6 +476,8 @@ Büman/T
 Bümans/T
 Bürgi
 Bürki
+CEO
+CHF
 Cabalzar
 Cadalbert
 Caderas
@@ -497,7 +494,9 @@ Calabria/T
 Calantgil/T
 California/T
 Caluori
+Camathias
 Camenisch
+Camichel
 Caminada
 Campell
 Camuns
@@ -618,6 +617,8 @@ Claudias/T
 Claudine
 Claudio/T
 Claudios/T
+Clavenas-ch/T
+Clavenas-cha/T
 Clavenna/T
 Clavuot/T
 Clavuots/T
@@ -713,6 +714,7 @@ Cuttüra/T
 Cuvlignas/T
 Cédric
 Céline
+DRG
 DVD/T
 DVDs/T
 Da Silva
@@ -827,6 +829,7 @@ Egli
 Eichenberger
 Eivna/T
 Eivnas/T
+El/T
 Elena/T
 Elenas/T
 Eli/T
@@ -838,6 +841,8 @@ Elisa/T
 Elisabeth
 Elisas/T
 Ella/T
+Ellas/T
+Els/T
 Elsa/T
 Elsas/T
 Elsbeth
@@ -868,6 +873,7 @@ Engel
 Engiadin'Ota/T
 Engiadin'Otas/T
 Engiadina/T
+Engiadinaisas/T
 Engiadinas/T
 Enrietta/T
 Enriettas/T
@@ -980,6 +986,7 @@ Filips/T
 Filisur/T
 Filli
 Finlanda/T
+Finlandaisas/T
 Firats/T
 Firefox
 Firenza/T
@@ -1054,6 +1061,7 @@ Frenas/T
 Frey
 Friberg
 Friburg/T
+Friburgaisas/T
 Frida/T
 Fridas/T
 Fridulin/T
@@ -1078,6 +1086,7 @@ Fässler
 Fögl/T
 Fögls/T
 Fürstenau
+GR
 Gabriel/T
 Gabriela/T
 Gabrielas/T
@@ -1109,6 +1118,7 @@ Geremia/T
 Geremias/T
 Gerhard
 German/T
+Germanaisas/T
 Germania/T
 Germann
 Germans/T
@@ -1127,6 +1137,7 @@ Giacobea/T
 Giacobeas/T
 Giacobina/T
 Giacobinas/T
+Giacometti
 Giacomina/T
 Giacominas/T
 Giacumin/T
@@ -1140,12 +1151,14 @@ Gianna
 Gianuot/T
 Gianuots/T
 Giapun/T
+Giapunaisas/T
 Giarsun/T
 Gideon/T
 Gideons/T
 Giger
 Gilli/T
 Gillits/T
+Gilly
 Ginuot/T
 Ginuots/T
 Gioachim/T
@@ -1183,6 +1196,7 @@ Gisep/T
 Giseps/T
 Gisler
 GiuRu
+Giuanna
 Giuglia/T
 Giuglias/T
 Giulia
@@ -1192,6 +1206,7 @@ Giuseppe
 Giuvaulta/T
 Givòlta
 Glaruna/T
+Glarunaisas/T
 Glas/T
 Glauser
 Glion/T
@@ -1219,6 +1234,7 @@ Gretta/T
 Grettas/T
 Grettina/T
 Grettinas/T
+Grevasalvas/T
 Grischott
 Grischun/T
 Grob
@@ -1346,6 +1362,7 @@ Indians/T
 Indra/T
 Indras/T
 Ingalterra/T
+Inglaisas/T
 Inglina/T
 Inglinas/T
 Innerferrera
@@ -1390,6 +1407,7 @@ Jacomet
 Jacqueline
 Jacques
 Jakob
+Jan
 Jana
 Janett/T
 Janetts/T
@@ -1508,7 +1526,9 @@ Kurt
 Kuster
 Kälin
 Käser
+Könz
 Küng
+LQ
 LR
 La Punt Chamues-ch
 La Quotidiana
@@ -1607,6 +1627,7 @@ Lots/T
 Louis
 Lozza
 Luana
+Luca
 Lucas/T
 Lucerna/T
 Lucia
@@ -1633,15 +1654,18 @@ Lurench/T
 Lurenchs/T
 Lutz
 Luven/T
+Luzi/T
 Luzia/T
 Luzias/T
 Luzio
+Lyceum Alpinum Zuoz
 Lydia
 Lötscher
 Lü/T
 Lüsai/T
 Lüscher
 Lüthi
+Lüzi/T
 Lüzza/T
 Lüzzas/T
 Macedonia/T
@@ -1906,6 +1930,7 @@ Norbert/T
 Norberts/T
 Nord/T
 Norvegia/T
+Norvegiaisas/T
 Nossadunnan/T
 Nossaduonna/T
 Nossaduonnas/T
@@ -1928,6 +1953,7 @@ Nutegn
 Nuttina/T
 Nuttinas/T
 Näf
+OEE
 ONU/T
 Obadia/T
 Obadias/T
@@ -1943,11 +1969,13 @@ Olivia/T
 Olivias/T
 Olivier
 Ollanda/T
+Ollandaisas/T
 Onna/T
 Onnas/T
 Oriaint/T
 Oriainta/T
 Oriaintas/T
+Origen
 Ortensia/T
 Ortensias/T
 Oscar/T
@@ -1986,6 +2014,7 @@ Pancrazs/T
 Paolo
 Paper/T
 Papers/T
+Parli
 Parolini
 Parpan
 Parsonz/T
@@ -2014,6 +2043,7 @@ Paulo
 Paulus/T
 Pazen/T
 Pedro
+Peer
 Peiden/T
 Peider/T
 Peiders/T
@@ -2071,12 +2101,14 @@ Prealps/T
 Preaz/T
 Preda/T
 Priska
+Pro Senectute
 Probst
 Projer
 Prussia/T
 Präz
 Puntina/T
 Puntraschigna/T
+Puorger
 Puorgia/T
 Puorgias/T
 Purtagn/T
@@ -2144,6 +2176,7 @@ Reschen
 Ret/T
 Reta/T
 Retas/T
+Retica/T
 Reto/T
 Retorumantsch/T
 Retorumantscha/T
@@ -2226,6 +2259,7 @@ Rumenia/T
 Rumens/T
 Runcaglia/T
 Ruschein/T
+Russas/T
 Russia/T
 Rut/T
 Ruth
@@ -2287,6 +2321,7 @@ Sant'Anna/T
 Sant'Annas/T
 Sant/T
 Santa Maria
+Santa/T
 Sara/T
 Sarah
 Sarard/T
@@ -2422,6 +2457,7 @@ Silvaplauna/T
 Silvester/T
 Silvesters/T
 Silvia
+Silvio
 Simeon
 Simon
 Simona
@@ -2449,6 +2485,8 @@ Sofias/T
 Soloturn/T
 Solèr
 Sommer
+Sonch/T
+Soncha/T
 Sonder
 Sonderegger
 Sonia
@@ -2458,6 +2496,8 @@ Sophie
 Sotses/T
 Sour
 Spagna/T
+Spagnöl/T
+Spagnöla/T
 Spendrader/T
 Spescha
 Splügia/T
@@ -2521,6 +2561,7 @@ Surcasti/T
 Surchalavaina/T
 Surchalavainas/T
 Surcuolm/T
+Surlej/T
 Surmir/T
 Surmira/T
 Surmiran/T
@@ -2584,6 +2625,7 @@ Süd/T
 Südtirolais/T
 Südtirolaisa/T
 Südtirolaisas/T
+TESSVM
 Tadeus/T
 Tal/T
 Talian/T
@@ -2602,6 +2644,7 @@ Tanja
 Tanner
 Tanno
 Tarasp/T
+Taraspin/T
 Tarnutzer
 Tartar/T
 Taschin/T
@@ -2610,6 +2653,7 @@ Taschinas/T
 Taschins/T
 Tavanasa/T
 Tavo/T
+Telesguard
 Teo/T
 Teodosia/T
 Teodosias/T
@@ -2627,6 +2671,7 @@ Tessalonicensers/T
 Tessalonicensra/T
 Tessalonicensras/T
 Tessin/T
+Tessinaisas/T
 Testamaint/T
 Testamaints/T
 Tgazas
@@ -2655,6 +2700,7 @@ Tinettas/T
 Tinizong/T
 Tiran/T
 Tirol/T
+Tirolaisas/T
 Tirols/T
 Titus/T
 Tobia/T
@@ -2663,6 +2709,7 @@ Tobler
 Tomas/T
 Tomaschett
 Tomils
+Toni
 Toscana/T
 Toyota
 Trachsel
@@ -2673,6 +2720,7 @@ Trin/T
 Trina/T
 Trinas/T
 Trun/T
+Truttmann
 Tràn
 Tschalèr
 Tschanz
@@ -2698,6 +2746,8 @@ Tuatschin/T
 Tuatschina/T
 Tuatschinas/T
 Tuatschins/T
+Tudais-ch/T
+Tudais-cha/T
 Tuer/T
 Tujetsch/T
 Tujetscha/T
@@ -2728,6 +2778,7 @@ Türchas/T
 Türchia/T
 Türchs/T
 Ucraina/T
+UdG
 Uguenot/T
 Uguenots/T
 Uguenotta/T
@@ -2763,10 +2814,12 @@ Ursulignas/T
 Ursulina/T
 Ursulinas/T
 Vad/T
+Vadaisas/T
 Val/T
 Valburga/T
 Valburgas/T
 Valchava/T
+Valdaisas/T
 Valendau/T
 Valentin/T
 Valentina
@@ -2805,14 +2858,13 @@ Versomi/T
 Vest/T
 Vetsch
 Veulden/T
-Viafier/T
-Viafiers/T
 Viamala
 Victoria/T
 Victorias/T
 Vidal/T
 Vidals/T
 Vienna/T
+Viennaisas/T
 Vietnam/T
 Vignogn/T
 Vincent
@@ -2883,6 +2935,7 @@ Yves
 Yvonne
 Zaccaria/T
 Zaccarias/T
+Zanetti
 Zaugg
 Zbinden
 Zefania/T
@@ -2918,6 +2971,7 @@ Zuozingra/T
 Zuozingras/T
 Zwahlen
 Zürcher
+Zürigaisas/T
 a'la/PTS
 a-magiur/T
 a-minur/T
@@ -3058,6 +3112,7 @@ abattessna/PTS
 abattimaint/T
 abattimaints/T
 abattond/PTS
+abattà/PTS
 abattü/PTS
 abattüda/PTS
 abattüdas/PTS
@@ -3170,6 +3225,8 @@ abiadias/T
 abiadis/T
 abiadits/T
 abigeis/T
+abil/T
+abila/T
 abilitada/PTS
 abilitadas/PTS
 abilitai/PTQRSS
@@ -3773,6 +3830,7 @@ absolvessat/PTS
 absolvessna/PTS
 absolvna/PTS
 absolvond/PTS
+absolvà/PTS
 absorbada/PTS
 absorbadas/PTS
 absorbader/T
@@ -3830,6 +3888,7 @@ abstegnast/PTS
 abstegnat/PTS
 abstegner/PTQRSS
 abstegnna/PTS
+abstegnà/PTS
 abstenziun/T
 abstenziuns/T
 abstgnai/PTQRSS
@@ -4384,6 +4443,7 @@ accludivast/PTS
 accludivat/PTS
 accludivna/PTS
 accludna/PTS
+accludà/PTS
 acclus/PTS
 acclusa/PTS
 acclusast/PTS
@@ -4428,6 +4488,7 @@ accogliessat/PTS
 accogliessna/PTS
 accoglina/PTS
 accogliond/PTS
+accoglià/PTS
 accolt/PTS
 accolta/PTS
 accoltas/PTS
@@ -4698,6 +4759,7 @@ accumpagnaivat/PTS
 accumpagnaivna/PTS
 accumpagnamaint/T
 accumpagnamaints/T
+accumpagnanta/T
 accumpagnar/PTQRSS
 accumpagnarai/PTQRSS
 accumpagnaraja/PTS
@@ -4839,6 +4901,7 @@ accuorrarà/PTS
 accuorrast/PTS
 accuorrat/PTS
 accuorrer/PTQRSS
+accuorrà/PTS
 accuorsa/T
 accuorsas/T
 accuplada/PTS
@@ -5829,6 +5892,7 @@ admettessast/PTS
 admettessat/PTS
 admettessna/PTS
 admettond/PTS
+admettà/PTS
 administrada/PTS
 administradas/PTS
 administradur/T
@@ -6054,6 +6118,7 @@ adoms/T
 adon/T
 adonis/T
 adons/T
+adonta/T
 adoptada/PTS
 adoptadas/PTS
 adoptai/PTQRSS
@@ -6124,6 +6189,8 @@ adressaivat/PTS
 adressaivna/PTS
 adressamaint/T
 adressamaints/T
+adressant/T
+adressanta/T
 adressants/T
 adressar/PTQRSS
 adressarai/PTQRSS
@@ -6136,6 +6203,8 @@ adressarà'l/PTS
 adressarà'la/PTS
 adressarà/PTS
 adressas/T
+adressat/T
+adressata/T
 adressats/PTS
 adressesch'la/PTS
 adressesch/PTS
@@ -6272,6 +6341,7 @@ adutschivast/PTS
 adutschivat/PTS
 adutschivna/PTS
 adverb/T
+adverbial/T
 adverbiala/T
 adverbialas/T
 adverbs/T
@@ -6505,6 +6575,7 @@ adüt/PTS
 adüts/PTS
 adütta/PTS
 adüttas/PTS
+adüà/PTS
 affa'l/PTS
 affa'la/PTS
 affa/PTQRSS
@@ -6839,6 +6910,7 @@ affligiast/PTS
 affligiat/PTS
 affligiond/PTS
 affligna/PTS
+affligà/PTS
 affluent/T
 affluents/T
 affluenza/T
@@ -6876,6 +6948,8 @@ affuollats/PTS
 affuollessan/PTS
 affuollessat/PTS
 affuollond/PTS
+affuollà/PTS
+affà/PTS
 aflettats/T
 aflettà/T
 afonic/T
@@ -7040,6 +7114,7 @@ agiundschessat/PTS
 agiundschessna/PTS
 agiundschna/PTS
 agiundschond/PTS
+agiundschà/PTS
 agiunt/PTS
 agiunta/PTS
 agiuntas/PTS
@@ -7392,6 +7467,7 @@ ahà/T
 ai/PTQRSS
 aids/T
 aigna/T
+aignas/T
 ain'la/PTS
 ain/PTS
 aina'l/PTS
@@ -7670,6 +7746,7 @@ albs/T
 album/T
 albumin/T
 albumins/T
+albuminusas/T
 albums/T
 albuorn/T
 albuorns/T
@@ -7682,6 +7759,8 @@ alcalis/T
 alch/T
 alchet/T
 alchimia/T
+alchünas/T
+alchüns/T
 alcohol/T
 alcoholic/T
 alcoholica/T
@@ -7744,6 +7823,7 @@ aldümer/T
 aldümers/T
 aldüms/T
 alemanic/T
+alenada/T
 alenamaint/T
 alenamaints/T
 alenatur/T
@@ -7916,7 +7996,6 @@ alguessna/PTS
 alguna/PTS
 alguond/PTS
 alguà/PTS
-alibi/T
 alibifon/T
 alibifons/T
 alienada/PTS
@@ -8082,6 +8161,7 @@ allegarà'l/PTS
 allegarà'la/PTS
 allegarà/PTS
 allegats/PTS
+alleger/T
 alleghesch'la/PTS
 alleghesch/PTS
 alleghescha'l/PTS
@@ -8463,6 +8543,8 @@ allungamaint/T
 allungamaints/T
 allusiun/T
 allusiuns/T
+allusiv/T
+allusiva/T
 alluviada/PTS
 alluviadas/PTS
 alluviai/PTQRSS
@@ -8864,6 +8946,7 @@ amanta/T
 amantas/T
 amants/T
 amar/PTQRSS
+amara/T
 amarai/PTQRSS
 amaraja/PTS
 amaran/PTS
@@ -8949,6 +9032,7 @@ ambivat/PTS
 ambivna/PTS
 ambiziun/T
 ambiziuns/T
+ambiziusas/T
 amblana/T
 amblanas/T
 ambra/T
@@ -9395,6 +9479,8 @@ amuraditsch/T
 amuraditscha/T
 amuraditschas/T
 amuraditschs/T
+amurais-ch/T
+amurais-cha/T
 amuraivel/T
 amuraivelmaing/T
 amuraivels/T
@@ -9796,6 +9882,7 @@ anguoschiessast/PTS
 anguoschiessat/PTS
 anguoschiessna/PTS
 anguoschiond/PTS
+anguoschiusas/T
 anguoschià/PTS
 anguria/T
 angurias/T
@@ -10152,6 +10239,7 @@ antagonista/T
 antagonistas/T
 antagonists/T
 antas/T
+antecedaint/T
 antecessur/T
 antecessura/T
 antecessuras/T
@@ -10434,6 +10522,7 @@ apaschessat/PTS
 apaschessna/PTS
 apaschna/PTS
 apaschond/PTS
+apaschà/PTS
 apaschü/PTS
 apaschüda/PTS
 apaschüdas/PTS
@@ -10574,6 +10663,11 @@ appartegnast/PTS
 appartegnat/PTS
 appartegner/PTQRSS
 appartegnna/PTS
+appartegnà/PTS
+appartenent/T
+appartenenta/T
+appartenentas/T
+appartenents/T
 appartgnai/PTQRSS
 appartgnain/PTS
 appartgnaina/PTS
@@ -10610,6 +10704,7 @@ appartgnü/PTS
 appartgnüda/PTS
 appartgnüdas/PTS
 appartgnüts/PTS
+apparà/PTS
 apparü/PTS
 apparüda/PTS
 apparüdas/PTS
@@ -11125,8 +11220,8 @@ approvond/PTS
 approvà/PTS
 approximativ/T
 approximativa/T
-approximativamaing/T
 approximativas/T
+approximativmaing/T
 approximativs/T
 appuntada/T
 appuntadas/T
@@ -11148,7 +11243,7 @@ apunta/T
 aqua/T
 aquaduct/T
 aquaducts/T
-aquaidar/T
+aquaidain/T
 aquaplaning/T
 aquaplanings/T
 aquarel/T
@@ -11169,6 +11264,8 @@ ar'la/PTS
 ar/PTQRSS
 ara'l/PTS
 ara/PTQRSS
+arab/T
+araba/T
 arabesca/T
 arabescas/T
 arabetta/T
@@ -11720,6 +11817,7 @@ ardüt/PTS
 ardüts/PTS
 ardütta/PTS
 ardüttas/PTS
+ardüà/PTS
 areal/T
 areala/T
 arealas/T
@@ -11909,6 +12007,7 @@ aritmetica/T
 aritmeticamaing/T
 aritmeticas/T
 aritmetics/T
+ariusas/T
 arlagn/T
 arlagns/T
 arlekin/T
@@ -11954,6 +12053,8 @@ armarias/T
 armarà'l/PTS
 armarà'la/PTS
 armarà/PTS
+armaröl/T
+armaröla/T
 armaröls/T
 armas/T
 armats/PTS
@@ -12034,6 +12135,7 @@ armonisond/PTS
 armonisà/PTS
 armonium/T
 armoniums/T
+armoniusas/T
 armà/PTS
 arna/PTS
 arnica/T
@@ -12367,6 +12469,7 @@ arsinessat/PTS
 arsinessna/PTS
 arsinond/PTS
 arsinà/PTS
+arsiusas/T
 arss/PTS
 arsüra/T
 arsüras/T
@@ -12453,6 +12556,7 @@ artisticamaing/T
 artisticas/T
 artistics/T
 artists/T
+artliusas/T
 artritis/T
 artropod/T
 artropods/T
@@ -12513,6 +12617,7 @@ ascendessat/PTS
 ascendessna/PTS
 ascendna/PTS
 ascendond/PTS
+ascendà/PTS
 ascendü/PTS
 ascendüda/PTS
 ascendüdas/PTS
@@ -13078,6 +13183,7 @@ assistivast/PTS
 assistivat/PTS
 assistivna/PTS
 assistna/PTS
+assistà/PTS
 associada/PTS
 associadas/PTS
 associai/PTQRSS
@@ -13243,6 +13349,8 @@ atlets/T
 atmosfera/T
 atmosferas/T
 atom/T
+atomar/T
+atomara/T
 atomic/T
 atomica/T
 atomicas/T
@@ -13457,12 +13565,17 @@ attempada/T
 attempadas/T
 attempats/T
 attempà/T
+attent/T
+attenta/T
 attentader/T
 attentaders/T
 attentadra/T
 attentadras/T
+attentamaing/T
+attentas/T
 attentat/T
 attentats/T
+attents/T
 attenziun/T
 attenziuns/T
 atter/PTS
@@ -13662,6 +13775,7 @@ attributs/T
 attribuziun/T
 attribuziuns/T
 attrond/PTS
+attrà/PTS
 aua/T
 auaditsch/T
 auaditscha/T
@@ -13857,6 +13971,8 @@ autentifichessna/PTS
 autentifichond/PTS
 autentifichà/PTS
 autissem/T
+autist/T
+autista/T
 auto/T
 autobiografia/T
 autobiografias/T
@@ -13889,6 +14005,8 @@ autodeterminaziun/T
 autodeterminaziuns/T
 autodiagnosa/T
 autodiagnosas/T
+autodidact/T
+autodidacta/T
 autodidactic/T
 autodidactica/T
 autodidacticamaing/T
@@ -14165,6 +14283,7 @@ avantagiarà'la/PTS
 avantagiarà/PTS
 avantagiats/PTS
 avantagiond/PTS
+avantagiusas/T
 avantagià/PTS
 avantags/T
 avantchasa/T
@@ -14247,6 +14366,7 @@ avaratschs/T
 avaria/T
 avarias/T
 avarizcha/T
+avarizchusas/T
 avars/T
 avarun/T
 avaruna/T
@@ -14646,6 +14766,7 @@ avuonda/T
 avuost/T
 avuosts/T
 avuà/T
+avà/PTS
 avör'la/PTS
 avör/PTS
 avöra'l/PTS
@@ -15037,6 +15158,7 @@ baderlunz/T
 baderlunza/T
 baderlunzas/T
 baderlunzs/T
+baderluossas/T
 baderlà/TS
 baderlöz/T
 baderlözs/T
@@ -15222,6 +15344,7 @@ bainfatturas/T
 bainfatturs/T
 bainin/T
 baininclet/T
+bainmissas/T
 bainplaschair/T
 bainplaschairs/T
 bainquant/T
@@ -15237,6 +15360,7 @@ baintrats/T
 baintratta/T
 baintrattas/T
 bainvgnüts/T
+bainvissas/T
 bainvivaint/T
 bainvivainta/T
 bainvivaintas/T
@@ -15268,6 +15392,7 @@ baivran/TS
 baivrast/TS
 baivrat/TS
 baivrna/TS
+baivà/TS
 baizla/T
 baizlas/T
 baizler/T
@@ -15559,6 +15684,7 @@ balbagiast/TS
 balbagiat/TS
 balbagiats/TS
 balbagiond/TS
+balbagiuossas/T
 balbagià/TS
 balbagna/TS
 balch'la/TS
@@ -15701,7 +15827,6 @@ ballapeista/T
 ballapeistas/T
 ballapeists/T
 ballapennas/T
-ballapes/T
 ballapuogn/T
 ballapuogns/T
 ballapè/T
@@ -15874,12 +15999,16 @@ banalità/T
 banals/T
 banana/T
 bananas/T
+banausas/T
 banc/T
 banca/T
 bancanota/T
 bancanotas/T
+bancara/T
 bancarutta/T
 bancaruttas/T
+bancaruttü/T
+bancaruttüda/T
 bancas/T
 bancomat/T
 bancomats/T
@@ -15954,6 +16083,7 @@ bandunna/TS
 bandunond/TS
 bandunà/TS
 bandur/T
+bandusas/T
 bandusezza/T
 bandusezzas/T
 banjo/T
@@ -16152,6 +16282,8 @@ barbalözs/T
 barbanot/T
 barbar/T
 barbara/T
+barbarais-ch/T
+barbarais-cha/T
 barbaras/T
 barbaria/T
 barbarias/T
@@ -16256,11 +16388,14 @@ barbuogliar/TS
 barbuogliond/TS
 barbuoglià/TS
 barbuogls/T
+barbusas/T
 barbügl/T
 barbügls/T
 barcarola/T
 barcarolas/T
 barcha/T
+barcharöl/T
+barcharöla/T
 barchas/T
 barchetta/T
 barchettas/T
@@ -16419,6 +16554,8 @@ barmaid/T
 barmaids/T
 barman/T
 barmans/T
+barmör/T
+barmöra/T
 barmörs/T
 barnabot/T
 barnabots/T
@@ -16598,6 +16735,7 @@ barüdas/T
 bas'la/TS
 bas-chizi/T
 bas-chizis/T
+bas-chizuossas/T
 bas/TS
 basa'l/TS
 basa/TQRSS
@@ -16866,14 +17004,13 @@ bastunessan/TS
 bastunessast/TS
 bastunessat/TS
 bastunessna/TS
-bastunet/T
-bastunets/T
 bastunin/T
 bastunins/T
 bastunna/TS
 bastunond/TS
 bastuns/T
 bastunà/TS
+bastà/TS
 bastü/TS
 bastüchel/T
 bastüchels/T
@@ -17028,6 +17165,7 @@ battuoria/T
 battuorias/T
 battuoris/T
 battuorits/T
+battà/TS
 battöz/T
 battözs/T
 battü/TS
@@ -17127,7 +17265,9 @@ bavessan/TS
 bavessast/TS
 bavessat/TS
 bavessna/TS
+bavibel/T
 bavibla/T
+bavieraisas/T
 bavond/TS
 bavrada/TS
 bavradas/TS
@@ -17446,14 +17586,19 @@ beffessast/TS
 beffessat/TS
 beffessna/TS
 beffond/TS
+beffà/TS
 begl/T
 beglisch/T
 beglischs/T
 begls/T
 begonia/T
 begonias/T
+beischl'la/TS
+beischla'l/TS
+beischlna/TS
 bel/T
 belg/T
+belgia/T
 belgs/T
 bella/T
 belladonna/T
@@ -17479,6 +17624,7 @@ bellischma/T
 bellischmas/T
 belma/T
 belmas/T
+belmusas/T
 bels/T
 beluga/T
 belugas/T
@@ -17619,6 +17765,7 @@ berchel/T
 berchels/T
 bergamasc/T
 bergiagliot/T
+bergiagliotta/T
 berlina/T
 berlinada/T
 berlinadas/T
@@ -17639,12 +17786,37 @@ bescha/T
 beschatsch/T
 beschatschs/T
 beschel/T
+beschels/T
 bescher/T
 beschera/T
 bescheras/T
 beschers/T
 beschin/T
 beschins/T
+beschl'la/TS
+beschla'l/TS
+beschla/TS
+beschlaiv'la/TS
+beschlaiva'l/TS
+beschlaiva/TS
+beschlaivan/TS
+beschlaivna/TS
+beschlan/TS
+beschlar/TS
+beschlaran/TS
+beschlarana/TS
+beschlarà'l/TS
+beschlarà'la/TS
+beschlarà/TS
+beschless'la/TS
+beschless/TS
+beschlessa'l/TS
+beschlessan/TS
+beschlessna/TS
+beschlna/TS
+beschlond/TS
+beschlà/TS
+beschlöz/T
 beschs/T
 bestial/T
 bestiala/T
@@ -17959,6 +18131,7 @@ bigot/T
 bigota/T
 bigotas/T
 bigots/T
+bigotta/T
 bigottaria/T
 biker/T
 bikera/T
@@ -18498,10 +18671,16 @@ blaghessan/TS
 blaghessast/TS
 blaghessat/TS
 blaghessna/TS
+blaghör/T
+blaghöra/T
 blaghöz/T
 blaghözs/T
 blagna/TS
 blagond/TS
+blagun/T
+blaguna/T
+blagunz/T
+blagunza/T
 blagà/TS
 blaisch/T
 blaischs/T
@@ -18757,6 +18936,7 @@ blastemmà/TS
 blastemmöz/T
 blastemmözs/T
 blastemna/TS
+blastmusas/T
 blatta/T
 blattas/T
 blau/T
@@ -18832,6 +19012,7 @@ blessà/TS
 blessüra/T
 blessüras/T
 bletsch/T
+bletscha/T
 bletschaduoir/T
 bletschaduoira/T
 bletschaduoirs/T
@@ -19396,11 +19577,15 @@ bordüra/T
 bordüras/T
 borla/T
 borlas/T
+bornà/T
 bors/T
 bos-cha/T
 bos-chaglia/T
+bos-cher/T
+bos-chera/T
 bos-chom/T
 bos-choms/T
+bos-chusas/T
 bos/T
 bostitsch/T
 bostitschs/T
@@ -19684,6 +19869,7 @@ bramessat/TS
 bramessna/TS
 bramna/TS
 bramond/TS
+bramusas/T
 bramà/TS
 brancl'la/TS
 brancl/TS
@@ -19949,10 +20135,12 @@ brattügliessna/TS
 brattügliond/TS
 brattüglià/TS
 brattüglna/TS
+braus/T
 brausa/T
 brausas/T
 brauser/T
 brausers/T
+brausla/T
 brav/T
 brava/T
 bravamaing/T
@@ -19963,6 +20151,10 @@ bravatsch/T
 bravatschs/T
 bravezza/T
 bravezzas/T
+bravin/T
+bravina/T
+bravinas/T
+bravins/T
 bravo/T
 bravs/T
 bravüra/T
@@ -19981,6 +20173,7 @@ braïnats/TS
 braïness/TS
 braïnessan/TS
 braïnond/TS
+braïnusas/T
 braïnà/TS
 brec/T
 brecs/T
@@ -20047,6 +20240,7 @@ breviers/T
 brich/T
 bricha/T
 brichafat/T
+briclan/T
 briclöz/T
 briclözs/T
 brida/T
@@ -20621,6 +20815,7 @@ bsögnessna/TS
 bsögnna/TS
 bsögnond/TS
 bsögns/T
+bsögnusas/T
 bsögnà/TS
 bua/T
 buada/T
@@ -20852,6 +21047,7 @@ bumbarduns/T
 bumerang/T
 bumerangs/T
 bums/T
+bun'affarista/T
 bun/T
 buna/T
 bunaman/T
@@ -21045,6 +21241,7 @@ buolna/TS
 buols/T
 buonder/T
 buondermâ/T
+buondriusas/T
 buorch'la/TS
 buorch/T
 buorcha'l/TS
@@ -21086,6 +21283,7 @@ buorsa/T
 buorsalin/T
 buorsalins/T
 buorsaröl/T
+buorsaröla/T
 buorsaröls/T
 buorsas/T
 buorser/T
@@ -21105,6 +21303,7 @@ bural/T
 burals/T
 burasca/T
 burascas/T
+burascusas/T
 burda/T
 burdas/T
 burdel/T
@@ -21115,6 +21314,7 @@ burdiglià/TS
 burella/T
 burellas/T
 burgais/T
+burgaisa/T
 buriun/T
 buriuns/T
 burla/T
@@ -21244,6 +21444,7 @@ busgiond/TS
 busgià/TS
 busra/T
 busras/T
+bussas/T
 busta/T
 bustas/T
 butia/T
@@ -21507,7 +21708,6 @@ bütschaivan/TS
 bütschaivast/TS
 bütschaivat/TS
 bütschaivna/TS
-bütschalà/T
 bütschaman/T
 bütschamans/T
 bütschan/TS
@@ -21658,8 +21858,11 @@ cadettas/T
 cadisch/T
 cadischs/T
 cadond/TS
+caduc/T
+caducca/T
 caducitats/T
 caducità/T
+cadà/TS
 cadü/TS
 cafels/T
 cafelsa/T
@@ -21796,6 +21999,7 @@ calmaivna/TS
 calmamaing/T
 calman/TS
 calmant/T
+calmanta/T
 calmants/T
 calmar/PTQRSS
 calmarai/TQRSS
@@ -21892,6 +22096,10 @@ caluoster/T
 caluostera/T
 caluosteras/T
 caluosters/T
+caluostra/T
+caluostras/T
+caluostria/T
+caluostrias/T
 calvari/T
 calvaris/T
 calvinissem/T
@@ -21913,12 +22121,12 @@ camaradaria/T
 camaradarias/T
 camaradas/T
 camarads/T
-camaregl/T
-camaregls/T
 camarier/T
 camariera/T
 camarieras/T
 camariers/T
+camarigl/T
+camarigls/T
 cambi/T
 cambiala/T
 cambialas/T
@@ -22066,6 +22274,7 @@ cancarologas/T
 cancarologia/T
 cancarologs/T
 cancars/T
+cancrusas/T
 candelaber/T
 candelabers/T
 canderaint/T
@@ -23375,6 +23584,7 @@ cedna/TS
 ceduoss/T
 ceduossa/T
 ceduossas/T
+cedà/TS
 cedü/TS
 cedüda/TS
 cedüdas/TS
@@ -23458,6 +23668,7 @@ cellulosa/T
 cellulosas/T
 celsius/T
 celtic/T
+celtica/T
 cembalo/T
 cembalos/T
 cement/T
@@ -23788,8 +23999,12 @@ cessiun/T
 cessiuns/T
 cesura/T
 cesuras/T
-ch'El
+ch'El/T
 ch'Ella
+ch'Els/T
+ch'el/T
+ch'els/T
+ch'eu
 cha-cha-chas/T
 cha-cha-chà/T
 cha/T
@@ -23912,6 +24127,7 @@ chagna/T
 chagnas/T
 chagnoula/T
 chagnoulas/T
+chagnöl/T
 chagnöttel/T
 chagnöttels/T
 chai/TS
@@ -23972,7 +24188,11 @@ chajinchotscha/T
 chajinchotschas/T
 chajna/TS
 chajond/TS
+chajus/T
+chajusas/T
 chajà/TS
+chajötla/T
+chajöttel/T
 chajözzalet/T
 chajözzalets/T
 chajözzel/T
@@ -24186,6 +24406,7 @@ chaltschinessast/TS
 chaltschinessat/TS
 chaltschinessna/TS
 chaltschinond/TS
+chaltschinuossas/T
 chaltschinà/TS
 chalur/T
 chalurs/T
@@ -24479,6 +24700,7 @@ chancellars/T
 chancla/T
 chanclas/T
 chancs/T
+chancuossas/T
 chandaila/T
 chandailas/T
 chandaler/T
@@ -24740,6 +24962,7 @@ chanuniera/T
 chanunieras/T
 chanuniers/T
 chanuns/T
+chanuossas/T
 chanv/T
 chanva/T
 chanvada/T
@@ -24770,7 +24993,6 @@ chanzun/T
 chanzunetta/T
 chanzunettas/T
 chanzuns/T
-chanè/T
 chanüd/T
 chanüda/T
 chanüdas/T
@@ -25032,6 +25254,7 @@ chaprizessat/TS
 chaprizessna/TS
 chaprizi/T
 chaprizis/T
+chapriziusas/T
 chaprizond/TS
 chaprizà/TS
 chaps/T
@@ -25320,6 +25543,7 @@ charnpüerch/T
 charnpüerchs/T
 charns/T
 charpella/T
+charpellas/T
 charpenna/T
 charpennas/T
 charpinella/T
@@ -25733,7 +25957,9 @@ chastrà/TS
 chasts/T
 chastè/T
 chastör/T
+chastöra/T
 chastöramainta/T
+chastöras/T
 chastördats/T
 chastördà/T
 chastöriglia/T
@@ -25853,6 +26079,7 @@ chatschs/T
 chatschà/TS
 chatschöl/T
 chatschölas/T
+chatschöls/T
 chatschöz/T
 chatschözs/T
 chatt'la/TS
@@ -25913,6 +26140,7 @@ chavadè/T
 chavagl/T
 chavagna/T
 chavagnada/T
+chavagnadas/T
 chavagnas/T
 chavagnin/T
 chavagnina/T
@@ -26432,6 +26660,7 @@ chillond/TS
 chillà/TS
 chilna/TS
 chinais/T
+chinaisas/T
 chincher/T
 chinchers/T
 chinella/T
@@ -26453,6 +26682,7 @@ chirölà/T
 chitin/T
 chitins/T
 chod/T
+choda/T
 chodamaing/T
 chodin/T
 chodina/T
@@ -26915,6 +27145,7 @@ cinicas/T
 cinicra/T
 cinicras/T
 cinics/T
+ciniker/T
 cinissem/T
 cinober/T
 cinobers/T
@@ -26989,6 +27220,7 @@ circumcidessat/TS
 circumcidessna/TS
 circumcidna/TS
 circumcidond/TS
+circumcidà/TS
 circumcis/TS
 circumcisa/TS
 circumcisas/TS
@@ -27039,6 +27271,7 @@ circumscrivessat/TS
 circumscrivessna/TS
 circumscrivna/TS
 circumscrivond/TS
+circumscrivà/TS
 circundada/TS
 circundadas/TS
 circundai/TQRSS
@@ -27722,6 +27955,7 @@ clegiarà/TS
 clegiast/TS
 clegiat/TS
 clegiond/TS
+clegà/TS
 clementina/T
 clementinas/T
 clepparun/T
@@ -27736,8 +27970,10 @@ cleptomanas/T
 cleptomania/T
 cleptomans/T
 cler/T
+clera/T
 clerai/T
 clerais/T
+cleras/T
 cleraus/T
 clerdüm/T
 clerdüms/T
@@ -27797,6 +28033,7 @@ clerifichond/TS
 clerifichà/TS
 cleritats/T
 clerità/T
+clermaing/T
 clers/T
 clerus/T
 clervezzant/T
@@ -28243,6 +28480,7 @@ cloroplasts/T
 clors/T
 clorà/TS
 clos/T
+closas/T
 closet/T
 closets/T
 closomat/T
@@ -28685,6 +28923,7 @@ coincidessast/TS
 coincidessat/TS
 coincidessna/TS
 coincidond/TS
+coincidà/TS
 coincis/TS
 coincisa/TS
 coincisas/TS
@@ -29236,6 +29475,7 @@ colossala/T
 colossalas/T
 colossalmaing/T
 colossals/T
+colossas/T
 colportada/TS
 colportadas/TS
 colportader/T
@@ -29295,6 +29535,7 @@ comads/T
 comas/T
 comat/T
 comats/T
+combel/T
 combi/T
 combis/T
 combl'la/TS
@@ -29392,6 +29633,7 @@ commemorarat/TS
 commemorarà'l/TS
 commemorarà'la/TS
 commemorarà/TS
+commemorativa/T
 commemorats/TS
 commemoraziun/T
 commemoraziuns/T
@@ -29597,6 +29839,7 @@ commettessast/TS
 commettessat/TS
 commettessna/TS
 commettond/TS
+commettà/TS
 commiliton/T
 commilitona/T
 commilitonas/T
@@ -29653,6 +29896,7 @@ commovessast/TS
 commovessat/TS
 commovessna/TS
 commovond/TS
+commovà/TS
 commoziun/T
 commoziuns/T
 communicant/T
@@ -29826,6 +30070,7 @@ concedivast/TS
 concedivat/TS
 concedivna/TS
 concedna/TS
+concedà/TS
 concentrada/TS
 concentradas/TS
 concentrai/TQRSS
@@ -29928,6 +30173,7 @@ concernents/T
 concerner/TS
 concernond/TS
 concerns/T
+concernà/TS
 concernü/TS
 concert/T
 concertant/T
@@ -30047,6 +30293,7 @@ conciliessna/TS
 conciliond/TS
 concilià/TS
 concils/T
+concisas/T
 conclusiun/T
 conclusiuns/T
 conclüd'la/TS
@@ -30087,6 +30334,7 @@ conclüdessat/TS
 conclüdessna/TS
 conclüdna/TS
 conclüdond/TS
+conclüdà/TS
 conclüs/TS
 conclüsa/TS
 conclüsas/TS
@@ -30174,6 +30422,7 @@ concuorrarà/TS
 concuorrast/TS
 concuorrat/TS
 concuorrer/TQRSS
+concuorrà/TS
 concuors/T
 concurrent/T
 concurrenta/T
@@ -30363,6 +30612,8 @@ conductivas/T
 conductivs/T
 conductur/T
 conducturs/T
+conductör/T
+conductöra/T
 condü'la/TS
 condüa'l/TS
 condüa/TQRSS
@@ -30402,6 +30653,7 @@ condüj/TS
 condüja/TS
 condüna/TS
 condüond/TS
+condüà/TS
 confamiliar/T
 confamiliara/T
 confamiliaras/T
@@ -30871,14 +31123,17 @@ confuondessat/TS
 confuondessna/TS
 confuondna/TS
 confuondond/TS
+confuondà/TS
 confuondü/TS
 confuondüda/TS
 confuondüdas/TS
 confuondüts/TS
 confuorm/T
+confuorma/T
 confuormamaing/T
 confuormitats/T
 confuormità/T
+confusas/T
 confusiun/T
 confusiunari/T
 confusiunaria/T
@@ -30981,6 +31236,7 @@ congiundschessat/TS
 congiundschessna/TS
 congiundschna/TS
 congiundschond/TS
+congiundschà/TS
 congiunt/TS
 congiunta/TS
 congiuntas/TS
@@ -31236,9 +31492,14 @@ consanguinas/T
 consanguinitats/T
 consanguinità/T
 consanguins/T
+consciaint/T
+consciainta/T
 consciaintamaing/T
+consciaintas/T
+consciaints/T
 conscienza/T
 conscienzas/T
+conscienziusas/T
 conscienziusitats/T
 conscienziusità/T
 conscolar/T
@@ -31483,6 +31744,7 @@ consistiva/TS
 consistivan/TS
 consistori/T
 consistoris/T
+consistà/TS
 consistü/TS
 consola/T
 consolada/TS
@@ -32064,6 +32326,7 @@ contacts/T
 contactà/TS
 contagiun/T
 contagiuns/T
+contagiusas/T
 contaimpl'la/TS
 contaimpl/TS
 contaimpla'l/TS
@@ -32457,6 +32720,8 @@ controllessat/TS
 controllessna/TS
 controllond/TS
 controllà/TS
+controllör/T
+controllöra/T
 controlna/TS
 contumazia/T
 contumazias/T
@@ -33106,6 +33371,7 @@ corregiond/TS
 corregis/TS
 corregivat/TS
 corregna/TS
+corregà/TS
 correlat/T
 correlats/T
 correlaziun/T
@@ -33155,6 +33421,7 @@ correspuondessat/TS
 correspuondessna/TS
 correspuondna/TS
 correspuondond/TS
+correspuondà/TS
 correspuondü/TS
 correspuondüda/TS
 correspuondüdas/TS
@@ -33175,6 +33442,7 @@ corrodeschan/TS
 corrodess/TS
 corrodessan/TS
 corrodond/TS
+corrodà/TS
 corrodü/TS
 corrodüda/TS
 corrodüdas/TS
@@ -33227,6 +33495,7 @@ corrumpessat/TS
 corrumpessna/TS
 corrumpna/TS
 corrumpond/TS
+corrumpà/TS
 corruot/TS
 corruots/TS
 corruotta/TS
@@ -33417,6 +33686,7 @@ couschast/TS
 couschat/TS
 couscher/TQRSS
 couschna/TS
+couschà/TS
 cous­cous/T
 covid/T
 covids/T
@@ -33428,6 +33698,7 @@ crabla/TS
 crablaiva/TS
 crablar/TS
 crablarà/TS
+crablà/TS
 crabot/TS
 crabota/T
 crabotas/T
@@ -33530,6 +33801,7 @@ crajessat/TS
 crajessna/TS
 crajna/TS
 crajond/TS
+crajà/TS
 cral/T
 crals/T
 cramer/T
@@ -33691,6 +33963,7 @@ crappun/T
 crappuns/T
 crappuoglia/T
 crappuoglias/T
+crappusas/T
 crappà/TS
 crappüffel/T
 craps/T
@@ -33904,6 +34177,7 @@ creessast/TS
 creessat/TS
 creessna/TS
 cregn/T
+cregna/T
 cregns/T
 crema/T
 cremada/TS
@@ -33963,6 +34237,7 @@ creppa/T
 creppalun/T
 creppaluns/T
 creppas/T
+creppun/T
 creps/T
 cresch'la/TS
 cresch/TS
@@ -34016,6 +34291,7 @@ creschna/TS
 creschs/T
 creschun/T
 creschuns/T
+creschà/TS
 creschü/TS
 creschüda/TS
 creschüdas/TS
@@ -34231,8 +34507,50 @@ cristallin/T
 cristallina/T
 cristallinas/T
 cristallins/T
+cristallisada/TS
+cristallisadas/TS
+cristallisai/TQRSS
+cristallisain/TS
+cristallisaina/TS
+cristallisais/TS
+cristallisaiv'la/TS
+cristallisaiva'l/TS
+cristallisaiva/TS
+cristallisaivan/TS
+cristallisaivast/TS
+cristallisaivat/TS
+cristallisaivna/TS
+cristallisar/TQRSS
+cristallisarai/TQRSS
+cristallisaraja/TS
+cristallisaran/TS
+cristallisarana/TS
+cristallisarast/TS
+cristallisarat/TS
+cristallisarà'l/TS
+cristallisarà'la/TS
+cristallisarà/TS
+cristallisats/TS
 cristallisaziun/T
 cristallisaziuns/T
+cristallisesch'la/TS
+cristallisesch/TS
+cristallisescha'l/TS
+cristallisescha/TQRSS
+cristalliseschan/TS
+cristalliseschast/TS
+cristalliseschat/TS
+cristalliseschna/TS
+cristallisess'la/TS
+cristallisess/TS
+cristallisessa'l/TS
+cristallisessa/TS
+cristallisessan/TS
+cristallisessast/TS
+cristallisessat/TS
+cristallisessna/TS
+cristallisond/TS
+cristallisà/TS
 cristals/T
 cristantats/T
 cristantà/T
@@ -34333,6 +34651,7 @@ critics/T
 critiker/T
 critikers/T
 croat/T
+croata/T
 croats/T
 crocant/T
 crocanta/T
@@ -34730,6 +35049,8 @@ crustin/T
 crustins/T
 crutscha/T
 crutschas/T
+crè/T
+crèa/T
 crös/T
 crösa/T
 crösas/T
@@ -34769,6 +35090,7 @@ cuagls/T
 cuai/TQRSS
 cuaida/T
 cuaidas/T
+cuaidusas/T
 cuain/TS
 cuaina/TS
 cuais/TS
@@ -35092,6 +35414,7 @@ cuffortna/TS
 cuffortond/TS
 cufforts/T
 cuffortà/TS
+cufla/T
 cugliun'la/TS
 cugliun/TS
 cugliuna'l/TS
@@ -35154,6 +35477,7 @@ cugnuoschast/TS
 cugnuoschat/TS
 cugnuoscher/PTQRSS
 cugnuoschna/TS
+cugnuoschà/TS
 cugnuschai/TQRSS
 cugnuschain/TS
 cugnuschaina/TS
@@ -35575,12 +35899,6 @@ culuonna/T
 culuonnada/T
 culuonnadas/T
 culuonnas/T
-culuoster/T
-culuosters/T
-culuostra/T
-culuostras/T
-culuostria/T
-culuostrias/T
 culur/T
 culurant/T
 culurants/T
@@ -35822,6 +36140,7 @@ cumbattessast/TS
 cumbattessat/TS
 cumbattessna/TS
 cumbattond/TS
+cumbattà/TS
 cumbattü/TS
 cumbattüda/TS
 cumbattüdas/TS
@@ -35986,6 +36305,7 @@ cumparsa/T
 cumparsas/T
 cumpartimaint/T
 cumpartimaints/T
+cumparà/TS
 cumparü/TS
 cumparüda/TS
 cumparüdas/TS
@@ -36151,6 +36471,7 @@ cumpettessast/TS
 cumpettessat/TS
 cumpettessna/TS
 cumpettond/TS
+cumpettà/TS
 cumpettü/TS
 cumpettüda/TS
 cumpettüdas/TS
@@ -36253,7 +36574,6 @@ cumplettaivast/TS
 cumplettaivat/TS
 cumplettaivna/TS
 cumplettamaing/T
-cumplettaming/T
 cumplettar/PTQRSS
 cumplettarai/TQRSS
 cumplettaraja/TS
@@ -36466,6 +36786,7 @@ cumplondschessat/TS
 cumplondschessna/TS
 cumplondschna/TS
 cumplondschond/TS
+cumplondschà/TS
 cumplont/TS
 cumplonta/TS
 cumplontas/TS
@@ -36653,6 +36974,7 @@ cumprai/TQRSS
 cumprain/TS
 cumpraina/TS
 cumprais/TS
+cumpraisas/T
 cumpraiv'la/TS
 cumpraiva'l/TS
 cumpraiva/TS
@@ -36729,6 +37051,7 @@ cumprimivast/TS
 cumprimivat/TS
 cumprimivna/TS
 cumprimna/TS
+cumprimà/TS
 cumprita/T
 cumpritas/T
 cumprna/TS
@@ -36770,6 +37093,7 @@ cumpromettessast/TS
 cumpromettessat/TS
 cumpromettessna/TS
 cumpromettond/TS
+cumpromettà/TS
 cumpromiss/TS
 cumpromissa/TS
 cumpromissaivel/T
@@ -36871,6 +37195,7 @@ cumpuonivast/TS
 cumpuonivat/TS
 cumpuonivna/TS
 cumpuonna/TS
+cumpuonà/TS
 cumpuonü/TS
 cumpuonüda/TS
 cumpuonüdas/TS
@@ -37145,6 +37470,7 @@ cunfinond/TS
 cunfins/T
 cunfinà/TS
 cunfond/TS
+cunfà/TS
 cunigl/T
 cuniglia/T
 cuniglias/T
@@ -37232,6 +37558,7 @@ cuntegnessan/TS
 cuntegnna/TS
 cuntegnond/TS
 cuntegns/T
+cuntegnà/TS
 cunter-/T
 cunter/T
 cunterargumaint/T
@@ -37281,6 +37608,8 @@ cuntgnü/TS
 cuntgnüda/TS
 cuntgnüdas/TS
 cuntgnüts/TS
+cuntin/T
+cuntinua/T
 cuntinuada/TS
 cuntinuadamaing/T
 cuntinuadas/TS
@@ -37383,6 +37712,8 @@ cuntrabandiera/T
 cuntrabandieras/T
 cuntrabandiers/T
 cuntrabass/T
+cuntrabassist/T
+cuntrabassista/T
 cuntrabassists/T
 cuntrachatsch/T
 cuntrachatschs/T
@@ -37505,6 +37836,7 @@ cuntrafna/TS
 cuntrafond/TS
 cuntraforza/T
 cuntraforzas/T
+cuntrafà/TS
 cuntramasüra/T
 cuntramasüras/T
 cuntramovimaint/T
@@ -37541,6 +37873,7 @@ cuntraregals/T
 cuntrarevoluziun/T
 cuntrarevoluziuns/T
 cuntrari/T
+cuntraria/T
 cuntrariada/TS
 cuntrariadas/TS
 cuntrariai/TQRSS
@@ -37763,6 +38096,7 @@ cunvendschessat/TS
 cunvendschessna/TS
 cunvendschna/TS
 cunvendschond/TS
+cunvendschà/TS
 cunvendschü/TS
 cunvendschüda/TS
 cunvendschüdas/TS
@@ -37961,6 +38295,7 @@ cuorrivan/TS
 cuorrivast/TS
 cuorrivat/TS
 cuorrivna/TS
+cuorrà/TS
 cuorrü/TS
 cuorrüda/TS
 cuorrüdas/TS
@@ -38016,6 +38351,7 @@ cuostessna/TS
 cuostna/TS
 cuostond/TS
 cuosts/T
+cuostà/TS
 cuostü/TS
 cuostüda/TS
 cuostüdas/TS
@@ -38115,6 +38451,7 @@ cupidità/T
 cupidna/TS
 cupidond/TS
 cupids/T
+cupiduossas/T
 cupidà/TS
 cupigliun/T
 cupigliuns/T
@@ -38251,6 +38588,7 @@ curetà/TS
 curia/T
 curias/T
 curiusamaing/T
+curiusas/T
 curiusitats/T
 curiusità/T
 curiöla/T
@@ -38295,10 +38633,13 @@ cursiv/T
 cursiva/T
 cursivas/T
 cursivs/T
+cursoric/T
+cursorica/T
 cursuot/T
 cursuots/T
 cursur/T
 cursurs/T
+curtaisas/T
 curtascha/T
 curtaschas/T
 curtaschia/T
@@ -38413,7 +38754,11 @@ curunessna/TS
 curunond/TS
 curunà/TS
 curva/T
+curvada/T
+curvadas/T
 curvas/T
+curvats/T
+curvà/T
 curà/TS
 cus'la/TS
 cus/TS
@@ -38948,6 +39293,7 @@ d'affars/T
 d'ardschiglia/T
 d'argient/T
 d'atschal/T
+d'autura/T
 d'avanz/T
 d'eir'la/TS
 d'eira'l/TS
@@ -39030,6 +39376,7 @@ dacipessna/TS
 dacipond/TS
 dacipà/TS
 dactilus/T
+dad/T
 dadai/T
 dadaint/T
 dadaints/T
@@ -39077,6 +39424,7 @@ daivat/TS
 daivna/TS
 daja/T
 dajas/T
+dal/T
 dalander/T
 dalet/TS
 daleta/T
@@ -39098,6 +39446,7 @@ dalettaiva/TS
 dalettaivan/TS
 dalettaivast/TS
 dalettaivat/TS
+dalettaivel/T
 dalettaivla/T
 dalettaivna/TS
 dalettan/TS
@@ -39152,8 +39501,10 @@ damigianas/T
 dan/TS
 danadecha/T
 danais/T
+danaisas/T
 dancler/T
 danclers/T
+dandet/T
 dandetta/T
 dandettamaing/T
 dandettas/T
@@ -39202,6 +39553,7 @@ dantigliessast/TS
 dantigliessat/TS
 dantigliessna/TS
 dantigliond/TS
+dantigliusas/T
 dantiglià/TS
 dantigliöz/T
 dantigliözs/T
@@ -39360,6 +39712,7 @@ das-chessat/TS
 das-chessna/TS
 das-chna/TS
 das-chond/TS
+das-chà/TS
 das-chü/TS
 das-chüda/TS
 das-chüdas/TS
@@ -39551,6 +39904,7 @@ debattessast/TS
 debattessat/TS
 debattessna/TS
 debattond/TS
+debattà/TS
 debattü/TS
 debattüda/TS
 debattüdas/TS
@@ -39909,6 +40263,7 @@ decidessat/TS
 decidessna/TS
 decidna/TS
 decidond/TS
+decidà/TS
 decifrada/TS
 decifradas/TS
 decifrai/TQRSS
@@ -40276,6 +40631,8 @@ decorativa/T
 decorativas/T
 decorativs/T
 decorats/TS
+decoratör/T
+decoratöra/T
 decoraziun/T
 decoraziuns/T
 decoresch'la/TS
@@ -40391,6 +40748,7 @@ decumpuonivast/TS
 decumpuonivat/TS
 decumpuonivna/TS
 decumpuonna/TS
+decumpuonà/TS
 decumpuonü/TS
 decumpuonüda/TS
 decumpuonüdas/TS
@@ -40531,6 +40889,7 @@ dedüt/TS
 dedüts/TS
 dedütta/TS
 dedüttas/TS
+dedüà/TS
 deessa/T
 deessas/T
 defais/TS
@@ -40578,6 +40937,7 @@ defendessat/TS
 defendessna/TS
 defendna/TS
 defendond/TS
+defendà/TS
 defensiv/T
 defensiva/T
 defensivas/T
@@ -40590,6 +40950,7 @@ defet/T
 defets/T
 defetta/T
 defettas/T
+deffetusas/T
 defibrillaziun/T
 defibrillaziuns/T
 deficit/T
@@ -41091,6 +41452,7 @@ deliri/T
 deliris/T
 delizcha/T
 delizchas/T
+delizchusas/T
 delta/T
 deltas/T
 delucidada/TS
@@ -41784,6 +42146,7 @@ dependenzas/T
 depender/TS
 dependessan/TS
 dependond/TS
+dependà/TS
 dependü/TS
 depescha/T
 depeschas/T
@@ -41833,6 +42196,7 @@ depillessat/TS
 depillessna/TS
 depilond/TS
 depilà/TS
+deplazzada/T
 deplorabel/T
 deplorabelmaing/T
 deplorabels/T
@@ -42051,6 +42415,7 @@ deprimivan/TS
 deprimivast/TS
 deprimivat/TS
 deprimivna/TS
+deprimà/TS
 depuon'la/TS
 depuon/TS
 depuona'l/TS
@@ -42089,6 +42454,7 @@ depuonivast/TS
 depuonivat/TS
 depuonivna/TS
 depuonna/TS
+depuonà/TS
 depuonü/TS
 depuonüda/TS
 depuonüdas/TS
@@ -42332,6 +42698,7 @@ desalond/TS
 desalà/TS
 desaster/T
 desasters/T
+desastrusas/T
 descend'la/TS
 descend/TS
 descenda'l/TS
@@ -42375,6 +42742,7 @@ descendessat/TS
 descendessna/TS
 descendna/TS
 descendond/TS
+descendà/TS
 descendü/TS
 descendüda/TS
 descendüdas/TS
@@ -42394,6 +42762,7 @@ deschavlas/T
 deschdot/T
 deschdottavavel/T
 deschdottavavels/T
+deschdottavavla/T
 descher/T
 deschers/T
 deschina/T
@@ -42408,6 +42777,7 @@ deschnovavla/T
 deschset/T
 deschsettavel/T
 deschsettavels/T
+deschsettavla/T
 descriptiv/T
 descriptiva/T
 descriptivas/T
@@ -42456,6 +42826,7 @@ descrivessat/TS
 descrivessna/TS
 descrivna/TS
 descrivond/TS
+descrivà/TS
 desd'la/TS
 desdi'l/TS
 desdi/TQRSS
@@ -42547,9 +42918,11 @@ desdrüt/TS
 desdrüts/TS
 desdrütta/TS
 desdrüttas/TS
+desdrüà/TS
 desegn/T
 desegns/T
 desert/T
+deserta/T
 desertada/TS
 desertadas/TS
 desertai/TQRSS
@@ -42593,6 +42966,8 @@ desertessna/TS
 desertond/TS
 deserts/T
 desertà/TS
+desertör/T
+desertöra/T
 deserziun/T
 deserziuns/T
 desiderabel/T
@@ -42695,6 +43070,7 @@ desistivast/TS
 desistivat/TS
 desistivna/TS
 desistna/TS
+desistà/TS
 desktop/T
 desktops/T
 desolat/T
@@ -43202,6 +43578,7 @@ devotas/T
 devots/T
 devoziun/T
 devoziuns/T
+devoziusas/T
 dezaint/T
 dezainta/T
 dezaintamaing/T
@@ -43302,6 +43679,8 @@ dialectala/T
 dialectalas/T
 dialectalmaing/T
 dialectals/T
+dialectolog/T
+dialectologa/T
 dialectologia/T
 dialects/T
 dialisa/T
@@ -43536,9 +43915,11 @@ difficultessast/TS
 difficultessat/TS
 difficultessna/TS
 difficultond/TS
+difficultusas/T
 difficultà/TS
 diffracziun/T
 diffracziuns/T
+diffusas/T
 difteria/T
 diftong/T
 diftongs/T
@@ -43593,6 +43974,7 @@ digestiblas/T
 digestiun/T
 digestiuns/T
 digestiv/T
+digestiva/T
 digestivs/T
 digests/T
 digital/T
@@ -43676,6 +44058,8 @@ dilatond/TS
 dilatà/TS
 dilemma/T
 dilemmas/T
+dilet/T
+diletta/T
 dilettant/T
 dilettanta/T
 dilettantas/T
@@ -43741,6 +44125,7 @@ diminuivast/TS
 diminuivat/TS
 diminuivna/TS
 diminutiv/T
+diminutiva/T
 diminutivs/T
 diminuziun/T
 diminuziuns/T
@@ -43834,6 +44219,8 @@ diplomessna/TS
 diplomond/TS
 diploms/T
 diplomà/TS
+diploïd/T
+diploïda/T
 dir/PTQRSS
 diramar/T
 diramaziun/T
@@ -43913,6 +44300,7 @@ dirigivast/TS
 dirigivat/TS
 dirigivna/TS
 dirigna/TS
+dirigà/TS
 diromada/TS
 diromadas/TS
 diromaiva/TS
@@ -44139,6 +44527,7 @@ dischavantagiarà'la/TS
 dischavantagiarà/TS
 dischavantagiats/TS
 dischavantagiond/TS
+dischavantagiusas/T
 dischavantagià/TS
 dischavantags/T
 dischavuada/TS
@@ -44270,6 +44659,7 @@ dischereditessna/TS
 dischereditond/TS
 discheredità/TS
 dischhmanieraivelmaing/T
+dischillusas/T
 dischillusiun/T
 dischillusiunada/TS
 dischillusiunadas/TS
@@ -44538,6 +44928,7 @@ dischmettessast/TS
 dischmettessat/TS
 dischmettessna/TS
 dischmettond/TS
+dischmettà/TS
 dischminuir/T
 dischmiss/TS
 dischmissa/TS
@@ -44845,6 +45236,7 @@ discuorrast/TS
 discuorrat/TS
 discuorrer/TQRSS
 discuorrers/T
+discuorrà/TS
 discuors/T
 discurri/TQRSS
 discurrin/TS
@@ -44963,6 +45355,7 @@ discutessat/TS
 discutessna/TS
 discutna/TS
 discutond/TS
+discutà/TS
 disegn'la/TS
 disegn/TS
 disegna'l/TS
@@ -45240,6 +45633,7 @@ disfidessat/TS
 disfidessna/TS
 disfidna/TS
 disfidond/TS
+disfiduossas/T
 disfiduzcha/T
 disfidà/TS
 disfna/TS
@@ -45306,6 +45700,7 @@ disgustanta/T
 disgustantas/T
 disgustants/T
 disgusts/T
+disgustusas/T
 disgustà/T
 disketta/T
 diskettas/T
@@ -45460,6 +45855,7 @@ dispittunz/T
 dispittunza/T
 dispittunzas/T
 dispittunzs/T
+dispittuossas/T
 dispittà/TS
 dispittöz/T
 dispittözs/T
@@ -45528,6 +45924,7 @@ dispuonivast/TS
 dispuonivat/TS
 dispuonivna/TS
 dispuonna/TS
+dispuonà/TS
 dispuonü/TS
 dispuonüda/TS
 dispuonüdas/TS
@@ -45679,6 +46076,7 @@ dissolvessat/TS
 dissolvessna/TS
 dissolvna/TS
 dissolvond/TS
+dissolvà/TS
 dissonant/T
 dissonanta/T
 dissonantas/T
@@ -45846,6 +46244,7 @@ distinguivat/TS
 distinguivna/TS
 distinguna/TS
 distinguond/TS
+distinguà/TS
 distint/T
 distinta/T
 distintas/T
@@ -46023,6 +46422,10 @@ divergentas/T
 divergents/T
 divergenza/T
 divergenzas/T
+divers/T
+diversa/T
+diversamaing/T
+diversas/T
 diversifichada/TS
 diversifichadas/TS
 diversifichai/TQRSS
@@ -46170,6 +46573,7 @@ dividivast/TS
 dividivat/TS
 dividivna/TS
 dividna/TS
+dividà/TS
 divin/T
 divina/T
 divinas/T
@@ -46203,7 +46607,7 @@ divorziaivan/TS
 divorziaivast/TS
 divorziaivat/TS
 divorziaivna/TS
-divorziar/TQRSS
+divorziar/PTQRSS
 divorziarai/TQRSS
 divorziaraja/TS
 divorziaran/TS
@@ -46474,6 +46878,10 @@ dolomias/T
 dolomit/T
 dolur/T
 dolurs/T
+dolurus/T
+dolurusa/T
+dolurusamaing/T
+dolurusas/T
 dom/T
 doma/T
 domada/TS
@@ -46553,6 +46961,7 @@ dombrond/TS
 dombrà/TS
 domena/T
 domenas/T
+domes-chabel/T
 domes-chabla/T
 domes-chada/TS
 domes-chadas/TS
@@ -46775,6 +47184,7 @@ dominond/TS
 dominos/T
 dominà/TS
 domond/TS
+domptör/T
 domptöra/T
 domptöras/T
 doms/T
@@ -47088,6 +47498,7 @@ dovressat/TS
 dovressna/TS
 dovrond/TS
 dovrà/TS
+dovà/TS
 doz'la/TS
 doz/TS
 doza'l/TS
@@ -47146,6 +47557,8 @@ dozunza/T
 dozunzas/T
 dozunzs/T
 dozà/TS
+draconic/T
+draconica/T
 dragoner/T
 dragoners/T
 dragun/T
@@ -47589,6 +48002,8 @@ drosera/T
 droseras/T
 drossa/T
 drossas/T
+drüd/T
+drüda/T
 dschain/TS
 dschaina/TS
 dschais/TS
@@ -47940,6 +48355,7 @@ dubitessna/TS
 dubitna/TS
 dubitond/TS
 dubità/TS
+dubiusas/T
 dubla/T
 dubladüra/T
 dubladüras/T
@@ -48207,6 +48623,7 @@ duplicaziun/T
 duplicaziuns/T
 duplichar/T
 dur/T
+durmanzà/T
 durmi/TQRSS
 durmida/TS
 durmidas/TS
@@ -48289,6 +48706,7 @@ dustrivast/TS
 dustrivat/TS
 dustrivna/TS
 dutsch/T
+dutscha/T
 dutschamar/T
 dutschamara/T
 dutschamaras/T
@@ -48365,6 +48783,7 @@ döss/T
 düna/T
 dünas/T
 dür/T
+düra/T
 dürabel/T
 dürabelmaing/T
 dürabels/T
@@ -48378,11 +48797,13 @@ düraglia/T
 düraglias/T
 düraivlezza/T
 düraivlezzas/T
+düramaing/T
 dürant/T
 düranta/T
 dürantas/T
 dürants/T
 dürar/TS
+düras/T
 dürezza/T
 dürezzas/T
 düritsch/T
@@ -48390,6 +48811,7 @@ düritscha/T
 düritschas/T
 düritschs/T
 dürond/TS
+dürs/T
 dürà/TS
 düsa/T
 düsar/T
@@ -48984,10 +49406,14 @@ electroindschegnera/T
 electroindschegneras/T
 electroindschegners/T
 electroindustria/T
+electroinstallatör/T
+electroinstallatöra/T
 electromagnetic/T
 electromagnetica/T
 electromagneticas/T
 electromagnetics/T
+electromontör/T
+electromontöra/T
 electronic/T
 electronica/T
 electronicamaing/T
@@ -49067,6 +49493,7 @@ elegibiltà/T
 elegibla/T
 elegiblas/T
 elegiond/PTS
+elegà/PTS
 elemaint/T
 elemaints/T
 elementar/T
@@ -49340,8 +49767,11 @@ emettessna/PTS
 emettond/PTS
 emettur/T
 emetturs/T
+emettà/PTS
 emfasa/T
 emfasas/T
+emfatic/T
+emfatica/T
 emigrada/PTS
 emigradas/PTS
 emigrai/PTQRSS
@@ -49526,6 +49956,9 @@ enervanta/T
 enervantamaing/T
 enervantas/T
 enervants/T
+engiadinais/T
+engiadinaisa/T
+engiadinaisas/T
 enorm/T
 enorma/T
 enormamaing/T
@@ -49683,6 +50116,7 @@ enumeressna/PTS
 enumerond/PTS
 enumerà/PTS
 enzim/T
+enzimatic/T
 enzims/T
 epic/T
 epica/T
@@ -49851,6 +50285,7 @@ equivalaivan/PTS
 equivalaran/PTS
 equivalarà/PTS
 equivalent/T
+equivalenta/T
 equivalents/T
 equivalenza/T
 equivalenzas/T
@@ -49859,6 +50294,7 @@ equivaleschan/PTS
 equivaless/PTS
 equivalessan/PTS
 equivalond/PTS
+equivalà/PTS
 equivalü/PTS
 equivoc/T
 equivoca/T
@@ -49965,6 +50401,7 @@ erigivat/PTS
 erigivna/PTS
 erigl/T
 erigls/T
+erigà/PTS
 eritrocit/T
 eritrocits/T
 ermafrodit/T
@@ -50149,6 +50586,8 @@ eruivan/PTS
 eruivast/PTS
 eruivat/PTS
 eruivna/PTS
+eruot/T
+eruotta/T
 erupziun/T
 erupziuns/T
 es'l/PTS
@@ -50186,6 +50625,8 @@ esitaivan/PTS
 esitaivast/PTS
 esitaivat/PTS
 esitaivna/PTS
+esitant/T
+esitanta/T
 esitar/PTQRSS
 esitarai/PTQRSS
 esitaraja/PTS
@@ -50239,6 +50680,7 @@ essenzialmaing/T
 essenzials/T
 esser/PTQRSS
 essers/T
+essà/PTS
 est/PTS
 ester/T
 esters/T
@@ -50546,6 +50988,7 @@ etschessat/PTS
 etschessna/PTS
 etschna/PTS
 etschond/PTS
+etschà/PTS
 etschü/PTS
 etschüda/PTS
 etschüdas/PTS
@@ -50673,6 +51116,7 @@ evadessat/PTS
 evadessna/PTS
 evadna/PTS
 evadond/PTS
+evadà/PTS
 evaluada/PTS
 evaluadas/PTS
 evaluai/PTQRSS
@@ -51209,6 +51653,7 @@ excludessat/PTS
 excludessna/PTS
 excludna/PTS
 excludond/PTS
+excludà/PTS
 exclus/PTS
 exclusa/PTS
 exclusas/PTS
@@ -51578,6 +52023,7 @@ existarà/PTS
 existast/PTS
 existat/PTS
 existent/T
+existenta/T
 existenza/T
 existenzas/T
 existenzial/T
@@ -51611,6 +52057,7 @@ existivast/PTS
 existivat/PTS
 existivna/PTS
 existna/PTS
+existà/PTS
 exod'la/PTS
 exod/PTS
 exoda'l/PTS
@@ -51715,6 +52162,7 @@ expandessast/PTS
 expandessat/PTS
 expandessna/PTS
 expandond/PTS
+expandà/PTS
 expandü/PTS
 expandüda/PTS
 expandüdas/PTS
@@ -52247,6 +52695,7 @@ exprimivast/PTS
 exprimivat/PTS
 exprimivna/PTS
 exprimna/PTS
+exprimà/PTS
 expropriada/PTS
 expropriadas/PTS
 expropriai/PTQRSS
@@ -52329,6 +52778,7 @@ expuonivast/PTS
 expuonivat/PTS
 expuonivna/PTS
 expuonna/PTS
+expuonà/PTS
 exquisit/T
 exquisita/T
 exquisitas/T
@@ -52348,6 +52798,7 @@ extender/TS
 extendess/PTS
 extendessan/PTS
 extendond/PTS
+extendà/PTS
 extensiun/T
 extensiuns/T
 extensiv/T
@@ -52355,6 +52806,7 @@ extensiva/T
 extensivas/T
 extensivs/T
 exteriur/T
+exteriura/T
 exteriurmaing/T
 exteriurs/T
 extern/T
@@ -52537,6 +52989,8 @@ extravagantas/T
 extravagants/T
 extravaganza/T
 extravaganzas/T
+extrem/T
+extrema/T
 extremist/T
 extremista/T
 extremistas/T
@@ -52551,6 +53005,7 @@ extressast/PTS
 extressat/PTS
 extressna/PTS
 extrond/PTS
+extrà/PTS
 eziologia/T
 ezà/T
 f'la/TS
@@ -52655,6 +53110,7 @@ fabulessast/TS
 fabulessat/TS
 fabulessna/TS
 fabulond/TS
+fabulusas/T
 fabulà/TS
 facelia/T
 facelias/T
@@ -52920,6 +53376,7 @@ fallas/T
 fallast/TS
 fallat/TS
 fallats/TS
+fallatschusas/T
 falless'la/TS
 falless/TS
 fallessa'l/TS
@@ -53096,6 +53553,7 @@ familiaritats/T
 familiarità/T
 familiarmaing/T
 familiars/T
+famusas/T
 fan/TS
 fanadur/T
 fanadurs/T
@@ -53141,6 +53599,8 @@ faniglia/T
 faniglias/T
 fans/T
 fant/T
+fantais-ch/T
+fantais-cha/T
 fantas-ch'la/TS
 fantas-ch/TS
 fantas-cha'l/TS
@@ -53495,7 +53955,6 @@ faschond/TS
 faschous/T
 faschs/T
 faschà/TS
-faschöl/T
 faschöla/T
 faschölas/T
 fascinada/TS
@@ -53598,6 +54057,7 @@ fastidiessat/TS
 fastidiessna/TS
 fastidiond/TS
 fastidis/T
+fastidiusas/T
 fastidià/TS
 fastinar/T
 fastiz'la/TS
@@ -53644,7 +54104,6 @@ fastizis/T
 fastizna/TS
 fastizond/TS
 fastizà/TS
-fastü/T
 fastüts/T
 fat/TQRSS
 fatal/T
@@ -53965,23 +54424,27 @@ faxessna/TS
 faxond/TS
 faxs/T
 faxà/TS
-fazöl/T
 fazölet/T
 fazöleta/T
 fazöletas/T
 fazölets/T
 fazölin/T
 fazölins/T
+fcoll/T
 febra/T
 febras/T
 fecalias/T
 feda/T
 fedas/T
+federal/T
+federala/T
+federalas/T
 federalissem/T
 federalistic/T
 federalistica/T
 federalisticas/T
 federalistics/T
+federals/T
 federaziun/T
 federaziuns/T
 fegher/T
@@ -54202,6 +54665,7 @@ ferocitats/T
 ferocità/T
 feromon/T
 feromons/T
+feroza/T
 ferozi/T
 ferozia/T
 feroziamaing/T
@@ -54423,6 +54887,7 @@ fibrin/T
 fibrinogen/T
 fibrinogens/T
 fibrins/T
+fibrusas/T
 fic/T
 fich'la/TS
 fich/TS
@@ -54470,8 +54935,14 @@ fichets/T
 fichna/TS
 fichond/TS
 fichun/T
+fichuossas/T
 fichà/TS
 fics/T
+fictiv/T
+fictiva/T
+fictivas/T
+fictivmaing/T
+fictivs/T
 ficziun/T
 ficziuns/T
 fid'la/TS
@@ -54596,6 +55067,7 @@ fieutressna/TS
 fieutrina/T
 fieutrinas/T
 fieutrond/TS
+fieutrusas/T
 fieutrà/TS
 figa/T
 figas/T
@@ -54860,6 +55332,7 @@ filister/T
 filisters/T
 filistra/T
 filistras/T
+filistrusas/T
 film/T
 filmada/TS
 filmadas/TS
@@ -55050,6 +55523,8 @@ finalas/T
 finalmaing/T
 finals/T
 finamaing/T
+finamira/T
+finamiras/T
 finanzas/T
 finanziabel/T
 finanziabels/T
@@ -55184,6 +55659,7 @@ finivast/TS
 finivat/TS
 finivna/TS
 finlandais/T
+finlandaisas/T
 finna/T
 finnamaing/T
 finnas/T
@@ -55331,6 +55807,7 @@ fisioterapeutas/T
 fisioterapeuts/T
 fisioterapia/T
 fisioterapias/T
+fissas/T
 fissiun/T
 fissiuns/T
 fistla/T
@@ -55680,7 +56157,9 @@ flagels/T
 flagè/T
 flaida/T
 flaidas/T
+flaivel/T
 flaivla/T
+flaivlas/T
 flaivlezza/T
 flaivlezzas/T
 flaj/TS
@@ -55871,6 +56350,7 @@ flarantessat/TS
 flarantessna/TS
 flarantond/TS
 flarantà/TS
+flarusas/T
 flas-ch/T
 flas-chs/T
 flascun/T
@@ -56194,6 +56674,7 @@ floccaiva/TS
 floccar/TS
 floccarà/TS
 floccond/TS
+floccuossas/T
 floccà/TS
 flockess/TS
 flocs/T
@@ -56265,6 +56746,9 @@ fluorescenzas/T
 fluorit/T
 fluorits/T
 fluors/T
+fluos-ch/T
+fluos-cha/T
+fluossas/T
 flur/T
 fluraint/T
 flurainta/T
@@ -56373,7 +56857,6 @@ flügels/T
 flüm/T
 flüms/T
 flüss/T
-fmr
 fna/TS
 fnestra/T
 fnestras/T
@@ -56977,6 +57460,8 @@ fractura/T
 fracturas/T
 fracziun/T
 fracziuns/T
+fradgliaint/T
+fradgliainta/T
 fradglianza/T
 fradglianzas/T
 fradgliuns/T
@@ -57054,6 +57539,7 @@ francats/TS
 francatura/T
 francaturas/T
 frances/T
+francesas/T
 francesch'la/TS
 francescha'l/TS
 francescha/TS
@@ -57067,6 +57553,7 @@ francofona/T
 francofonas/T
 francofons/T
 francon/T
+francona/T
 francond/TS
 francons/T
 francs/T
@@ -57843,7 +58330,10 @@ früttaivla/T
 früttaivlas/T
 früttaivlezza/T
 früttaivlezzas/T
+früttaröl/T
+früttaröla/T
 früttosa/T
+früttusas/T
 ftüra/T
 ftüras/T
 fu'la/TS
@@ -58213,6 +58703,7 @@ fuondat/TS
 fuonder/TQRSS
 fuondna/TS
 fuonds/T
+fuondà/TS
 fuorcha/T
 fuorchas/T
 fuorcla/T
@@ -58281,6 +58772,7 @@ fuorners/T
 fuornin/T
 fuornins/T
 fuorns/T
+fuos-ch/T
 fuos-cha/T
 fuos-chas/T
 furb/T
@@ -58295,6 +58787,7 @@ furbazza/T
 furbazzas/T
 furbazzotla/T
 furbazzotlas/T
+furbazzottel/T
 furbazzun/T
 furbazzuna/T
 furbazzunas/T
@@ -58382,6 +58875,7 @@ furiera/T
 furieras/T
 furiers/T
 furiusamaing/T
+furiusas/T
 furlan/T
 furlana/T
 furlanas/T
@@ -58790,6 +59284,7 @@ fuxs/T
 fuà/TS
 fuïna/T
 fuïnas/T
+fà/TS
 fö/T
 föcler/T
 föclers/T
@@ -58809,11 +59304,13 @@ fögliet/T
 fögliets/T
 fögliom/T
 föglioms/T
+fögliusas/T
 fögls/T
 füergia/T
 füergiada/T
 füergiadas/T
 füergias/T
+füergiusas/T
 füers/T
 füersa/T
 füersas/T
@@ -59117,6 +59614,7 @@ gallarista/T
 gallaristas/T
 gallarists/T
 gallic/T
+gallica/T
 galloroman/T
 galloromans/T
 galop/TS
@@ -59439,6 +59937,8 @@ gastrita/T
 gastritas/T
 gastro-/T
 gastronomia/T
+gastronomic/T
+gastronomica/T
 gaudi/T
 gaudis/T
 gazella/T
@@ -59615,6 +60115,7 @@ genericums/T
 generond/TS
 geners/T
 generusamaing/T
+generusas/T
 generusitats/T
 generusità/T
 generà/TS
@@ -60124,6 +60625,7 @@ giappöz/T
 giappözs/T
 giaps/T
 giapunais/T
+giapunaisas/T
 giara/T
 giarai/TQRSS
 giaraist/T
@@ -60307,6 +60809,7 @@ giaschigliers/T
 giaschigls/T
 giaschna/TS
 giaschond/TS
+giaschà/TS
 giaschöl/T
 giaschöls/T
 giaschü/TS
@@ -60384,6 +60887,7 @@ giavazzessat/TS
 giavazzessna/TS
 giavazzond/TS
 giavazzà/TS
+giaver/T
 giavgia/T
 giavgias/T
 giavgöl/T
@@ -60586,6 +61090,7 @@ giodimaint/T
 giodimaints/T
 giodna/TS
 giodond/TS
+giodà/TS
 giodü/TS
 giodüda/TS
 giodüdas/TS
@@ -60930,6 +61435,7 @@ giuondschessat/TS
 giuondschessna/TS
 giuondschna/TS
 giuondschond/TS
+giuondschà/TS
 giuot/T
 giuots/T
 giuotta/T
@@ -60997,6 +61503,7 @@ gladiola/T
 gladiolas/T
 glanda/T
 glandas/T
+glandulusas/T
 glandun/T
 glanduna/T
 glandunas/T
@@ -61163,6 +61670,7 @@ glischarà'l/TS
 glischarà'la/TS
 glischarà/TS
 glischaröl/T
+glischaröla/T
 glischas/T
 glischast/TS
 glischat/TS
@@ -61378,6 +61886,8 @@ glorifichessna/TS
 glorifichond/TS
 glorifichà/TS
 gloriond/TS
+gloriusas/T
+gloriusass/T
 glorià/TS
 glossa/T
 glossari/T
@@ -61421,6 +61931,7 @@ glüschaintast/TS
 glüschaintat/TS
 glüschaintna/TS
 glüschaints/T
+glüschan/T
 glüschantada/TS
 glüschantadas/TS
 glüschantai/TQRSS
@@ -61520,6 +62031,7 @@ gnauessan/TS
 gnauessast/TS
 gnauessat/TS
 gnauessna/TS
+gnauet/T
 gnauna/TS
 gnauond/TS
 gnauà/TS
@@ -61625,6 +62137,8 @@ gnom/T
 gnoms/T
 gnou/T
 gnous/T
+gnögn/T
+gnögna/T
 gnögnar/T
 gnü/TS
 gnüda/TS
@@ -61632,6 +62146,7 @@ gnüdas/TS
 gnüts/TS
 goali/T
 goalis/T
+gob/T
 goba/T
 gobas/T
 gobatscha/T
@@ -61642,6 +62157,7 @@ god/T
 godet/T
 godets/T
 gods/T
+godusas/T
 gof/T
 goffer/T
 goffers/T
@@ -61789,6 +62305,8 @@ graficras/T
 grafics/T
 grafiker/T
 grafikers/T
+graflan/T
+graflana/T
 graflanas/T
 grafolog/T
 grafologa/T
@@ -61807,6 +62325,7 @@ gram/T
 gramaschia/T
 gramaschias/T
 gramezcha/T
+gramezchusas/T
 gramezius/T
 gramfcha/T
 gramfchas/T
@@ -61923,6 +62442,7 @@ grandukessa/T
 grandukessas/T
 granella/T
 granellas/T
+granellusas/T
 granels/T
 graner/T
 graners/T
@@ -61960,6 +62480,8 @@ graschitschs/T
 graschun/T
 graschuns/T
 grass/T
+grassa/T
+grassas/T
 grassetta/T
 grassettas/T
 grassin/T
@@ -62280,6 +62802,7 @@ gravörs/T
 gravüra/T
 gravüras/T
 grazcha/T
+grazchusas/T
 greada/TS
 greadas/TS
 greai/TQRSS
@@ -62305,6 +62828,7 @@ grearà'la/TS
 grearà/TS
 greats/TS
 grec/T
+greca/T
 greesch'la/TS
 greesch/TS
 greescha'l/TS
@@ -62402,12 +62926,14 @@ grimassa/T
 grimassas/T
 grimezza/T
 grimezzas/T
+grimusas/T
 grip/T
 grippa/T
 grippas/T
 grippom/T
 grippoms/T
 grippornia/T
+grippusas/T
 grips/T
 grisch/T
 grischa/T
@@ -62569,6 +63095,8 @@ grondascheras/T
 grondaschers/T
 grondaschia/T
 grondaschias/T
+gronder/T
+grondera/T
 grondezza/T
 grondezzas/T
 grondius/T
@@ -62767,6 +63295,8 @@ guadagnessna/TS
 guadagnond/TS
 guadagns/T
 guadagnà/TS
+guadin/T
+guadins/T
 guadogn'la/TS
 guadogn/TS
 guadogna'l/TS
@@ -63129,6 +63659,8 @@ guerrieras/T
 guerriers/T
 guerriglia/T
 guerriglias/T
+guersch/T
+guerscha/T
 guerschiada/T
 guerschiadas/T
 guet/TS
@@ -63442,6 +63974,7 @@ gulivamaing/T
 gulivar/T
 gulivas/T
 gulivs/T
+gulusas/T
 guoglia/T
 guoglias/T
 guorch/T
@@ -63590,7 +64123,10 @@ gustins/T
 gusts/T
 gustun/T
 gustuns/T
+gustusas/T
+guttrusas/T
 guttural/T
+gutturala/T
 gutturals/T
 guvern'la/TS
 guvern/TS
@@ -63766,6 +64302,7 @@ güdisch/T
 güdischs/T
 güdizi/T
 güdizis/T
+güdiziusas/T
 güdna/TS
 güdond/TS
 güdà/TS
@@ -64226,6 +64763,8 @@ handy/T
 handys/T
 hangar/T
 hangars/T
+haploïd/T
+haploïda/T
 harassa/T
 harassas/T
 hardware/T
@@ -64276,6 +64815,7 @@ hexangularmaing/T
 hexangulars/T
 hiena/T
 hienas/T
+hipohonder/T
 hipohondra/T
 hipohondras/T
 hit/T
@@ -64357,6 +64897,7 @@ iberics/T
 iblada/T
 ibladas/T
 ibrid/T
+ibrida/T
 ibridaziun/T
 ibridaziuns/T
 ibrids/T
@@ -64365,6 +64906,8 @@ ida/PTS
 idas/PTS
 idea/T
 ideal/T
+ideala/T
+idealas/T
 idealisada/PTS
 idealisadas/PTS
 idealisai/PTQRSS
@@ -64419,6 +64962,7 @@ idealisticas/T
 idealistics/T
 idealists/T
 idealisà/PTS
+idealmaing/T
 ideals/T
 ideas/T
 identic/T
@@ -64524,6 +65068,8 @@ idrocarbonat/T
 idrocarbonats/T
 idrocultura/T
 idroculturas/T
+idrofil/T
+idrofila/T
 idrofob/T
 idrofoba/T
 idrofobas/T
@@ -64652,6 +65198,7 @@ igienica/T
 igienicamaing/T
 igienicas/T
 igienics/T
+igieniker/T
 iglu/T
 iglus/T
 iglüminada/PTS
@@ -64758,6 +65305,7 @@ ilarica/T
 ilaricas/T
 ilarics/T
 illa/T
+illas/T
 illatschar/T
 illegal/T
 illegala/T
@@ -65174,6 +65722,7 @@ imbattessast/PTS
 imbattessat/PTS
 imbattessna/PTS
 imbattond/PTS
+imbattà/PTS
 imbattü/PTS
 imbattüda/PTS
 imbattüdas/PTS
@@ -66549,6 +67098,7 @@ impestessat/PTS
 impestessna/PTS
 impestond/PTS
 impestà/PTS
+impetuusas/T
 impetuusitats/T
 impetuusità/T
 impich'la/PTS
@@ -67195,6 +67745,10 @@ importaivast/PTS
 importaivat/PTS
 importaivna/PTS
 importan/PTS
+important/T
+importanta/T
+importantas/T
+importants/T
 importanza/T
 importanzas/T
 importar/PTQRSS
@@ -67491,6 +68045,7 @@ imprendessat/PTS
 imprendessna/PTS
 imprendna/PTS
 imprendond/PTS
+imprendà/PTS
 impresch'la/PTS
 impresch/PTS
 imprescha'l/PTS
@@ -67586,6 +68141,7 @@ impressari/T
 impressaria/T
 impressarias/T
 impressaris/T
+impressas/T
 impressiunissem/T
 impressiunist/T
 impressiunista/T
@@ -67601,6 +68157,7 @@ imprevisibelmaing/T
 imprevisibels/T
 imprevisibla/T
 imprevisiblas/T
+imprevissas/T
 imprim'la/PTS
 imprim/PTS
 imprima'l/PTS
@@ -67642,6 +68199,7 @@ imprimivast/PTS
 imprimivat/PTS
 imprimivna/PTS
 imprimna/PTS
+imprimà/PTS
 improbabel/T
 improbabelmaing/T
 improbabels/T
@@ -67689,6 +68247,7 @@ impromettessast/PTS
 impromettessat/PTS
 impromettessna/PTS
 impromettond/PTS
+impromettà/PTS
 impromischiun/T
 impromischiuns/T
 impromiss/PTS
@@ -67779,6 +68338,7 @@ impudessast/PTS
 impudessat/PTS
 impudessna/PTS
 impudiond/PTS
+impudà/PTS
 impudü/PTS
 impudüda/PTS
 impudüdas/PTS
@@ -67790,6 +68350,7 @@ impulsiv/T
 impulsiva/T
 impulsivamaing/T
 impulsivas/T
+impulsivmaing/T
 impulsivs/T
 impuolas/T
 impuon'la/PTS
@@ -67837,6 +68398,7 @@ impuondessat/PTS
 impuondessna/PTS
 impuondna/PTS
 impuondond/PTS
+impuondà/PTS
 impuondü/PTS
 impuondüda/PTS
 impuondüts/PTS
@@ -67871,6 +68433,7 @@ impuonivast/PTS
 impuonivat/PTS
 impuonivna/PTS
 impuonna/PTS
+impuonà/PTS
 impuonü/PTS
 impuonüda/PTS
 impuonüdas/PTS
@@ -68030,6 +68593,7 @@ inaccordschessat/PTS
 inaccordschessna/PTS
 inaccordschna/PTS
 inaccordschond/PTS
+inaccordschà/PTS
 inaccort/PTS
 inaccorta/PTS
 inaccortas/PTS
@@ -68096,6 +68660,7 @@ inaffetschast/PTS
 inaffetschat/PTS
 inaffetschha/PTS
 inaffond/PTS
+inaffà/PTS
 inafna/PTS
 inaguard'la/PTS
 inaguard/PTS
@@ -68493,6 +69058,7 @@ inavriessat/PTS
 inavriessna/PTS
 inavriond/PTS
 inavrià/PTS
+inavà/PTS
 incablada/PTS
 incabladas/PTS
 incablai/PTQRSS
@@ -68772,6 +69338,7 @@ incendis/T
 incendià/PTS
 incest/T
 incests/T
+incestuusas/T
 inchadain'la/PTS
 inchadain/PTS
 inchadaina'l/PTS
@@ -69445,6 +70012,8 @@ inchavs/T
 inchavà/PTS
 inchün/T
 inchüna/T
+inchünas/T
+inchüns/T
 inchürar/T
 incidaint/T
 incidaints/T
@@ -69584,6 +70153,7 @@ inclegiast/PTS
 inclegiat/PTS
 inclegiond/PTS
 inclegna/PTS
+inclegà/PTS
 inclet/PTS
 inclets/PTS
 incletta/PTS
@@ -69679,6 +70249,7 @@ includivast/PTS
 includivat/PTS
 includivna/PTS
 includna/PTS
+includà/PTS
 inclus/PTS
 inclusa/PTS
 inclusas/PTS
@@ -70500,6 +71071,10 @@ indecifrabel/T
 indecifrabels/T
 indecifrabla/T
 indecifrablas/T
+indecis/T
+indecisa/T
+indecisamaing/T
+indecisas/T
 indecisiun/T
 indecisiuns/T
 indefinibel/T
@@ -70911,6 +71486,7 @@ individualmaing/T
 individuals/T
 individuum/T
 individuums/T
+indivisas/T
 indivisibel/T
 indivisibels/T
 indivisibiltats/T
@@ -71102,6 +71678,7 @@ indschegnera/T
 indschegneras/T
 indschegners/T
 indschegns/T
+indschegnuossas/T
 indschendr'la/PTS
 indschendr/PTS
 indschendra'l/PTS
@@ -71509,10 +72086,13 @@ indürivna/PTS
 indürna/PTS
 indürond/PTS
 indürà/PTS
+indüt/T
 indütada/PTS
 indütadas/PTS
 indütats/PTS
+indütta/T
 indütà/PTS
+indüà/PTS
 ineffabel/T
 ineffabels/T
 ineffabla/T
@@ -71682,6 +72262,7 @@ infamitats/T
 infamità/T
 infams/T
 infangià/T
+infangà/T
 infantaria/T
 infantarias/T
 infanticid/T
@@ -71782,6 +72363,7 @@ infectessast/PTS
 infectessat/PTS
 infectessna/PTS
 infectond/PTS
+infectusas/T
 infectà/PTS
 infecziun/T
 infecziuns/T
@@ -71824,6 +72406,7 @@ infendschessat/PTS
 infendschessna/PTS
 infendschna/PTS
 infendschond/PTS
+infendschà/PTS
 infendschü/PTS
 infendschüda/PTS
 infendschüdas/PTS
@@ -72322,6 +72905,7 @@ informatikers/T
 infra/T
 infracotschen/T
 infracotschens/T
+infracotschna/T
 infractur/T
 infractura/T
 infracturas/T
@@ -72401,6 +72985,8 @@ infuormalas/T
 infuormalmaing/T
 infuormals/T
 infuorman/PTS
+infuormand/T
+infuormanda/T
 infuormant/T
 infuormanta/T
 infuormantas/T
@@ -72813,9 +73399,11 @@ ingiuriessast/PTS
 ingiuriessat/PTS
 ingiuriessna/PTS
 ingiuriond/PTS
+ingiuriusas/T
 ingiurià/PTS
 ingiò/T
 inglais/T
+inglaisas/T
 inglatscha/PTS
 inglatschaiva/PTS
 inglatschaivan/PTS
@@ -73363,7 +73951,6 @@ inguottond/PTS
 inguottà/PTS
 ingurdia/T
 ingurdias/T
-ingün'idea/T
 ingün'orma/T
 ingün/T
 ingüna/T
@@ -73418,6 +74005,8 @@ inhalessat/PTS
 inhalessna/PTS
 inhalond/PTS
 inhalà/PTS
+inherent/T
+inherenta/T
 inimaginabel/T
 inimaginabels/T
 inimaginabla/T
@@ -73618,6 +74207,7 @@ innaivessat/PTS
 innaivessna/PTS
 innaivna/PTS
 innaivond/PTS
+innaivà/PTS
 innaivü/PTS
 innaivüda/PTS
 innaivüdas/PTS
@@ -73852,6 +74442,7 @@ inquadrna/PTS
 inquadrond/PTS
 inquadrà/PTS
 inquaglia/PTS
+inquagliada/T
 inquagliaiva/PTS
 inquagliaivan/PTS
 inquagliamaint/T
@@ -74018,6 +74609,7 @@ inquisiziun/T
 inquisiziuns/T
 inquista/T
 inquistas/T
+inragischada/T
 inragischaziun/T
 inragischaziuns/T
 inramar/PTS
@@ -74062,6 +74654,7 @@ inramivan/PTS
 inramivast/PTS
 inramivat/PTS
 inramivna/PTS
+inramà/PTS
 inrasch'la/PTS
 inrasch/PTS
 inrascha'l/PTS
@@ -74239,6 +74832,7 @@ ins-chürivan/PTS
 ins-chürivast/PTS
 ins-chürivat/PTS
 ins-chürivna/PTS
+ins-chüsabel/T
 ins-chüsabla/T
 insai/PTS
 insaia/PTS
@@ -74272,6 +74866,7 @@ insajarat/PTS
 insajarà'l/PTS
 insajarà'la/PTS
 insajarà/PTS
+insajas/T
 insajast/PTS
 insajat/PTS
 insajats/PTS
@@ -74330,6 +74925,8 @@ insalessna/PTS
 insalna/PTS
 insalond/PTS
 insalà/PTS
+insaquantas/T
+insaquants/T
 insatna/PTS
 insavunar/T
 insaziabel/T
@@ -74538,6 +75135,7 @@ inscrivivat/PTS
 inscrivivna/PTS
 inscrivna/PTS
 inscrivond/PTS
+inscrivà/PTS
 inscunter/T
 inscunters/T
 inscuntr'la/PTS
@@ -74787,7 +75385,9 @@ insgüras/T
 insgürezza/T
 insgürezzas/T
 insgürs/T
+insider/T
 insidra/T
+insidra;/T
 insidras/T
 insignifichant/T
 insignifichanta/T
@@ -74895,6 +75495,7 @@ insistivast/PTS
 insistivat/PTS
 insistivna/PTS
 insistna/PTS
+insistà/PTS
 insocial/T
 insociala/T
 insocialas/T
@@ -75163,6 +75764,8 @@ installarà'l/PTS
 installarà'la/PTS
 installarà/PTS
 installats/PTS
+installatör/T
+installatöra/T
 installaziun/T
 installaziuns/T
 installesch'la/PTS
@@ -75281,6 +75884,7 @@ instinctiv/T
 instinctiva/T
 instinctivamaing/T
 instinctivas/T
+instinctivmaing/T
 instinctivs/T
 instincts/T
 institui/PTQRSS
@@ -75697,6 +76301,7 @@ insturnivan/PTS
 insturnivast/PTS
 insturnivat/PTS
 insturnivna/PTS
+instà/PTS
 insuccess/T
 insufficiaint/T
 insufficiainta/T
@@ -75774,6 +76379,7 @@ insurmuntabelmaing/T
 insurmuntabels/T
 insurmuntabla/T
 insurmuntablas/T
+insusas/T
 insè/T
 insömg'la/PTS
 insömg/PTS
@@ -76067,6 +76673,7 @@ integnast/PTS
 integnat/PTS
 integner/PTQRSS
 integnna/PTS
+integnà/PTS
 integra/T
 integrabel/T
 integrabels/T
@@ -76233,6 +76840,7 @@ intendschessat/PTS
 intendschessna/PTS
 intendschna/PTS
 intendschond/PTS
+intendschà/PTS
 intendschü/PTS
 intendschüda/PTS
 intendschüdas/PTS
@@ -76327,6 +76935,7 @@ intensivessan/PTS
 intensivessast/PTS
 intensivessat/PTS
 intensivessna/PTS
+intensivmaing/T
 intensivond/PTS
 intensivs/T
 intensivà/PTS
@@ -76378,6 +76987,7 @@ intenziunond/PTS
 intenziuns/T
 intenziunà/PTS
 inter/PTS
+intera/T
 interactiv/T
 interactiva/T
 interactivas/T
@@ -76426,6 +77036,7 @@ interagivan/PTS
 interagivast/PTS
 interagivat/PTS
 interagivna/PTS
+interas/T
 interced'la/PTS
 interced/PTS
 interceda'l/PTS
@@ -76464,6 +77075,7 @@ intercedessat/PTS
 intercedessna/PTS
 intercedna/PTS
 intercedond/PTS
+intercedà/PTS
 intercedü/PTS
 intercedüda/PTS
 intercedüdas/PTS
@@ -76651,6 +77263,7 @@ interimisticas/T
 interimistics/T
 interims/T
 interiur/T
+interiura/T
 interiurs/T
 interjecziun/T
 interjecziuns/T
@@ -76789,6 +77402,7 @@ intermettessast/PTS
 intermettessat/PTS
 intermettessna/PTS
 intermettond/PTS
+intermettà/PTS
 intermez/T
 intermezs/T
 intermiss/PTS
@@ -76993,6 +77607,7 @@ interpuonivast/PTS
 interpuonivat/PTS
 interpuonivna/PTS
 interpuonna/PTS
+interpuonà/PTS
 interpuonü/PTS
 interpuonüda/PTS
 interpuonüdas/PTS
@@ -77134,6 +77749,7 @@ interrumpessat/PTS
 interrumpessna/PTS
 interrumpna/PTS
 interrumpond/PTS
+interrumpà/PTS
 interruot/PTS
 interruots/PTS
 interruotta/PTS
@@ -77288,6 +77904,7 @@ intessessat/PTS
 intessessna/PTS
 intessna/PTS
 intessond/PTS
+intessà/PTS
 intessü/PTS
 intessüda/PTS
 intessüdas/PTS
@@ -77754,6 +78371,7 @@ intraprendessat/PTS
 intraprendessna/PTS
 intraprendna/PTS
 intraprendond/PTS
+intraprendà/PTS
 intrar/T
 intrat/T
 intrategn'la/PTS
@@ -77765,6 +78383,7 @@ intrategnast/PTS
 intrategnat/PTS
 intrategner/PTQRSS
 intrategnna/PTS
+intrategnà/PTS
 intratgn'la/PTS
 intratgna'l/PTS
 intratgna/PTS
@@ -78036,6 +78655,7 @@ introdüt/PTS
 introdüts/PTS
 introdütta/PTS
 introdüttas/PTS
+introdüà/PTS
 intschadada/PTS
 intschadadas/PTS
 intschadai/PTQRSS
@@ -78078,7 +78698,6 @@ intschadessat/PTS
 intschadessna/PTS
 intschadond/PTS
 intschadà/PTS
-intschais/T
 intschal'la/PTS
 intschal/PTS
 intschala'l/PTS
@@ -78520,6 +79139,7 @@ invaintan/PTS
 invaintast/PTS
 invaintat/PTS
 invaintna/PTS
+invalabel/T
 invalabla/T
 invalid/T
 invalida/T
@@ -78537,7 +79157,9 @@ invardaivelmaing/T
 invardaivels/T
 invardaivla/T
 invardaivlas/T
+invariabel/T
 invariabla/T
+invasas/T
 invasiun/T
 invasiuns/T
 invasiv/T
@@ -79036,6 +79658,7 @@ invilgiast/PTS
 invilgiat/PTS
 invilgiats/PTS
 invilgiond/PTS
+invilgiuossas/T
 invilgià/PTS
 invilgna/PTS
 inviolabel/T
@@ -79043,6 +79666,7 @@ inviolabels/T
 inviolabla/T
 inviolablas/T
 inviond/PTS
+invisibel/T
 invisibla/T
 invista/T
 invistas/T
@@ -79089,6 +79713,7 @@ invlidessat/PTS
 invlidessna/PTS
 invlidna/PTS
 invlidond/PTS
+invliduossas/T
 invlidà/PTS
 invocaziun/T
 invocaziuns/T
@@ -79653,6 +80278,7 @@ irrumpessat/PTS
 irrumpessna/PTS
 irrumpna/PTS
 irrumpond/PTS
+irrumpà/PTS
 irruot/PTS
 irruots/PTS
 irruotta/PTS
@@ -79660,6 +80286,8 @@ irruottas/PTS
 irrupziun/T
 irrupziuns/T
 ischemia/T
+ischemic/T
+ischemica/T
 ischias/T
 ischla/T
 ischlas/T
@@ -79713,6 +80341,7 @@ islamista/T
 islamistas/T
 islamists/T
 islams/T
+islandaisas/T
 islas/T
 isolada/PTS
 isoladas/PTS
@@ -79855,6 +80484,7 @@ jassista/T
 jassistas/T
 jassists/T
 jattè/T
+jauda/T
 jauer/T
 jaura/T
 javjöl/T
@@ -79961,6 +80591,7 @@ jolla/T
 jollas/T
 jondscher/T
 jouer/T
+joura/T
 jousl'la/TS
 jousl/TS
 jousla'l/TS
@@ -80105,6 +80736,7 @@ kilowatts/T
 kils/T
 kindel/T
 kindels/T
+kindla/T
 kindlamainta/T
 kindlom/T
 kino/T
@@ -80163,14 +80795,19 @@ kivis/T
 kössler/T
 kösslers/T
 l'/T
+l'animatura/T
+l'inimia/T
 l'irlandais/T
 l/T
 la/TS
 labial/T
+labiala/T
 labials/T
 labias/T
 labiata/T
 labiatas/T
+labil/T
+labila/T
 labirint/T
 labirinta/T
 labirintas/T
@@ -80387,6 +81024,7 @@ lainoma/T
 lainomas/T
 lains/T
 laint/T
+lainusas/T
 lair/TQRSS
 lais/TS
 laiv'la/TS
@@ -80495,6 +81133,7 @@ lamantessast/TS
 lamantessat/TS
 lamantessna/TS
 lamantond/TS
+lamantusas/T
 lamantà/TS
 lamantöz/T
 lamantözs/T
@@ -80690,6 +81329,7 @@ lantschetta/T
 lantschettas/T
 lantschond/TS
 lantschà/TS
+lanusas/T
 lap/TS
 lapidar/T
 lapidara/T
@@ -80858,6 +81498,7 @@ larmessat/TS
 larmessna/TS
 larmna/TS
 larmond/TS
+larmuossas/T
 larmà/TS
 larsch/T
 larschai/T
@@ -80974,6 +81615,7 @@ lassantessat/TS
 lassantessna/TS
 lassantond/TS
 lassantà/TS
+lassas/T
 lassezza/T
 lassezzas/T
 lasso/T
@@ -81006,6 +81648,7 @@ lateroulas/T
 laters/T
 latets/T
 latin/T
+latina/T
 latinisada/TS
 latinisadas/TS
 latinisai/TQRSS
@@ -81337,6 +81980,7 @@ lavuressan/TS
 lavuressast/TS
 lavuressat/TS
 lavuressna/TS
+lavuriusas/T
 lavuriusitats/T
 lavuriusità/T
 lavurna/TS
@@ -81517,6 +82161,8 @@ legastenikers/T
 legat/T
 legats/TS
 legenda/T
+legendar/T
+legendara/T
 legendari/T
 legendaria/T
 legendariamaing/T
@@ -81706,6 +82352,7 @@ lejessat/TS
 lejessna/TS
 lejna/TS
 lejond/TS
+lejà/TS
 lemma/T
 lemmas/T
 lemur/T
@@ -81858,6 +82505,7 @@ levgiantar/T
 levitas/T
 levna/TS
 levond/TS
+levrusas/T
 levrusia/T
 levà/TS
 lexical/T
@@ -82516,6 +83164,7 @@ litigiarà'la/TS
 litigiarà/TS
 litigiats/TS
 litigiond/TS
+litigiusas/T
 litigià/TS
 lito/T
 litofania/T
@@ -82588,6 +83237,8 @@ litterals/T
 litterar/T
 litterara/T
 litteraras/T
+litteraric/T
+litterarica/T
 litterarmaing/T
 litterars/T
 litteratura/T
@@ -82708,6 +83359,7 @@ lobivan/TS
 lobivast/TS
 lobivat/TS
 lobivna/TS
+loc/T
 local/T
 locala/T
 localas/T
@@ -82913,6 +83565,7 @@ lommas/T
 lommezza/T
 lommezzas/T
 lommin/T
+lommina/T
 lommitsch/T
 lommitscha/T
 lommitschas/T
@@ -83052,7 +83705,6 @@ ludica/T
 ludicamaing/T
 ludicas/T
 ludics/T
-ludoteca/T
 luenza/T
 luenzas/T
 luf/T
@@ -83093,6 +83745,7 @@ lungs/T
 lungunar/T
 lungurella/T
 lungurellas/T
+lungurusas/T
 luoder/T
 luodra/T
 luodras/T
@@ -83405,14 +84058,18 @@ madrütscha/T
 madrütschas/T
 madür/T
 madüra/T
+madürada/T
+madüradas/T
 madüranza/T
 madüranzas/T
 madüras/T
+madürats/T
 madüraziun/T
 madüraziuns/T
 madürezza/T
 madürezzas/T
 madürs/T
+madürà/T
 maestrada/TS
 maestradas/TS
 maestrai/TQRSS
@@ -83525,6 +84182,8 @@ magister/T
 magisters/T
 magistra/T
 magistraglia/T
+magistral/T
+magistrala/T
 magistras/T
 magistrat/T
 magistrata/T
@@ -83678,6 +84337,7 @@ magliöz/T
 magliözs/T
 maglna/TS
 magls/T
+magma/T
 magnam/T
 magnams/T
 magnanim/T
@@ -83767,8 +84427,11 @@ magölin/T
 magölins/T
 magöls/T
 mai/T
+maigegün/T
+maigegüna/T
 maigher/T
 maigra/T
+maigras/T
 maigrezza/T
 maigrezzas/T
 mail/T
@@ -83836,7 +84499,9 @@ maizena/T
 maizenas/T
 majaistra/T
 majaistras/T
+majer/T
 majestats/T
+majestusas/T
 majestà/T
 majonesa/T
 majonesas/T
@@ -83989,6 +84654,8 @@ malafattas/T
 malagrazcha/T
 malaguardanza/T
 malaguardanzas/T
+malais-ch/T
+malais-cha/T
 malam/T
 malamaing/T
 malamiaivel/T
@@ -84245,6 +84912,7 @@ malinclegiarà/TS
 malinclegiast/TS
 malinclegiat/TS
 malinclegiond/TS
+malinclegà/TS
 malinclet/TS
 malinclets/TS
 malincletta/TS
@@ -84273,10 +84941,15 @@ malmanieraivla/T
 malmanieraivlas/T
 malmarsch/T
 malmarschs/T
+malmissas/T
+malmort/T
+malmorta/T
 malmundüm/T
 malmundüms/T
 malmuond/T
+malmuonda/T
 malmuonds/T
+malmustusas/T
 malnair/T
 malnairs/T
 malnet/T
@@ -84466,6 +85139,7 @@ maltschapladamaing/T
 maltschapladas/T
 maltschaplats/T
 maltschaplà/T
+malumbrasas/T
 malumbrasezza/T
 malumbrasezzas/T
 malundraivel/T
@@ -84493,6 +85167,7 @@ malvgnüda/T
 malvgnüdas/T
 malvgnüts/T
 malviers/T
+malvissas/T
 malvivaint/T
 malvivainta/T
 malvivaintas/T
@@ -84633,14 +85308,45 @@ manarà/TS
 manaströl/T
 manaströls/T
 manats/TS
+manc'la/TS
+manc/TS
+manca'l/TS
+manca/TQRSS
+mancada/TS
+mancadas/TS
+mancai/TQRSS
+mancain/TS
+mancaina/TS
+mancais/TS
+mancaiv'la/TS
+mancaiva'l/TS
+mancaiva/TS
+mancaivan/TS
+mancaivast/TS
+mancaivat/TS
+mancaivna/TS
 mancamaint/T
 mancamaints/T
+mancan/TS
 mancant/T
 mancanta/T
 mancantas/T
 mancants/T
 mancanza/T
 mancanzas/T
+mancar/TQRSS
+mancarai/TQRSS
+mancaraja/TS
+mancaran/TS
+mancarana/TS
+mancarast/TS
+mancarat/TS
+mancarà'l/TS
+mancarà'la/TS
+mancarà/TS
+mancast/TS
+mancat/TS
+mancats/TS
 manch/T
 manchaint'la/TS
 manchaint/TS
@@ -84687,8 +85393,11 @@ manchantà/TS
 manchester/T
 manchesters/T
 manchs/T
+mancna/TS
 manco/T
+mancond/TS
 mancos/T
+mancà/TS
 mandant/T
 mandanta/T
 mandantas/T
@@ -84875,6 +85584,8 @@ manglessat/TS
 manglessna/TS
 manglna/TS
 manglond/TS
+mangluossas/T
+manglà/TS
 manglü/TS
 manglüda/TS
 manglüdas/TS
@@ -84929,6 +85640,8 @@ manierats/T
 manieratscha/T
 manieratschas/T
 manierissem/T
+manierus/T
+manierusa/T
 manierà/T
 maniess'la/TS
 maniess/TS
@@ -85099,6 +85812,14 @@ manizaduoiras/T
 manizin/T
 manizins/T
 manià/TS
+mankess'la/TS
+mankess/TS
+mankessa'l/TS
+mankessa/TS
+mankessan/TS
+mankessast/TS
+mankessat/TS
+mankessna/TS
 manna/T
 mannas/T
 manometer/T
@@ -85178,6 +85899,7 @@ mantegner/PTQRSS
 mantegnimaint/T
 mantegnimaints/T
 mantegnna/TS
+mantegnà/TS
 mantel/T
 mantella/T
 mantellas/T
@@ -85309,6 +86031,8 @@ manznedra/T
 manznedras/T
 manzner/T
 manznera/T
+manznerais-ch/T
+manznerais-cha/T
 manzneras/T
 manzners/T
 manzun'la/TS
@@ -85922,6 +86646,8 @@ marschitscha/T
 marschitschas/T
 marschitschs/T
 marschs/T
+marschögn/T
+marschögna/T
 marselber/T
 marselbers/T
 marsola/T
@@ -86103,6 +86829,7 @@ marusarat/TS
 marusarà'l/TS
 marusarà'la/TS
 marusarà/TS
+marusas/T
 marusats/TS
 marusesch'la/TS
 marusesch/TS
@@ -86165,6 +86892,7 @@ mas-chaivast/TS
 mas-chaivat/TS
 mas-chaivna/TS
 mas-chalch/T
+mas-chalcha/T
 mas-chan/TS
 mas-char/TQRSS
 mas-charai/TQRSS
@@ -86523,9 +87251,12 @@ massiv/T
 massiva/T
 massivamaing/T
 massivas/T
+massivmaing/T
 massivs/T
 massond/TS
 massà/TS
+massör/T
+massöra/T
 massösa/T
 massösas/T
 mastella/T
@@ -86780,6 +87511,7 @@ matrimonials/T
 matrimonis/T
 matriza/T
 matrizas/T
+matrosas/T
 mats/T
 matsch/T
 matschs/T
@@ -86943,6 +87675,48 @@ mazzöl/T
 mazzöls/T
 mazzüch/T
 mazzüchs/T
+meandrada/TS
+meandradas/TS
+meandrai/TQRSS
+meandrain/TS
+meandraina/TS
+meandrais/TS
+meandraiv'la/TS
+meandraiva'l/TS
+meandraiva/TS
+meandraivan/TS
+meandraivast/TS
+meandraivat/TS
+meandraivna/TS
+meandrar/TQRSS
+meandrarai/TQRSS
+meandraraja/TS
+meandraran/TS
+meandrarana/TS
+meandrarast/TS
+meandrarat/TS
+meandrarà'l/TS
+meandrarà'la/TS
+meandrarà/TS
+meandrats/TS
+meandresch'la/TS
+meandresch/TS
+meandrescha'l/TS
+meandrescha/TQRSS
+meandreschan/TS
+meandreschast/TS
+meandreschat/TS
+meandreschna/TS
+meandress'la/TS
+meandress/TS
+meandressa'l/TS
+meandressa/TS
+meandressan/TS
+meandressast/TS
+meandressat/TS
+meandressna/TS
+meandrond/TS
+meandrà/TS
 mecanic/T
 mecanica/T
 mecanicamaing/T
@@ -87041,7 +87815,11 @@ medarà'la/TS
 medarà/TS
 medast/TS
 medat/TS
+medem/T
+medemma/T
 medemmamaing/T
+medemmas/T
+medems/T
 meder/TQRSS
 medess'la/TS
 medess/TS
@@ -87202,6 +87980,7 @@ medunzas/T
 medunzs/T
 medusa/T
 medusas/T
+medà/TS
 medü/TS
 medüda/TS
 medüdas/TS
@@ -87308,6 +88087,7 @@ melodica/T
 melodicamaing/T
 melodicas/T
 melodics/T
+melodiusas/T
 melodrama/T
 melodramas/T
 melodramatic/T
@@ -87396,6 +88176,7 @@ mendaschias/T
 mendaschs/T
 mender/T
 mendra/T
+menduossas/T
 meningita/T
 meningitas/T
 meniscus/T
@@ -87420,6 +88201,8 @@ mentalmaing/T
 mentals/T
 mentas/T
 mentir/T
+mentor/T
+mentora/T
 menuet/T
 menuets/T
 menziun/T
@@ -87445,6 +88228,7 @@ merder/T
 merders/T
 merdra/T
 merdras/T
+merdusas/T
 meridian/T
 meridians/T
 meridiunal/T
@@ -87527,6 +88311,8 @@ messa/T
 messagi/T
 messagis/T
 messas/T
+mestiz/T
+mestizza/T
 met/TS
 meta/T
 metabolissem/T
@@ -87691,6 +88477,7 @@ mettessast/TS
 mettessat/TS
 mettessna/TS
 mettond/TS
+mettà/TS
 mez/T
 mezcha/T
 mezchas/T
@@ -87747,11 +88534,58 @@ mia/T
 mialgia/T
 mialgias/T
 mias/T
+miau'la/TS
+miau/T
+miaua'l/TS
+miaua/TS
+miauaiv'la/TS
+miauaiva'l/TS
+miauaiva/TS
+miauaivan/TS
+miauaivna/TS
+miauan/TS
+miauar/TS
+miauaran/TS
+miauarana/TS
+miauarà'l/TS
+miauarà'la/TS
+miauarà/TS
 miauels/T
 miauelsa/T
 miauelsas/T
+miauess'la/TS
+miauess/TS
+miauessa'l/TS
+miauessan/TS
+miauessna/TS
+miaul'la/TS
+miaula'l/TS
+miaula/TS
+miaulaiv'la/TS
+miaulaiva'l/TS
+miaulaiva/TS
+miaulaivan/TS
+miaulaivna/TS
+miaulan/TS
+miaular/TS
+miaularan/TS
+miaularana/TS
+miaularà'l/TS
+miaularà'la/TS
+miaularà/TS
+miauless'la/TS
+miauless/TS
+miaulessa'l/TS
+miaulessan/TS
+miaulessna/TS
+miaulna/TS
+miaulond/TS
+miaulà/TS
+miaulöz/T
+miauna/TS
+miauond/TS
+miauà/TS
 miauöz/T
-miauözs/T
 micado/T
 micados/T
 mical/T
@@ -87763,6 +88597,7 @@ michas/T
 micla/T
 miclas/T
 micluns/T
+miclusas/T
 micro-/T
 microba/T
 microbas/T
@@ -88268,6 +89103,7 @@ minuzcharia/T
 minuzcharias/T
 minuzchas/T
 minuziusamaing/T
+minuziusas/T
 minuziusitats/T
 minuziusità/T
 minz/T
@@ -88276,6 +89112,8 @@ minzin/T
 minzins/T
 minzs/T
 minà/TS
+minör/T
+minöra/T
 mioclonia/T
 miop/T
 miopa/T
@@ -88292,6 +89130,7 @@ mirabella/T
 mirabellas/T
 miracul/T
 miraculs/T
+miraculusas/T
 mirada/TS
 miradas/TS
 mirai/TQRSS
@@ -88431,6 +89270,7 @@ missura/T
 missuras/T
 misteri/T
 misteris/T
+misteriusas/T
 mistic/T
 mistica/T
 misticas/T
@@ -88599,7 +89439,6 @@ mixturas/T
 mixà/TS
 mizguogl/T
 mizguogls/T
-mjauà/T
 mo/T
 mobbing/T
 mobbings/T
@@ -88665,6 +89504,7 @@ moccal/T
 moccals/T
 mocs/T
 mocus/T
+mocusas/T
 moda/T
 modal/T
 modala/T
@@ -88921,6 +89761,8 @@ moduls/T
 modulà/TS
 mofa/T
 mofas/T
+mohammedan/T
+mohammedana/T
 mol/TS
 mola/T
 molada/TS
@@ -89002,6 +89844,7 @@ molestessat/TS
 molestessna/TS
 molestna/TS
 molestond/TS
+molestusas/T
 molestà/TS
 moll'la/TS
 molla'l/TS
@@ -89043,6 +89886,7 @@ mollessna/TS
 mollond/TS
 mollusc/T
 molluscs/T
+mollà/TS
 molna/TS
 molond/TS
 mols/T
@@ -89190,6 +90034,8 @@ montessat/TS
 montessna/TS
 montond/TS
 montà/TS
+montör/T
+montöra/T
 monumaint/T
 monumaints/T
 monumental/T
@@ -89275,6 +90121,8 @@ mordachs/T
 mordai/TQRSS
 mordain/TS
 mordaina/TS
+mordaint/T
+mordainta/T
 mordais/TS
 mordaiv'la/TS
 mordaiva'l/TS
@@ -89357,6 +90205,7 @@ mordriessat/TS
 mordriessna/TS
 mordriond/TS
 mordrià/TS
+mordà/TS
 morena/T
 morenas/T
 moretta/T
@@ -89440,6 +90289,7 @@ mortuari/T
 mortuaris/T
 morva/T
 morvas/T
+morvusas/T
 morzip/T
 morzips/T
 mosaic/T
@@ -89604,6 +90454,7 @@ mouvast/TS
 mouvat/TS
 mouver/PTQRSS
 mouvna/TS
+mouvà/TS
 movai/TQRSS
 movain/TS
 movaina/TS
@@ -90097,6 +90948,7 @@ mundschessat/TS
 mundschessna/TS
 mundschna/TS
 mundschond/TS
+mundschà/TS
 mundà/TS
 muni/TQRSS
 municipal/T
@@ -90163,6 +91015,7 @@ muntagnarda/T
 muntagnardas/T
 muntagnards/T
 muntagnas/T
+muntagnusas/T
 muntai/TQRSS
 muntain/TS
 muntaina/TS
@@ -90381,6 +91234,7 @@ murantond/TS
 murantà/TS
 muras/T
 murbigns/T
+murbignusas/T
 murcsada/TS
 murcsadas/TS
 murcsai/TQRSS
@@ -90560,6 +91414,7 @@ musculars/T
 musculatrofia/T
 musculatura/T
 musculaturas/T
+musculusas/T
 museum/T
 museums/T
 musica/T
@@ -90773,6 +91628,8 @@ mutschignessat/TS
 mutschignessna/TS
 mutschignna/TS
 mutschignond/TS
+mutschignus/T
+mutschignusas/T
 mutschignà/TS
 mutschignöz/T
 mutschignözs/T
@@ -90896,7 +91753,6 @@ möringias/T
 mösa/T
 mösas/T
 möva/T
-möz/T
 mözel/T
 mözels/T
 müagl/T
@@ -90974,6 +91830,7 @@ mügl/T
 müglier/T
 mügliers/T
 müj/T
+müjs/T
 mül/T
 müla/T
 mülas/T
@@ -91023,6 +91880,7 @@ müravaglia/T
 müravaglias/T
 müravglientscha/T
 müravglientschas/T
+müravgliusas/T
 müress'la/TS
 müress/TS
 müressa'l/TS
@@ -91055,6 +91913,7 @@ müstaila/T
 müstailas/T
 müstats/T
 müstà/T
+müt/T
 mütsch'la/TS
 mütsch/TS
 mütscha'l/TS
@@ -91142,6 +92001,7 @@ mütschivast/TS
 mütschivat/TS
 mütschivna/TS
 mütschna/TS
+mütta/T
 n'esa/T
 n'ha/TS
 n'haa/TS
@@ -91155,6 +92015,7 @@ nadiglia/T
 nadiglias/T
 nadüra/T
 nadüras/T
+nafümader/T
 nafümadra/T
 nafümadras/T
 nair/T
@@ -91192,6 +92053,7 @@ naivigliond/TS
 naiviglià/TS
 naivond/TS
 naivs/T
+naivà/TS
 naivü/TS
 najaint'la/TS
 najaint/TS
@@ -91314,6 +92176,8 @@ nardats/T
 nardà/T
 narom/T
 narra/T
+narrais-ch/T
+narrais-cha/T
 narramainta/T
 narramaintas/T
 narras/T
@@ -91375,6 +92239,7 @@ naschivast/TS
 naschivat/TS
 naschivna/TS
 naschna/TS
+naschà/TS
 naschü/TS
 naschüda/TS
 naschüdas/TS
@@ -91632,6 +92497,7 @@ naïvità/T
 naïvs/T
 ne/T
 necessari/T
+necessaria/T
 necessitats/T
 necessità/T
 necrofil/T
@@ -91761,6 +92627,7 @@ negligiarà'la/TS
 negligiarà/TS
 negligier/TQRSS
 negligiond/TS
+negligà/TS
 neglisches/T
 neglischè/T
 neglischèa/T
@@ -91850,10 +92717,14 @@ nerva/T
 nervadüra/T
 nervas/T
 nervs/T
+nervus/T
+nervusa/T
+nervusas/T
 nervusitats/T
 nervusità/T
 net/T
 nets/T
+netta/T
 nettai/TS
 nettaia/TS
 nettaj'la/TS
@@ -92061,6 +92932,10 @@ ninfas/T
 ninfasa/T
 ninfasas/T
 ninglur/T
+ningün/T
+ningüna/T
+ningünas/T
+ningüns/T
 ninna/TS
 ninond/TS
 ninà/TS
@@ -92178,6 +93053,10 @@ nizzessna/TS
 nizzond/TS
 nizzà/TS
 no/T
+nocturn/T
+nocturna/T
+nocturnas/T
+nocturns/T
 nodada/TS
 nodadas/TS
 nodader/T
@@ -92230,6 +93109,7 @@ nombrabelmaing/T
 nombrabels/T
 nombrabla/T
 nombrablas/T
+nombrusas/T
 nomenclatura/T
 nomenclaturas/T
 nomer/T
@@ -92399,10 +93279,12 @@ normond/TS
 normà/TS
 norovirus/T
 norvegiais/T
+norvegiaisas/T
 nos/T
 nosch'economia/T
 nosch'economias/T
 nosch/T
+noscha/T
 noschdats/T
 noschdà/T
 noschs/T
@@ -92513,6 +93395,7 @@ novantatrais/T
 novantatschinch/T
 novantavel/T
 novantavels/T
+novantavla/T
 novantot/T
 novantün/T
 novas/T
@@ -92757,6 +93640,9 @@ numericamaing/T
 numericas/T
 numerics/T
 numerond/TS
+numerus/T
+numerusa/T
+numerusas/T
 numerà/TS
 numismatica/T
 nun/T
@@ -92859,6 +93745,8 @@ nüanzessat/TS
 nüanzessna/TS
 nüanzond/TS
 nüanzà/TS
+nüd/T
+nüda/T
 nüdezza/T
 nüdezzas/T
 nüglia/T
@@ -92872,6 +93760,7 @@ nüvletta/T
 nüvlettas/T
 nüvlom/T
 nüvloms/T
+nüvlusas/T
 nüz/T
 nüzs/T
 nüzzai/TS
@@ -93178,6 +94067,7 @@ obtegnast/PTS
 obtegnat/PTS
 obtegner/PTQRSS
 obtegnna/PTS
+obtegnà/PTS
 obtgnai/PTQRSS
 obtgnain/PTS
 obtgnaina/PTS
@@ -93424,10 +94314,11 @@ offendessat/PTS
 offendessna/PTS
 offendna/PTS
 offendond/PTS
+offendà/PTS
 offensiv/T
 offensiva/T
-offensivamaing/T
 offensivas/T
+offensivmaing/T
 offensivs/T
 offensur/T
 offensura/T
@@ -93533,6 +94424,7 @@ oliver/T
 olivers/T
 olivs/T
 ollandais/T
+ollandaisas/T
 oller/T
 ollers/T
 olocaust/T
@@ -93550,6 +94442,7 @@ olà/T
 omagi/T
 omagis/T
 ombra/T
+ombrusas/T
 omeopatia/T
 omeopatic/T
 omeopatica/T
@@ -93594,8 +94487,10 @@ omettessast/PTS
 omettessat/PTS
 omettessna/PTS
 omettond/PTS
+omettà/PTS
 omicidi/T
 omicidis/T
+ominusas/T
 omiss/PTS
 omissa/PTS
 omissas/PTS
@@ -93642,6 +94537,7 @@ omofobas/T
 omofobia/T
 omofobs/T
 omofon/T
+omofona/T
 omofons/T
 omogen/T
 omogena/T
@@ -93762,6 +94658,7 @@ onestas/T
 onestats/T
 onests/T
 onestà/T
+online/T
 onomastica/T
 onomatopea/T
 onomatopeas/T
@@ -93975,6 +94872,7 @@ opprimivast/PTS
 opprimivat/PTS
 opprimivna/PTS
 opprimna/PTS
+opprimà/PTS
 oppuon'la/PTS
 oppuon/PTS
 oppuona'l/PTS
@@ -94013,6 +94911,7 @@ oppuonivast/PTS
 oppuonivat/PTS
 oppuonivna/PTS
 oppuonna/PTS
+oppuonà/PTS
 oppuonü/PTS
 oppuonüda/PTS
 oppuonüdas/PTS
@@ -94183,6 +95082,7 @@ oragiats/PTS
 oragiond/PTS
 oragià/PTS
 oragna/PTS
+oraisas/T
 oral/T
 orala/T
 oralas/T
@@ -94938,21 +95838,26 @@ ostium/T
 ostiums/T
 osts/T
 ot/T
+ota/T
 otalpin/T
 otalpina/T
 otalpinas/T
 otalpins/T
+otas/T
 oter/T
 oterche/T
 oters/T
 otezza/T
 otezzas/T
+otischem/T
+otischma/T
 otmilli/T
 otpledader/T
 otpledaders/T
 otra/T
 otramaing/T
 otras/T
+ots/T
 ottanta/T
 ottantaduos/T
 ottantanouv/T
@@ -94963,6 +95868,7 @@ ottantatrais/T
 ottantatschinch/T
 ottantavel/T
 ottantavels/T
+ottantavla/T
 ottantot/T
 ottantün/T
 ottavel/T
@@ -94991,6 +95897,8 @@ ova/PTS
 ovadra/T
 ovadras/T
 ovais-ch/T
+ovais-chal/T
+ovais-chala/T
 ovais-chia/T
 ovais-chias/T
 ovais-chs/T
@@ -95046,6 +95954,7 @@ oxids/T
 oxidà/PTS
 oxigen/T
 oxigens/T
+oziusas/T
 oziusitats/T
 oziusità/T
 ozon/T
@@ -95053,8 +95962,10 @@ ozons/T
 p.ex./T
 pa/T
 pac/T
+paca/T
 pacanegal/T
 pacanegals/T
+pacas/T
 pach/T
 pachific/T
 pachifica/T
@@ -95115,6 +96026,7 @@ pacifist/T
 pacifista/T
 pacifistas/T
 pacifists/T
+pacs/T
 pact/T
 pactada/TS
 pactadas/TS
@@ -95333,6 +96245,7 @@ paigna/T
 paignas/T
 pail/T
 pails/T
+pailusas/T
 paina/T
 painar/T
 painas/T
@@ -96466,6 +97379,7 @@ paragliats/TS
 paragliessan/TS
 paragliessna/TS
 paragliond/TS
+paraglià/TS
 paraglna/TS
 paraglüm/T
 paraglüms/T
@@ -96867,6 +97781,7 @@ parderdschessat/TS
 parderdschessna/TS
 parderdschna/TS
 parderdschond/TS
+parderdschà/TS
 pardert/TS
 parderta/TS
 pardertas/TS
@@ -97168,6 +98083,7 @@ parschendessat/TS
 parschendessna/TS
 parschendna/TS
 parschendond/TS
+parschendà/TS
 parschendü/TS
 parschendüda/TS
 parschendüdas/TS
@@ -97775,6 +98691,7 @@ passarellas/T
 passarà'l/TS
 passarà'la/TS
 passarà/TS
+passas/T
 passascha/T
 passaschas/T
 passast/TS
@@ -98005,6 +98922,7 @@ pasturessna/TS
 pasturond/TS
 pasturs/T
 pasturà/TS
+pastusas/T
 pasà/TS
 patafch'la/TS
 patafch/TS
@@ -98100,7 +99018,6 @@ pataplumf/T
 pataplums/T
 patel/T
 patels/T
-patent/T
 patenta/T
 patentada/TS
 patentadas/TS
@@ -98658,6 +99575,7 @@ pechadritsch/T
 pechadritscha/T
 pechadritschas/T
 pechadritschs/T
+pechaduossas/T
 pechai/TQRSS
 pechain/TS
 pechaina/TS
@@ -98669,6 +99587,7 @@ pechaivan/TS
 pechaivast/TS
 pechaivat/TS
 pechaivna/TS
+pechaminusas/T
 pechan/TS
 pechar/TQRSS
 pecharai/TQRSS
@@ -98779,6 +99698,7 @@ pederastia/T
 pederastias/T
 pederasts/T
 pediatria/T
+pedicür/T
 pedicüra/T
 pedicüras/T
 pedofil/T
@@ -98847,6 +99767,7 @@ peida/T
 peidas/T
 peidra/T
 peidras/T
+peis/T
 pel/T
 pelchürom/T
 pelchüroms/T
@@ -98919,6 +99840,7 @@ pelpajanas/T
 pelplü/T
 pels/T
 pelvaira/T
+pemamenta/T
 pen/T
 penal/T
 penala/T
@@ -99133,6 +100055,7 @@ pendulinas/T
 pendulins/T
 pendulond/TS
 pendulà/TS
+pendà/TS
 pendü/TS
 pendüda/TS
 pendüdas/TS
@@ -99543,6 +100466,7 @@ percuorrarà/TS
 percuorrast/TS
 percuorrat/TS
 percuorrer/TQRSS
+percuorrà/TS
 percuors/T
 percurri/TQRSS
 percurrin/TS
@@ -99624,6 +100548,7 @@ perdiziun/T
 perdiziuns/T
 perdna/TS
 perdond/TS
+perdà/TS
 perdürabel/T
 perdürabelmaing/T
 perdürabels/T
@@ -99862,6 +100787,8 @@ pericord/T
 pericords/T
 perida/TS
 peridas/TS
+perifer/T
+perifera/T
 periferia/T
 periferias/T
 perifrasar/T
@@ -99912,6 +100839,7 @@ perinclegiarà/TS
 perinclegiast/TS
 perinclegiat/TS
 perinclegiond/TS
+perinclegà/TS
 perinclet/TS
 perinclets/TS
 perincletta/TS
@@ -100022,6 +100950,7 @@ permettessast/TS
 permettessat/TS
 permettessna/TS
 permettond/TS
+permettà/TS
 permez/T
 permiss/TS
 permissa/TS
@@ -100393,6 +101322,7 @@ persistivast/TS
 persistivat/TS
 persistivna/TS
 persistna/TS
+persistà/TS
 persistü/TS
 persistüda/TS
 persistüdas/TS
@@ -100506,6 +101436,7 @@ persvadessat/TS
 persvadessna/TS
 persvadna/TS
 persvadond/TS
+persvadà/TS
 persvas/TS
 persvasa/TS
 persvasadas/TS
@@ -100524,6 +101455,7 @@ pertocca/TS
 pertoccas/TS
 pertoccond/TS
 pertocker/TS
+pertockà/TS
 pertocs/TS
 pertschaiv'la/TS
 pertschaiv/TS
@@ -100534,6 +101466,7 @@ pertschaivast/TS
 pertschaivat/TS
 pertschaiver/TQRSS
 pertschaivna/TS
+pertschaivà/TS
 pertschevi/TQRSS
 pertschevin/TS
 pertschevina/TS
@@ -100599,6 +101532,7 @@ pes-cha'l/TS
 pes-cha/TQRSS
 pes-chada/TS
 pes-chadas/TS
+pes-chader/T
 pes-chadra/T
 pes-chadras/T
 pes-chai/TQRSS
@@ -101158,6 +102092,7 @@ pietista/T
 pietistamaing/T
 pietistas/T
 pietists/T
+pietusas/T
 pietà/T
 pieul'la/TS
 pieul/TS
@@ -101501,6 +102436,7 @@ pipeline/T
 pipelines/T
 pipetta/T
 pipettas/T
+pipi/T
 pipia/T
 pipias/T
 pipl'la/TS
@@ -101684,6 +102620,8 @@ pischarottas/T
 pischarà'l/TS
 pischarà'la/TS
 pischarà/TS
+pischaröl/T
+pischaröla/T
 pischas/T
 pischast/TS
 pischat/TS
@@ -101700,6 +102638,8 @@ pischessat/TS
 pischessna/TS
 pischilet/T
 pischilets/T
+pischlus/T
+pischlusa/T
 pischna/TS
 pischond/TS
 pischs/T
@@ -101769,6 +102709,7 @@ pisseressna/TS
 pisserna/TS
 pisserond/TS
 pissers/T
+pisserusas/T
 pisserà/TS
 pissuar/T
 pissuars/T
@@ -101850,6 +102791,7 @@ pitella/T
 pitimbröch/T
 pitimbröchs/T
 pitiv/T
+pitiva/T
 pitoc/T
 pitoca/T
 pitocas/T
@@ -102055,6 +102997,7 @@ pizzond/TS
 pizzà/TS
 piöl/T
 piöls/T
+pl/T
 placai/T
 placais/T
 placat/T
@@ -102337,6 +103280,8 @@ planisessat/TS
 planisessna/TS
 planisond/TS
 planisà/TS
+planiv/T
+planiva/T
 planivada/TS
 planivadas/TS
 planivai/TQRSS
@@ -102494,6 +103439,7 @@ plaschessat/TS
 plaschessna/TS
 plaschna/TS
 plaschond/TS
+plaschà/TS
 plaschü/TS
 plaschüda/TS
 plaschüdas/TS
@@ -102725,6 +103671,7 @@ pleura/T
 pleuras/T
 pleurita/T
 pleuritas/T
+plf/T
 plic/T
 plichaplacha/T
 plics/T
@@ -102881,6 +103828,7 @@ plondschessat/TS
 plondschessna/TS
 plondschna/TS
 plondschond/TS
+plondschà/TS
 plondschöz/T
 plondschözs/T
 plont/TS
@@ -102888,10 +103836,12 @@ plonta/TS
 plontas/TS
 plonts/TS
 plosmar/TS
+plosmà/TS
 plotra/T
 plotras/T
 plouva/TS
 plouver/TS
+plouvà/TS
 plovaiva/TS
 plovaraja/TS
 plovarà/TS
@@ -102985,6 +103935,8 @@ pluoders/T
 pluodra/T
 pluodras/T
 pluogl/T
+pluoglius/T
+pluogliusa/T
 pluogls/T
 plural/T
 pluralistic/T
@@ -103068,6 +104020,7 @@ plösmà/TS
 plövgia/T
 plövgiada/T
 plövgiadas/T
+plövgiusas/T
 plü/T
 plüch'la/TS
 plüch/TS
@@ -103571,11 +104524,6 @@ polivalentas/T
 polivalents/T
 poliza/T
 polizas/T
-polizia/T
-polizist/T
-polizista/T
-polizistas/T
-polizists/T
 pollen/T
 pollens/T
 pollonias/T
@@ -103877,7 +104825,6 @@ portabagagl/T
 portabagagls/T
 portabara/T
 portabaras/T
-portabla/T
 portabüschmainta/T
 portabüschmaintas/T
 portacellas/T
@@ -103975,6 +104922,7 @@ portond/TS
 portos/T
 ports/T
 portugais/T
+portugaisas/T
 portulaca/T
 portun/T
 portuns/T
@@ -103983,6 +104931,7 @@ portunza/T
 portunzas/T
 portunzs/T
 portà/TS
+porusas/T
 por­ridge/T
 por­ridges/T
 pos'la/TS
@@ -104178,6 +105127,7 @@ possedessat/TS
 possedessna/TS
 possedna/TS
 possedond/TS
+possedà/TS
 possedü/TS
 possedüda/TS
 possedüdas/TS
@@ -104185,6 +105135,8 @@ possedüts/TS
 possess/TS
 possessa/TS
 possessas/TS
+possessiv/T
+possessiva/T
 possessur/T
 possessura/T
 possessuras/T
@@ -104420,6 +105372,7 @@ potenziaivast/TS
 potenziaivat/TS
 potenziaivna/TS
 potenzial/T
+potenziala/T
 potenzials/T
 potenziar/TQRSS
 potenziarai/TQRSS
@@ -104458,6 +105411,7 @@ pover/T
 poveresser/T
 poveressers/T
 poveril/T
+poverila/T
 poverils/T
 povers/T
 povertats/T
@@ -104523,6 +105477,8 @@ pozzond/TS
 pozzà/TS
 pparkarcessan/TS
 pparkarcessna/TS
+practic/T
+practica/T
 prada/T
 pradada/TS
 pradadas/TS
@@ -104993,8 +105949,8 @@ predgna/TS
 predicat/T
 predicativ/T
 predicativa/T
-predicativamaing/T
 predicativas/T
+predicativmaing/T
 predicativs/T
 predicats/T
 predicatur/T
@@ -105323,6 +106279,7 @@ prelegiarà/TS
 prelegiast/TS
 prelegiat/TS
 prelegiond/TS
+prelegà/TS
 prelet/TS
 prelets/TS
 preletta/TS
@@ -105470,6 +106427,7 @@ premettessast/TS
 premettessat/TS
 premettessna/TS
 premettond/TS
+premettà/TS
 premi/T
 premia/T
 premiada/TS
@@ -105525,6 +106483,7 @@ premissas/TS
 premià/TS
 premura/T
 premurusamaing/T
+premurusas/T
 prenatal/T
 prenatala/T
 prenatalas/T
@@ -105650,6 +106609,7 @@ prepotenza/T
 prepotenzas/T
 preria/T
 preroman/T
+preromana/T
 preromans/T
 presaint'la/TS
 presaint/TS
@@ -105766,6 +106726,7 @@ prescrivessat/TS
 prescrivessna/TS
 prescrivna/TS
 prescrivond/TS
+prescrivà/TS
 preselecziun/T
 preselecziuns/T
 presenti/TQRSS
@@ -105869,6 +106830,8 @@ presidiaivan/TS
 presidiaivast/TS
 presidiaivat/TS
 presidiaivna/TS
+presidial/T
+presidiala/T
 presidiar/TQRSS
 presidiarai/TQRSS
 presidiaraja/TS
@@ -106131,8 +107094,10 @@ pretendessat/TS
 pretendessna/TS
 pretendna/TS
 pretendond/TS
+pretendà/TS
 pretensiun/T
 pretensiuns/T
+pretensiusas/T
 pretext/T
 pretexts/T
 prevain/TS
@@ -106150,10 +107115,12 @@ prevegnst/TS
 prevendita/T
 prevenditas/T
 preventiv/T
+preventiva/T
 preventivs/T
 prevenziun/T
 prevenziuns/T
 preverer/TQRSS
+preverà/TS
 prevez/TS
 preveza/TS
 prevezz'la/TS
@@ -106171,6 +107138,8 @@ prevezzaivast/TS
 prevezzaivat/TS
 prevezzaivna/TS
 prevezzan/TS
+prevezzant/T
+prevezzanta/T
 prevezzarai/TQRSS
 prevezzaraja/TS
 prevezzaran/TS
@@ -106236,8 +107205,13 @@ previsibla/T
 previsiblas/T
 previsiun/T
 previsiuns/T
+previssas/T
 prevost/T
 prevosts/T
+prezius/T
+preziusa/T
+preziusamaing/T
+preziusas/T
 preziusitats/T
 preziusità/T
 prezza/T
@@ -106255,6 +107229,7 @@ primitiv/T
 primitiva/T
 primitivamaing/T
 primitivas/T
+primitivatsch/T
 primitivitats/T
 primitività/T
 primitivs/T
@@ -106272,7 +107247,10 @@ princip/T
 principadi/T
 principadis/T
 principal/T
+principala/T
+principalas/T
 principalmaing/T
+principals/T
 principi/T
 principial/T
 principiala/T
@@ -106445,6 +107423,7 @@ privilegiats/TS
 privilegiond/TS
 privilegis/T
 privilegià/TS
+privlusas/T
 privna/TS
 privond/TS
 privà/TS
@@ -106511,6 +107490,7 @@ procedivna/TS
 procedna/TS
 procedura/T
 proceduras/T
+procedà/TS
 procedü/TS
 procedüda/TS
 procedüdas/TS
@@ -106773,6 +107753,7 @@ prodüt/TS
 prodüts/TS
 prodütta/TS
 prodüttas/TS
+prodüà/TS
 profan/T
 profana/T
 profanada/TS
@@ -106840,6 +107821,8 @@ professuras/T
 profet/T
 profetessa/T
 profetessas/T
+profetic/T
+profetica/T
 profetisada/TS
 profetisadas/TS
 profetisai/TQRSS
@@ -107275,6 +108258,8 @@ proletaria/T
 proletarias/T
 proletaris/T
 proletars/T
+prolifich/T
+prolificha/T
 prolog/T
 prologs/T
 prolungada/TS
@@ -107353,6 +108338,7 @@ promouvast/TS
 promouvat/TS
 promouver/TQRSS
 promouvna/TS
+promouvà/TS
 promovai/TQRSS
 promovain/TS
 promovaina/TS
@@ -107628,6 +108614,7 @@ propuonast/TS
 propuonat/TS
 propuoner/TQRSS
 propuonna/TS
+propuonà/TS
 propöst/T
 propösts/T
 prorecter/T
@@ -107644,6 +108631,7 @@ prorumper/TS
 prorumpess/TS
 prorumpessan/TS
 prorumpond/TS
+prorumpà/TS
 proruot/TS
 proruots/TS
 proruotta/TS
@@ -107702,6 +108690,7 @@ proscrivessat/TS
 proscrivessna/TS
 proscrivna/TS
 proscrivond/TS
+proscrivà/TS
 prosegui/TQRSS
 proseguida/TS
 proseguidas/TS
@@ -107751,6 +108740,7 @@ prosma/T
 prosmamaing/T
 prosmanza/T
 prosmanzas/T
+prosmas/T
 prospect/T
 prospects/T
 prosperada/TS
@@ -107935,6 +108925,7 @@ protegiavistas/T
 protegier/TQRSS
 protegiond/TS
 protegna/TS
+protegà/TS
 protesa/T
 protesas/T
 protest'la/TS
@@ -107955,6 +108946,8 @@ protestaivast/TS
 protestaivat/TS
 protestaivna/TS
 protestan/TS
+protestant/T
+protestanta/T
 protestantissem/T
 protestar/TQRSS
 protestarai/TQRSS
@@ -108086,6 +109079,7 @@ protramettessast/TS
 protramettessat/TS
 protramettessna/TS
 protramettond/TS
+protramettà/TS
 protramiss/TS
 protramissa/TS
 protramissas/TS
@@ -108170,6 +109164,7 @@ provedivast/TS
 provedivat/TS
 provedivna/TS
 provedna/TS
+provedà/TS
 proveg'la/TS
 provegn'l/TS
 provegn/TS
@@ -108425,6 +109420,8 @@ pruoder/T
 pruoders/T
 pruodra/T
 pruodras/T
+prusas/T
+prusasa/T
 prusezza/T
 prusezzas/T
 prussians/T
@@ -108467,6 +109464,7 @@ prüiva/TS
 prüivan/TS
 prüivna/TS
 prüj/T
+prüjs/T
 prüm/T
 prüma/T
 prümadefaisa/T
@@ -108477,6 +109475,7 @@ prümaran/T
 prümarans/T
 prümaröla/T
 prümarölas/T
+prümas/T
 prümavaira/T
 prümavairas/T
 prümavairil/T
@@ -108487,6 +109486,8 @@ prümcamerier/T
 prümcameriera/T
 prümcamerieras/T
 prümcameriers/T
+prümchantadur/T
+prümchantadura/T
 prümgenui/T
 prümgenuida/T
 prümgenuidas/T
@@ -108499,6 +109500,7 @@ prümminister/T
 prümministers/T
 prümministra/T
 prümministras/T
+prüms/T
 prümsilvicultur/T
 prümsilvicultura/T
 prümsilviculturas/T
@@ -108567,6 +109569,8 @@ pseudosavair/T
 pseudosavairs/T
 psica/T
 psicas/T
+psichedelic/T
+psichedelica/T
 psichiater/T
 psichiaters/T
 psichiatra/T
@@ -108617,6 +109621,7 @@ psicoterapeutas/T
 psicoterapeuts/T
 psicoterapia/T
 psicoterapias/T
+psicotropic/T
 pst/T
 pubertada/TS
 pubertadas/TS
@@ -108665,7 +109670,9 @@ pubertessna/TS
 pubertond/TS
 pubertà/TS
 public/T
+publica/T
 publicamaing/T
+publicas/T
 publicaziun/T
 publicaziuns/T
 publichada/TS
@@ -108983,6 +109990,7 @@ pulissast/TS
 pulissat/TS
 pulissna/TS
 pulit/T
+pulita/T
 pulitet/T
 pulitezza/T
 pulitezzas/T
@@ -109001,12 +110009,12 @@ pulizialas/T
 pulizialmaing/T
 pulizials/T
 pulizias/T
+puliziot/T
+puliziots/T
 pulizist/T
 pulizista/T
 pulizistas/T
 pulizists/T
-pulizot/T
-pulizots/T
 pullover/T
 pullovers/T
 pulmaints/T
@@ -109135,6 +110143,7 @@ pumpiers/T
 pumpna/TS
 pumpond/TS
 pumps/T
+pumpusas/T
 pumpà/TS
 punct/T
 punctada/TS
@@ -109371,14 +110380,19 @@ puolpa/T
 puolpas/T
 puolpetta/T
 puolpettas/T
+puolpusas/T
 puolvra/T
 puolvras/T
+puolvrusas/T
 puonch/T
 puoncha/T
 puonchs/T
+puondschan/T
 puondscher/TS
 puondschond/TS
+puondschà/TS
 puondschü/TS
+puondschüda/T
 puonera/T
 puoneras/T
 puongia/T
@@ -109436,6 +110450,8 @@ puot'la/TS
 puot/TS
 puota'l/TS
 puota/TQRSS
+puotachül/T
+puotachüla/T
 puotada/TS
 puotadas/TS
 puotai/TQRSS
@@ -109670,6 +110686,7 @@ pussants/T
 pussanza/T
 pussanzas/T
 pussibel/T
+pussibelmaing/T
 pussibels/T
 pussibiltada/TS
 pussibiltadas/TS
@@ -109714,6 +110731,7 @@ pussibiltessna/TS
 pussibiltond/TS
 pussibiltà/TS
 pussibla/T
+pussiblas/T
 pustüt/T
 put/T
 putasuolch/T
@@ -109957,6 +110975,7 @@ püpna/TS
 püpond/TS
 püpà/TS
 pür/T
+püra/T
 pürada/TS
 püradas/TS
 pürai/TQRSS
@@ -110193,6 +111212,7 @@ püzagal/T
 püzagals/T
 püzaingel/T
 püzaingels/T
+qchs/T
 qua/T
 quacagiar/TS
 quacagiond/TS
@@ -110308,6 +111328,8 @@ qualchedün/T
 qualchosa/T
 qualchosetta/T
 qualchün/T
+qualchünas/T
+qualchüns/T
 qualificativ/T
 qualificativa/T
 qualificativas/T
@@ -110498,6 +111520,7 @@ quietessna/TS
 quietezza/T
 quietezzas/T
 quietin/T
+quietina/T
 quietna/TS
 quietond/TS
 quiets/T
@@ -110824,6 +111847,7 @@ rabattessna/TS
 rabattin/T
 rabattins/T
 rabattond/TS
+rabattà/TS
 rabattü/TS
 rabattüda/TS
 rabattüdas/TS
@@ -110872,6 +111896,7 @@ rabgiantessna/TS
 rabgiantond/TS
 rabgiantà/TS
 rabgias/T
+rabgiusas/T
 rabiat/T
 rabiata/T
 rabiatamaing/T
@@ -111183,6 +112208,7 @@ racogliessat/TS
 racogliessna/TS
 racoglina/TS
 racogliond/TS
+racoglià/TS
 racolt/TS
 racolta/TS
 racoltas/TS
@@ -111948,6 +112974,7 @@ ragiundschibla/T
 ragiundschiblas/T
 ragiundschna/TS
 ragiundschond/TS
+ragiundschà/TS
 ragiunt/TS
 ragiunta/TS
 ragiuntas/TS
@@ -112093,8 +113120,21 @@ raitinulas/T
 raits/T
 raiun/T
 raiuns/T
+raiv'la/TS
 raiv/TS
-raiver/TS
+raiva'l/TS
+raiva/TQRSS
+raivan/TS
+raivast/TS
+raivat/TS
+raiver/TQRSS
+raivna/TS
+raivond/TS
+raivà/TS
+raivü/TS
+raivüda/TS
+raivüdas/TS
+raivüts/TS
 raj'la/TS
 raj/T
 raja'l/TS
@@ -112139,6 +113179,7 @@ rajessat/TS
 rajessna/TS
 rajna/TS
 rajond/TS
+rajs/T
 rajà/TS
 raket/T
 raketa/T
@@ -112309,6 +113350,7 @@ ramassa/TQRSS
 ramassaballas/T
 ramassada/TS
 ramassadas/TS
+ramassader/T
 ramassadra/T
 ramassadras/T
 ramassai/TQRSS
@@ -112364,6 +113406,7 @@ ramessan/TS
 ramessast/TS
 ramessat/TS
 ramessna/TS
+ramieut/T
 ramieuta/T
 ramieutas/T
 ramificaziun/T
@@ -112466,7 +113509,6 @@ rampignarà/TS
 rampignast/TS
 rampignat/TS
 rampignats/TS
-rampigner/TQRSS
 rampigness'la/TS
 rampigness/TS
 rampignessa'l/TS
@@ -112855,6 +113897,7 @@ ranuogliada/T
 ranuogliadas/T
 ranuogls/T
 ranver/T
+ranvera/T
 ranveria/T
 ranvers/T
 ranvra/T
@@ -113304,6 +114347,7 @@ rasarat/TS
 rasarà'l/TS
 rasarà'la/TS
 rasarà/TS
+rasas/T
 rasast/TS
 rasat/TS
 rasats/TS
@@ -113356,6 +114400,7 @@ raschlunza/T
 raschlunzas/T
 raschlunzs/T
 raschlà/TS
+raschusas/T
 rasdella/T
 rasdellas/T
 rasdiv/T
@@ -115281,6 +116326,7 @@ recugnuoschast/TS
 recugnuoschat/TS
 recugnuoscher/TQRSS
 recugnuoschna/TS
+recugnuoschà/TS
 recugnuschai/TQRSS
 recugnuschain/TS
 recugnuschaina/TS
@@ -115423,6 +116469,7 @@ recuorrarà/TS
 recuorrast/TS
 recuorrat/TS
 recuorrer/TQRSS
+recuorrà/TS
 recuors/T
 recuperada/TS
 recuperadas/TS
@@ -115513,6 +116560,7 @@ redaivelmaing/T
 redaivels/T
 redaivla/T
 redaivlas/T
+redan/T
 redentur/T
 redig'la/TS
 redig/TS
@@ -115555,6 +116603,7 @@ redigivast/TS
 redigivat/TS
 redigivna/TS
 redigna/TS
+redigà/TS
 redimensiunada/TS
 redimensiunadas/TS
 redimensiunai/TQRSS
@@ -115692,6 +116741,7 @@ redschissuras/T
 redschissurs/T
 redschna/TS
 redschond/TS
+redschà/TS
 redschü/TS
 redschüda/TS
 redschüdas/TS
@@ -115744,6 +116794,7 @@ reducibel/T
 reducibels/T
 reducibla/T
 reduciblas/T
+reducir/T
 reducziun/T
 reducziuns/T
 reduplicaziun/T
@@ -115790,7 +116841,6 @@ reduplichessat/TS
 reduplichessna/TS
 reduplichond/TS
 reduplichà/TS
-reduzir/T
 redü'la/TS
 redü/T
 redüa'l/TS
@@ -115835,6 +116885,7 @@ redüt/TS
 redüts/TS
 redütta/TS
 redüttas/TS
+redüà/TS
 reedi/TQRSS
 reedida/TS
 reedidas/TS
@@ -115964,6 +117015,7 @@ reelegibels/T
 reelegibla/T
 reelegiblas/T
 reelegiond/TS
+reelegà/TS
 reelet/TS
 reelets/TS
 reeletta/TS
@@ -116274,6 +117326,7 @@ refuormond/TS
 refuormà/TS
 refurnimaint/T
 refurnimaints/T
+refà/TS
 refügesc'la/TS
 refügesch/TS
 refügescha'l/TS
@@ -117032,6 +118085,8 @@ reinstituivat/TS
 reinstituivna/TS
 reintegraziun/T
 reintegraziuns/T
+reintrodrüt/T
+reintrodrütta/T
 reintroducziun/T
 reintroducziuns/T
 reintrodü'la/TS
@@ -117077,6 +118132,7 @@ reintrodüt/TS
 reintrodüts/TS
 reintrodütta/TS
 reintrodüttas/TS
+reintrodüà/TS
 reivna/T
 reivnas/T
 relais/T
@@ -117323,6 +118379,7 @@ relievs/T
 religiun/T
 religiuns/T
 religiusamaing/T
+religiusas/T
 religiusitats/T
 religiusità/T
 reliquia/T
@@ -117516,6 +118573,7 @@ remettessast/TS
 remettessat/TS
 remettessna/TS
 remettond/TS
+remettà/TS
 reminent/T
 reminents/T
 reminiscenza/T
@@ -117724,6 +118782,7 @@ rendita/T
 renditas/T
 rendna/TS
 rendond/TS
+rendà/TS
 rendü/TS
 rendüda/TS
 rendüdas/TS
@@ -118260,6 +119319,7 @@ repetivna/TS
 repetiziun/T
 repetiziuns/T
 repetna/TS
+repetà/TS
 replica/T
 replicas/T
 replich'la/TS
@@ -118537,6 +119597,7 @@ reprodüt/TS
 reprodüts/TS
 reprodütta/TS
 reprodüttas/TS
+reprodüà/TS
 reptil/T
 reptils/T
 republica/T
@@ -119029,6 +120090,7 @@ resistivast/TS
 resistivat/TS
 resistivna/TS
 resistna/TS
+resistà/TS
 resocialisada/TS
 resocialisadas/TS
 resocialisai/TQRSS
@@ -119124,6 +120186,7 @@ resolvessat/TS
 resolvessna/TS
 resolvna/TS
 resolvond/TS
+resolvà/TS
 resonanza/T
 resonanzas/T
 resorbaiva/TS
@@ -119259,6 +120322,7 @@ resplender/TS
 resplendess/TS
 resplendessan/TS
 resplendond/TS
+resplendà/TS
 resplendü/TS
 responsori/T
 responsoris/T
@@ -119312,6 +120376,7 @@ respuondider/T
 respuondiders/T
 respuondna/TS
 respuondond/TS
+respuondà/TS
 respus/TS
 respusa/TS
 respusas/TS
@@ -119450,6 +120515,7 @@ restessan/TS
 restessast/TS
 restessat/TS
 restessna/TS
+restistent/T
 restitui/TQRSS
 restituida/TS
 restituidas/TS
@@ -119589,6 +120655,7 @@ restrendschessat/TS
 restrendschessna/TS
 restrendschna/TS
 restrendschond/TS
+restrendschà/TS
 restret/TS
 restrets/TS
 restretta/TS
@@ -119821,6 +120888,7 @@ retegnat/TS
 retegner/PTQRSS
 retegnna/TS
 retegns/T
+retegnà/TS
 retgnai/TQRSS
 retgnain/TS
 retgnaina/TS
@@ -119857,6 +120925,7 @@ retgnüda/TS
 retgnüdas/TS
 retgnüts/TS
 retic/T
+retica/T
 reticla/T
 reticlas/T
 reticul/T
@@ -119923,6 +120992,7 @@ retorics/T
 retorta/T
 retortas/T
 retorumantsch/T
+retorumantscha/T
 retorumantschs/T
 retrai/TQRSS
 retrain/TS
@@ -119977,6 +121047,7 @@ retrospectivmaing/T
 retrospectivs/T
 retrovisur/T
 retrovisurs/T
+retrà/TS
 retschaiv'la/TS
 retschaiv/TS
 retschaiva'l/TS
@@ -119988,6 +121059,7 @@ retschaiver/TQRSS
 retschaivimaint/T
 retschaivimaints/T
 retschaivna/TS
+retschaivà/TS
 retscherch'la/TS
 retscherch/TS
 retschercha'l/TS
@@ -120067,6 +121139,7 @@ retschevond/TS
 retschevü/TS
 retschevüda/TS
 retschevüdas/TS
+retschevüder/T
 retschevüdra/T
 retschevüts/TS
 retuorn'la/TS
@@ -120308,6 +121381,7 @@ revedivast/TS
 revedivat/TS
 revedivna/TS
 revedna/TS
+revedà/TS
 reveg'la/TS
 revegn'l/TS
 revegn/TS
@@ -120406,6 +121480,7 @@ revendita/T
 revenditas/T
 revendna/TS
 revendond/TS
+revendà/TS
 revendü/TS
 revendüda/TS
 revendüdas/TS
@@ -120901,6 +121976,7 @@ rigera/T
 rigur/T
 rigurs/T
 rigurusamaing/T
+rigurusas/T
 rigurusitats/T
 rigurusità/T
 rim'la/TS
@@ -121413,6 +122489,7 @@ ris-chessna/TS
 ris-chna/TS
 ris-chond/TS
 ris-chs/T
+ris-chuossas/T
 ris-chà/TS
 ris/TS
 risa/TS
@@ -121693,6 +122770,7 @@ rizza/T
 rizzas/T
 rizziana/T
 rizzianas/T
+rià/TS
 riöz/T
 riözs/T
 roba/T
@@ -121864,6 +122942,7 @@ roman/T
 romana/T
 romanamaing/T
 romanas/T
+romanic/T
 romanica/T
 romanisada/TS
 romanisadas/TS
@@ -121937,6 +123016,7 @@ romificaziuns/T
 romma/T
 rommas/T
 roms/T
+romusas/T
 rona/T
 ronas/T
 roncal/T
@@ -122235,6 +123315,7 @@ ruinessat/TS
 ruinessna/TS
 ruinna/TS
 ruinond/TS
+ruinusas/T
 ruinà/TS
 rulada/T
 ruladas/T
@@ -122292,6 +123373,7 @@ rumagnessast/TS
 rumagnessat/TS
 rumagnessna/TS
 rumagnond/TS
+rumagnà/TS
 rumagnü/TS
 rumagnüda/TS
 rumagnüdas/TS
@@ -122493,6 +123575,7 @@ ruminessast/TS
 ruminessat/TS
 ruminessna/TS
 ruminond/TS
+ruminuossas/T
 ruminà/TS
 ruminöz/T
 ruminözs/T
@@ -122595,6 +123678,7 @@ rumpessat/TS
 rumpessna/TS
 rumpna/TS
 rumpond/TS
+rumpà/TS
 rums/T
 rumstec/T
 rumstecs/T
@@ -122746,6 +123830,7 @@ runzöls/T
 runà/TS
 ruogna/T
 ruognas/T
+ruognusas/T
 ruoi/TS
 ruoia/TS
 ruoj'la/TS
@@ -122785,6 +123870,7 @@ ruojessat/TS
 ruojessna/TS
 ruojna/TS
 ruojond/TS
+ruojà/TS
 ruojöz/T
 ruojözs/T
 ruos-ch/T
@@ -122967,6 +124053,8 @@ ruslignaivast/TS
 ruslignaivat/TS
 ruslignaivna/TS
 ruslignan/TS
+ruslignant/T
+ruslignanta/T
 ruslignar/TQRSS
 ruslignarai/TQRSS
 ruslignaraja/TS
@@ -123174,6 +124262,7 @@ s'accumodaivat/TS
 s'accumplivat/TS
 s'achampaivat/TS
 s'achasaivat/TS
+s'achüsa/T
 s'acquistaivat/TS
 s'adegnaivat/TS
 s'adressaivat/TS
@@ -123219,6 +124308,7 @@ s'imaginaivat/TS
 s'imbarchaivat/TS
 s'imbattaivat/TS
 s'imbismivat/TS
+s'imbroda/T
 s'imbrodaivat/TS
 s'imbrünivat/TS
 s'immatriculaivat/TS
@@ -123695,6 +124785,8 @@ s-chalins/T
 s-chalinà/TS
 s-chalitaria/T
 s-chalitarias/T
+s-chaliter/T
+s-chalitera/T
 s-chaliz/TS
 s-chalizna/TS
 s-chalizz'la/TS
@@ -123943,6 +125035,7 @@ s-chamgia'l/TS
 s-chamgia/TQRSS
 s-chamgiada/TS
 s-chamgiadas/TS
+s-chamgiader/T
 s-chamgiadra/T
 s-chamgiadras/T
 s-chamgiai/TQRSS
@@ -124146,11 +125239,14 @@ s-chandalisessat/TS
 s-chandalisessna/TS
 s-chandalisond/TS
 s-chandalisà/TS
+s-chandalusas/T
 s-chandel/T
 s-chandela/T
 s-chandelas/T
 s-chandella/T
 s-chandellas/T
+s-chandeller/T
+s-chandellera/T
 s-chandels/T
 s-chandler/T
 s-chandlers/T
@@ -124529,6 +125625,8 @@ s-chargiat/TS
 s-chargiats/TS
 s-chargiessan/TS
 s-chargiond/TS
+s-chargiunz/T
+s-chargiunza/T
 s-chargià/TS
 s-chargna/TS
 s-chargs/T
@@ -124588,6 +125686,7 @@ s-charp'la/TS
 s-charp/TS
 s-charpa'l/TS
 s-charpa/TQRSS
+s-charpabel/T
 s-charpabla/T
 s-charpada/TS
 s-charpadas/TS
@@ -124743,6 +125842,7 @@ s-charpunas/T
 s-charpà/TS
 s-charpütschar/T
 s-chars/T
+s-charsa/T
 s-charsdats/T
 s-charsdà/T
 s-charsella/T
@@ -125100,6 +126200,8 @@ s-chavessan/TS
 s-chavessast/TS
 s-chavessat/TS
 s-chavessna/TS
+s-chavez/T
+s-chavezza/T
 s-chavigl/T
 s-chavigls/T
 s-chavina/T
@@ -125169,11 +126271,14 @@ s-cherpa/T
 s-cherpas/T
 s-cherpet/T
 s-cherps/T
+s-chet/T
+s-chetta/T
 s-chettezza/T
 s-chettezzas/T
 s-chif/T
 s-chiffus/T
 s-chiffusamaing/T
+s-chiffusas/T
 s-chifs/T
 s-chiluozza/T
 s-chiluozzas/T
@@ -125195,6 +126300,8 @@ s-chimaivast/TS
 s-chimaivat/TS
 s-chimaivna/TS
 s-chiman/TS
+s-chimant/T
+s-chimanta/T
 s-chimar/TQRSS
 s-chimarai/TQRSS
 s-chimaraja/TS
@@ -125223,6 +126330,8 @@ s-chimessat/TS
 s-chimessna/TS
 s-chimna/TS
 s-chimond/TS
+s-chimus/T
+s-chimusa/T
 s-chimà/TS
 s-chivi/TQRSS
 s-chivida/TS
@@ -125269,10 +126378,12 @@ s-chod'la/TS
 s-chod/TS
 s-choda'l/TS
 s-choda/TQRSS
+s-chodabel/T
 s-chodabla/T
 s-chodacoppas/T
 s-chodada/TS
 s-chodadas/TS
+s-chodader/T
 s-chodadra/T
 s-chodadras/T
 s-chodai/TQRSS
@@ -125327,6 +126438,8 @@ s-chonvast/TS
 s-chonvat/TS
 s-chonvna/TS
 s-chüd/T
+s-chüdier/T
+s-chüdiera/T
 s-chüdlada/T
 s-chüdladas/T
 s-chüdlera/T
@@ -125336,6 +126449,7 @@ s-chüers/T
 s-chüf/T
 s-chüfs/T
 s-chür/T
+s-chüra/T
 s-chüraglia/T
 s-chüraglias/T
 s-chüraint'la/TS
@@ -125395,6 +126509,7 @@ s-chüs'la/TS
 s-chüs/TS
 s-chüsa'l/TS
 s-chüsa/TQRSS
+s-chüsabel/T
 s-chüsabla/T
 s-chüsada/TS
 s-chüsadas/TS
@@ -125593,6 +126708,8 @@ sabotessat/TS
 sabotessna/TS
 sabotond/TS
 sabotà/TS
+sabotör/T
+sabotöra/T
 saccag'la/TS
 saccag/TS
 saccagess'la/TS
@@ -125796,6 +126913,7 @@ sadulond/TS
 sadulà/TS
 saduol/T
 saduola/T
+saduolan/T
 saduolas/T
 saduols/T
 safir/T
@@ -126598,6 +127716,7 @@ sanguinicras/T
 sanguiniker/T
 sanguinikers/T
 sanguinond/TS
+sanguinusas/T
 sanguinà/TS
 sangura/T
 sanguras/T
@@ -126629,6 +127748,8 @@ santifichaivan/TS
 santifichaivast/TS
 santifichaivat/TS
 santifichaivna/TS
+santifichant/T
+santifichanta/T
 santifichar/TQRSS
 santificharai/TQRSS
 santificharaja/TS
@@ -126712,11 +127833,15 @@ sapchast/TQRSS
 sapchat/TQRSS
 sapchüda/T
 sapchüdas/T
+sapiaint/T
+sapiainta/T
 sapienza/T
 sapienzas/T
 sapperlot/T
 sapperlotina/T
 sapperment/T
+sappör/T
+sappöra/T
 sapristina/T
 sar/T
 sarabanda/T
@@ -126971,6 +128096,9 @@ satisfetschast/TS
 satisfetschat/TS
 satisfna/TS
 satisfond/TS
+satisfà/TS
+satschin/T
+satschina/T
 saturegia/T
 saturn/T
 saturns/T
@@ -127153,7 +128281,9 @@ savurinas/T
 savurna/TS
 savurond/TS
 savurs/T
+savurusas/T
 savurà/TS
+savà/TS
 savü/TS
 savüda/TS
 savüdas/TS
@@ -127489,6 +128619,7 @@ sbajocs/T
 sbalinzcha/T
 sbalinzchar/T
 sbalinzchas/T
+sbaloccan/T
 sbaloccar/TS
 sbaloccond/TS
 sbaloccà/TS
@@ -128037,6 +129168,7 @@ sbatticocs/T
 sbattin/T
 sbattins/T
 sbattond/TS
+sbattà/TS
 sbattü/TS
 sbattüda/TS
 sbattüdas/TS
@@ -128132,13 +129264,37 @@ sbavunza/T
 sbavunzas/T
 sbavunzs/T
 sbavus/T
+sbavusas/T
 sbavà/TS
 sbegal/T
+sbegals/T
+sbegl'la/TS
+sbegl'na/TS
+sbegla'l/TS
+sbegla/TS
+sbeglaiv'la/TS
+sbeglaiva'l/TS
+sbeglaiva/TS
+sbeglaivan/TS
+sbeglaivna/TS
+sbeglan/TS
+sbeglar/TS
+sbeglaran/TS
+sbeglarana/TS
+sbeglarà'l/TS
+sbeglarà'la/TS
+sbeglarà/TS
+sbegless'la/TS
+sbegless/TS
+sbeglessa'l/TS
+sbeglessan/TS
+sbeglessna/TS
+sbeglond/TS
 sbeglunz/T
 sbeglunza/T
 sbeglunzas/T
 sbeglunzs/T
-sbeglà/T
+sbeglà/TS
 sbeglöz/T
 sbeglözs/T
 sbergal/T
@@ -128260,6 +129416,7 @@ sblachida/TS
 sblachidas/TS
 sblachind/TS
 sblachir/TS
+sblachischan/T
 sblachits/TS
 sblachs/T
 sblavütsch'la/TS
@@ -128829,6 +129986,7 @@ sbregun/T
 sbreguna/T
 sbregunas/T
 sbreguns/T
+sbregusas/T
 sbrinz/T
 sbrinzla/T
 sbrinzlada/T
@@ -128900,6 +130058,7 @@ sbrüjiss/TS
 sbrüjissan/TS
 sbrüjiva/TS
 sbrüjivan/TS
+sbrüjs/T
 sbrüun/T
 sbrüuns/T
 sbuatscha/TS
@@ -129051,6 +130210,8 @@ sbuorflna/TS
 sbuorflond/TS
 sbuorflà/TS
 sbuorflöz/T
+sbuorflü/T
+sbuorflüda/T
 sbuorfs/T
 sbuorna/TS
 sbuorr'la/TS
@@ -129537,6 +130698,7 @@ scader/TS
 scadess/TS
 scadessan/TS
 scadond/TS
+scadà/TS
 scadü/TS
 scadüda/TS
 scadüdas/TS
@@ -129916,6 +131078,8 @@ scharmantamaing/T
 scharmantas/T
 scharmants/T
 scharms/T
+scharmör/T
+scharmöra/T
 scharnier/T
 scharniers/T
 scharpa/T
@@ -130052,9 +131216,13 @@ schaschunessna/TS
 schaschunna/TS
 schaschunond/TS
 schaschunà/TS
+schaschögn/T
+schaschögna/T
 schaschögnar/T
 schaschügl/T
 schassis/T
+schassör/T
+schassöra/T
 schatr'la/TS
 schatr/TS
 schatra'l/TS
@@ -130122,6 +131290,8 @@ schegnas/T
 schel/T
 schelatina/T
 schelatinas/T
+schelatinusas/T
+schelatusas/T
 schelmaria/T
 schelmarias/T
 schels/T
@@ -130474,6 +131644,7 @@ schicanessat/TS
 schicanessna/TS
 schicanna/TS
 schicanond/TS
+schicanuossas/T
 schicanà/TS
 schicanöz/T
 schicanözs/T
@@ -130573,6 +131744,7 @@ schieschla/T
 schieschlas/T
 schieua/T
 schieuas/T
+schigliusas/T
 schigliusia/T
 schigliusias/T
 schilafai/T
@@ -131591,6 +132763,7 @@ schligerivat/TS
 schligerivna/TS
 schlina/TS
 schlinch/T
+schlincha/T
 schlingia/T
 schlingias/T
 schliond/TS
@@ -132246,6 +133419,7 @@ schlöppins/T
 schlöppun/T
 schlöppuns/T
 schlöps/T
+schlüfer/T
 schlüfr'la/TS
 schlüfr/TS
 schlüfra'l/TS
@@ -132288,6 +133462,8 @@ schlüfressat/TS
 schlüfressna/TS
 schlüfrna/TS
 schlüfrond/TS
+schlüfrunz/T
+schlüfrunza/T
 schlüfrà/TS
 schlüra/T
 schmach'la/TS
@@ -132698,6 +133874,8 @@ schmanzögnessat/TS
 schmanzögnessna/TS
 schmanzögnna/TS
 schmanzögnond/TS
+schmanzögnunz/T
+schmanzögnunza/T
 schmanzögnà/TS
 schmanà/TS
 schmanüz/TS
@@ -132897,7 +134075,10 @@ schmascrna/TS
 schmascrond/TS
 schmascrà/TS
 schmasüra/T
+schmasürabel/T
+schmasürabels/T
 schmasürabla/T
+schmasürablas/T
 schmasüradamaing/T
 schmasüraivel/T
 schmasüraivels/T
@@ -133070,6 +134251,7 @@ schmerdschessat/TS
 schmerdschessna/TS
 schmerdschna/TS
 schmerdschond/TS
+schmerdschà/TS
 schmerdà/TS
 schmerigl'la/TS
 schmerigl/TS
@@ -133201,6 +134383,7 @@ schmettessast/TS
 schmettessat/TS
 schmettessna/TS
 schmettond/TS
+schmettà/TS
 schmez/TS
 schmezna/TS
 schmezz'la/TS
@@ -133286,6 +134469,7 @@ schmiclessat/TS
 schmiclessna/TS
 schmiclna/TS
 schmiclond/TS
+schmicluossas/T
 schmiclà/TS
 schmierla/T
 schmierlas/T
@@ -134633,6 +135817,7 @@ schockessna/TS
 schockina/T
 schockinas/T
 schocs/T
+schofför/T
 schoffösa/T
 schoffösas/T
 schogl/TS
@@ -134681,6 +135866,8 @@ schoglimaint/T
 schoglimaints/T
 schoglina/TS
 schogliond/TS
+schoglià/TS
+schogn/T
 scholt/TS
 scholta/TS
 scholtas/TS
@@ -134727,6 +135914,8 @@ schonglessat/TS
 schonglessna/TS
 schonglond/TS
 schonglà/TS
+schonglör/T
+schonglöra/T
 schoppa/T
 schoppas/T
 schorfnada/TS
@@ -134775,6 +135964,7 @@ schorlet/T
 schorlets/T
 schotla/T
 schotlas/T
+schotlusas/T
 schottisch/T
 schottischs/T
 schovinissem/T
@@ -135891,6 +137081,7 @@ scorzond/TS
 scorzà/TS
 scossa/T
 scossas/T
+scot/T
 scotta/T
 scottas/T
 scoud'la/TS
@@ -135931,6 +137122,7 @@ scoudessat/TS
 scoudessna/TS
 scoudna/TS
 scoudond/TS
+scoudà/TS
 scoul/TS
 scoula/T
 scoulas/T
@@ -136161,6 +137353,8 @@ scriblottond/TS
 scriblottà/TS
 scriblottöz/T
 scriblottözs/T
+scriblotunz/T
+scriblotunza/T
 scrich'la/TS
 scrich/TS
 scricha'l/TS
@@ -136362,6 +137556,7 @@ scrivna/TS
 scrivond/TS
 scrivonda/T
 scrivondas/T
+scrivà/TS
 scroc/TS
 scroca/TS
 scrocas/T
@@ -136544,7 +137739,10 @@ scruoschs/T
 scruoschöz/T
 scrupel/T
 scrupels/T
+scrupulus/T
+scrupulusa/T
 scrupulusamaing/T
+scrupulusas/T
 scrupulusitats/T
 scrupulusità/T
 scrutin'la/TS
@@ -136805,6 +138003,7 @@ scudna/TS
 scudond/TS
 scudunza/T
 scudunzas/T
+scudà/TS
 scuess'la/TS
 scuess/TS
 scuessa'l/TS
@@ -136948,6 +138147,7 @@ scugnuoschast/TS
 scugnuoschat/TS
 scugnuoscher/TQRSS
 scugnuoschna/TS
+scugnuoschà/TS
 scugnuschai/TQRSS
 scugnuschain/TS
 scugnuschaina/TS
@@ -137188,6 +138388,7 @@ scumettessast/TS
 scumettessat/TS
 scumettessna/TS
 scumettond/TS
+scumettà/TS
 scumiss/TS
 scumissa/TS
 scumissas/TS
@@ -137307,6 +138508,7 @@ scumpuoniss/TS
 scumpuonissan/TS
 scumpuoniva/TS
 scumpuonivan/TS
+scumpuonà/TS
 scumpuonü/TS
 scumpuonüda/TS
 scumpuonüdas/TS
@@ -137879,6 +139081,8 @@ scuvrivan/TS
 scuvrivast/TS
 scuvrivat/TS
 scuvrivna/TS
+scuz/T
+scuzza/T
 scuzzarlan/T
 scuzzarlana/T
 scuzzarlanamaing/T
@@ -137894,7 +139098,7 @@ sdaintar/TS
 sdaintast/TS
 sdaintat/TS
 sdaintna/TS
-sdaintà/T
+sdaintà/TS
 sdaisd'la/TS
 sdaisd/TS
 sdaisda'l/TS
@@ -138102,6 +139306,8 @@ sdegnessna/TS
 sdegnna/TS
 sdegnond/TS
 sdegns/T
+sdegnuossa/T
+sdegnuossas/T
 sdegnà/TS
 sdi/TQRSS
 sdia/TS
@@ -138658,6 +139864,8 @@ seccaivna/TS
 seccan/TS
 seccanda/T
 seccandas/T
+seccant/T
+seccanta/T
 seccar/TQRSS
 seccarai/TQRSS
 seccaraja/TS
@@ -138676,6 +139884,7 @@ seccond/TS
 seccà/TS
 secessiun/T
 secessiuns/T
+sech/T
 secha/T
 sechaditsch/T
 sechaditscha/T
@@ -138918,6 +140127,7 @@ segna'l/TS
 segna/TQRSS
 segnada/TS
 segnadas/TS
+segnader/T
 segnadra/T
 segnadras/T
 segnai/TQRSS
@@ -139001,6 +140211,7 @@ seguissan/TS
 seguissast/TS
 seguissat/TS
 seguissna/TS
+seguit/T
 seguitada/TS
 seguitadas/TS
 seguitai/TQRSS
@@ -139250,6 +140461,7 @@ semnna/TS
 semnond/TS
 semnà/TS
 sempitern/T
+sempiterna/T
 sempules/T
 sempulè/T
 sems/T
@@ -139344,6 +140556,7 @@ sensitiv/T
 sensitiva/T
 sensitivamaing/T
 sensitivas/T
+sensitivmaing/T
 sensitivs/T
 sensori/T
 sensoric/T
@@ -139650,6 +140863,7 @@ seria/T
 serias/T
 serigrafia/T
 seriusamaing/T
+seriusas/T
 seriusitats/T
 seriusità/T
 serna/TS
@@ -139967,6 +141181,7 @@ sezzüda/T
 sezzüdas/T
 sf'la/TS
 sfa'l/TS
+sfa'la/TS
 sfa/TQRSS
 sfadi'la/TS
 sfadi/TS
@@ -140009,9 +141224,11 @@ sfadiessat/TS
 sfadiessna/TS
 sfadina/TS
 sfadiond/TS
+sfadiusas/T
 sfadià/TS
 sfagliada/T
 sfagliadas/T
+sfai/TQRSS
 sfain/TS
 sfaina/TS
 sfais/TS
@@ -140027,7 +141244,8 @@ sfalizchas/T
 sfalizza/T
 sfalizzas/T
 sfan/TS
-sfar/TQRSS
+sfana/TS
+sfar/PTQRSS
 sfarai/TQRSS
 sfaraja/TS
 sfaran/TS
@@ -140290,6 +141508,7 @@ sfendibla/T
 sfendiblas/T
 sfendna/TS
 sfendond/TS
+sfenduossas/T
 sfendà/TS
 sfera/T
 sferas/T
@@ -140342,7 +141561,6 @@ sferressna/TS
 sferrond/TS
 sferrà/TS
 sferulit/T
-sferza/T
 sfess'la/TS
 sfess/TS
 sfessa'l/TS
@@ -140359,6 +141577,7 @@ sfessna/TS
 sfetsch/TS
 sfetscha/TS
 sfetschan/TS
+sfetschas/TS
 sfetschast/TS
 sfetschat/TS
 sfibl'la/TS
@@ -140445,6 +141664,7 @@ sfidessat/TS
 sfidessna/TS
 sfidna/TS
 sfidond/TS
+sfiduossas/T
 sfidà/TS
 sfigürada/TS
 sfigüradas/TS
@@ -141235,6 +142455,7 @@ sfriclessna/TS
 sfriclins/T
 sfriclna/TS
 sfriclond/TS
+sfricluossas/T
 sfriclà/TS
 sfrign'la/TS
 sfrign/TS
@@ -141823,6 +143044,7 @@ sfuriada/T
 sfuriadas/T
 sfurmicla/TS
 sfurmiclaiva/TS
+sfurmiclan/T
 sfurmiclar/TS
 sfurmiclarà/TS
 sfurmicless/TS
@@ -141880,6 +143102,7 @@ sfuschignöza/T
 sfuschignözas/T
 sfuschignözs/T
 sfuà/TS
+sfà/TS
 sfögl'la/TS
 sfögl/TS
 sföglia'l/TS
@@ -142251,6 +143474,7 @@ sgiarbazs/T
 sgiarbinella/T
 sgiarbinellas/T
 sgiargiat/T
+sgiargiats/T
 sgiargiattada/T
 sgiargiattadas/T
 sgiargiattöz/T
@@ -142339,6 +143563,7 @@ sgiazzinà/TS
 sgiazzond/TS
 sgiazzà/TS
 sgiond/TS
+sgiribiz/T
 sgiunt/TS
 sgiunta/TS
 sgiuntas/TS
@@ -142381,6 +143606,7 @@ sgiuondschessat/TS
 sgiuondschessna/TS
 sgiuondschna/TS
 sgiuondschond/TS
+sgiuondschà/TS
 sgiuondschü/T
 sgià/TS
 sglatsch'la/TS
@@ -142930,6 +144156,7 @@ sgrattunas/T
 sgrattuns/T
 sgrattà/TS
 sgrembel/T
+sgrembels/T
 sgrembla/T
 sgremblar/T
 sgremblas/T
@@ -143029,6 +144256,7 @@ sgrischna/TS
 sgrischs/T
 sgrischur/T
 sgrischurs/T
+sgrischusas/T
 sgrizch'la/TS
 sgrizch/TS
 sgrizcha'l/TS
@@ -143167,6 +144395,7 @@ sgrommessna/TS
 sgrommond/TS
 sgrommà/TS
 sgromna/TS
+sgrot/T
 sgruflign'la/TS
 sgruflign/TS
 sgrufligna'l/TS
@@ -143938,6 +145167,7 @@ shorts/T
 show/T
 shows/T
 sia/T
+siamesas/T
 siand/T
 sias/T
 sibbaldia/T
@@ -144242,6 +145472,7 @@ silena/T
 silenas/T
 silenzi/T
 silenzis/T
+silenziusas/T
 silesch'la/TS
 silesch/TS
 silescha'l/TS
@@ -145158,6 +146389,7 @@ socialists/T
 socialisà/TS
 socialitats/T
 socialità/T
+socialmaing/T
 socials/T
 socias/T
 societari/T
@@ -145181,6 +146413,8 @@ socius/T
 soda/T
 sodas/T
 sodomia/T
+sodomit/T
+sodomita/T
 sofa/T
 sofas/T
 soffalin/T
@@ -145430,6 +146664,7 @@ solventas/T
 solvents/T
 solvenza/T
 solvenzas/T
+solà/TS
 som/TS
 soma/T
 somas/T
@@ -146159,6 +147394,7 @@ spargns/T
 spargnuosezza/T
 spargnuosezzas/T
 spargnuossamaing/T
+spargnuossas/T
 spargnà/TS
 sparir/T
 sparits/T
@@ -146422,14 +147658,21 @@ spaventessat/TS
 spaventessna/TS
 spaventond/TS
 spavents/T
+spaventusas/T
 spaventà/TS
 spaz/TS
 spaza/T
 spazas/T
 spazi/T
+spazial/T
+spaziala/T
+spazialas/T
+spazialmaing/T
+spazials/T
 spazis/T
 spaziunader/T
 spaziunaders/T
+spaziusas/T
 spaziusitats/T
 spaziusità/T
 spazna/TS
@@ -146748,6 +147991,7 @@ spelessna/TS
 spelm/T
 spelma/T
 spelms/T
+spelmusas/T
 spelna/TS
 spelond/TS
 spelta/T
@@ -146848,6 +148092,7 @@ spendressna/TS
 spendrna/TS
 spendrond/TS
 spendrà/TS
+spendà/TS
 spenn'la/TS
 spenna'l/TS
 spenna/TQRSS
@@ -147043,6 +148288,7 @@ spermalond/TS
 spermals/T
 spermaluosezza/T
 spermaluosezzas/T
+spermaluossas/T
 spermalà/TS
 spermas/T
 spermatogenesa/T
@@ -147062,10 +148308,12 @@ spertezzas/T
 sperts/T
 sperà/TS
 spess/T
+spessa/T
 spessagl/T
 spessaglia/T
 spessaglias/T
 spessagls/T
+spessas/T
 spessezza/T
 spessezzas/T
 spessüra/T
@@ -147306,7 +148554,7 @@ spiglunz/T
 spiglunza/T
 spiglunzas/T
 spiglunzs/T
-spiglà/T
+spiglà/TS
 spig|l'la/TS
 spig|l/TS
 spig|la'l/TS
@@ -147406,6 +148654,8 @@ spinna/TS
 spinond/TS
 spinoz/T
 spinozs/T
+spinusas/T
+spinzchusas/T
 spinà/TS
 spiragl/T
 spiragls/T
@@ -147477,6 +148727,7 @@ spiritualisond/TS
 spiritualisà/TS
 spirituals/T
 spirituosas/T
+spiritusas/T
 spiriver/T
 spirivera/T
 spiriveras/T
@@ -147529,6 +148780,7 @@ spisgiantessast/TS
 spisgiantessat/TS
 spisgiantessna/TS
 spisgiantond/TS
+spisgiantusas/T
 spisgiantà/TS
 spital/T
 spitals/T
@@ -148286,6 +149538,7 @@ spondil/T
 spondils/T
 spondna/TS
 spondond/TS
+spondà/TS
 spons/TS
 sponsa/TS
 sponsas/TS
@@ -148432,6 +149685,7 @@ spordschessat/TS
 spordschessna/TS
 spordschna/TS
 spordschond/TS
+spordschà/TS
 sporozoa/T
 sporozoas/T
 sport/T
@@ -148843,6 +150097,7 @@ spuglinan/TS
 spuglinar/TS
 spuglinaran/TS
 spuglinarà/TS
+spuglinats/T
 spugliness/TS
 spuglinessan/TS
 spuglinond/TS
@@ -148902,6 +150157,7 @@ spunghitschs/T
 spunsals/T
 spuntà/T
 spuolar/TS
+spuolats/T
 spuolond/TS
 spuolp'la/TS
 spuolp/TS
@@ -149655,6 +150911,7 @@ squitta'l/TS
 squitta/TQRSS
 squittada/TS
 squittadas/TS
+squittader/T
 squittadra/T
 squittadras/T
 squittai/TQRSS
@@ -150510,6 +151767,8 @@ stampessna/TS
 stampliar/T
 stampna/TS
 stampond/TS
+stamprada/T
+stamprà/T
 stampà/TS
 stan/TS
 stana/TS
@@ -150649,6 +151908,7 @@ stanglantessast/TS
 stanglantessat/TS
 stanglantessna/TS
 stanglantond/TS
+stanglantusas/T
 stanglantà/TS
 stanglantüm/T
 stanglantüms/T
@@ -150748,6 +152008,8 @@ stantivamaing/T
 stantivas/T
 stantivs/T
 stantond/TS
+stantusa/T
+stantusas/T
 stantà/TS
 stanza/T
 stanzas/T
@@ -151036,6 +152298,7 @@ stelza/T
 stelzas/T
 stemplà/T
 sten/T
+stena/T
 stend'la/TS
 stend/TS
 stenda'l/TS
@@ -151164,6 +152427,8 @@ stendschessat/TS
 stendschessna/TS
 stendschna/TS
 stendschond/TS
+stendschà/TS
+stendà/TS
 stendü/TS
 stendüda/TS
 stendüdas/TS
@@ -151407,6 +152672,7 @@ sternna/TS
 sternond/TS
 sternunza/T
 sternunzas/T
+sternà/TS
 sternü/TS
 sternüda/TS
 sternüdas/TS
@@ -152146,6 +153412,7 @@ stordschessat/TS
 stordschessna/TS
 stordschna/TS
 stordschond/TS
+stordschà/TS
 stornada/TS
 stornadas/TS
 stornai/TQRSS
@@ -152307,6 +153574,7 @@ stracouschast/TS
 stracouschat/TS
 stracouscher/TQRSS
 stracouschna/TS
+stracouschà/TS
 stracs/T
 strada/T
 stradal/T
@@ -152561,6 +153829,7 @@ stramantessast/TS
 stramantessat/TS
 stramantessna/TS
 stramantond/TS
+stramantusas/T
 stramantà/TS
 strambaria/T
 strambarias/T
@@ -152761,6 +154030,8 @@ straordinaria/T
 straordinariamaing/T
 straordinarias/T
 straordinarits/T
+straordniari/T
+straordniaria/T
 strapai/TS
 strapaia/TS
 strapaj'la/TS
@@ -152856,6 +154127,7 @@ strapatschun/T
 strapatschuna/T
 strapatschunas/T
 strapatschuns/T
+strapatschusas/T
 strapatschà/TS
 straplain/T
 straplaina/T
@@ -153094,6 +154366,7 @@ strendschessat/TS
 strendschessna/TS
 strendschna/TS
 strendschond/TS
+strendschà/TS
 strendschü/TS
 strendschüda/TS
 strendschüdas/TS
@@ -153183,9 +154456,11 @@ stretnivan/TS
 stretnivast/TS
 stretnivat/TS
 stretnivna/TS
+strets/T
 stretta/T
 strettaglia/T
 strettaglias/T
+strettamaing/T
 strettas/T
 strettezza/T
 strettezzas/T
@@ -153337,6 +154612,7 @@ stringenta/T
 stringentamaing/T
 stringentas/T
 stringents/T
+strings/T
 striptease/T
 stripteases/T
 striun'la/TS
@@ -153437,6 +154713,8 @@ stroliessan/TS
 stroliessast/TS
 stroliessat/TS
 stroliessna/TS
+strolig/T
+stroliga/T
 stroliond/TS
 strolià/TS
 strolra/T
@@ -153633,6 +154911,7 @@ struschond/TS
 struschun/T
 struschuns/T
 struschà/TS
+strà/TS
 ströppa/TS
 ströppada/TS
 ströppadas/TS
@@ -153970,6 +155249,7 @@ sturiuns/T
 sturnel/T
 sturnels/T
 sturni/TQRSS
+sturniccal/T
 sturnicla/T
 sturniclas/T
 sturnida/TS
@@ -154057,6 +155337,7 @@ stuschna/TS
 stuschond/TS
 stuschà/TS
 stut/T
+stuta/T
 stuts/T
 stutta/T
 stuttamaing/T
@@ -154089,11 +155370,12 @@ stuvessast/TS
 stuvessat/TS
 stuvessna/TS
 stuviond/TS
+stuvà/TS
 stuvü/TS
 stuvüda/TS
 stuvüdas/TS
 stuvüts/TS
-stà/T
+stà/TS
 stöchel/T
 stöchela/T
 stöchelas/T
@@ -154189,9 +155471,13 @@ stüdi/T
 stüdis/T
 stüdna/TS
 stüdond/TS
+stüdà/TS
+stüert/T
 stüerta/T
 stüertas/T
 stüf/T
+stüfch/T
+stüfcha/T
 stüfchaint'la/TS
 stüfchaint/TS
 stüfchainta'l/TS
@@ -154236,6 +155522,7 @@ stüfchantond/TS
 stüfchantà/TS
 stüfchentscha/T
 stüfchentschas/T
+stüfchuossas/T
 stüffa/T
 stüffamaing/T
 stüffas/T
@@ -154313,6 +155600,7 @@ stüzzas/TS
 stüzzess/TS
 stüzzessan/TS
 stüzzond/TS
+stüzzà/TS
 sua/T
 suada/T
 suadas/T
@@ -154378,6 +155666,7 @@ subissat/TS
 subissna/TS
 subit/T
 subits/TS
+subitusas/T
 subiv'la/TS
 subiva'l/TS
 subiva/TS
@@ -154388,7 +155677,6 @@ subivna/TS
 subject/T
 subjectiv/T
 subjectiva/T
-subjectivamaing/T
 subjectivas/T
 subjectivitats/T
 subjectività/T
@@ -154543,6 +155831,7 @@ subscrivessat/TS
 subscrivessna/TS
 subscrivna/TS
 subscrivond/TS
+subscrivà/TS
 subseguaint/T
 subseguainta/T
 subseguaintas/T
@@ -154837,6 +156126,7 @@ succedivast/TS
 succedivat/TS
 succedivna/TS
 succedna/TS
+succedà/TS
 succedü/TS
 succedüda/TS
 succedüdas/TS
@@ -154894,6 +156184,7 @@ succombessat/TS
 succombessna/TS
 succombna/TS
 succombond/TS
+succombà/TS
 succombü/TS
 succombüda/TS
 succombüdas/TS
@@ -155271,6 +156562,8 @@ sulfuressan/TS
 sulfuressast/TS
 sulfuressat/TS
 sulfuressna/TS
+sulfuric/T
+sulfurica/T
 sulfurond/TS
 sulfurà/TS
 sulischem/T
@@ -155654,7 +156947,11 @@ suordin/T
 suordins/T
 suorditats/T
 suordità/T
+suordmüt/T
+suordmütta/T
 suords/T
+suos-ch/T
+suos-cha/T
 suos-chaint'la/TS
 suos-chaint/TS
 suos-chainta'l/TS
@@ -155857,6 +157154,7 @@ suotgruppa/T
 suotgruppas/T
 suotinsü/T
 suotmarin/T
+suotmarina/T
 suotmarins/T
 suotminada/TS
 suotminadas/TS
@@ -156016,6 +157314,7 @@ suottamettessast/TS
 suottamettessat/TS
 suottamettessna/TS
 suottamettond/TS
+suottamettà/TS
 suottamiss/TS
 suottamissa/TS
 suottamissas/TS
@@ -156063,6 +157362,7 @@ suottapuonivast/TS
 suottapuonivat/TS
 suottapuonivna/TS
 suottapuonna/TS
+suottapuonà/TS
 suottascripziun/T
 suottascripziuns/T
 suottascrit/TS
@@ -156107,6 +157407,7 @@ suottascrivessat/TS
 suottascrivessna/TS
 suottascrivna/TS
 suottascrivond/TS
+suottascrivà/TS
 suottasta'l/TS
 suottasta'la/TS
 suottasta/TQRSS
@@ -156194,6 +157495,7 @@ suottastrichond/TS
 suottastrichà/TS
 suottastun/TS
 suottastuna/TS
+suottastà/TS
 suotter/TS
 suotterm/T
 suotterms/T
@@ -156215,6 +157517,7 @@ suotterraivast/TS
 suotterraivat/TS
 suotterraivna/TS
 suotterran/TS
+suotterrana/T
 suotterrans/T
 suotterrar/TQRSS
 suotterrarai/TQRSS
@@ -156368,8 +157671,10 @@ supermarchà/T
 superond/TS
 superplü/T
 supers/T
+supersonica/T
 superstiziun/T
 superstiziuns/T
+superstiziusas/T
 superà/TS
 suppleant/T
 suppleanta/T
@@ -156531,6 +157836,7 @@ supprimivast/TS
 supprimivat/TS
 supprimivna/TS
 supprimna/TS
+supprimà/TS
 suppuon'la/TS
 suppuon/TS
 suppuona'l/TS
@@ -156569,6 +157875,7 @@ suppuonivast/TS
 suppuonivat/TS
 suppuonivna/TS
 suppuonna/TS
+suppuonà/TS
 suppuonü/TS
 suppuonüda/TS
 suppuonüdas/TS
@@ -156613,6 +157920,7 @@ suprapuonivan/TS
 suprapuonivast/TS
 suprapuonivat/TS
 suprapuonivna/TS
+suprapuonà/TS
 suprapuonü/TS
 suprapuonüda/TS
 suprapuonüdas/TS
@@ -156626,6 +157934,9 @@ suprastanzas/T
 suprastar/TS
 suprastat/TS
 suprastond/TS
+suprastà/TS
+suprem/T
+suprema/T
 suprematissem/T
 sur'la/TS
 sur-/T
@@ -156829,6 +158140,7 @@ surbaivast/TS
 surbaivat/TS
 surbaiver/TQRSS
 surbaivna/TS
+surbaivà/TS
 surbavai/TQRSS
 surbavain/TS
 surbavaina/TS
@@ -157184,6 +158496,7 @@ surdozessna/TS
 surdozna/TS
 surdozond/TS
 surdozs/TS
+surdozà/TS
 surdschain/TS
 surdschaina/TS
 surdschais/TS
@@ -157576,6 +158889,7 @@ surinclegiarà/TS
 surinclegiast/TS
 surinclegiat/TS
 surinclegiond/TS
+surinclegà/TS
 surinclet/TS
 surinclets/TS
 surincletta/TS
@@ -157768,6 +159082,7 @@ surlegiarà/TS
 surlegiast/TS
 surlegiat/TS
 surlegiond/TS
+surlegà/TS
 surleivg'la/TS
 surleivg/TS
 surleivgess'la/TS
@@ -158434,6 +159749,7 @@ surprendessat/TS
 surprendessna/TS
 surprendna/TS
 surprendond/TS
+surprendà/TS
 surproducziun/T
 surproducziuns/T
 surprosma/T
@@ -158499,6 +159815,7 @@ surriond/TS
 surris/TS
 surrisa/TS
 surrisas/TS
+surrià/TS
 surrogat/T
 surrogats/T
 surs-chod'la/TS
@@ -158909,6 +160226,7 @@ surtressast/TS
 surtressat/TS
 surtressna/TS
 surtrond/TS
+surtrà/TS
 surtschagls/T
 surtuot/T
 surtut/TS
@@ -159066,11 +160384,13 @@ survendschessat/TS
 survendschessna/TS
 survendschna/TS
 survendschond/TS
+survendschà/TS
 survendschü/TS
 survendschüda/TS
 survendschüdas/TS
 survendschüts/TS
 surverer/TQRSS
+surverà/TS
 survez/TS
 surveza/TS
 survezz'la/TS
@@ -159121,6 +160441,7 @@ survisibel/T
 survisibels/T
 survisibla/T
 survisiblas/T
+survissas/T
 survista/T
 survistas/T
 surviv'la/TS
@@ -159165,6 +160486,7 @@ survivessat/TS
 survivessna/TS
 survivna/TS
 survivond/TS
+survivà/TS
 survivü/TS
 survivüda/TS
 survivüdas/TS
@@ -159227,6 +160549,7 @@ suspendessat/TS
 suspendessna/TS
 suspendna/TS
 suspendond/TS
+suspendà/TS
 suspensiun/T
 suspensiuns/T
 suspet/TS
@@ -159271,6 +160594,7 @@ suspettessast/TS
 suspettessat/TS
 suspettessna/TS
 suspettond/TS
+suspettusas/T
 suspettà/TS
 suspür'la/TS
 suspür/TS
@@ -159317,6 +160641,7 @@ suspürs/T
 suspürà/TS
 sustantar/TS
 sustantond/TS
+sustantusas/T
 sustantà/TS
 sustegn'la/TS
 sustegn/TS
@@ -159330,6 +160655,7 @@ sustegnimaint/T
 sustegnimaints/T
 sustegnna/TS
 sustegns/T
+sustegnà/TS
 sustgnai/TQRSS
 sustgnain/TS
 sustgnaina/TS
@@ -159711,6 +161037,7 @@ svanivan/TS
 svanivast/TS
 svanivat/TS
 svanivna/TS
+svantagiusas/T
 svantüra/T
 svantürada/T
 svantüradas/T
@@ -159834,8 +161161,12 @@ svarguognessat/TS
 svarguognessna/TS
 svarguognna/TS
 svarguognond/TS
+svarguognusas/T
 svarguognà/TS
+svarlass/T
+svarlassas/T
 svedais/T
+svedaisas/T
 svegn'la/TS
 svegn'na/TS
 svegn/TS
@@ -160034,6 +161365,7 @@ sverschlna/TS
 sverschlond/TS
 sverschlà/TS
 svess/T
+svessa/T
 svesti/TQRSS
 svestida/TS
 svestidas/TS
@@ -160312,6 +161644,7 @@ svindichessast/TS
 svindichessat/TS
 svindichessna/TS
 svindichond/TS
+svindichuossas/T
 svindichà/TS
 sviond/TS
 svista/T
@@ -160403,6 +161736,7 @@ svolvessat/TS
 svolvessna/TS
 svolvna/TS
 svolvond/TS
+svolvà/TS
 svolà/TS
 svoul'la/TS
 svoul/TS
@@ -160984,6 +162318,7 @@ süessast/TS
 süessat/TS
 süessna/TS
 süj/T
+süjs/T
 sül/T
 sülla/T
 süllas/T
@@ -161006,6 +162341,7 @@ süttina/T
 süttinas/T
 süur/T
 süurs/T
+süusas/T
 süà/TS
 t'impaissa/T
 t-shirt/T
@@ -161275,6 +162611,7 @@ tachometer/T
 tachometers/T
 tachond/TS
 tachs/T
+tachusas/T
 tachà/TS
 tachöl/T
 tachöls/T
@@ -161536,6 +162873,7 @@ taintast/TS
 taintat/TS
 taintna/TS
 tais/T
+taisas/T
 taisch/T
 taischs/T
 taja/T
@@ -161543,15 +162881,18 @@ tajas/T
 tajatschina/T
 tajatschinas/T
 tal/T
+tala/T
 talac/T
 talaccöz/T
 talaccözs/T
 talacs/T
 talar/T
 talars/T
+talas/T
 talc/T
 talcs/T
 talent/T
+talentada/T
 talents/T
 taler/T
 talers/T
@@ -161611,6 +162952,7 @@ talockessna/TS
 talocs/T
 talpa/T
 talpas/T
+tals/T
 talun/T
 taluns/T
 tamara/T
@@ -161730,6 +163072,7 @@ tamburà/TS
 tamfan/T
 tamfans/T
 tamfitsch/T
+tamfitscha/T
 tamfitschs/T
 tamistuffel/T
 tamistuffels/T
@@ -161921,6 +163264,7 @@ tangaivan/TS
 tangar/TS
 tangaran/TS
 tangarà/TS
+tangas/T
 tanghenta/T
 tanghentas/T
 tangher/T
@@ -162228,6 +163572,7 @@ tarschendessat/TS
 tarschendessna/TS
 tarschendna/TS
 tarschendond/TS
+tarschendà/TS
 tarschendü/TS
 tarschendüda/TS
 tarschendüdas/TS
@@ -162285,6 +163630,8 @@ tartognond/TS
 tartognà/TS
 tartüf/T
 tartüfs/T
+tarügl/T
+tarüglia/T
 tas-cha/T
 tas-chas/T
 tas-chetta/T
@@ -162370,6 +163717,7 @@ taschessna/TS
 taschin/T
 taschna/TS
 taschond/TS
+taschà/TS
 taschü/TS
 taschüda/TS
 taschüdas/TS
@@ -162425,7 +163773,6 @@ tassel/T
 tassella/T
 tassellas/T
 tassels/T
-tassè/T
 tast/T
 tasta/T
 tastas/T
@@ -162678,6 +164025,7 @@ tegnuoss/T
 tegnuossa/T
 tegnuossamaing/T
 tegnuossas/T
+tegnà/TS
 teis/T
 teja/T
 tejas/T
@@ -163125,6 +164473,7 @@ tendenziala/T
 tendenzialas/T
 tendenzialmaing/T
 tendenzials/T
+tendenziusas/T
 tender/TQRSS
 tenders/T
 tendesch'la/TS
@@ -163197,10 +164546,12 @@ tendschessat/TS
 tendschessna/TS
 tendschna/TS
 tendschond/TS
+tendschà/TS
 tendschü/TS
 tendschüda/TS
 tendschüdas/TS
 tendschüts/TS
+tendà/TS
 tendü/TS
 tendüda/TS
 tendüdas/TS
@@ -163297,6 +164648,7 @@ teoretisà/TS
 teoria/T
 teorias/T
 ter/TS
+tera/T
 terapar/TS
 terapeada/TS
 terapeadas/TS
@@ -163351,6 +164703,7 @@ terapeuts/T
 terapeà/TS
 terapia/T
 terapias/T
+terapà/TS
 terdsch'la/TS
 terdsch/TS
 terdscha'l/TS
@@ -163393,6 +164746,7 @@ terdschin/T
 terdschins/T
 terdschna/TS
 terdschond/TS
+terdschà/TS
 term'la/TS
 term/TS
 terma'l/TS
@@ -163625,6 +164979,7 @@ territorialmaing/T
 territorials/T
 territoris/T
 territsch/T
+territscha/T
 territschs/T
 terrond/TS
 terroplan/T
@@ -163720,6 +165075,7 @@ terzultim/T
 terzultima/T
 terzultimas/T
 terzultims/T
+terzà/TS
 tesa/T
 tesas/T
 tesla/T
@@ -163765,6 +165121,7 @@ tessessast/TS
 tessessat/TS
 tessessna/TS
 tessinais/T
+tessinaisas/T
 tessna/TS
 tessond/TS
 tessonda/T
@@ -163773,6 +165130,7 @@ tessunz/T
 tessunza/T
 tessunzas/T
 tessunzs/T
+tessà/TS
 tessü/TS
 tessüda/TS
 tessüdas/TS
@@ -163857,6 +165215,7 @@ testardas/T
 testardezza/T
 testardezzas/T
 testards/T
+testardun/T
 testarà'l/TS
 testarà'la/TS
 testarà/TS
@@ -164413,6 +165772,7 @@ tirlindina/T
 tirlindinas/T
 tirna/TS
 tirolais/T
+tirolaisas/T
 tiroïd/T
 tiroïda/T
 tiroïdas/T
@@ -164620,7 +165980,10 @@ tmessast/TS
 tmessat/TS
 tmessna/TS
 tmond/TS
+tmà/TS
 tmü/TS
+tmüch/T
+tmücha/T
 tmüchezza/T
 tmüchezzas/T
 tmüda/TS
@@ -164681,6 +166044,7 @@ tocket/T
 tockets/T
 tockin/T
 tockins/T
+tockà/TS
 tocs/TS
 tof/TS
 tofa/T
@@ -164729,6 +166093,7 @@ toffessast/TS
 toffessat/TS
 toffessna/TS
 toffond/TS
+toffusas/T
 toffà/TS
 tofna/TS
 tofs/T
@@ -165322,6 +166687,7 @@ tradüts/TS
 tradütta/TS
 tradüttamaing/T
 tradüttas/TS
+tradüà/TS
 trafic/T
 trafich'la/TS
 trafich/TS
@@ -165655,6 +167021,7 @@ tramettessast/TS
 tramettessat/TS
 tramettessna/TS
 tramettond/TS
+tramettà/TS
 tramiss/TS
 tramissa/TS
 tramissas/TS
@@ -165845,6 +167212,7 @@ transcrivessat/TS
 transcrivessna/TS
 transcrivna/TS
 transcrivond/TS
+transcrivà/TS
 transfer/T
 transferi/TQRSS
 transferibel/T
@@ -166076,6 +167444,7 @@ transitivamaing/T
 transitivas/T
 transitivs/T
 transitori/T
+transitoria/T
 transitorida/T
 transitoridamaing/T
 transitoridas/T
@@ -166175,6 +167544,7 @@ transmettessast/TS
 transmettessat/TS
 transmettessna/TS
 transmettond/TS
+transmettà/TS
 transmiss/TS
 transmissa/TS
 transmissas/TS
@@ -166380,6 +167750,7 @@ transpuonivast/TS
 transpuonivat/TS
 transpuonivna/TS
 transpuonna/TS
+transpuonà/TS
 transpuonü/TS
 transpuonüda/TS
 transpuonüdas/TS
@@ -166487,6 +167858,7 @@ trapartna/TS
 traparts/T
 trapass/T
 trapassa/TS
+trapassadas/T
 trapassaiva/TS
 trapassaivan/TS
 trapassan/TS
@@ -166715,11 +168087,11 @@ trapuondschessat/TS
 trapuondschessna/TS
 trapuondschna/TS
 trapuondschond/TS
+trapuondschà/TS
 trapuondschü/TS
 trapuondschüda/TS
 trapuondschüdas/TS
 trapuondschüts/TS
-trapè/T
 trar/PTQRSS
 trarai/TQRSS
 traraja/TS
@@ -166844,6 +168216,7 @@ trategner/PTQRSS
 trategnimaint/T
 trategnimaints/T
 trategnna/TS
+trategnà/TS
 tratgna/TQRSS
 tratgnai/TQRSS
 tratgnain/TS
@@ -167263,6 +168636,7 @@ travuondna/TS
 travuondond/TS
 travuondusa/T
 travuondusas/T
+travuondà/TS
 travus/TS
 travusa/TS
 travusas/TS
@@ -167275,7 +168649,6 @@ treganta/T
 tregantas/T
 tregants/T
 trella/T
-trema/T
 trembel/T
 trembels/T
 trembl'la/TS
@@ -167332,6 +168705,7 @@ tremblà/TS
 tremblöz/T
 tremblözs/T
 tremend/T
+tremenda/T
 tremendamaing/T
 tremulada/TS
 tremuladas/TS
@@ -167505,6 +168879,8 @@ tretlessat/TS
 tretlessna/TS
 tretlna/TS
 tretlond/TS
+tretlunz/T
+tretlunza/T
 tretlà/TS
 tretscha/T
 tretschas/T
@@ -167612,6 +168988,12 @@ tridatschas/T
 tridatschs/T
 tridezza/T
 tridezzas/T
+tridimensiunal/T
+tridimensiunala/T
+tridimensiunalas/T
+tridimensiunalità/T
+tridimensiunalmaing/T
+tridimensiunals/T
 trids/T
 trienni/T
 triennis/T
@@ -168075,7 +169457,7 @@ truspins/T
 trust/T
 trusts/T
 truà/TS
-trà/T
+trà/TS
 tröp/T
 tröppa/T
 tröppada/T
@@ -168987,6 +170369,7 @@ tschernivast/TS
 tschernivat/TS
 tschernivna/TS
 tschernna/TS
+tschernà/TS
 tschernü/TS
 tschernüda/TS
 tschernüdas/TS
@@ -169262,6 +170645,7 @@ tschierlettas/T
 tschierpla/T
 tschierplas/T
 tschierplus/T
+tschierusas/T
 tschierva/T
 tschiervas/T
 tschiervi/T
@@ -169574,6 +170958,7 @@ tschot/T
 tschotla/T
 tschots/T
 tschotschlas/T
+tschuc/T
 tschucal/T
 tschucala/T
 tschucalas/T
@@ -169584,6 +170969,7 @@ tschuf/T
 tschuffa/T
 tschuffas/T
 tschufs/T
+tschui/T
 tschunc'la/TS
 tschunc/TS
 tschunca'l/TS
@@ -169628,8 +171014,10 @@ tschunkessan/TS
 tschunkessast/TS
 tschunkessat/TS
 tschunkessna/TS
+tschunkà/TS
 tschurma/T
 tschut/T
+tschuta/T
 tschuts/T
 tschutschla/T
 tschutschlas/T
@@ -169724,6 +171112,7 @@ tschüblajar/TS
 tschüblajast/TS
 tschüblajat/TS
 tschüblajna/TS
+tschüblajà/TS
 tschüblan/TS
 tschüblar/TQRSS
 tschüblarai/TQRSS
@@ -169853,6 +171242,7 @@ tschüffessast/TS
 tschüffessat/TS
 tschüffessna/TS
 tschüffond/TS
+tschüffà/TS
 tschüfna/TS
 tschüfs/TS
 tschüschettel/T
@@ -169976,6 +171366,7 @@ tubet/T
 tubets/T
 tubs/T
 tudais-ch/T
+tudais-cha/T
 tudais-chada/TS
 tudais-chadas/TS
 tudais-chai/TQRSS
@@ -170025,6 +171416,8 @@ tuf/T
 tufs/T
 tuja/T
 tujas/T
+tulibas-ch/T
+tulibas-cha/T
 tulipana/T
 tulipanas/T
 tumbin/T
@@ -170035,6 +171428,7 @@ tumor/T
 tumors/T
 tumult/T
 tumults/T
+tumultuusas/T
 tun'la/TS
 tun/TS
 tuna'l/TS
@@ -170127,6 +171521,7 @@ tuondessat/TS
 tuondessna/TS
 tuondna/TS
 tuondond/TS
+tuondà/TS
 tuondü/TS
 tuondüda/TS
 tuondüdas/TS
@@ -170479,6 +171874,8 @@ turli/T
 turlia/T
 turliamaing/T
 turlias/T
+turlibais-ch/T
+turlibais-cha/T
 turlibais-chada/T
 turlibais-chadas/T
 turlits/T
@@ -170562,6 +171959,7 @@ turpajat/TS
 turpajna/TS
 turpchentscha/T
 turpchentschas/T
+turpchuossas/T
 turpiada/TS
 turpiadas/TS
 turpiai/TQRSS
@@ -170698,6 +172096,8 @@ tös-chaintat/TS
 tös-chaintna/TS
 tös-chantada/TS
 tös-chantadas/TS
+tös-chantader/T
+tös-chantadra/T
 tös-chantai/TQRSS
 tös-chantain/TS
 tös-chantaina/TS
@@ -170891,6 +172291,7 @@ uffiziala/T
 uffizialas/T
 uffizials/T
 uffizis/T
+uffiziusas/T
 uflada/T
 ufladas/T
 ufladüra/T
@@ -170918,6 +172319,8 @@ ultimamaing/T
 ultimas/T
 ultimatum/T
 ultimatums/T
+ultimischem/T
+ultimischma/T
 ultims/T
 ultra/T
 ultramontan/T
@@ -170979,6 +172382,8 @@ umanisessat/PTS
 umanisessna/PTS
 umanisond/PTS
 umanissem/T
+umanist/T
+umanista/T
 umanistic/T
 umanistica/T
 umanisticamaing/T
@@ -171001,6 +172406,7 @@ umblaz/T
 umblazs/T
 umblin/T
 umblins/T
+umbrasas/T
 umbrasdats/T
 umbrasdà/T
 umbrella/T
@@ -171082,6 +172488,7 @@ undressna/PTS
 undrond/PTS
 undrà/PTS
 ungarais/T
+ungaraisas/T
 ungla/T
 unglas/T
 ungletta/T
@@ -171323,6 +172730,7 @@ uondschessat/PTS
 uondschessna/PTS
 uondschna/PTS
 uondschond/PTS
+uondschà/PTS
 uondschöl/T
 uondschöls/T
 uondschü/PTS
@@ -171461,7 +172869,6 @@ urada/PTS
 uradas/PTS
 uraglia/T
 uraglias/T
-uraglier/T
 uragliers/T
 uraglin/T
 uraglins/T
@@ -171997,10 +173404,11 @@ utensil/T
 utensils/T
 uter/T
 uters/T
+utilisadras/T
 utimativ/T
 utimativa/T
-utimativamaing/T
 utimativas/T
+utimativmaing/T
 utimativs/T
 utopia/T
 utopias/T
@@ -172015,6 +173423,7 @@ utopistas/T
 utopists/T
 utrò/T
 utschellam/T
+utschellas/T
 utscheller/T
 utschellera/T
 utschelleras/T
@@ -172131,7 +173540,6 @@ uzuer/T
 uzuers/T
 uzun/T
 uzuns/T
-uzöl/T
 v'la/TS
 va'l/TS
 va'la/TS
@@ -172263,6 +173671,7 @@ vadrets/T
 vadritscha/T
 vadruos-chel/T
 vadruos-chels/T
+vadruos-chla/T
 vadrüsch/T
 vadrüschs/T
 vaduos-chel/T
@@ -172582,9 +173991,12 @@ valser/T
 valsers/T
 valur/T
 valurs/T
+valurusa/T
 valurusamaing/T
+valurusas/T
 valurusitats/T
 valurusità/T
+valà/TS
 valü/TS
 valüta/T
 valütada/TS
@@ -172685,6 +174097,7 @@ vanagloriessast/TS
 vanagloriessat/TS
 vanagloriessna/TS
 vanagloriond/TS
+vanagloriusas/T
 vanaglorià/TS
 vanamaing/T
 vanas/T
@@ -172745,6 +174158,7 @@ vaniglias/T
 vanisch/T
 vanischs/T
 vanitats/T
+vanitusas/T
 vanità/T
 vannada/TS
 vannadas/TS
@@ -172969,13 +174383,17 @@ variond/TS
 variza/T
 varizas/T
 varià/TS
+varquantas/T
+varquants/T
 varroa/T
 varroas/T
 varsangia/T
 varsangias/T
 varsaquantas/T
+varsaquants/T
 varschiun/T
 varschiuns/T
+varsiada/T
 varsiamaint/T
 vart/T
 varts/T
@@ -173013,7 +174431,6 @@ vaschlera/T
 vaschleras/T
 vaschlers/T
 vaschs/T
-vaschè/T
 vaselina/T
 vaselinas/T
 vast/TS
@@ -173352,10 +174769,12 @@ vendschna/TS
 vendschond/TS
 vendschur/T
 vendschurs/T
+vendschà/TS
 vendschü/TS
 vendschüda/TS
 vendschüdas/TS
 vendschüts/TS
+vendà/TS
 vendü/TS
 vendüda/TS
 vendüdas/TS
@@ -173497,6 +174916,7 @@ verbs/T
 vercla/T
 verclas/T
 verd/T
+verda/T
 verdaint/T
 verdainta/T
 verdaintas/T
@@ -173592,8 +175012,11 @@ vermins/T
 vermisella/T
 vermisellas/T
 verms/T
+vermusas/T
 vermut/T
 vermuts/T
+vernal/T
+vernala/T
 vernisch/T
 vernischada/TS
 vernischadas/TS
@@ -173668,6 +175091,8 @@ vertebralmaing/T
 vertebrals/T
 vertebrats/T
 vertebrà/T
+vertent/T
+vertenta/T
 verti/TQRSS
 vertical/T
 verticala/T
@@ -173716,6 +175141,7 @@ vertivat/TS
 vertivna/TS
 verva/T
 vervas/T
+verà/TS
 vesicula/T
 vesiculas/T
 vespra/T
@@ -173955,6 +175381,7 @@ viantessna/TS
 viantond/TS
 viantà/TS
 vias/T
+viasfier/T
 viasom/T
 viatic/T
 viatics/T
@@ -173966,6 +175393,7 @@ vibraziuns/T
 vibrun/T
 vibruns/T
 vicar/T
+vicara/T
 vicariat/T
 vicariats/T
 vicarisada/TS
@@ -174072,6 +175500,7 @@ victorisessat/TS
 victorisessna/TS
 victorisond/TS
 victorisà/TS
+victoriusas/T
 victuaglias/T
 victur/T
 victura/T
@@ -174257,6 +175686,7 @@ vignetta/T
 vignettas/T
 vigur/T
 vigurs/T
+vigurusas/T
 vigurusitats/T
 vigurusità/T
 vil/T
@@ -174481,6 +175911,7 @@ virtuosamaing/T
 virtuosas/T
 virtuositats/T
 virtuosità/T
+virtuusas/T
 virtü/T
 virtüd/T
 virtüdaivel/T
@@ -174538,6 +175969,8 @@ viscosa/T
 viscosas/T
 viscositats/T
 viscosità/T
+viscul/T
+viscula/T
 viscunt/T
 viscuntessa/T
 viscuntessaa/T
@@ -174685,6 +176118,8 @@ visiunaras/T
 visiunars/T
 visiuns/T
 visond/TS
+vissa/T
+vissas/T
 vista/T
 vistas/T
 visual/T
@@ -174808,6 +176243,7 @@ vituperessat/TS
 vituperessna/TS
 vituperi/T
 vituperond/TS
+vituperusas/T
 vituperà/TS
 viv'la/TS
 viv/TS
@@ -174836,6 +176272,8 @@ vivaintast/TS
 vivaintat/TS
 vivaintna/TS
 vivaints/T
+vivais-ch/T
+vivais-cha/T
 vivais-chezza/T
 vivais-chezzas/T
 vivais/TS
@@ -174956,6 +176394,9 @@ vivna/TS
 vivond/TS
 vivondas/T
 vivs/T
+vivuos-chel/T
+vivuos-chla/T
+vivà/TS
 vivü/TS
 vivüda/TS
 vivüdas/TS
@@ -174963,10 +176404,13 @@ vivüts/TS
 viz/T
 vizi/T
 vizis/T
+viziusas/T
 viziusitats/T
 viziusità/T
 vizs/T
 vna/TS
+vnal/T
+vnala/T
 vnegla/T
 vneglas/T
 vo/T
@@ -174995,12 +176439,14 @@ volubla/T
 volublas/T
 volumen/T
 volumens/T
+voluminusas/T
 voluntari/T
 voluntaria/T
 voluntariamaing/T
 voluntarias/T
 voluntaris/T
 voluntats/T
+voluntusas/T
 voluntà/T
 voluptats/T
 voluptà/T
@@ -175044,6 +176490,7 @@ volvessat/TS
 volvessna/TS
 volvna/TS
 volvond/TS
+volvà/TS
 volüm/T
 vom/T
 vomit/T
@@ -175116,6 +176563,7 @@ votar/T
 votaziun/T
 votaziuns/T
 votiv/T
+votiva/T
 votivs/T
 votum/T
 votumaziun/T
@@ -175213,6 +176661,8 @@ vulcanisessna/TS
 vulcanisond/TS
 vulcanisà/TS
 vulcans/T
+vulessa/T
+vulessast/T
 vulgar/T
 vulgara/T
 vulgaras/T
@@ -175223,6 +176673,7 @@ vulgatas/T
 vuliond/TS
 vulnerabel/T
 vulnerabels/T
+vulnerabiltà/T
 vulnerabla/T
 vulnerablas/T
 vulnerada/TS
@@ -175269,6 +176720,7 @@ vulnerond/TS
 vulnerà/TS
 vulva/T
 vulvas/T
+vulà/TS
 vungas/T
 vuolp/T
 vuolpatscha/T
@@ -175569,6 +177021,7 @@ zaina/T
 zainas/T
 zais-ch/T
 zais-chs/T
+zaisas/T
 zaisel/T
 zaisels/T
 zambellas/T
@@ -175923,6 +177376,7 @@ zeli/T
 zelis/T
 zelot/T
 zelots/T
+zelusas/T
 zember/T
 zembers/T
 zembra/T
@@ -175931,6 +177385,7 @@ zembraas/T
 zembras/T
 zena/T
 zenas/T
+zender/T
 zendra/T
 zendras/T
 zenit/T
@@ -176077,6 +177532,7 @@ zertessna/TS
 zertna/TS
 zertond/TS
 zerts/T
+zertun/T
 zertà/TS
 zezna/T
 zeznas/T
@@ -176506,6 +177962,7 @@ zoppà/TS
 zops/T
 zotla/T
 zotlas/T
+zotlusas/T
 zozò/T
 zozòs/T
 zubel/T
@@ -176714,6 +178171,7 @@ zürigaisa/T
 zürigaisas/T
 è'l/PTS
 è'la/PTS
+ï/T
 ö/T
 ödi/T
 ödiada/PTS
@@ -176758,6 +178216,7 @@ zürigaisas/T
 ödiessna/PTS
 ödiond/PTS
 ödis/T
+ödiusas/T
 ödià/PTS
 ögl/T
 ögliada/T
@@ -176847,6 +178306,8 @@ zürigaisas/T
 üettas/T
 ügla/T
 üglas/T
+ümid/T
+ümida/T
 ümidifichader/T
 ümidifichaders/T
 ümiditats/T
@@ -176907,6 +178368,10 @@ zürigaisas/T
 ümils/T
 ümiltats/T
 ümiltà/T
+ün'aigna/T
+ün'originala/T
+ün'ostinada/T
+ün'ündeschavla/T
 ün/T
 üna/T
 ünas/T
@@ -177015,6 +178480,7 @@ zürigaisas/T
 üsessat/PTS
 üsessna/PTS
 üsit/T
+üsitada/T
 üsits/T
 üsna/PTS
 üsond/PTS
