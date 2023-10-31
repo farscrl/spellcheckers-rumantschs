@@ -46,14 +46,23 @@ async function createFirefoxXpi(config, version) {
 
     const manifestTemplate = fs.readFileSync('templates/firefox/manifest.json');
     const manifestHandlebars = handlebars.compile(manifestTemplate.toString());
+
+    let langCode = config.language_code;
+    if (langCode === 'rm-rumgr') {
+        langCode = 'rm';
+    }
+
     fs.writeFileSync('tmp/manifest.json', manifestHandlebars({
-        language_code: config.language_code,
+        language_code: langCode,
         id: config.firefox.id,
         version: version,
         name: config.firefox.name
     }));
 
     copyFolder('dictionaries/' + config.language_code, 'tmp/dictionaries');
+    if (langCode === 'rm') {
+        renameRumgrFiles();
+    }
 
     await zipTempFolderToFile('build/' + config.language_code, 'firefox_' + config.language_code + '_' +version + '.xpi');
 }
@@ -110,6 +119,21 @@ async function zipTempFolderToFile(destDir, fileName) {
         fs.mkdirSync(destDir, { recursive: true });
     }
     await zipDir('tmp/', { saveTo: destDir + '/' + fileName });
+}
+
+async function renameRumgrFiles() {
+    fs.rename('tmp/dictionaries/rm-rumgr.aff', 'tmp/dictionaries/rm.aff', function(err) {
+        if ( err ) console.log('ERROR: ' + err);
+    });
+    fs.rename('tmp/dictionaries/rm-rumgr.dic', 'tmp/dictionaries/rm.dic', function(err) {
+        if ( err ) console.log('ERROR: ' + err);
+    });
+    fs.rename('tmp/dictionaries/rm-rumgr_LICENSE.txt', 'tmp/dictionaries/rm-rumgr_LICENSE.txt', function(err) {
+        if ( err ) console.log('ERROR: ' + err);
+    });
+    fs.rename('tmp/dictionaries/rm-rumgr_version.txt', 'tmp/dictionaries/rm-rumgr_version.txt', function(err) {
+        if ( err ) console.log('ERROR: ' + err);
+    });
 }
 
 pack();
