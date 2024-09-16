@@ -1,4 +1,4 @@
-180955
+180974
 --/TQRSS
 A/T
 Aaron/T
@@ -2143,6 +2143,7 @@ Portugais/T
 Portugaisa/T
 Portugaisas/T
 Portugal/T
+Poschiavo/T
 PowerPoint
 Prader
 Pratval
@@ -4893,6 +4894,7 @@ accumpagnamaint/T
 accumpagnamaints/T
 accumpagnant/T
 accumpagnanta/T
+accumpagnantamaing/T
 accumpagnantas/T
 accumpagnants/T
 accumpagnar/PTQRSS
@@ -8272,6 +8274,7 @@ allegarà'la/PTS
 allegarà/PTS
 allegats/PTS
 alleger/T
+allegers/T
 alleghesch'la/PTS
 alleghesch/PTS
 alleghescha'l/PTS
@@ -8331,6 +8334,7 @@ allegrarat/PTS
 allegrarà'l/PTS
 allegrarà'la/PTS
 allegrarà/PTS
+allegras/T
 allegrast/PTS
 allegrat/PTS
 allegrats/PTS
@@ -25329,6 +25333,8 @@ chapellers/T
 chapels/T
 chapeun/T
 chapeuns/T
+chapeïn/T
+chapeïns/T
 chapi/TQRSS
 chapibel/T
 chapibels/T
@@ -54998,12 +55004,15 @@ faxessna/TS
 faxond/TS
 faxs/T
 faxà/TS
+fazous/T
+fazöl/T
 fazölet/T
 fazöleta/T
 fazöletas/T
 fazölets/T
 fazölin/T
 fazölins/T
+fazöls/T
 fcoll/T
 febra/T
 febras/T
@@ -94492,6 +94501,8 @@ normalisarà'l/TS
 normalisarà'la/TS
 normalisarà/TS
 normalisats/TS
+normalisaziun/T
+normalisaziuns/T
 normalisesch'la/TS
 normalisesch/TS
 normalisescha'l/TS
@@ -98968,6 +98979,8 @@ paravents/T
 parc/T
 parcada/TS
 parcadas/TS
+parcadi/T
+parcadis/T
 parcai/TQRSS
 parcain/TS
 parcaina/TS
@@ -99214,8 +99227,6 @@ pariteticamaing/T
 pariteticas/T
 paritetics/T
 parità/T
-parkegi/T
-parkegis/T
 parkesch'la/TS
 parkesch/TS
 parkescha'l/TS
@@ -137628,6 +137639,7 @@ scholt/TS
 scholta/TS
 scholtas/TS
 scholts/TS
+schon/T
 schonglada/TS
 schongladas/TS
 schonglai/TQRSS
@@ -137672,6 +137684,7 @@ schonglond/TS
 schonglà/TS
 schonglör/T
 schonglöra/T
+schont/T
 schoppa/T
 schoppas/T
 schorfnada/TS
@@ -137948,6 +137961,7 @@ schuressan/TS
 schuressast/TS
 schuressat/TS
 schuressna/TS
+schurma/T
 schurmas/T
 schurna/TS
 schurnada/T
@@ -147632,6 +147646,8 @@ simularà'l/TS
 simularà'la/TS
 simularà/TS
 simulats/TS
+simulatur/T
+simulaturs/T
 simulaziun/T
 simulaziuns/T
 simulesch'la/TS
@@ -160272,6 +160288,7 @@ surarà'l/TS
 surarà'la/TS
 surarà/TS
 suras/T
+surasen/T
 surasiv/T
 surasiva/T
 surasivas/T
@@ -177976,6 +177993,8 @@ vierchlà/TS
 viers/T
 vierv/T
 viervs/T
+vietta/T
+viettas/T
 vigilada/TS
 vigiladas/TS
 vigilai/TQRSS
