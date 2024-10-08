@@ -1,0 +1,107 @@
+name: Deploy via FTP
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run pack-puter
+        run: npm run pack-puter
+
+      - name: Run pack-rumgr
+        run: npm run pack-rumgr
+
+      - name: Run pack-surmiran
+        run: npm run pack-surmiran
+
+      - name: Run pack-sutsilv
+        run: npm run pack-sutsilv
+
+      - name: Run pack-vallader
+        run: npm run pack-vallader
+
+      - name: Upload files via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: build/web/
+          server-dir: /
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4.4.1
+        with:
+          name: build-web
+          path: build/web
+
+  notify:
+    runs-on: ubuntu-latest
+    needs: build
+    if: always()
+    steps:
+      - name: Set Slack message payload
+        id: slack_payload
+        run: |
+          if [[ "${{ needs.build.result }}" == "success" ]]; then
+            echo "color=#36a64f" >> $GITHUB_ENV  # Green color
+            echo "status_text=Succeeded" >> $GITHUB_ENV
+            echo "icon=white_check_mark" >> $GITHUB_ENV
+          else
+            echo "color=#ff0000" >> $GITHUB_ENV  # Red color
+            echo "status_text=Failed" >> $GITHUB_ENV
+            echo "icon=x" >> $GITHUB_ENV
+          fi
+
+      - name: Send Slack notification on success or failure
+        uses: slackapi/slack-github-action@v1.27.0
+        with:
+          payload: |
+            {
+              "channel": "${{ secrets.SLACK_CHANNEL }}",
+              "attachments": [
+                {
+                  "color": "${{ env.color }}",
+                  "text": "GitHub Action *${{ github.workflow }}* for *${{ github.repository }}* run *${{ github.run_number }}* has *${{ env.status_text }}*.\nBranch: ${{ github.ref }}\nCommit: ${{ github.sha }}",
+                  "fields": [
+                    {
+                      "title": "Job Status",
+                      "value": "${{ env.status_text }}",
+                      "short": true
+                    },
+                    {
+                      "title": "Branch",
+                      "value": "${{ github.ref }}",
+                      "short": true
+                    },
+                    {
+                      "title": "Commit",
+                      "value": "${{ github.sha }}",
+                      "short": true
+                    }
+                  ]
+                }
+              ],
+              "username": "GitHub Actions Bot",
+              "icon_emoji": ":${{ env.icon }}:"
+            }
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
