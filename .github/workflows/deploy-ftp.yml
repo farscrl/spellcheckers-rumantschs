@@ -5,6 +5,11 @@ on:
     branches:
       - main
   workflow_dispatch:
+    inputs:
+      upload_additional_artifacts:
+        description: 'Create addins (Firefox, Thunderbird, LibreOffice,...) (true/false)'
+        required: false
+        default: 'false'
 
 jobs:
   build:
@@ -38,6 +43,7 @@ jobs:
         run: npm run pack-vallader
 
       - name: Upload files via FTP
+        if: ${{ github.event.inputs.upload_additional_artifacts == 'false' }}
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
@@ -46,11 +52,49 @@ jobs:
           local-dir: build/web/
           server-dir: /
 
-      - name: Upload build artifacts
+      - name: Set up date
+        run: echo "CURRENT_DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
+
+      - name: Upload build artifacts for web publication
         uses: actions/upload-artifact@v4.4.1
         with:
-          name: build-web
+          name: web_${{ env.CURRENT_DATE }}
           path: build/web
+
+      - name: Upload addins for Puter
+        if: ${{ github.event.inputs.upload_additional_artifacts == 'true' }}
+        uses: actions/upload-artifact@v4.4.1
+        with:
+          name: addins-puter_${{ env.CURRENT_DATE }}
+          path: build/rm-puter
+
+      - name: Upload addins for Rumantsch Grischun
+        if: ${{ github.event.inputs.upload_additional_artifacts == 'true' }}
+        uses: actions/upload-artifact@v4.4.1
+        with:
+          name: addins-rumgr_${{ env.CURRENT_DATE }}
+          path: build/rm-rumgr
+
+      - name: Upload addins for Surmiran
+        if: ${{ github.event.inputs.upload_additional_artifacts == 'true' }}
+        uses: actions/upload-artifact@v4.4.1
+        with:
+          name: addins-surmiran_${{ env.CURRENT_DATE }}
+          path: build/rm-surmiran
+
+      - name: Upload addins for Sutsilvan
+        if: ${{ github.event.inputs.upload_additional_artifacts == 'true' }}
+        uses: actions/upload-artifact@v4.4.1
+        with:
+          name: addins-sutsilv_${{ env.CURRENT_DATE }}
+          path: build/rm-sutsilv
+
+      - name: Upload addins for Vallader
+        if: ${{ github.event.inputs.upload_additional_artifacts == 'true' }}
+        uses: actions/upload-artifact@v4.4.1
+        with:
+          name: addins-vallader_${{ env.CURRENT_DATE }}
+          path: build/rm-vallader
 
   notify:
     runs-on: ubuntu-latest
