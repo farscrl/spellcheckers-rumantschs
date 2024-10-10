@@ -75,11 +75,10 @@ jobs:
         with:
           payload: |
             {
-              "channel": "${{ secrets.SLACK_CHANNEL }}",
               "attachments": [
                 {
                   "color": "${{ env.color }}",
-                  "text": "GitHub Action *${{ github.workflow }}* for *${{ github.repository }}* run *${{ github.run_number }}* has *${{ env.status_text }}*.\nBranch: ${{ github.ref }}\nCommit: ${{ github.sha }}",
+                  "text": "*Installation of new spellchecker version* (run *${{ github.run_number }}*) has *${{ env.status_text }}*.",
                   "fields": [
                     {
                       "title": "Job Status",
@@ -104,4 +103,39 @@ jobs:
             }
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
+
+      - name: Send Slack notification on failure only
+        if: failure()
+        uses: slackapi/slack-github-action@v1.27.0
+        with:
+          payload: |
+            {
+              "attachments": [
+                {
+                  "color": "#ff0000",
+                  "text": "*Installation of new spellchecker version* (run *${{ github.run_number }}*) has *Failed*.",
+                  "fields": [
+                    {
+                      "title": "Job Status",
+                      "value": "Failed",
+                      "short": true
+                    },
+                    {
+                      "title": "Branch",
+                      "value": "${{ github.ref }}",
+                      "short": true
+                    },
+                    {
+                      "title": "Commit",
+                      "value": "${{ github.sha }}",
+                      "short": true
+                    }
+                  ]
+                }
+              ],
+              "username": "GitHub Actions Bot",
+              "icon_emoji": ":x:"
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL_ALARM }}
           SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
