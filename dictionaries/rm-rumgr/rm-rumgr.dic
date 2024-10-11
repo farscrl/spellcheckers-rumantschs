@@ -1,4 +1,4 @@
-159409
+159329
 'okina/T
 'okinas/T
 3D/T
@@ -30,7 +30,6 @@ AdC/O
 Adelheid/O
 Adia/OT
 Adisch/OT
-Adobe/O
 Adria/OT
 Adrian/O
 Adschman/OT
@@ -607,7 +606,6 @@ Burgogna/T
 Burgognais/T
 Burgognaisa/T
 Burgognaisas/T
-Buriazia/T
 Burkhalter
 Burma/T
 Burmais/T
@@ -1223,7 +1221,6 @@ Etrusca/OT
 Etruscas/OT
 Etruscs/OT
 Etter/O
-Eufrat/OT
 Eugster/O
 Eurasia/OT
 Eurex/OT
@@ -1238,7 +1235,6 @@ Evangeli/OT
 Eveline/O
 Everglades/OT
 Ex-Jugoslavia/OT
-Excel/O
 Excellent/OT
 Excellenza/OT
 Ezechiel/OT
@@ -1638,7 +1634,6 @@ Hawaiana/OT
 Hawaianas/OT
 Hawaians/OT
 Hebridas/OT
-Hector/OT
 Hedwig/O
 Heidi/OT
 Heiniger/O
@@ -2604,11 +2599,9 @@ OG/OT
 OL/OT
 OLAP/OT
 OLE/OT
-ONU/O
 Obadja/OT
 Oberon/OT
 Obervaz/O
-Obodrits/OT
 Occident/OT
 Occitan/OT
 Occitana/OT
@@ -2634,7 +2627,6 @@ Olten/OT
 Oman/OT
 Ontario/OT
 Oregon/OT
-Orest/OT
 Orient/OT
 Oriental/OT
 Orientala/OT
@@ -2819,7 +2811,6 @@ Portugaisas/T
 Portugal/T
 Poschiavo/T
 Poseidon/T
-PowerPoint
 Prada/T
 Praden/T
 Prader
@@ -3662,7 +3653,6 @@ Tiefencastel
 Tigray/T
 Tigrin/T
 Tigrins/T
-Tigris/T
 Tim
 Timo
 Timor/T
@@ -3814,7 +3804,6 @@ Twitter/T
 Tönz
 UD/OT
 UE/OT
-UNESCO/O
 URL/OT
 URLs/OT
 UUC/OT
@@ -4039,7 +4028,6 @@ Wirz
 Wittwer
 Wolf
 Wolfgang/T
-Word
 Wyss
 Wälti
 Wüthrich
@@ -4489,7 +4477,7 @@ absentain/OPT
 absentais/OPT
 absentamain/OT
 absentan/OPT
-absentar/OPT
+absentar/OT
 absentas/OPT
 absentass/OPT
 absentassan/OPT
@@ -6080,7 +6068,6 @@ admonivas/OPT
 admoniziun/OT
 admoniziuns/OT
 admonì/OPT
-adnexitis/OT
 adolescent/OT
 adolescenta/OT
 adolescentamain/OT
@@ -11474,7 +11461,6 @@ armoniusas/OT
 armà/OPT
 arnera/OT
 arneras/OT
-arni/OT
 arnica/OT
 arnicas/OT
 arogn/OT
@@ -14491,7 +14477,6 @@ bactericid/T
 bactericida/T
 bactericidas/T
 bactericids/T
-bacteriemia/T
 bacteriofag/T
 bacteriofags/T
 bacteriolog/T
@@ -17246,9 +17231,6 @@ bilaterals/T
 bildungsbürger/T
 bildungsbürgertum/T
 biling/T
-bilings/T
-bilingua/T
-bilinguas/T
 bilinguissem/T
 bilinguissems/T
 bilinguitad/T
@@ -17425,7 +17407,6 @@ biomimetica/T
 biomimeticas/T
 biomimetics/T
 bioms/T
-bionica/T
 bioproductiv/T
 bioproductiva/T
 bioproductivas/T
@@ -20110,8 +20091,6 @@ butan/T
 butanol/T
 butia/T
 butias/T
-butier/T
-butiera/T
 butietta/T
 butiettas/T
 butigant/T
@@ -21133,7 +21112,6 @@ capriolas/T
 caps/T
 capsaicin/T
 capsaicins/T
-capsicum/T
 capsla/TQ
 capslada/T
 capsladas/T
@@ -22325,7 +22303,6 @@ caucasica/T
 caucasicas/T
 caucasics/T
 caum/T
-caumacit/T
 caums/T
 causa/T
 causada/T
@@ -28425,8 +28402,6 @@ condenseschia/T
 condenseschian/T
 condenseschias/T
 condensond/T
-condensur/T
-condensurs/T
 condensà/T
 condescendenza/T
 condescendenzas/T
@@ -31698,7 +31673,6 @@ cranial/T
 craniala/T
 cranialas/T
 cranials/T
-craniofacial/T
 craniosacral/T
 craniosacrala/T
 craniosacralas/T
@@ -40826,8 +40800,6 @@ descendias/T
 descendida/T
 descendidas/T
 descendids/T
-descendur/T
-descendurs/T
 descendì/T
 descensiun/T
 descensiuns/T
@@ -42594,8 +42566,6 @@ digrera/T
 digreras/T
 digressiun/T
 digressiuns/T
-dikdik/T
-dikdiks/T
 dil/T
 dilataziun/T
 dilataziuns/T
@@ -42656,34 +42626,12 @@ dilucidond/T
 dilucidà/T
 diluent/T
 diluents/T
-diluesch/T
-diluescha/TQ
-dilueschan/T
-dilueschas/T
-dilueschia/T
-dilueschian/T
-dilueschias/T
-dilui/T
-diluida/T
-diluidas/T
-diluids/T
-diluin/T
-diluind/T
-diluir/T
-diluis/T
-diluiss/T
-diluissan/T
-diluissas/T
-diluiva/TQ
-diluivan/T
-diluivas/T
 diluvi/T
 diluvial/T
 diluviala/T
 diluvialas/T
 diluvials/T
 diluvis/T
-diluì/T
 dim/T
 dimena/T
 dimensiun/T
@@ -44423,7 +44371,6 @@ dismettevas/T
 dismettia/T
 dismettian/T
 dismettias/T
-dismorfia/T
 disnivel/T
 disnivels/T
 disond/T
@@ -56853,7 +56800,6 @@ fendids/T
 fendì/T
 fenestella/T
 fenestellas/T
-fenetillin/T
 fengli/T
 fenilalanin/T
 fenilalanins/T
@@ -72266,6 +72212,8 @@ insubric/OT
 insubrica/OT
 insubricas/OT
 insubrics/OT
+insudat/OT
+insudats/OT
 insuffizient/OT
 insuffizienta/OT
 insuffizientamain/OT
@@ -72627,7 +72575,6 @@ intenziunà/OPT
 inter-/OT
 interactiv/OT
 interactiva/OT
-interactivamain/OT
 interactivas/OT
 interactivitad/OT
 interactivitads/OT
@@ -75676,7 +75623,6 @@ kaschin/T
 kashmiri/T
 katakana/T
 katakanas/T
-kauri/T
 kawi/T
 kea/T
 keas/T
@@ -77481,7 +77427,6 @@ lezs/T
 lezza/T
 lezzas/T
 lia/TQ
-liacabels/T
 liacudeschs/T
 liada/T
 liadas/T
@@ -82319,13 +82264,11 @@ mattina/T
 mattinas/T
 mattins/T
 matura/T
-maturae/T
 maturand/T
 maturanda/T
 maturandas/T
 maturands/T
 maturas/T
-maturi/T
 maturitad/T
 maturitads/T
 matutin/T
@@ -88224,12 +88167,6 @@ neurochirurgas/T
 neurochirurgia/T
 neurochirurgias/T
 neurochirurgs/T
-neurodivers/T
-neurodiversa/T
-neurodiversamain/T
-neurodiversas/T
-neurodiversitad/T
-neurodiversitads/T
 neurofisiologic/T
 neurofisiologica/T
 neurofisiologicas/T
@@ -91718,7 +91655,6 @@ ohms/OT
 oi/OT
 oinocoea/OT
 oinocoeas/OT
-oiratic/OT
 ojibwa/OT
 ok/OT
 okay/OT
@@ -100874,8 +100810,6 @@ plumparias/T
 plumpas/T
 plumpezza/T
 plumpezzas/T
-plumplori/T
-plumploris/T
 plumps/T
 plums/T
 plumà/T
@@ -100978,9 +100912,9 @@ plurilaterala/T
 plurilateralas/T
 plurilaterals/T
 pluriling/T
+plurilinga/T
+plurilingas/T
 plurilings/T
-plurilingua/T
-plurilinguas/T
 plurilinguissem/T
 plurilinguitad/T
 plurilinguitads/T
@@ -101086,7 +101020,6 @@ podologicas/T
 podologics/T
 podologs/T
 poem/T
-poemari/T
 poems/T
 poesia/T
 poesias/T
@@ -110351,7 +110284,6 @@ ravaschia/T
 ravaschian/T
 ravaschias/T
 ravaschond/T
-ravaschus/T
 ravaschà/T
 rave/T
 ravel/T
@@ -126974,7 +126906,6 @@ sepia/T
 sepias/T
 sepsia/T
 sepsias/T
-sepsis/T
 septellins/T
 septet/T
 septets/T
@@ -127256,8 +127187,6 @@ serologias/T
 serologs/T
 serom/T
 seroms/T
-serosa/T
-serosas/T
 serotonin/T
 serotonins/T
 serp-sunagl/T
@@ -127349,10 +127278,6 @@ serum/T
 serumprotein/T
 serumproteins/T
 serums/T
-serus/T
-serusa/T
-serusamain/T
-serusas/T
 serv/T
 serva/TQ
 serval/T
@@ -130380,7 +130305,6 @@ simpatiseschian/T
 simpatiseschias/T
 simpatisond/T
 simpatisà/T
-simpatomimeticum/T
 simpel/T
 simpelischem/T
 simpelischems/T
@@ -131922,8 +131846,6 @@ smombie/T
 smombiea/T
 smombieas/T
 smombies/T
-smonzetta/T
-smonzettas/T
 smort/T
 smorta/T
 smortas/T
@@ -134155,8 +134077,6 @@ spirlin/T
 spirlins/T
 spirogira/T
 spirogiras/T
-spirograf/T
-spirografs/T
 spirond/T
 spirulina/T
 spirulinas/T
@@ -146302,6 +146222,8 @@ tecnologicamain/T
 tecnologicas/T
 tecnologics/T
 tecnologs/T
+tecnoparty/T
+tecnopartys/T
 tecnopoligraf/T
 tecnopoligrafa/T
 tecnopoligrafas/T
@@ -146883,7 +146805,6 @@ tempr/T
 tempra/TQ
 temprada/T
 tempradas/T
-temprader/T
 temprads/T
 temprai/T
 temprain/T
@@ -147199,7 +147120,6 @@ teratom/T
 teratoms/T
 teratrac/T
 terawatt/T
-terbium/T
 teremin/T
 teremins/T
 tereno/T
@@ -148946,7 +148866,6 @@ tolereschias/T
 tolerond/T
 tolers/T
 tolerà/T
-tolina/T
 toluol/T
 toluols/T
 tom/T
@@ -152386,6 +152305,7 @@ tschertgian/T
 tschertgias/T
 tschertgond/T
 tschertgà/T
+tschertificat/T
 tschertins/T
 tscherts/T
 tschespidana/T
@@ -153919,7 +153839,6 @@ ulcerus/OT
 ulcerusa/OT
 ulcerusas/OT
 ulcus/OT
-ulema/OT
 uler/OT
 ulera/OT
 uleras/OT
@@ -156506,6 +156425,7 @@ verd-liberals/T
 verd-uliva/T
 verd/T
 verda/T
+verdamain/T
 verdarom/T
 verdaroms/T
 verdas/T

@@ -1,4 +1,4 @@
-147120
+147164
 A/T
 AVS/RT
 Aaron
@@ -6,7 +6,6 @@ Achermann
 Ackermann
 AdC
 Adelheid
-Adobe
 Adria/RT
 Adrian
 Aebi
@@ -567,7 +566,6 @@ Europeanas/RT
 Europeans/RT
 Eva
 Eveline
-Excel
 FMR
 Fabian
 Fabienne
@@ -616,6 +614,7 @@ Flerden
 Flims
 Fliri
 Flond
+Florentin/T
 Florenza/T
 Florian
 Florin
@@ -655,6 +654,7 @@ Frenas/RT
 Frey
 Friberg
 Friburg/T
+Friburges/T
 Friedli
 Frischknecht
 Frison/RT
@@ -1008,7 +1008,6 @@ Ladins/RT
 Ladir
 Lai/T
 Landolt
-Landquart
 Lang
 Lanicca
 Lantsch/T
@@ -1077,6 +1076,7 @@ Luana
 Luca
 Lucas
 Lucerna/T
+Lucernes/T
 Lucia
 Lucmagn/RT
 Ludvic/RT
@@ -1306,7 +1306,6 @@ Nussigners/RT
 Nutegn
 Näf
 OEE
-ONU
 Obervaz
 Odermatt
 Olga
@@ -1402,7 +1401,6 @@ Portugal/RT
 Portughes/RT
 Portughesa/RT
 Portughesas/RT
-PowerPoint
 Prader
 Pratval
 Preaz
@@ -1883,7 +1881,6 @@ Turteia/RT
 Turteias/RT
 Tusang/T
 Tönz
-UNESCO
 Ucraina/RT
 Ucranes/RT
 Ucranesa/RT
@@ -1990,7 +1987,6 @@ Wirth
 Wirz
 Wittwer
 Wolf
-Word
 Wyss
 Wälti
 Wüthrich
@@ -48916,6 +48912,7 @@ fegls/RT
 fegn'udeida/T
 fegn/RT
 fegna/T
+fegnadegn/T
 fegnamaintg/T
 fegnameira/RT
 fegnameiras/RT
@@ -52506,8 +52503,13 @@ funcziunavigl/PT
 funcziune/PQT
 funcziunesch/PT
 funcziunescha/PQT
+funcziunescha/funcziun/PT
+funcziunescha/funcziuna/PQT
 funcziuneschan/PT
+funcziuneschan/funcziunan/PT
+funcziuneschan/funcziunigl/PT
 funcziuneschas/PT
+funcziuneschas/funcziunas/PT
 funcziuneschast/PT
 funcziuneschigl/PT
 funcziuness/PT
@@ -75317,6 +75319,7 @@ nunamblidabels/T
 nunamblidabla/T
 nunamblidablas/T
 nunamporta/T
+nunancligibel/T
 nunancunaschaint/RT
 nunancunaschainta/RT
 nunancunaschaintas/RT
@@ -75474,6 +75477,7 @@ nunduvrada/T
 nunduvradas/T
 nunduvro/T
 nunduvros/T
+nuneconomic/T
 nuneligibel/T
 nuneligibels/T
 nuneligibla/T
@@ -75687,6 +75691,7 @@ nunproductiv/T
 nunproductiva/T
 nunproductivas/T
 nunproductivs/T
+nunpussebel/T
 nunramplazzabel/T
 nunramplazzabels/T
 nunramplazzabla/T
@@ -99556,6 +99561,7 @@ revoltessigl/PT
 revoltez/PT
 revolto/PT
 revoltond/PT
+revoltont/T
 revoltos/PT
 revoluziun/RT
 revoluziunada/PT
@@ -112332,8 +112338,46 @@ servameisas/RT
 servan/PT
 servas/PRT
 servast/PT
-servela/RT
+servel/PT
+servela/PRT
 servelas/RT
+servell/PT
+servella/PQT
+servellada/PT
+servelladas/PT
+servellagn/PT
+servellainsa/PT
+servellan/PT
+servellar/PT
+servellaro/PT
+servellaroia/PT
+servellaron/PT
+servellaronigl/PT
+servellaronsa/PT
+servellarossas/PT
+servellarossast/PT
+servellas/PT
+servellast/PT
+servellav/PT
+servellava/PT
+servellavan/PT
+servellavans/PT
+servellavas/PT
+servellavast/PT
+servellavigl/PT
+servelle/PQT
+servelless/PT
+servellessa/PT
+servellessan/PT
+servellessans/PT
+servellessas/PT
+servellessast/PT
+servellessigl/PT
+servellez/PT
+servelligl/PT
+servello/PT
+servellond/PT
+servellos/PT
 serviaint/RT
 serviainta/RT
 serviaintas/RT
