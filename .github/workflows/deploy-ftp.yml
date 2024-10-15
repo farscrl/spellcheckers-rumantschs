@@ -43,7 +43,7 @@ jobs:
         run: npm run pack-vallader
 
       - name: Upload files via FTP
-        if: ${{ github.event.inputs.upload_additional_artifacts == 'false' }}
+        if: ${{ github.event_name == 'push' || github.event.inputs.upload_additional_artifacts == 'false' }}
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
