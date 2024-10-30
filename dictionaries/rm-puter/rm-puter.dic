@@ -1,4 +1,4 @@
-195334
+195578
 A/T
 Aaron/T
 Aarons/T
@@ -1056,6 +1056,9 @@ Isbaal/T
 Isbaals/T
 Iseli
 Islanda/T
+Islandais/T
+Islandaisa/T
+Islandaisas/T
 Isler
 Isola/T
 Israel/T
@@ -1427,6 +1430,7 @@ Minder
 Miriam
 Mirjam
 Mitsubishi
+Moamed/T
 Mohamed
 Moldavia/T
 Mon
@@ -1963,6 +1967,7 @@ Sour
 Spagna/T
 Spagnas/T
 Spagnöl/T
+Spagnöla/T
 Spendreder/T
 Spescha
 Spinas/T
@@ -2155,6 +2160,7 @@ Tuatschina/T
 Tuatschinas/T
 Tuatschins/T
 Tudas-ch/T
+Tudas-cha/T
 Tuer/T
 Tujetsch/T
 Tumegl
@@ -2265,6 +2271,7 @@ Von Planta
 Vrin
 Vuclina/T
 Vuclinas-ch/T
+Vuclinas-cha/T
 Vulpera/T
 Vuorz
 Véronique
@@ -5970,6 +5977,7 @@ adoptessas/PT
 adoptessast/PT
 adoptessi/PT
 adoptiv/T
+adoptiva/T
 adopto/PT
 adoptos/PT
 adoptè/PTQR
@@ -6975,6 +6983,64 @@ agl/T
 aglomeraziun/T
 aglomeraziuns/T
 agls/T
+aglutinains/PT
+aglutinainsa/PT
+aglutinais/PT
+aglutinaiv'la/PT
+aglutinaiva'l/PT
+aglutinaiva/PT
+aglutinaivan/PT
+aglutinaivane/PT
+aglutinaivans/PT
+aglutinaivas/PT
+aglutinaivast/PT
+aglutinaivi/PT
+aglutinand/PT
+aglutinareg'la/PT
+aglutinaregi/PT
+aglutinaregia'l/PT
+aglutinaregia/PT
+aglutinaregian/PT
+aglutinaregiane/PT
+aglutinaregians/PT
+aglutinaregias/PT
+aglutinaregiast/PT
+aglutinaro'l/PT
+aglutinaro'la/PT
+aglutinaro/PT
+aglutinaron/PT
+aglutinarone/PT
+aglutinarons/PT
+aglutinaronsa/PT
+aglutinaros/PT
+aglutinarost/PT
+aglutinaziun/T
+aglutinaziuns/T
+aglutineda/PT
+aglutinedas/PT
+aglutiner/PTQR
+aglutinesch'la/PT
+aglutinesch/PT
+aglutinescha'l/PT
+aglutinescha/PTQR
+aglutineschan/PT
+aglutineschane/PT
+aglutineschans/PT
+aglutineschas/PT
+aglutineschast/PT
+aglutineschi/PT
+aglutiness'la/PT
+aglutiness/PT
+aglutinessa'l/PT
+aglutinessan/PT
+aglutinessane/PT
+aglutinessans/PT
+aglutinessas/PT
+aglutinessast/PT
+aglutinessi/PT
+aglutino/PT
+aglutinos/PT
+aglutinè/PTQR
 agn/T
 agna/T
 agnella/T
@@ -12196,6 +12262,7 @@ ardüjast/PT
 ardüji/PT
 ardür/PTQR
 ardüt/PT
+ardüta/T
 ardüts/PT
 ardütta/PT
 ardüttas/PT
@@ -12563,6 +12630,7 @@ armaronsa/PT
 armaros/PT
 armarost/PT
 armaröl/T
+armaröla/T
 armas/PT
 armatuors/T
 armatur/T
@@ -15112,9 +15180,16 @@ autentifichessi/PT
 autentificho/PT
 autentifichos/PT
 autentifichè/PTQR
+autissem/T
+autissems/T
 autist/T
 autista/T
 autistas/T
+autistic/T
+autistica/T
+autisticamaing/T
+autisticas/T
+autistics/T
 autists/T
 auto/T
 autobiografia/T
@@ -17109,6 +17184,7 @@ ballapuogn/T
 ballapuogns/T
 ballapè/T
 ballapès/T
+ballapövel/T
 ballapövels/T
 ballarait/T
 ballareg'la/T
@@ -17305,6 +17381,7 @@ banca/T
 bancanota/T
 bancanotas/T
 bancar/T
+bancara/T
 bancarutta/T
 bancaruttas/T
 bancas/T
@@ -17718,6 +17795,7 @@ barbusa/T
 barbusas/T
 barcha/T
 barcharöl/T
+barcharöla/T
 barcharölas/T
 barcharöls/T
 barchas/T
@@ -17726,6 +17804,7 @@ barchettas/T
 barchina/T
 barchinas/T
 barchiröl/T
+barchiröla/T
 bardasch/T
 bardascha/T
 bardaschamaing/T
@@ -17762,6 +17841,7 @@ barlöcha/T
 barlöchin/T
 barlöchins/T
 barmör/T
+barmöra/T
 baroc/T
 barocca/T
 baroccas/T
@@ -19045,6 +19125,7 @@ bes-chas/T
 bes-chatscha/T
 bes-chatschas/T
 bes-cher/T
+bes-chera/T
 bes-chuna/T
 bes-chunas/T
 besaun/T
@@ -19506,6 +19587,8 @@ biscuit/T
 biscuits/T
 biscutin/T
 biscutins/T
+bisexualited/T
+bisexualiteds/T
 bisexuel/T
 bisexuela/T
 bisexuelas/T
@@ -20294,6 +20377,7 @@ blockè's/TQR
 blockè/TQR
 blocs/T
 blond/T
+blonda/T
 blondina/T
 blondinas/T
 blov/T
@@ -20519,6 +20603,7 @@ bos-chaglia/T
 bos-chaglias/T
 bos-chas/T
 bos-cher/T
+bos-chera/T
 bos-chus/T
 bos-chusa/T
 bostitsch/T
@@ -22708,6 +22793,7 @@ büros/T
 büs-cha/T
 büs-chas/T
 büs-cher/T
+büs-chera/T
 büschen/T
 büschens/T
 büschla/T
@@ -23169,6 +23255,7 @@ calmand/T
 calmane/T
 calmans/T
 calmant/T
+calmanta/T
 calmants/T
 calmareg'la/T
 calmaregi/T
@@ -23794,6 +23881,7 @@ capostaziuna/T
 capostaziunas/T
 capostaziuns/T
 capotregant/T
+capotreganta/T
 capra/T
 capras/T
 capricorn/T
@@ -24045,6 +24133,7 @@ cardinelas/T
 cardinels/T
 carena/T
 carenas/T
+cares/T
 carfuncal/T
 carfuncals/T
 cargnoula/T
@@ -24219,7 +24308,6 @@ cartuschas/T
 carussel/T
 carussels/T
 carè/T
-carès/T
 cas/T
 cascada/T
 cascadas/T
@@ -24258,6 +24346,7 @@ casuïstics/T
 catacomba/T
 catacombas/T
 catalan/T
+catalana/T
 catalisatuors/T
 catalisatur/T
 catalog/T
@@ -27389,6 +27478,8 @@ choda/T
 chodas/T
 chodauna/T
 chodaunas/T
+chodin/T
+chodins/T
 chodouvra/T
 chodouvras/T
 chods/T
@@ -27593,6 +27684,8 @@ chüerpin/T
 chüerpins/T
 chüerps/T
 chül/T
+chülat/T
+chülats/T
 chülatta/T
 chülattas/T
 chülin/T
@@ -30672,6 +30765,7 @@ commemoraronsa/T
 commemoraros/T
 commemorarost/T
 commemorativ/T
+commemorativa/T
 commemoraziun/T
 commemoraziuns/T
 commemoreda/T
@@ -32079,6 +32173,7 @@ confesso/T
 confessos/T
 confessuors/T
 confessur/T
+confessura/T
 confessè/TQR
 confettis/T
 confid'la/T
@@ -32494,6 +32589,7 @@ confuondast/T
 confuonder/PTQR
 confuondi/T
 confuorm/T
+confuorma/T
 confuormamaing/T
 confurmited/T
 confurmiteds/T
@@ -35819,6 +35915,14 @@ crasp/T
 craspa/T
 craspas/T
 crasps/T
+crass/T
+crassa/T
+crassamaing/T
+crassas/T
+crassischem/T
+crassischems/T
+crassischma/T
+crassischmas/T
 crasta/T
 crastas/T
 crastiaun/T
@@ -39823,6 +39927,7 @@ cundiziun/T
 cundiziuneda/T
 cundiziunedas/T
 cundiziunel/T
+cundiziunela/T
 cundiziunels/T
 cundiziuno/T
 cundiziunos/T
@@ -41042,6 +41147,7 @@ curatè/TQR
 curaziun/T
 curaziuns/T
 curd/T
+curda/T
 curdun/T
 curduns/T
 cureda/T
@@ -41295,6 +41401,7 @@ curteïn/T
 curtin/T
 curtins/T
 curtischaun/T
+curtischauna/T
 curtischauns/T
 curtuir/T
 curtuirs/T
@@ -43755,6 +43862,7 @@ decorativa/T
 decorativas/T
 decorativs/T
 decoratör/T
+decoratöra/T
 decoraziun/T
 decoraziuns/T
 decoreda/T
@@ -46717,6 +46825,7 @@ desertos/T
 deserts/T
 desertè/TQR
 desertör/T
+desertöra/T
 deserziun/T
 deserziuns/T
 desiderabel/T
@@ -47184,6 +47293,7 @@ determinaronsa/T
 determinaros/T
 determinarost/T
 determinativ/T
+determinativa/T
 determinaziun/T
 determinaziuns/T
 determineda/T
@@ -48026,6 +48136,7 @@ diminuivas/T
 diminuivast/T
 diminuivi/T
 diminutiv/T
+diminutiva/T
 diminutivs/T
 diminuziun/T
 diminuziuns/T
@@ -50838,6 +50949,7 @@ distribuziuns/T
 district/T
 districts/T
 districtuel/T
+districtuela/T
 districtuels/T
 districtula/T
 districtulas/T
@@ -54664,6 +54776,7 @@ emettuors/T
 emettur/T
 emettè/PTQR
 emfatic/T
+emfatica/T
 emigrains/PT
 emigrainsa/PT
 emigrais/PT
@@ -54760,6 +54873,7 @@ emoziuno/T
 emoziunos/T
 emoziuns/T
 empatic/T
+empatica/T
 empi/T
 empia/T
 empias/T
@@ -55668,6 +55782,7 @@ esitaivast/PT
 esitaivi/PT
 esitand/PT
 esitant/T
+esitanta/T
 esitareg'la/PT
 esitaregi/PT
 esitaregia'l/PT
@@ -55740,6 +55855,7 @@ essast/PT
 essenza/T
 essenzas/T
 essenziel/T
+essenziela/T
 essenziels/T
 esser/PTQR
 essers/T
@@ -55908,6 +56024,8 @@ eterogen/T
 eterogena/T
 eterogenamaing/T
 eterogenas/T
+eterogenited/T
+eterogeniteds/T
 eterogens/T
 eteros/T
 eterosexualited/T
@@ -55991,6 +56109,7 @@ etisias/T
 etnia/T
 etnias/T
 etnic/T
+etnica/T
 etnolog/T
 etnologa/T
 etnologas/T
@@ -58388,6 +58507,7 @@ extrattas/PT
 extravaganza/T
 extravaganzas/T
 extrem/T
+extrema/T
 extremist/T
 extremista/T
 extremistas/T
@@ -62587,6 +62707,7 @@ flus/T
 flussiun/T
 flussiuns/T
 fluviel/T
+fluviela/T
 fluxiun/T
 fluxiuns/T
 flöch/T
@@ -63693,6 +63814,7 @@ fraunchtregants/T
 fregarella/T
 fregarellas/T
 freh/T
+freha/T
 frehezza/T
 freja/T
 frejas/T
@@ -64340,6 +64462,7 @@ früttaivlas/T
 früttaivlezza/T
 früttaivlezzas/T
 früttaröl/T
+früttaröla/T
 früttas/T
 früttosa/T
 früttosas/T
@@ -64712,6 +64835,7 @@ fuormlas/T
 fuorn/T
 fuorns/T
 fuos-ch/T
+fuos-cha/T
 furains/T
 furainsa/T
 furais/T
@@ -64859,6 +64983,7 @@ furiusamaing/T
 furiusas/T
 furiè/TQR
 furlaun/T
+furlauna/T
 furmains/T
 furmainsa/T
 furmaint/T
@@ -70341,6 +70466,7 @@ guardgiachatscha/T
 guardgialingia/T
 guardgialingias/T
 guardgiapas-cha/T
+guardgiapas-chas/T
 guardgias/T
 guardgiasulvaschina/T
 guardi/T
@@ -71707,6 +71833,8 @@ iberics/T
 ibrid/T
 ibrida/T
 ibridas/T
+ibridaziun/T
+ibridaziuns/T
 ibrids/T
 ida/PT
 idas/PT
@@ -73062,6 +73190,7 @@ imbellivas/PT
 imbellivast/PT
 imbellivi/PT
 imbres/T
+imbresa/T
 imbruglia/PTQR
 imbrugliains/PT
 imbrugliainsa/PT
@@ -75731,6 +75860,7 @@ impreschiuno/T
 impreschiunos/T
 impreschiuns/T
 impress/T
+impressa/T
 impressari/T
 impressaria/T
 impressarias/T
@@ -81297,6 +81427,7 @@ infurmaivi/PT
 infurmand/PT
 infurmanda/T
 infurmant/T
+infurmanta/T
 infurmareg'la/PT
 infurmaregi/PT
 infurmaregia'l/PT
@@ -87017,6 +87148,7 @@ inters/T
 intersecziun/T
 intersecziuns/T
 interurban/T
+interurbana/T
 interurbans/T
 intervai'la/PT
 intervain'l/PT
@@ -88984,6 +89116,7 @@ invocho/PT
 invochos/PT
 invochè/PTQR
 involuntar/T
+involuntara/T
 involuntari/T
 involuntaria/T
 involuntariamaing/T
@@ -89933,6 +90066,7 @@ labiela/T
 labielas/T
 labiels/T
 labil/T
+labila/T
 labirint/T
 labirints/T
 labor/T
@@ -90347,6 +90481,7 @@ lapp'la/T
 lappa'l/T
 lappa/TQR
 lappabröch/T
+lappabröcha/T
 lappains/T
 lappainsa/T
 lappais/T
@@ -95370,6 +95505,7 @@ masso/T
 massos/T
 massè/TQR
 massör/T
+massöra/T
 massösa/T
 massösas/T
 mastrag'la/T
@@ -96713,6 +96849,7 @@ menüs/T
 mer/T
 mera/T
 mercantil/T
+mercantila/T
 mercenari/T
 mercenaris/T
 merceria/T
@@ -97637,6 +97774,7 @@ minz/T
 minzs/T
 minè/TQR
 minör/T
+minöra/T
 miop/T
 miopa/T
 miopas/T
@@ -98023,6 +98161,12 @@ mnüda/T
 mnüdamaing/T
 mnüdas/T
 mnüds/T
+moamedanissem/T
+moamedanissems/T
+moamedaun/T
+moamedauna/T
+moamedaunas/T
+moamedauns/T
 mob'la/T
 mob/T
 moba'l/T
@@ -98470,10 +98614,6 @@ modulos/T
 modulè/TQR
 mofa/T
 mofas/T
-mohammedaun/T
-mohammedauna/T
-mohammedaunas/T
-mohammedauns/T
 mol/T
 moleculer/T
 moleculera/T
@@ -98546,6 +98686,7 @@ mols/T
 molta/T
 moltas/T
 momentan/T
+momentana/T
 monarch/T
 monarcha/T
 monarchas/T
@@ -98673,6 +98814,7 @@ monto/T
 montos/T
 montè/TQR
 montör/T
+montöra/T
 monumaint/T
 monumaints/T
 monumentalited/T
@@ -101255,6 +101397,7 @@ naufragi/T
 naufragis/T
 nautic/T
 nautica/T
+nauticamaing/T
 nauticas/T
 nautics/T
 navaglias/T
@@ -101354,6 +101497,10 @@ naviscularo/T
 navisculer/T
 navisculess/T
 navisculo/T
+nazi/T
+nazis/T
+nazissem/T
+nazissems/T
 naziun/T
 naziunalisains/T
 naziunalisainsa/T
@@ -101422,6 +101569,16 @@ naziunela/T
 naziunelas/T
 naziunelmaing/T
 naziunels/T
+naziunelsocialissem/T
+naziunelsocialissems/T
+naziunelsocialist/T
+naziunelsocialista/T
+naziunelsocialistas/T
+naziunelsocialistic/T
+naziunelsocialistica/T
+naziunelsocialisticas/T
+naziunelsocialistics/T
+naziunelsocialists/T
 naziuns/T
 naïv/T
 naïva/T
@@ -101834,6 +101991,7 @@ nezza/T
 nezzas/T
 niaunch'orma/T
 niaunch'ün/T
+niaunch'üna/T
 niauncha/T
 nical/T
 nicals/T
@@ -102244,6 +102402,7 @@ normos/T
 normè/TQR
 norvegiais/T
 norvegiaisa/T
+norvegiaisas/T
 nos/T
 nosch/T
 noscha/T
@@ -104153,6 +104312,7 @@ opportuniteds/T
 opportuns/T
 opposiziun/T
 opposiziunel/T
+opposiziunela/T
 opposiziuns/T
 oppost/PT
 opposta/PT
@@ -108327,7 +108487,6 @@ pastuira/T
 pastuiras/T
 pastuors/T
 pastur/T
-pastura/T
 pasturains/T
 pasturainsa/T
 pasturais/T
@@ -108359,12 +108518,13 @@ pasturarons/T
 pasturaronsa/T
 pasturaros/T
 pasturarost/T
-pasturas/T
 pasturaziun/T
 pasturaziuns/T
 pastureda/T
 pasturedas/T
 pasturel/T
+pasturela/T
+pasturelas/T
 pasturels/T
 pasturer/TQR
 pasturesch'la/T
@@ -109174,7 +109334,9 @@ pederastiaas/T
 pederastias/T
 pederasts/T
 pediater/T
+pediaters/T
 pediatra/T
+pediatras/T
 pedicür/T
 pedicüra/T
 pedicüras/T
@@ -112776,6 +112938,7 @@ pittur/T
 pittura/T
 pitturas/T
 pitturesc/T
+pitturesca/T
 pittür'la/T
 pittür/T
 pittüra'l/T
@@ -114397,6 +114560,10 @@ poems/T
 poesia/T
 poesias/T
 poet/T
+poetaster/T
+poetasters/T
+poetastra/T
+poetastras/T
 poetessa/T
 poetessas/T
 poetic/T
@@ -117573,6 +117740,7 @@ prevzaivast/T
 prevzaivi/T
 prevzand/T
 prevzant/T
+prevzanta/T
 prevzareg'la/T
 prevzaregi/T
 prevzaregia'l/T
@@ -134163,6 +134331,7 @@ rinfras-chand/T
 rinfras-chane/T
 rinfras-chans/T
 rinfras-chant/T
+rinfras-chanta/T
 rinfras-chareg'la/T
 rinfras-charegi/T
 rinfras-charegia'l/T
@@ -136205,6 +136374,7 @@ rögnessi/T
 rögni/T
 rögno/T
 rögnos/T
+rögns/T
 rögnè/TQR
 rögnöz/T
 rögnözs/T
@@ -136665,6 +136835,7 @@ s-chalino/T
 s-chalinos/T
 s-chalinè/TQR
 s-chaliter/T
+s-chalitera/T
 s-chaliz/T
 s-chalizz'la/T
 s-chalizza'l/T
@@ -137319,6 +137490,7 @@ s-chargiast/T
 s-chargio/T
 s-chargios/T
 s-chargiunz/T
+s-chargiunza/T
 s-chargè/TQR
 s-charlatta/T
 s-charlattas/T
@@ -138223,6 +138395,7 @@ s-chimand/T
 s-chimane/T
 s-chimans/T
 s-chimant/T
+s-chimanta/T
 s-chimareg'la/T
 s-chimaregi/T
 s-chimaregia'l/T
@@ -142716,6 +142889,7 @@ sbrüs-chi/T
 sbrüs-cho/T
 sbrüs-chos/T
 sbrüs-chuoss/T
+sbrüs-chuossa/T
 sbrüs-chè/TQR
 sbuamaint/T
 sbuamaints/T
@@ -143787,6 +143961,7 @@ scharmantas/T
 scharmants/T
 scharms/T
 scharmör/T
+scharmöra/T
 scharnier/T
 scharniers/T
 scharpa/T
@@ -148679,6 +148854,7 @@ schonglo/T
 schonglos/T
 schonglè/TQR
 schonglör/T
+schonglöra/T
 schont/T
 schoppa/T
 schoppas/T
@@ -148897,6 +149073,7 @@ schügliessi/T
 schüglio/T
 schüglios/T
 schügliè/TQR
+schüs/T
 scientific/T
 scientifica/T
 scientificamaing/T
@@ -151891,6 +152068,7 @@ scusivas/T
 scusivast/T
 scusivi/T
 scuss/T
+scussa/T
 scussagl'la/T
 scussagl/T
 scussagli/T
@@ -166025,6 +166203,7 @@ stagno/T
 stagns/T
 stagè/TQR
 staif/T
+staifa/T
 staigher/T
 staighers/T
 staila/T
@@ -170263,6 +170442,7 @@ subalterna/T
 subalternas/T
 subalterns/T
 subconsciaint/T
+subconsciainta/T
 subconsciaints/T
 subdivisiun/T
 subdivisiuns/T
@@ -171680,6 +171860,7 @@ suotgruppa/T
 suotgruppas/T
 suotinsü/T
 suotmarin/T
+suotmarina/T
 suotmarins/T
 suotno/T
 suotnudrimaint/T
@@ -172158,6 +172339,7 @@ superos/T
 superpü/T
 supersexy/T
 supersonic/T
+supersonica/T
 superstiziun/T
 superstiziuns/T
 superstizius/T
@@ -174574,7 +174756,6 @@ surriessast/T
 surriessi/T
 surrieu/T
 surrii/T
-surriieu/T
 surrir/TQR
 surris/T
 surrisa/T
@@ -176753,6 +176934,7 @@ svestivi/T
 svetteda/T
 svettedas/T
 sveul/T
+sveula/T
 svi/T
 svia/T
 sviains/T
@@ -178261,6 +178443,7 @@ tamburè/TQR
 tamfan/T
 tamfans/T
 tamfitsch/T
+tamfitscha/T
 tamfitschs/T
 tampastina/T
 tampastinas/T
@@ -179799,6 +179982,7 @@ teletexts/T
 televisiun/T
 televisiuns/T
 televisiv/T
+televisiva/T
 telmaing/T
 tels/T
 tem/T
@@ -183296,8 +183480,64 @@ transpuonas/T
 transpuonast/T
 transpuoner/TQR
 transpuoni/T
+transsubstanziains/T
+transsubstanziainsa/T
+transsubstanziais/T
+transsubstanziaiv'la/T
+transsubstanziaiva'l/T
+transsubstanziaiva/T
+transsubstanziaivan/T
+transsubstanziaivane/T
+transsubstanziaivans/T
+transsubstanziaivas/T
+transsubstanziaivast/T
+transsubstanziaivi/T
+transsubstanziand/T
+transsubstanziareg'la/T
+transsubstanziaregi/T
+transsubstanziaregia'l/T
+transsubstanziaregia/T
+transsubstanziaregian/T
+transsubstanziaregiane/T
+transsubstanziaregians/T
+transsubstanziaregias/T
+transsubstanziaregiast/T
+transsubstanziaro'l/T
+transsubstanziaro'la/T
+transsubstanziaro/T
+transsubstanziaron/T
+transsubstanziarone/T
+transsubstanziarons/T
+transsubstanziaronsa/T
+transsubstanziaros/T
+transsubstanziarost/T
 transsubstanziaziun/T
 transsubstanziaziuns/T
+transsubstanzieda/T
+transsubstanziedas/T
+transsubstanzier/TQR
+transsubstanziesch'la/T
+transsubstanziesch/T
+transsubstanziescha'l/T
+transsubstanziescha/TQR
+transsubstanzieschan/T
+transsubstanzieschane/T
+transsubstanzieschans/T
+transsubstanzieschas/T
+transsubstanzieschast/T
+transsubstanzieschi/T
+transsubstanziess'la/T
+transsubstanziess/T
+transsubstanziessa'l/T
+transsubstanziessan/T
+transsubstanziessane/T
+transsubstanziessans/T
+transsubstanziessas/T
+transsubstanziessast/T
+transsubstanziessi/T
+transsubstanzio/T
+transsubstanzios/T
+transsubstanziè/TQR
 transvestit/T
 transvestits/T
 trapart'la/T
@@ -184104,6 +184344,7 @@ traversast/T
 traverseda/T
 traversedas/T
 traversel/T
+traversela/T
 traverser/TQR
 traversess'la/T
 traversess/T
@@ -186952,6 +187193,7 @@ tuctetta/T
 tuctettas/T
 tucts/T
 tudas-ch/T
+tudas-cha/T
 tudel/T
 tudels/T
 tuf/T
@@ -187157,6 +187399,7 @@ tuotpussaunza/T
 tuotpussaunzas/T
 tuots/T
 tuotsapiaint/T
+tuotsapiainta/T
 tuottadi/T
 tuottafat/T
 tuottas/T
@@ -187372,6 +187615,7 @@ turmantillas/T
 turmanto/T
 turmantos/T
 turmantun/T
+turmantuna/T
 turmantè's/TQR
 turmantè/TQR
 turnains/T
@@ -192556,6 +192800,7 @@ vivaronsa/T
 vivaros/T
 vivarost/T
 vivas-ch/T
+vivas-cha/T
 vivas/T
 vivast/T
 viver/TQR
@@ -194956,7 +195201,6 @@ zürigaisas/T
 üerts/T
 ügla/T
 üglas/T
-üj/T
 üja/T
 üjas/T
 üjaspina/T
