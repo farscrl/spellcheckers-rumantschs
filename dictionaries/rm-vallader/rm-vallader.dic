@@ -1,4 +1,4 @@
-181325
+181336
 --/TQRSS
 A/T
 Aaron/T
@@ -2858,6 +2858,7 @@ Türcha/T
 Türchas/T
 Türchia/T
 Türchs/T
+Türin/T
 UNESCO
 Ucraina/T
 Ucranais/T
@@ -16804,6 +16805,7 @@ barometers/T
 barra/T
 barras/T
 barrascha/T
+barraschas/T
 barricada/T
 barricadada/TS
 barricadadas/TS
@@ -17026,6 +17028,10 @@ baschera/T
 bascheras/T
 baschun/T
 baschuns/T
+baschüt/T
+baschüts/T
+baschütta/T
+baschüttas/T
 bascs/T
 basdicaz/T
 basdrin/T
@@ -21823,6 +21829,10 @@ buttatschun/T
 buttatschuns/T
 buttatschöl/T
 buttatschöls/T
+buttatschü/T
+buttatschüda/T
+buttatschüdas/T
+buttatschüts/T
 buttun/T
 buttunera/T
 buttuneras/T
@@ -25849,6 +25859,10 @@ charnpurschè/T
 charnpüerch/T
 charnpüerchs/T
 charns/T
+charnü/T
+charnüda/T
+charnüdas/T
+charnüts/T
 charpella/T
 charpellas/T
 charpenna/T
@@ -63390,10 +63404,6 @@ grassin/T
 grassins/T
 grassitsch/T
 grassitschs/T
-grassotla/T
-grassotlas/T
-grassottel/T
-grassottels/T
 grat/TS
 grata/T
 gratai/T
@@ -64071,7 +64081,6 @@ grossists/T
 grossotla/T
 grossotlas/T
 grossottel/T
-grossottelin/T
 grossottels/T
 grossulan/T
 grossulana/T
@@ -81026,8 +81035,6 @@ involv'la/PTS
 involv/PTS
 involva'l/PTS
 involva/PTQRSS
-involvada/PTS
-involvadas/PTS
 involvai/PTQRSS
 involvain/PTS
 involvaina/PTS
@@ -81040,7 +81047,6 @@ involvaivast/PTS
 involvaivat/PTS
 involvaivna/PTS
 involvan/PTS
-involvar/PTS
 involvarai/PTQRSS
 involvaraja/PTS
 involvaran/PTS
@@ -81052,7 +81058,6 @@ involvarà'la/PTS
 involvarà/PTS
 involvast/PTS
 involvat/PTS
-involvats/PTS
 involver/PTQRSS
 involvess'la/PTS
 involvess/PTS
@@ -103935,11 +103940,14 @@ pinast/TS
 pinat/TS
 pinats/TS
 pinc/T
+pinca/T
 pincadinas/T
+pincas/T
 pincetta/T
 pincettas/T
 pinchera/T
 pincheras/T
+pincs/T
 pineal/T
 pineala/T
 pinealas/T
@@ -112057,6 +112065,8 @@ puolpa/T
 puolpas/T
 puolpetta/T
 puolpettas/T
+puolpus/T
+puolpusa/T
 puolpusas/T
 puolvra/T
 puolvras/T
@@ -165307,6 +165317,7 @@ taintast/TS
 taintat/TS
 taintna/TS
 tais/T
+taisa/T
 taisas/T
 taisch/T
 taischs/T
