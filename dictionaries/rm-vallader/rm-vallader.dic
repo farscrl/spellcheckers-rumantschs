@@ -1,4 +1,4 @@
-181933
+181954
 --/TQRSS
 A/T
 Aaron/T
@@ -5027,7 +5027,6 @@ accumulessna/PTS
 accumulond/PTS
 accumulà/PTS
 accuor/PTS
-accuorna/PTS
 accuorr'la/PTS
 accuorra'l/PTS
 accuorra/PTQRSS
@@ -5043,6 +5042,7 @@ accuorrarà/PTS
 accuorrast/PTS
 accuorrat/PTS
 accuorrer/PTQRSS
+accuorrna/PTS
 accuorrà/PTS
 accuorsa/T
 accuorsas/T
@@ -25235,6 +25235,7 @@ chantessna/TS
 chantier/T
 chantiers/T
 chantin'la/TS
+chantin'na/TS
 chantin/TS
 chantina'l/TS
 chantina/TQRSS
@@ -25273,7 +25274,6 @@ chantinessan/TS
 chantinessast/TS
 chantinessat/TS
 chantinessna/TS
-chantinna/TS
 chantinond/TS
 chantins/T
 chantinà/TS
@@ -26489,6 +26489,7 @@ chattessan/TS
 chattessast/TS
 chattessat/TS
 chattessna/TS
+chattna/TS
 chattond/TS
 chattà/TS
 chau/T
@@ -30862,7 +30863,6 @@ conculpabels/T
 conculpabla/T
 conculpablas/T
 concuor/TS
-concuorna/TS
 concuorr'la/TS
 concuorra'l/TS
 concuorra/TQRSS
@@ -30878,6 +30878,7 @@ concuorrarà/TS
 concuorrast/TS
 concuorrat/TS
 concuorrer/TQRSS
+concuorrna/TS
 concuorrà/TS
 concuors/T
 concurrent/T
@@ -33584,7 +33585,6 @@ copiader/T
 copiaders/T
 copiar/T
 copias/T
-copna/TS
 copp'la/TS
 coppa'l/TS
 coppa/TQRSS
@@ -33605,7 +33605,7 @@ coppala/T
 coppalas/T
 coppamuos-chas/T
 coppan/TS
-coppar/PTQRSS
+coppar/TQRSS
 copparai/TQRSS
 copparaja/TS
 copparan/TS
@@ -33633,6 +33633,7 @@ coppessat/TS
 coppessna/TS
 coppina/T
 coppinas/T
+coppna/TS
 coppond/TS
 coppà/TS
 coproducziun/T
@@ -37515,7 +37516,6 @@ cumprita/T
 cumpritas/T
 cumprna/TS
 cumpromet/TS
-cumprometna/TS
 cumpromett'la/TS
 cumprometta'l/TS
 cumprometta/TQRSS
@@ -38791,6 +38791,7 @@ cuorrivan/TS
 cuorrivast/TS
 cuorrivat/TS
 cuorrivna/TS
+cuorrna/TS
 cuorrà/TS
 cuorrü/TS
 cuorrüda/TS
@@ -45883,6 +45884,7 @@ discuorrast/TS
 discuorrat/TS
 discuorrer/TQRSS
 discuorrers/T
+discuorrna/TS
 discuorrà/TS
 discuors/T
 discurri/TQRSS
@@ -63690,7 +63692,6 @@ gratinond/TS
 gratinà/TS
 grationd/TS
 gratià/TS
-gratna/TS
 grats/T
 gratt'la/TS
 gratta'l/TS
@@ -63734,6 +63735,7 @@ grattessan/TS
 grattessast/TS
 grattessat/TS
 grattessna/TS
+grattna/TS
 grattond/TS
 grattà/TS
 gratuit/T
@@ -89057,7 +89059,6 @@ maximas/T
 maximum/T
 maximums/T
 maz/TS
-mazna/TS
 mazoc/T
 mazocla/T
 mazoclas/T
@@ -89167,6 +89168,7 @@ mazzessat/TS
 mazzessna/TS
 mazzet/T
 mazzets/T
+mazzna/TS
 mazzond/TS
 mazzot/T
 mazzots/T
@@ -89990,6 +89992,7 @@ mettessan/TS
 mettessast/TS
 mettessat/TS
 mettessna/TS
+mettna/TS
 mettond/TS
 mettà/TS
 mez/T
@@ -98640,6 +98643,7 @@ pancreas/T
 panda/T
 pandas/T
 pandea/T
+pandeas/T
 pandem/T
 pandemia/T
 pandemias/T
@@ -102253,7 +102257,6 @@ perchürond/TS
 perchürà/TS
 percunter/T
 percuor/TS
-percuorna/TS
 percuorr'la/TS
 percuorra'l/TS
 percuorra/TQRSS
@@ -102269,6 +102272,7 @@ percuorrarà/TS
 percuorrast/TS
 percuorrat/TS
 percuorrer/TQRSS
+percuorrna/TS
 percuorrà/TS
 percuors/T
 percurri/TQRSS
@@ -105362,8 +105366,7 @@ plazzescha/TQRSS
 plazzeschan/TS
 plazzeschast/TS
 plazzeschat/TS
-plazzeschha/TS
-plazzescna/TS
+plazzeschna/TS
 plazzess'la/TS
 plazzess/TS
 plazzessa'l/TS
@@ -112072,6 +112075,8 @@ pulizials/T
 pulizias/T
 puliziot/T
 puliziots/T
+puliziotta/T
+puliziottas/T
 pulizist/T
 pulizista/T
 pulizistas/T
@@ -117765,7 +117770,6 @@ rechargià/TS
 rechargna/TS
 rechargs/T
 rechat/TS
-rechatna/TS
 rechatt'la/TS
 rechatta'l/TS
 rechatta/TQRSS
@@ -118560,7 +118564,6 @@ recumprna/TS
 recumprond/TS
 recumprà/TS
 recuor/TS
-recuorna/TS
 recuorr'la/TS
 recuorra'l/TS
 recuorra/TQRSS
@@ -118576,6 +118579,7 @@ recuorrarà/TS
 recuorrast/TS
 recuorrat/TS
 recuorrer/TQRSS
+recuorrna/TS
 recuorrà/TS
 recuors/T
 recuperada/TS
@@ -122169,6 +122173,11 @@ residiessat/TS
 residiessna/TS
 residiond/TS
 residià/TS
+resiliaint/T
+resiliainta/T
+resiliaintamaing/T
+resiliaintas/T
+resiliaints/T
 resilienza/T
 resilienzas/T
 resis/T
@@ -124278,7 +124287,6 @@ rimpicunits/T
 rimplain/T
 rimplains/T
 rimplaz/TS
-rimplazna/TS
 rimplazz'la/TS
 rimplazza'l/TS
 rimplazza/TQRSS
@@ -124327,6 +124335,7 @@ rimplazzessan/TS
 rimplazzessast/TS
 rimplazzessat/TS
 rimplazzessna/TS
+rimplazzna/TS
 rimplazzond/TS
 rimplazzà/TS
 rimpli/TQRSS
@@ -128335,7 +128344,6 @@ s-chavatschond/TS
 s-chavatschs/T
 s-chavatschà/TS
 s-chavaz/TS
-s-chavazna/TS
 s-chavazz'la/TS
 s-chavazza'l/TS
 s-chavazza/TQRSS
@@ -128374,6 +128382,7 @@ s-chavazzessan/TS
 s-chavazzessast/TS
 s-chavazzessat/TS
 s-chavazzessna/TS
+s-chavazzna/TS
 s-chavazzond/TS
 s-chavazzà/TS
 s-chavd'la/TS
@@ -131215,7 +131224,6 @@ sbarrast/TS
 sbarrat/TS
 sbarrats/TS
 sbarraz/TS
-sbarrazna/TS
 sbarrazz'la/TS
 sbarrazza'l/TS
 sbarrazza/TQRSS
@@ -131254,6 +131262,7 @@ sbarrazzessan/TS
 sbarrazzessast/TS
 sbarrazzessat/TS
 sbarrazzessna/TS
+sbarrazzna/TS
 sbarrazzond/TS
 sbarrazzà/TS
 sbarress'la/TS
@@ -132219,7 +132228,6 @@ sbrajan/TS
 sbrajast/TS
 sbrajat/TS
 sbrajaz/TS
-sbrajazna/TS
 sbrajazz'la/TS
 sbrajazza'l/TS
 sbrajazza/TQRSS
@@ -132258,6 +132266,7 @@ sbrajazzessan/TS
 sbrajazzessast/TS
 sbrajazzessat/TS
 sbrajazzessna/TS
+sbrajazzna/TS
 sbrajazzond/TS
 sbrajazzà/TS
 sbraïda/T
@@ -134820,7 +134829,6 @@ schlavatschna/TS
 schlavatschond/TS
 schlavatschà/TS
 schlavaz/TS
-schlavazna/TS
 schlavazz'la/TS
 schlavazza'l/TS
 schlavazza/TQRSS
@@ -134859,6 +134867,7 @@ schlavazzessan/TS
 schlavazzessast/TS
 schlavazzessat/TS
 schlavazzessna/TS
+schlavazzna/TS
 schlavazzond/TS
 schlavazzun/T
 schlavazzuns/T
@@ -135432,7 +135441,6 @@ schlockiond/TS
 schlockià/TS
 schlomgiar/T
 schlop/TS
-schlopna/TS
 schlopp'la/TS
 schloppa'l/TS
 schloppa/TQRSS
@@ -135541,6 +135549,7 @@ schloppinond/TS
 schloppinà/TS
 schloppinöz/T
 schloppinözs/T
+schloppna/TS
 schloppond/TS
 schloppà/TS
 schlops/T
@@ -136766,7 +136775,6 @@ schmerziessna/TS
 schmerziond/TS
 schmerzià/TS
 schmet/TS
-schmetna/TS
 schmett'la/TS
 schmetta'l/TS
 schmetta/TQRSS
@@ -136802,6 +136810,7 @@ schmettessan/TS
 schmettessast/TS
 schmettessat/TS
 schmettessna/TS
+schmettna/TS
 schmettond/TS
 schmettà/TS
 schmez/TS
@@ -146129,7 +146138,6 @@ sgiavrinessan/TS
 sgiavrinond/TS
 sgiavrinà/TS
 sgiaz/TS
-sgiazna/TS
 sgiazs/T
 sgiazz'la/TS
 sgiazza'l/TS
@@ -146184,6 +146192,7 @@ sgiazziness/TS
 sgiazzinessan/TS
 sgiazzinond/TS
 sgiazzinà/TS
+sgiazzna/TS
 sgiazzond/TS
 sgiazzà/TS
 sgiond/TS
@@ -146729,7 +146738,6 @@ sgrassna/TS
 sgrassond/TS
 sgrassà/TS
 sgrat/TS
-sgratna/TS
 sgrats/T
 sgratt'la/TS
 sgratta'l/TS
@@ -146773,6 +146781,7 @@ sgrattessat/TS
 sgrattessna/TS
 sgrattin/T
 sgrattins/T
+sgrattna/TS
 sgrattond/TS
 sgrattun/T
 sgrattuna/T
@@ -147198,7 +147207,6 @@ sguardinond/TS
 sguardinà/TS
 sguards/T
 sguaz/TS
-sguazna/TS
 sguazs/T
 sguazz'la/TS
 sguazza'l/TS
@@ -147246,6 +147254,7 @@ sguazzessan/TS
 sguazzessast/TS
 sguazzessat/TS
 sguazzessna/TS
+sguazzna/TS
 sguazzond/TS
 sguazzunz/T
 sguazzunza/T
@@ -150422,7 +150431,6 @@ spaziusa/T
 spaziusas/T
 spaziusitats/T
 spaziusità/T
-spazna/TS
 spazs/T
 spazz'la/TS
 spazza'l/TS
@@ -150464,6 +150472,7 @@ spazzessan/TS
 spazzessast/TS
 spazzessat/TS
 spazzessna/TS
+spazzna/TS
 spazzond/TS
 spazzà/TS
 spech/T
@@ -151881,7 +151890,6 @@ splattütschna/TS
 splattütschond/TS
 splattütschà/TS
 splaz/TS
-splazna/TS
 splazz'la/TS
 splazza'l/TS
 splazza/TQRSS
@@ -151922,6 +151930,7 @@ splazzessan/TS
 splazzessast/TS
 splazzessat/TS
 splazzessna/TS
+splazzna/TS
 splazzond/TS
 splazzà/TS
 splecha/T
@@ -164679,15 +164688,27 @@ svolarà'l/TS
 svolarà'la/TS
 svolarà/TS
 svolats/TS
+svolazessna/TS
+svolazz'la/TS
+svolazza'l/TS
 svolazza/TS
+svolazzaiv'la/TS
+svolazzaiva'l/TS
 svolazzaiva/TS
 svolazzaivan/TS
+svolazzaivna/TS
 svolazzan/TS
 svolazzar/TS
 svolazzaran/TS
+svolazzarana/TS
+svolazzarà'l/TS
+svolazzarà'la/TS
 svolazzarà/TS
+svolazzess'la/TS
 svolazzess/TS
+svolazzessa'l/TS
 svolazzessan/TS
+svolazzna/TS
 svolazzond/TS
 svolazzà/TS
 svoless'la/TS
