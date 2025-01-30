@@ -1,4 +1,4 @@
-183066
+183092
 --/TQRSS
 A/T
 Aaron/T
@@ -19088,6 +19088,7 @@ blasfemia/T
 blasfemias/T
 blasfemic/T
 blasfemica/T
+blasfemicamaing/T
 blasfemicas/T
 blasfemics/T
 blasfemna/TS
@@ -54553,6 +54554,7 @@ fants/T
 fantschella/T
 fantschellas/T
 fanzögna/T
+fanzögnas/T
 faquint/T
 far ScRL
 far/PTQRSS
@@ -55341,6 +55343,8 @@ felsch/T
 felschet/T
 felschets/T
 felschs/T
+femicidi/T
+femicidis/T
 feminil/T
 feminila/T
 feminilas/T
@@ -56190,8 +56194,11 @@ filettond/TS
 filettà/TS
 filfier/T
 filfiers/T
+filial/T
 filiala/T
 filialas/T
+filialmaing/T
+filials/T
 filiberta/T
 filibertas/T
 filigran/T
@@ -58656,6 +58663,8 @@ fraternitats/T
 fraternità/T
 fraterns/T
 fraters/T
+fratricidi/T
+fratricidis/T
 frattada/T
 frattadas/T
 frattadinas/T
@@ -73670,10 +73679,8 @@ infangià/T
 infangà/T
 infantaria/T
 infantarias/T
-infanticid/T
-infanticida/T
-infanticidas/T
-infanticids/T
+infanticidi/T
+infanticidis/T
 infantil/T
 infantila/T
 infantilas/T
@@ -102842,6 +102849,7 @@ pergas/T
 pergiamina/T
 pergiaminas/T
 perguajada/T
+perguajadamaing/T
 perguajadas/T
 perguajats/T
 perguajezza/T
@@ -112392,7 +112400,6 @@ pudüdas/TS
 pudüts/TS
 pueril/T
 puerila/T
-puerilamaing/T
 puerilas/T
 puerils/T
 puf/T
@@ -120111,6 +120118,8 @@ regenzas/T
 regestas/T
 regia/T
 regias/T
+regicidi/T
+regicidis/T
 regimaint/T
 regimaints/T
 reginom/T
@@ -130549,6 +130558,9 @@ sanguinicras/T
 sanguiniker/T
 sanguinikers/T
 sanguinond/TS
+sanguinus/T
+sanguinusa/T
+sanguinusamaing/T
 sanguinusas/T
 sanguinà/TS
 sangura/T
@@ -160273,8 +160285,6 @@ sugestiva/T
 sugestivas/T
 sugestivmaing/T
 sugestivs/T
-suicid/T
-suicida/T
 suicidada/TS
 suicidadas/TS
 suicidai/TQRSS
@@ -160288,6 +160298,12 @@ suicidaivan/TS
 suicidaivast/TS
 suicidaivat/TS
 suicidaivna/TS
+suicidal/T
+suicidala/T
+suicidalas/T
+suicidalitats/T
+suicidalità/T
+suicidals/T
 suicidar/PTQRSS
 suicidarai/TQRSS
 suicidaraja/TS
@@ -160295,10 +160311,13 @@ suicidaran/TS
 suicidarana/TS
 suicidarast/TS
 suicidarat/TS
+suicidari/T
+suicidaria/T
+suicidarias/T
+suicidaris/T
 suicidarà'l/TS
 suicidarà'la/TS
 suicidarà/TS
-suicidas/T
 suicidats/TS
 suicidesch'la/TS
 suicidesch/TS
@@ -160319,7 +160338,6 @@ suicidessna/TS
 suicidi/T
 suicidis/T
 suicidond/TS
-suicids/T
 suicidà/TS
 suita/T
 suitas/T
@@ -165350,6 +165368,7 @@ sverschlà/TS
 svess/T
 svessa/T
 svessin/T
+svessins/T
 svesti/TQRSS
 svestida/TS
 svestidas/TS
@@ -166716,6 +166735,11 @@ tacticras/T
 tactics/T
 tactiker/T
 tactikers/T
+tactil/T
+tactila/T
+tactilas/T
+tactilmaing/T
+tactils/T
 tactond/TS
 tacts/T
 tactà/TS
@@ -169754,6 +169778,8 @@ tirannic/T
 tirannica/T
 tirannicamaing/T
 tirannicas/T
+tirannicidi/T
+tirannicidis/T
 tirannics/T
 tirannisada/TS
 tirannisadas/TS
@@ -170210,6 +170236,8 @@ tolerond/TS
 tolers/T
 tolerà/TS
 tolet/T
+tolina/T
+tolinas/T
 tols/T
 tom/T
 tomata/T
@@ -176268,8 +176296,6 @@ tuschanders/T
 tuschandra/T
 tuschandras/T
 tuschs/T
-tuschun/T
-tuschuns/T
 tusin/T
 tusins/T
 tussigl'la/TS
