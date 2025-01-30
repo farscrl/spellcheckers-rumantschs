@@ -1,4 +1,4 @@
-159674
+159669
 'okina/T
 'okinas/T
 3D/T
@@ -17968,6 +17968,7 @@ blasfemian/T
 blasfemias/T
 blasfemic/T
 blasfemica/T
+blasfemicamain/T
 blasfemicas/T
 blasfemics/T
 blasfemond/T
@@ -47209,8 +47210,8 @@ ecobilantscha/OT
 ecobilantschas/OT
 ecocardiografia/OT
 ecocardiografias/OT
-ecocid/OT
 ecocidi/OT
+ecocidis/OT
 ecoeffizienza/OT
 ecoeffizienzas/OT
 ecolalia/OT
@@ -62569,6 +62570,7 @@ gennas/T
 genocid/T
 genocidi/T
 genocidis/T
+genocids/T
 genom/T
 genoms/T
 genotip/T
@@ -70732,12 +70734,8 @@ infantaria/OT
 infantarias/OT
 infantarist/OT
 infantarists/OT
-infanticid/OT
 infanticidi/OT
-infanticidia/OT
-infanticidias/OT
 infanticidis/OT
-infanticids/OT
 infantil/OT
 infantila/OT
 infantilas/OT
@@ -95436,12 +95434,8 @@ paroxismals/T
 parpajola/T
 parpajolas/T
 parresia/T
-parricid/T
-parricida/T
-parricidas/T
 parricidi/T
 parricidis/T
-parricids/T
 pars/T
 parsec/T
 parsepen/T
@@ -96366,6 +96360,8 @@ patriarcat/T
 patriarcats/T
 patriarcs/T
 patrias/T
+patricidi/T
+patricidis/T
 patrimoni/T
 patrimonial/T
 patrimoniala/T
@@ -140516,9 +140512,6 @@ sugestopedias/T
 sughet/T
 sughets/T
 suicid/T
-suicidada/T
-suicidadas/T
-suicidads/T
 suicidai/T
 suicidain/T
 suicidais/T
@@ -140529,6 +140522,10 @@ suicidalitad/T
 suicidalitads/T
 suicidals/T
 suicidar/T
+suicidari/T
+suicidaria/T
+suicidarias/T
+suicidaris/T
 suicidass/T
 suicidassan/T
 suicidassas/T
@@ -140545,7 +140542,7 @@ suicideschias/T
 suicidi/T
 suicidis/T
 suicidond/T
-suicidà/T
+suicids/T
 suita/T
 suitas/T
 suja/T
@@ -148921,10 +148918,8 @@ tirannias/T
 tirannic/T
 tirannica/T
 tirannicas/T
-tirannicid/T
 tirannicidi/T
 tirannicidis/T
-tirannicids/T
 tirannics/T
 tirannisada/T
 tirannisadas/T
