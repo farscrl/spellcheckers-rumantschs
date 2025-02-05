@@ -1,4 +1,4 @@
-183096
+183099
 --/TQRSS
 A/T
 Aaron/T
@@ -529,6 +529,7 @@ Canadian/T
 Canadiana/T
 Canadianas/T
 Canadians/T
+Canarias/T
 Candinas
 Candreia
 Candrian
@@ -4384,8 +4385,6 @@ accepta/PTQRSS
 acceptabel/T
 acceptabels/T
 acceptabla/T
-acceptablaa/T
-acceptablaas/T
 acceptablas/T
 acceptada/PTS
 acceptadas/PTS
@@ -16183,6 +16182,8 @@ bambasch/T
 bambaschina/T
 bambaschinas/T
 bambaschs/T
+bambin/T
+bambins/T
 banadi/T
 banadida/T
 banadidamaing/T
@@ -32890,8 +32891,6 @@ contesta/TQRSS
 contestabel/T
 contestabels/T
 contestabla/T
-contestablaa/T
-contestablaas/T
 contestablas/T
 contestada/TS
 contestadas/TS
@@ -36761,8 +36760,6 @@ cumparüdas/TS
 cumparüts/TS
 cumpaschiun/T
 cumpaschiunaivel/T
-cumpaschiunaivela/T
-cumpaschiunaivelas/T
 cumpaschiunaivels/T
 cumpaschiunaivla/T
 cumpaschiunaivlas/T
@@ -49000,7 +48997,6 @@ dschierl/T
 dschierla/T
 dschierlas/T
 dschierls/T
-dschierva/T
 dschiervamaing/T
 dschiervi/T
 dschiervia/T
@@ -54288,7 +54284,6 @@ fallà/TS
 falomber/T
 falombers/T
 falombra/T
-falombramaing/T
 falombras/T
 faloppa/T
 fals/T
@@ -81754,7 +81749,6 @@ irrealistics/T
 irrealmaing/T
 irreals/T
 irrechüsabel/T
-irrechüsabla/T
 irreconciliabel/T
 irreconciliabels/T
 irreconciliabla/T
@@ -90039,6 +90033,13 @@ meritessast/TS
 meritessat/TS
 meritessna/TS
 meritna/TS
+meritocratic/T
+meritocratica/T
+meritocraticamaing/T
+meritocraticas/T
+meritocratics/T
+meritocrazia/T
+meritocrazias/T
 meritond/TS
 merits/T
 merità/TS
@@ -90996,10 +90997,13 @@ misculanza/T
 misculanzas/T
 miser/T
 miserabel/T
-miserabelmaing/T
 miserabels/T
 miserabla/T
 miserablas/T
+miserablischem/T
+miserablischems/T
+miserablischma/T
+miserablischmas/T
 misergia/T
 miseria/T
 miserias/T
@@ -103983,7 +103987,6 @@ pezzunzs/T
 pezzà/TS
 pia/T
 piaa/T
-piaamaing/T
 piaas/T
 pianist/T
 pianista/T
@@ -137168,7 +137171,6 @@ schmasürabels/T
 schmasürabla/T
 schmasürablas/T
 schmasüradamaing/T
-schmasüraivla/T
 schmazzüch'la/TS
 schmazzüch/TS
 schmazzücha'l/TS
@@ -143667,12 +143669,14 @@ semiconductur/T
 semiconducturs/T
 semifinal/T
 semifinals/T
+seminar/T
 seminari/T
 seminaris/T
 seminarist/T
 seminarista/T
 seminaristas/T
 seminarists/T
+seminars/T
 semivocal/T
 semivocals/T
 semn'la/TS
@@ -148722,6 +148726,7 @@ sigillessat/TS
 sigillessna/TS
 sigillond/TS
 sigillà/TS
+sigl/T
 sigliaint'la/TS
 sigliaint/TS
 sigliainta'l/TS
@@ -148835,6 +148840,7 @@ sigliuottond/TS
 sigliuottà/TS
 sigliöz/T
 sigliözs/T
+sigls/T
 signal/T
 signalamaint/T
 signalamaints/T
@@ -154577,9 +154583,6 @@ squisitas/T
 squisits/T
 squit/TS
 squitra/T
-squitraa/T
-squitraamaing/T
-squitraas/T
 squitras/T
 squits/T
 squitsch'la/TS
