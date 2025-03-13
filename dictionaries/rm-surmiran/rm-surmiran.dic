@@ -1,4 +1,4 @@
-147457
+147492
 A/T
 AVS/RT
 Aaron
@@ -1200,6 +1200,7 @@ Messerli
 Messmer
 Mettler
 Meuli
+Mexico/T
 Meyer
 Mia
 Michael
@@ -3789,6 +3790,7 @@ adressond/PT
 adressos/PT
 adretgor/T
 adretgse/T
+adretgve/T
 adual/T
 aduala/T
 adualas/T
@@ -18409,6 +18411,7 @@ bregnainta/T
 bregnaintas/T
 bregnaints/T
 bregnas/T
+bregncler/T
 bregns/T
 bregnstgeir/T
 bregnstgeira/T
@@ -23781,6 +23784,7 @@ cletg/RT
 cletgezza/RT
 cletgezzas/RT
 cletgs/RT
+clic/RT
 clica/RT
 clicas/RT
 clicca/RT
@@ -23827,6 +23831,7 @@ clichessas/PT
 clichessast/PT
 clichessigl/PT
 clichez/PT
+clics/RT
 client/RT
 clienta/RT
 clientas/RT
@@ -32284,6 +32289,7 @@ cumpost/RT
 cumposts/RT
 cumpot/RT
 cumpots/RT
+cumprabel/T
 cumprada/PT
 cumpradas/PT
 cumprader/RT
@@ -35144,6 +35150,7 @@ davosguardia/RT
 davosguardias/RT
 davosnoda/T
 davosora/RT
+davosvart/T
 dazi/RT
 dazier/RT
 daziera/RT
@@ -45026,6 +45033,8 @@ enumerez/PT
 enumero/PT
 enumerond/PT
 enumeros/PT
+enveloppa/RT
+enveloppas/RT
 epic/T
 epica/RT
 epicas/RT
@@ -45680,6 +45689,8 @@ estragons/RT
 estras/RT
 etappa/RT
 etappas/RT
+etascha/RT
+etaschas/RT
 etc./T
 etcetera/T
 etel/RT
@@ -64384,6 +64395,8 @@ kitschs/RT
 kiwi/RT
 kiwis/RT
 km/RT
+koala/RT
+koalas/RT
 l'oter/T
 la/T
 labiatas/RT
@@ -65285,12 +65298,14 @@ legiunaris/RT
 legiuns/RT
 legnamer/RT
 legnamers/RT
+legos/RT
 legr/PT
 legra/PQT
 legrada/PT
 legradas/PT
 legragn/PT
 legrainsa/PT
+legramaintg/T
 legran/PT
 legrar/PT
 legraro/PT
@@ -69383,6 +69398,7 @@ marscho/PT
 marschond/PT
 marschos/PT
 marschs/RT
+marschung/T
 martel/RT
 martelada/PT
 marteladas/PT
@@ -71965,6 +71981,7 @@ mobiglivans/PT
 mobiglivas/PT
 mobiglivast/PT
 mobiglivigl/PT
+mobil/T
 mobilisada/PT
 mobilisadas/PT
 mobilisagn/PT
@@ -76987,6 +77004,8 @@ omnipreschaintas/T
 omnipreschaints/T
 omnipreschientscha/RT
 omnipreschientschas/RT
+omnivor/RT
+omnivors/RT
 omung/RT
 omungs/RT
 on/PT
@@ -83983,6 +84002,7 @@ plang-plangign/T
 plang-schler/RT
 plang-stgela/RT
 plang-taragn/RT
+plang-tera/RT
 plang/PRT
 planga/PQRT
 plangan/PT
@@ -83994,6 +84014,7 @@ plangign/T
 plangs-schler/RT
 plangs-stgela/RT
 plangs-taragn/RT
+plangs-tera/RT
 plangs/RT
 plangsia/T
 planisada/PT
@@ -84577,6 +84598,7 @@ plevra/RT
 plevras/RT
 plievgia/RT
 plievgias/RT
+plievgous/T
 plimagl/RT
 plimagls/RT
 plimatsch/RT
@@ -85145,9 +85167,13 @@ pontificat/RT
 pontificats/RT
 pontonier/RT
 pontoniers/RT
+pool/RT
+pools/RT
 pop/RT
 popanza/RT
 popanzas/RT
+popcorn/RT
+popcorns/RT
 popelina/RT
 popelinas/RT
 poppen/RT
@@ -90886,6 +90912,7 @@ quadrast/PT
 quadrat/RT
 quadrata/T
 quadratas/T
+quadratic/T
 quadrats/RT
 quadratura/RT
 quadraturas/RT
@@ -100970,6 +100997,8 @@ ruclez/PT
 ruclo/PT
 ruclond/PT
 ruclos/PT
+rucola/RT
+rucolas/RT
 rudeglia/RT
 rudeglias/RT
 rudeischen/RT
@@ -117665,6 +117694,7 @@ smiglivas/PT
 smiglivast/PT
 smiglivigl/PT
 smigls/RT
+smiley/T
 smin/PT
 smina/PQT
 sminada/PT
@@ -118843,6 +118873,8 @@ somagiond/PT
 somas/RT
 somba/RT
 sombas/RT
+sombrero/RT
+sombreros/RT
 somegia/PQT
 somegian/PT
 somegias/PT
@@ -131515,6 +131547,8 @@ suteran/PT
 suteras/PT
 suterast/PT
 suterigl/PT
+sutgruppa/RT
+sutgruppas/RT
 sutterran/RT
 sutterrana/T
 sutterranas/T
@@ -141330,6 +141364,7 @@ turbulentas/T
 turbulents/T
 turbulenza/RT
 turbulenzas/RT
+turchis/T
 turclada/PT
 turcladas/PT
 turclagn/PT
