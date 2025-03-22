@@ -1,4 +1,4 @@
-147507
+147587
 A/T
 AVS/RT
 Aaron
@@ -264,6 +264,11 @@ Bossart
 Bosshard
 Bott
 Brand
+Brasilia/T
+Brasilian/RT
+Brasiliana/RT
+Brasilianas/RT
+Brasilians/RT
 Brasser
 Braun
 Bravuogn
@@ -279,6 +284,10 @@ Brigels
 Brigitta
 Brigitte
 Brinzauls/T
+Brit/RT
+Brita/RT
+Britas/RT
+Brits/RT
 Brosi
 Brun
 Brunner
@@ -682,6 +691,7 @@ Fürstenau
 GR
 Gabriel
 Gabriela
+Galizia/T
 Gallia/RT
 Garcia
 Gartmann
@@ -721,6 +731,10 @@ Giagls/RT
 Gian/RT
 Gianna
 Gians/RT
+Giapunes/RT
+Giapunesa/RT
+Giapunesas/RT
+Giapung/T
 Giatgen/RT
 Giatgens/RT
 Gideida/RT
@@ -1835,6 +1849,7 @@ Thomann
 Thomas
 Thunderbird
 Thöny
+Tibet/T
 Tiefencastel
 Tim
 Timo
@@ -1945,6 +1960,7 @@ Vargistagn
 Vasarauls/T
 Vaz/T
 Vella
+Venezia/T
 Venzin
 Vera
 Veraguth
@@ -4584,6 +4600,10 @@ alertamaintg/T
 alertas/T
 alerts/T
 alfabet/RT
+alfabetic/T
+alfabetica/T
+alfabeticas/T
+alfabetics/T
 alfabets/RT
 alga/RT
 algas/RT
@@ -15166,6 +15186,10 @@ ballamang/RT
 ballan/PT
 ballanava/RT
 ballape/RT
+ballapedist/RT
+ballapedista/RT
+ballapedistas/RT
+ballapedists/RT
 ballapes/RT
 ballaplemas/RT
 ballapugn/RT
@@ -17124,6 +17148,10 @@ biatessigl/PT
 biatez/PT
 biatigl/PT
 biatlon/RT
+biatlonist/RT
+biatlonista/RT
+biatlonistas/RT
+biatlonists/RT
 biatlons/RT
 biato/PT
 biatond/PT
@@ -17251,6 +17279,9 @@ biogenesa/RT
 biogenesas/RT
 biografia/RT
 biografias/RT
+biolog/RT
+biologa/RT
+biologas/RT
 biologia/RT
 biologias/RT
 biologic/T
@@ -17258,6 +17289,7 @@ biologica/T
 biologicamaintg/T
 biologicas/T
 biologics/T
+biologs/RT
 biotop/RT
 biotops/RT
 bipolar/T
@@ -43163,6 +43195,8 @@ drogistas/RT
 drogists/RT
 dromedar/RT
 dromedars/RT
+drona/RT
+dronas/RT
 drosera/RT
 droseras/RT
 drossa/RT
@@ -44805,6 +44839,8 @@ emoziunalas/T
 emoziunalmaintg/T
 emoziunals/T
 emoziuns/RT
+empatia/RT
+empatias/RT
 empiria/RT
 empirias/RT
 empiric/T
@@ -49402,6 +49438,10 @@ fictivamaintg/T
 fictivas/T
 fictivs/T
 ficziun/RT
+ficziunal/T
+ficziunala/T
+ficziunalas/T
+ficziunals/T
 ficziuns/RT
 fidada/PT
 fidadadad/RT
@@ -53370,6 +53410,10 @@ galera/RT
 galeras/RT
 galiot/RT
 galiots/RT
+galizian/T
+galiziana/T
+galizianas/T
+galizians/T
 gallerta/RT
 gallertas/RT
 gallic/T
@@ -54664,6 +54708,9 @@ giappo/PT
 giappond/PT
 giappos/PT
 giaps/RT
+giapunes/T
+giapunesa/T
+giapunesas/T
 giardign/RT
 giardigns/RT
 giaro/PT
@@ -58233,6 +58280,12 @@ illegitima/T
 illegitimamaintg/T
 illegitimas/T
 illegitims/T
+illetrissem/RT
+illetrissems/RT
+illetrist/RT
+illetrista/RT
+illetristas/RT
+illetrists/RT
 illimitada/T
 illimitadamaintg/T
 illimitadas/T
@@ -61097,6 +61150,10 @@ infurmaronigl/PT
 infurmaronsa/PT
 infurmarossas/PT
 infurmarossast/PT
+infurmativ/T
+infurmativa/T
+infurmativas/T
+infurmativs/T
 infurmatour/RT
 infurmatoura/RT
 infurmatouras/RT
@@ -65355,6 +65412,8 @@ legrigl/PT
 legro/PT
 legrond/PT
 legros/PT
+leguan/RT
+leguans/RT
 legum/RT
 leguminosas/RT
 legums/RT
@@ -67117,6 +67176,7 @@ magliabagnas/RT
 magliabagns/RT
 magliaboglia/RT
 magliaboglias/RT
+magliacodeschs/T
 magliadeira/RT
 magliadeiras/RT
 magliadrada/PT
@@ -70417,6 +70477,8 @@ mediaronsa/PT
 mediarossas/PT
 mediarossast/PT
 medias/RT
+mediateca/RT
+mediatecas/RT
 mediatour/RT
 mediatoura/RT
 mediatouras/RT
@@ -71306,6 +71368,10 @@ migliuros/PT
 miglra/T
 miglras/T
 miglsanavant/T
+migrant/RT
+migranta/RT
+migrantas/RT
+migrants/RT
 migraziun/RT
 migraziuns/RT
 migrena/RT
@@ -80248,6 +80314,10 @@ passivitad/RT
 passivitads/RT
 passivs/RT
 passlung/RT
+passlunghist/RT
+passlunghista/RT
+passlunghistas/RT
+passlunghists/RT
 passlungs/RT
 passo/PRT
 passond/PT
@@ -80993,6 +81063,10 @@ pedicuristas/RT
 pedicurists/RT
 pedra/RT
 pedras/RT
+pedung/RT
+pedunga/RT
+pedungas/RT
+pedungs/RT
 pedunz/RT
 pedunza/RT
 pedunzas/RT
@@ -113530,6 +113604,8 @@ sfimez/PT
 sfimo/PT
 sfimond/PT
 sfimos/PT
+sfinx/RT
+sfinxs/RT
 sfireida/PRT
 sfireidas/PRT
 sfireir/PT
@@ -133858,6 +133934,8 @@ tatgea/PT
 tatgeas/PT
 tatgeda/PT
 tatgedas/PT
+tatgeder/RT
+tatgeders/RT
 tatgel/RT
 tatgels/RT
 tatger/PT
@@ -139139,6 +139217,8 @@ trillez/PT
 trillo/PT
 trillond/PT
 trillos/PT
+trilogia/RT
+trilogias/RT
 trils/RT
 trimelligns/RT
 trimester/RT
