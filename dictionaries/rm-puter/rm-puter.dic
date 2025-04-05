@@ -1,4 +1,4 @@
-197949
+197992
 A/T
 Aaron/T
 Aarons/T
@@ -545,6 +545,8 @@ Cussagls/T
 Cuttüra/T
 Cédric
 Céline
+DNA/T
+DNAs/T
 DRG
 Da Silva
 Damal/T
@@ -10420,10 +10422,10 @@ anteriurited/T
 anteriuriteds/T
 anteriurmaing/T
 anteriurs/T
-antiautoriter/T
-antiautoriters/T
-antiautoritra/T
-antiautoritras/T
+antiautoritari/T
+antiautoritaria/T
+antiautoritarias/T
+antiautoritaris/T
 antibiotic/T
 antibiotica/T
 antibioticas/T
@@ -10469,6 +10471,10 @@ antierotics/T
 antiflachas/T
 antilopa/T
 antilopas/T
+antimodern/T
+antimoderna/T
+antimodernas/T
+antimoderns/T
 antipapa/T
 antipapas/T
 antipatia/T
@@ -15462,13 +15468,14 @@ autorisessi/PT
 autoriso/PT
 autorisos/PT
 autorisè/PTQR
+autoritari/T
+autoritaria/T
+autoritarias/T
+autoritaris/T
+autoritarissem/T
+autoritarissems/T
 autorited/T
 autoriteds/T
-autoriter/T
-autoritera/T
-autoriteras/T
-autoritermaing/T
-autoriters/T
 autos/T
 autoscoula/T
 autoscoulas/T
@@ -23264,6 +23271,7 @@ büz/T
 büzs/T
 c-magiur/T
 c-minur/T
+ca./T
 cabaret/T
 cabarets/T
 cabarettist/T
@@ -33474,6 +33482,8 @@ conservaronsa/T
 conservaros/T
 conservarost/T
 conservas/T
+conservatissem/T
+conservatissems/T
 conservativ/T
 conservativa/T
 conservativas/T
@@ -51752,6 +51762,7 @@ dmuri/T
 dmuro/T
 dmuros/T
 dmurè/TQR
+dna./T
 do'l/T
 do'm/TQR
 do/TQR
@@ -54186,6 +54197,9 @@ edissas/PT
 edissast/PT
 edissi/PT
 editoriel/T
+editoriela/T
+editorielas/T
+editorielmaing/T
 editoriels/T
 edituors/T
 editur/T
@@ -56289,6 +56303,8 @@ espadun/T
 espaduns/T
 esparsetta/T
 esparsettas/T
+espresso/T
+espressos/T
 esps/T
 ess/PT
 essan/PT
@@ -56946,9 +56962,13 @@ evras/PT
 evrast/PT
 evri/PT
 ex-duonna/T
+ex-duonnas/T
 ex-hom/T
+ex-homens/T
 ex-partenari/T
 ex-partenaria/T
+ex-partenarias/T
+ex-partenaris/T
 exact/T
 exacta/T
 exactamaing/T
@@ -61260,6 +61280,8 @@ fiergia/T
 fiergias/T
 fierramainta/T
 fiers/T
+fifalin/T
+fifalins/T
 fiffa/T
 fiffas/T
 figer/T
@@ -61856,7 +61878,6 @@ finelmaing/T
 finels/T
 finezza/T
 finezzas/T
-fingià/T
 finin/T
 finina/T
 fininas/T
@@ -68576,6 +68597,8 @@ giuntos/T
 giuot/T
 giuots/T
 giuotta/T
+giuottera/T
+giuotteras/T
 giuria/T
 giurias/T
 giuridic/T
@@ -72504,7 +72527,6 @@ homepages/T
 homet/T
 homin/T
 homins/T
-homs/T
 homun/T
 hop/T
 hopser/T
@@ -94703,7 +94725,6 @@ manera/T
 maneras/T
 manescha/T
 maneschas/T
-manestra/T
 manetscha/T
 manetschas/T
 mang'la/T
@@ -98623,6 +98644,7 @@ minessas/T
 minessast/T
 minessi/T
 minestra/T
+minestras/T
 mini/T
 miniatura/T
 miniaturas/T
@@ -112965,6 +112987,8 @@ picanta/T
 picantas/T
 picants/T
 picas/T
+piccata/T
+piccatas/T
 pich'la/T
 pich/T
 picha'l/T
@@ -114388,11 +114412,11 @@ pizzivas/T
 pizzivast/T
 pizzivi/T
 pizzo/T
+pizzoccheris/T
 pizzos/T
 pizzè/TQR
 piöl/T
 piöls/T
-pl/T
 placat/T
 placativ/T
 placativa/T
@@ -116735,8 +116759,18 @@ postmodern/T
 postmoderna/T
 postmodernas/T
 postmoderns/T
+postnatel/T
+postnatela/T
+postnatelas/T
+postnatelmaing/T
+postnatels/T
 posto/T
 postos/T
+postpartel/T
+postpartela/T
+postpartelas/T
+postpartelmaing/T
+postpartels/T
 postrestant/T
 postrestanta/T
 postrestantas/T
@@ -160879,7 +160913,10 @@ signurila/T
 signurilas/T
 signurils/T
 signurin/T
+signurina/T
+signurinas/T
 signurins/T
+sigr./T
 sila/T
 silas/T
 silba/T
@@ -161876,6 +161913,11 @@ socialissems/T
 socialist/T
 socialista/T
 socialistas/T
+socialistic/T
+socialistica/T
+socialisticamaing/T
+socialisticas/T
+socialistics/T
 socialists/T
 socialited/T
 socialiteds/T
@@ -162521,7 +162563,10 @@ spadütschos/T
 spadütschè/TQR
 spagat/T
 spagats/T
+spaghet/T
 spaghets/T
+spaghetteda/T
+spaghettedas/T
 spagna/T
 spagnas/T
 spagnoletta/T
@@ -196657,8 +196702,6 @@ zievamaun/T
 zievamezdi/T
 zievamezdis/T
 zievatiers/T
-zifulin/T
-zifulins/T
 zign/T
 zigns/T
 zin/T

@@ -1,4 +1,4 @@
-183962
+183991
 --/TQRSS
 A/T
 Aaron/T
@@ -749,6 +749,8 @@ Cuttüra/T
 Cuvlignas/T
 Cédric
 Céline
+DNA/T
+DNAs/T
 DRG
 DVD/T
 DVDs/T
@@ -1875,6 +1877,9 @@ Migros
 Miguel
 Mike
 Milan/T
+Milanais/T
+Milanaisa/T
+Milanaisas/T
 Milena
 Minca/T
 Minder
@@ -10530,11 +10535,10 @@ antiallergic/T
 antiallergics/T
 antiapprosmant/T
 antiapprosmants/T
-antiautoritar/T
-antiautoritara/T
-antiautoritaras/T
-antiautoritarmaing/T
-antiautoritars/T
+antiautoritari/T
+antiautoritaria/T
+antiautoritarias/T
+antiautoritaris/T
 antibaby/T
 antibabys/T
 antibiotic/T
@@ -10597,6 +10601,10 @@ antimilitar/T
 antimilitara/T
 antimilitaras/T
 antimilitars/T
+antimodern/T
+antimoderna/T
+antimodernas/T
+antimoderns/T
 antipatia/T
 antipatias/T
 antipatic/T
@@ -14451,6 +14459,8 @@ autoritaria/T
 autoritariamaing/T
 autoritarias/T
 autoritaris/T
+autoritarissem/T
+autoritarissems/T
 autoritats/T
 autorità/T
 autos/T
@@ -21973,8 +21983,6 @@ buttatschera/T
 buttatscheras/T
 buttatschers/T
 buttatschs/T
-buttatschun/T
-buttatschuns/T
 buttatschöl/T
 buttatschöls/T
 buttatschü/T
@@ -22270,6 +22278,7 @@ büzzet/T
 büzzets/T
 c-magiur/T
 c-minur/T
+ca./T
 cabarels/T
 cabaret/T
 cabarets/T
@@ -32303,6 +32312,8 @@ conservarà/TS
 conservas/T
 conservast/TS
 conservat/TS
+conservatissem/T
+conservatissems/T
 conservativ/T
 conservativa/T
 conservativas/T
@@ -47694,8 +47705,8 @@ dmuressna/TS
 dmurna/TS
 dmurond/TS
 dmurà/TS
+dna./T
 dna/TS
-dnas/T
 do/T
 doc/T
 docent/T
@@ -50028,6 +50039,9 @@ edissast/PTS
 edissat/PTS
 edissna/PTS
 editorial/T
+editoriala/T
+editorialas/T
+editorialmaing/T
 editorials/T
 edits/PTS
 editur/T
@@ -52404,9 +52418,13 @@ evochà/PTS
 evoluziun/T
 evoluziuns/T
 ex-duonna/T
+ex-duonnas/T
 ex-hom/T
+ex-homens/T
 ex-partenari/T
 ex-partenaria/T
+ex-partenarias/T
+ex-partenaris/T
 exact/T
 exacta/T
 exactamaing/T
@@ -56239,6 +56257,8 @@ fieutrinas/T
 fieutrond/TS
 fieutrusas/T
 fieutrà/TS
+fifalin/T
+fifalins/T
 figer/T
 figers/T
 figl/T
@@ -91116,8 +91136,6 @@ minessat/TS
 minessna/TS
 minestra/T
 minestras/T
-minestrun/T
-minestruns/T
 mini/T
 miniatura/T
 miniaturas/T
@@ -104891,10 +104909,6 @@ pievschna/TS
 pievschond/TS
 pievschs/T
 pievschà/TS
-pifalin/T
-pifalina/T
-pifalinas/T
-pifalins/T
 piffer/T
 piffers/T
 pigiama/T
@@ -105745,6 +105759,7 @@ pizzivast/TS
 pizzivat/TS
 pizzivna/TS
 pizzna/TS
+pizzoccheris/T
 pizzond/TS
 pizzà/TS
 piöl/T
@@ -108048,6 +108063,11 @@ postnatalas/T
 postnatalmaing/T
 postnatals/T
 postond/TS
+postpartal/T
+postpartala/T
+postpartalas/T
+postpartalmaing/T
+postpartals/T
 postrestant/T
 postrestanta/T
 postrestantamaing/T
@@ -146002,7 +146022,7 @@ sfodigliaivan/TS
 sfodigliaivast/TS
 sfodigliaivat/TS
 sfodigliaivna/TS
-sfodigliar/TQRSS
+sfodigliar/PTQRSS
 sfodigliarai/TQRSS
 sfodigliaraja/TS
 sfodigliaran/TS
@@ -149675,6 +149695,7 @@ signurins/T
 signurond/TS
 signurs/T
 signurà/TS
+sigr./T
 sila/T
 silada/TS
 siladas/TS
@@ -150678,6 +150699,11 @@ socialissem/T
 socialist/T
 socialista/T
 socialistas/T
+socialistic/T
+socialistica/T
+socialisticamaing/T
+socialisticas/T
+socialistics/T
 socialists/T
 socialisà/TS
 socialitats/T
@@ -151404,7 +151430,10 @@ spadütschs/T
 spadütschà/TS
 spagat/T
 spagats/T
+spaghet/T
 spaghets/T
+spaghettada/T
+spaghettadas/T
 spagliada/T
 spagliadas/T
 spagliadur/T
