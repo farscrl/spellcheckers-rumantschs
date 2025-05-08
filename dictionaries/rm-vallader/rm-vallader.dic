@@ -1,4 +1,4 @@
-184178
+184223
 --/TQRSS
 A/T
 Aaron/T
@@ -30742,6 +30742,7 @@ concernaiva/TS
 concernarà/TS
 concernent/T
 concernenta/T
+concernentamaing/T
 concernentas/T
 concernents/T
 concerner/TS
@@ -43704,6 +43705,10 @@ deschsettavel/T
 deschsettavels/T
 deschsettavla/T
 deschsettavlas/T
+deschupel/T
+deschupels/T
+deschupla/T
+deschuplas/T
 descriptiv/T
 descriptiva/T
 descriptivas/T
@@ -50999,10 +51004,6 @@ empatica/T
 empi/T
 empia/T
 empias/T
-empietats/T
-empietà/T
-empire/T
-empires/T
 empiric/T
 empirica/T
 empiricamaing/T
@@ -63498,6 +63499,10 @@ glümera/T
 glümeras/T
 glüms/T
 glüna/T
+glünari/T
+glünaria/T
+glünarias/T
+glünaris/T
 glünas/T
 glünatic/T
 glünatica/T
@@ -68750,6 +68755,15 @@ imperial/T
 imperiala/T
 imperialas/T
 imperialissem/T
+imperialist/T
+imperialista/T
+imperialistas/T
+imperialistic/T
+imperialistica/T
+imperialisticamaing/T
+imperialisticas/T
+imperialistics/T
+imperialists/T
 imperials/T
 imperis/T
 impermeabel/T
@@ -85887,6 +85901,10 @@ lumpazs/T
 lumpazza/T
 lumpazzas/T
 lumps/T
+lunari/T
+lunaria/T
+lunarias/T
+lunaris/T
 lung/T
 lunga/T
 lungaint/T
@@ -89143,7 +89161,11 @@ marzipan/T
 marzipans/T
 marzs/T
 marüschla/T
+marüschlada/T
+marüschladas/T
 marüschlas/T
+marüschlats/T
+marüschlà/T
 mas-ch'la/TS
 mas-ch/TS
 mas-cha'l/TS
@@ -91812,7 +91834,6 @@ mobessast/TS
 mobessat/TS
 mobessna/TS
 mobiglia/T
-mobiglias/T
 mobil/T
 mobila/T
 mobilas/T
@@ -92395,6 +92416,8 @@ monstruusamaing/T
 monstruusas/T
 monstruusitats/T
 monstruusità/T
+monsun/T
+monsuns/T
 montada/TS
 montadas/TS
 montai/TQRSS
@@ -95673,6 +95696,10 @@ nona/T
 nonas/T
 nonsen/T
 nonsens/T
+nonupel/T
+nonupels/T
+nonupla/T
+nonuplas/T
 nord/T
 nordic/T
 nordica/T
@@ -96714,6 +96741,10 @@ octavs/T
 october/T
 octobers/T
 octopus/T
+octupel/T
+octupels/T
+octupla/T
+octuplas/T
 ocubaca/T
 ocubacas/T
 oculada/PTS
@@ -98879,7 +98910,6 @@ paglioulas/T
 pagoda/T
 pagodas/T
 pai/TS
-paia/TS
 paigna/T
 paignas/T
 pail/T
@@ -104225,6 +104255,7 @@ pertoccaiva/TS
 pertoccaivan/TS
 pertoccaivna/TS
 pertoccan/TS
+pertoccant/T
 pertoccaran/TS
 pertoccarana/TS
 pertoccarà'l/TS
@@ -114838,6 +114869,11 @@ quintists/T
 quintna/TS
 quintond/TS
 quints/T
+quintupel/T
+quintupelmaing/T
+quintupels/T
+quintupla/T
+quintuplas/T
 quintà/TS
 quinà/T
 quioura/T
@@ -144860,6 +144896,11 @@ septicas/T
 septics/T
 septima/T
 septimas/T
+septupel/T
+septupelmaing/T
+septupels/T
+septupla/T
+septuplas/T
 sepulcral/T
 sepulcrala/T
 sepulcralas/T
@@ -145256,6 +145297,11 @@ sextets/T
 sextimels/T
 sextina/T
 sextinas/T
+sextupel/T
+sextupelmaing/T
+sextupels/T
+sextupla/T
+sextuplas/T
 sexual/T
 sexuala/T
 sexualas/T
@@ -158804,7 +158850,6 @@ straordinarias/T
 straordinaris/T
 straordinarits/T
 strapai/TS
-strapaina/TS
 strapaj'la/TS
 strapaja'l/TS
 strapaja/TQRSS
@@ -158843,6 +158888,7 @@ strapajessan/TS
 strapajessast/TS
 strapajessat/TS
 strapajessna/TS
+strapajna/TS
 strapajond/TS
 strapajà/TS
 strapatsch'la/TS
@@ -162076,7 +162122,6 @@ suotnan/T
 suotnudrimaint/T
 suotoura/T
 suotpai/TS
-suotpaina/TS
 suotpais/T
 suotpaj'la/TS
 suotpaja'l/TS
@@ -162116,6 +162161,7 @@ suotpajessan/TS
 suotpajessast/TS
 suotpajessat/TS
 suotpajessna/TS
+suotpajna/TS
 suotpajond/TS
 suotpajà/TS
 suotpassagi/T
@@ -163809,6 +163855,10 @@ surinclet/TS
 surinclets/TS
 surincletta/TS
 surinclettas/TS
+surindichada/T
+surindichadas/T
+surindichats/T
+surindichà/T
 suringiò/T
 surinsal'la/TS
 surinsal/TS
@@ -164385,7 +164435,6 @@ surordinond/TS
 surordinà/TS
 suroura/T
 surpai/TS
-surpaina/TS
 surpais/T
 surpaj'la/TS
 surpaja'l/TS
@@ -164425,6 +164474,7 @@ surpajessan/TS
 surpajessast/TS
 surpajessat/TS
 surpajessna/TS
+surpajna/TS
 surpajond/TS
 surpajà/TS
 surpass'la/TS
@@ -176006,12 +176056,6 @@ tschinchmilli/T
 tschinchna/TS
 tschinchond/TS
 tschinchtschient/T
-tschinchupel/T
-tschinchupelmaing/T
-tschinchupels/T
-tschinchupla/T
-tschinchuplamaing/T
-tschinchuplas/T
 tschinchà/TS
 tschincun/T
 tschincuns/T
@@ -177451,6 +177495,7 @@ tübessna/TS
 tübna/TS
 tübond/TS
 tübà/TS
+tüböz/T
 tüert/T
 tüerts/T
 tügl/T
