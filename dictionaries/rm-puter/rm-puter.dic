@@ -1,4 +1,4 @@
-198512
+198575
 A/T
 Aaron/T
 Aarons/T
@@ -516,7 +516,8 @@ Coreas/T
 Corinne
 Corint/T
 Cornelia
-Corsin
+Corsin/T
+Corsins/T
 Costa
 Cotti
 Crameri
@@ -724,7 +725,7 @@ Fanzun
 Farden
 Fardün
 Farera
-Farschno
+Farschno/T
 Fasciati
 Fausch
 Favre
@@ -1679,6 +1680,7 @@ Putera/T
 Puteras/T
 Puters/T
 Putzi
+RG
 RSI
 RTR
 RTS
@@ -2379,6 +2381,7 @@ Zürigaisas/T
 a's/T
 a't/PTQR
 a-minur/T
+a.Cr.
 a/PTQR
 aavaro'l/T
 aavaro'la/T
@@ -7454,6 +7457,7 @@ aivrezzas/T
 ajer/T
 ajers/T
 ajà/T
+al.
 al/T
 alabarda/T
 alabardas/T
@@ -13405,6 +13409,7 @@ artillarist/T
 artillarista/T
 artillaristas/T
 artillarists/T
+artisanat/T
 artischaun/T
 artischauna/T
 artischaunas/T
@@ -25350,6 +25355,7 @@ cessiun/T
 cessiuns/T
 cesura/T
 cesuras/T
+cf.
 ch'El
 ch'Ella
 ch'eau
@@ -26701,8 +26707,6 @@ charretta/T
 charrettas/T
 charrin/T
 charrins/T
-charrottel/T
-charrottels/T
 charrozza/T
 charrozzas/T
 charrozzina/T
@@ -28930,6 +28934,7 @@ civilisè/TQR
 civils/T
 civilted/T
 civilteds/T
+cl
 cladonia/T
 cladonias/T
 claffa/T
@@ -35546,7 +35551,7 @@ cornins/T
 cornischun/T
 cornischuns/T
 corns/T
-corona/T
+coronavirus/T
 corp/T
 corporaziun/T
 corporaziuns/T
@@ -42627,6 +42632,7 @@ d'üert/T
 d'ün'ura/T
 d'üna/T
 d'ünguotta/T
+d.Cr.
 da'L
 da'Ls
 da'm
@@ -51744,6 +51750,8 @@ divorzios/T
 divorzis/T
 divorziè's/TQR
 divorziè/TQR
+dl
+dm
 dmur'la/T
 dmur/T
 dmura'l/T
@@ -51807,6 +51815,7 @@ dmurè/TQR
 dna./T
 do'l/T
 do'm/TQR
+do.
 do/TQR
 dobel/T
 dobels/T
@@ -52594,6 +52603,7 @@ dozessi/T
 dozo/T
 dozos/T
 dozè/TQR
+dr.
 draconic/T
 draconica/T
 drag'la/T
@@ -55075,6 +55085,7 @@ elvetic/T
 elvetica/T
 elveticas/T
 elvetics/T
+em.
 emagl/T
 emagliains/PT
 emagliainsa/PT
@@ -57363,6 +57374,7 @@ excitessi/PT
 excito/PT
 excitos/PT
 excitè/PTQR
+excl.
 exclamaziun/T
 exclamaziuns/T
 exclud'la/PT
@@ -63990,6 +64002,7 @@ fouras/T
 fourast/T
 fouri/T
 fours/T
+fr.
 frac/T
 fracasch/T
 fracaschs/T
@@ -64952,6 +64965,7 @@ frousla/T
 frouslas/T
 frousler/T
 frouslers/T
+frs.
 fructificaziun/T
 fructificaziuns/T
 fructifichaiva/T
@@ -66404,6 +66418,7 @@ füssas/T
 füssast/T
 füssess/T
 füssi/T
+g
 gaffen/T
 gaffens/T
 gag/T
@@ -67747,6 +67762,8 @@ giandusa/T
 giandusas/T
 gianella/T
 gianellas/T
+gianelleder/T
+gianelleders/T
 gianfun/T
 gianfuns/T
 gianoscha/T
@@ -72396,6 +72413,7 @@ güzzischmas/T
 güzzo/T
 güzzos/T
 güzzè/TQR
+h
 h'la/PT
 ha/T
 hacker/T
@@ -79105,6 +79123,7 @@ incitessi/PT
 incito/PT
 incitos/PT
 incitè/PTQR
+incl.
 incleg'la/PT
 incleg/PT
 inclega't/PTQR
@@ -82887,6 +82906,7 @@ ingiuvino/PT
 ingiuvinos/PT
 ingiuvinè/PTQR
 ingiò/T
+ingl.
 inglais/T
 inglaisa/T
 inglaisas/T
@@ -83849,6 +83869,11 @@ innavidas/PT
 innavieu/PT
 innavieus/PT
 innavè/PTQR
+innecessari/T
+innecessaria/T
+innecessariamaing/T
+innecessarias/T
+innecessaris/T
 innocenza/T
 innocenzas/T
 innombr'la/PT
@@ -91091,6 +91116,7 @@ ketchup/T
 ketchups/T
 keyboard/T
 keyboards/T
+kg
 kickers/T
 kidnappains/T
 kidnappainsa/T
@@ -91230,7 +91256,9 @@ kittos/T
 kittè/TQR
 kivi/T
 kivis/T
+km
 know-how/T
+l
 l'/T
 l'amaleda/T
 l'animatura/T
@@ -91336,6 +91364,7 @@ lacs/T
 lactaziun/T
 lactaziuns/T
 lactosa/T
+lad.
 ladin/T
 ladina/T
 ladinas/T
@@ -91915,6 +91944,7 @@ lastra/T
 lastras/T
 lasura/T
 lasuras/T
+lat.
 lat/T
 latent/T
 latenta/T
@@ -93813,6 +93843,8 @@ lütista/T
 lütra/T
 lütras/T
 lüts/T
+m
+m s.m.
 ma/T
 macOS
 macaber/T
@@ -98473,6 +98505,7 @@ mezzaun/T
 mezzauna/T
 mezzaunas/T
 mezzauns/T
+mg
 mi/T
 mia/T
 mias/T
@@ -99411,6 +99444,8 @@ mixos/T
 mixtura/T
 mixturas/T
 mixè/TQR
+ml
+mm
 mnadüra/T
 mnadüras/T
 mnains/T
@@ -103820,6 +103855,7 @@ normessi/T
 normo/T
 normos/T
 normè/TQR
+norovirus/T
 norvegiais/T
 norvegiaisa/T
 norvegiaisas/T
@@ -103978,6 +104014,7 @@ nozzadura/T
 nozzaduras/T
 nozzas/T
 nozzettas/T
+nr.
 nsans/T
 nu'l
 nu'ls
@@ -106986,7 +107023,9 @@ oziusiteds/T
 ozon/T
 ozons/T
 p'la/T
+p.
 p.ex./T
+p.pl.
 pa_chaint'la/T
 pa_chaint/T
 pa_chainta'l/T
@@ -116672,6 +116711,7 @@ pornograficas/T
 pornografics/T
 pornos/T
 port'la/T
+port.
 port/T
 porta'l/T
 porta-paraplövgias/T
@@ -119947,6 +119987,7 @@ prodüts/T
 prodütta/T
 prodüttas/T
 prodüè/TQR
+prof.
 profan/T
 profana/T
 profanains/T
@@ -123329,6 +123370,7 @@ pusto/T
 pustos/T
 pustè/TQR
 pustüt/T
+put.
 put/T
 puter/T
 putera/T
@@ -137193,6 +137235,8 @@ rowdy/T
 rowdys/T
 roz/T
 rozs/T
+rp.
+rps.
 rubin/T
 rubins/T
 rubrica/T
@@ -137508,6 +137552,7 @@ rulettunzas/T
 rulettunzs/T
 rulotta/T
 rulottas/T
+rum.
 rum/T
 rumagl'la/T
 rumagl/T
@@ -138344,6 +138389,7 @@ rüzcha/T
 rüzchaglia/T
 rüzchaglias/T
 rüzchas/T
+s
 s'/T
 s'abstegner/T
 s'acclimatiser/T
@@ -140663,6 +140709,7 @@ s-chütschigni/T
 s-chütschigno/T
 s-chütschignos/T
 s-chütschignè/TQR
+s.
 sabat/T
 sabats/T
 sabel/T
@@ -149056,7 +149103,6 @@ schmerdschessas/T
 schmerdschessast/T
 schmerdschessi/T
 schmerdschi/T
-schmerdschs/T
 schmerdschè/TQR
 schmerdè/TQR
 schmerigl'la/T
@@ -161920,6 +161966,11 @@ sinessi/T
 sinevel/T
 sinfonia/T
 sinfonias/T
+sinfonic/T
+sinfonica/T
+sinfonicamaing/T
+sinfonicas/T
+sinfonics/T
 singul/T
 singula/T
 singular/T
@@ -162157,6 +162208,7 @@ situo/T
 situos/T
 sivel/T
 sivels/T
+siɡr.
 skelet/T
 skelets/T
 skennains/T
@@ -163056,6 +163108,7 @@ spaghet/T
 spaghets/T
 spaghetteda/T
 spaghettedas/T
+spagn.
 spagna/T
 spagnas/T
 spagnoletta/T
@@ -167877,6 +167930,7 @@ srolli/T
 srollo/T
 srollos/T
 srollè/TQR
+ss.
 st'la/T
 st/T
 stab/T
@@ -173347,6 +173401,8 @@ sugerida/T
 sugeridas/T
 sugerieu/T
 sugerieus/T
+sugerimaint/T
+sugerimaints/T
 sugerind/T
 sugerins/T
 sugerinsa/T
@@ -173994,8 +174050,6 @@ sunarons/T
 sunaronsa/T
 sunaros/T
 sunarost/T
-sunaröl/T
-sunaröls/T
 sunas/T
 sunasencha/T
 sunasenchas/T
@@ -176301,6 +176355,7 @@ surleivgio/T
 surleivgios/T
 surleivgs/T
 surleivgè/TQR
+surm.
 surmagl'la/T
 surmagl/T
 surmagli/T
@@ -177264,6 +177319,7 @@ surs-chudessi/T
 surs-chudo/T
 surs-chudos/T
 surs-chudè/TQR
+surs.
 sursagl/T
 sursagli'la/T
 sursagli/TQR
@@ -178493,6 +178549,7 @@ sutiglios/T
 sutigliè/TQR
 suto/T
 sutos/T
+suts.
 sutsilvan/T
 sutsilvana/T
 sutsilvanas/T
@@ -180149,6 +180206,7 @@ süvla/T
 süvlas/T
 süvlet/T
 süvlets/T
+t
 t-shirt/T
 t-shirts/T
 t.o./T
@@ -180686,6 +180744,7 @@ taisch/T
 taischs/T
 taja/T
 tajas/T
+tal.
 tal/T
 talac'la/T
 talac/T
@@ -189925,6 +189984,7 @@ tuctas/T
 tuctetta/T
 tuctettas/T
 tucts/T
+tud.
 tudas-ch/T
 tudas-cha/T
 tudas-chains/T
@@ -192692,6 +192752,7 @@ uzè/PTQR
 uzöl/T
 uzöls/T
 v'la/T
+v.
 vacant/T
 vacanta/T
 vacantas/T
@@ -193229,6 +193290,7 @@ valischeras/T
 valischetta/T
 valischettas/T
 valischs/T
+vall.
 vallader/T
 valladerissem/T
 valladerissems/T
@@ -195787,6 +195849,7 @@ vocalas/T
 vocals/T
 vocaziun/T
 vocaziuns/T
+vol.
 volant/T
 volanta/T
 volantas/T

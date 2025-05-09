@@ -1,4 +1,4 @@
-184223
+184234
 --/TQRSS
 A/T
 Aaron/T
@@ -2197,6 +2197,7 @@ Puters/T
 Putzi
 Quirin/T
 Quirins/T
+RG
 RSI
 RTR
 RTS
@@ -3094,6 +3095,7 @@ Zürigaisas/T
 a'la/PTS
 a-magiur/T
 a-minur/T
+a.Cr.
 a/PTQRSS
 aaja/PTS
 abadessa/T
@@ -7735,6 +7737,7 @@ ajomen/T
 ajovan/T
 ajovans/T
 ajà/T
+al.
 al/T
 ala/T
 alabarda/T
@@ -12779,6 +12782,7 @@ artillarist/T
 artillarista/T
 artillaristas/T
 artillarists/T
+artisanat/T
 artischan/T
 artischana/T
 artischanadi/T
@@ -19982,48 +19986,6 @@ bos-chusas/T
 bos/T
 bostitsch/T
 bostitschs/T
-bostrada/TS
-bostradas/TS
-bostrai/TQRSS
-bostrain/TS
-bostraina/TS
-bostrais/TS
-bostraiv'la/TS
-bostraiva'l/TS
-bostraiva/TS
-bostraivan/TS
-bostraivast/TS
-bostraivat/TS
-bostraivna/TS
-bostrar/TQRSS
-bostrarai/TQRSS
-bostraraja/TS
-bostraran/TS
-bostrarana/TS
-bostrarast/TS
-bostrarat/TS
-bostrarà'l/TS
-bostrarà'la/TS
-bostrarà/TS
-bostrats/TS
-bostresch'la/TS
-bostresch/TS
-bostrescha'l/TS
-bostrescha/TQRSS
-bostreschan/TS
-bostreschast/TS
-bostreschat/TS
-bostreschna/TS
-bostress'la/TS
-bostress/TS
-bostressa'l/TS
-bostressa/TS
-bostressan/TS
-bostressast/TS
-bostressat/TS
-bostressna/TS
-bostrond/TS
-bostrà/TS
 bot/T
 botanic/T
 botanica/T
@@ -24536,6 +24498,7 @@ cessiun/T
 cessiuns/T
 cesura/T
 cesuras/T
+cf.
 ch'El/T
 ch'Ella
 ch'Els/T
@@ -26067,8 +26030,6 @@ charrin/T
 charrins/T
 charriöla/T
 charriölas/T
-charrottel/T
-charrottels/T
 charrozza/T
 charrozzas/T
 charrozzer/T
@@ -28070,6 +28031,7 @@ civilisà/TS
 civils/T
 civiltats/T
 civiltà/T
+cl
 cladonia/T
 cladonias/T
 clafcha/TS
@@ -47687,6 +47649,8 @@ divorziond/TS
 divorzis/T
 divorzià/TS
 divrir/T
+dl
+dm
 dmur'la/TS
 dmur/TS
 dmura'l/TS
@@ -47736,6 +47700,7 @@ dmurond/TS
 dmurà/TS
 dna./T
 dna/TS
+do.
 do/T
 doc/T
 docent/T
@@ -48621,6 +48586,7 @@ dozunza/T
 dozunzas/T
 dozunzs/T
 dozà/TS
+dr.
 draconic/T
 draconica/T
 dragoner/T
@@ -50726,6 +50692,7 @@ elvetic/T
 elvetica/T
 elveticas/T
 elvetics/T
+em.
 emagl/T
 emagliada/PTS
 emagliadas/PTS
@@ -52727,6 +52694,7 @@ excitessat/PTS
 excitessna/PTS
 excitond/PTS
 excità/PTS
+excl.
 exclamada/PTS
 exclamadas/PTS
 exclamader/T
@@ -58761,6 +58729,7 @@ foxtrot/T
 foxtrots/T
 foyer/T
 foyers/T
+fr.
 frac/T
 fracasch'la/TS
 fracasch/T
@@ -59504,6 +59473,7 @@ frousla/T
 frouslas/T
 frousler/T
 frouslers/T
+frs.
 fructificaziun/T
 fructificaziuns/T
 fructifichada/TS
@@ -60934,6 +60904,7 @@ füssast/TS
 füssat/TS
 füssna/TS
 füsà/TS
+g
 gabella/T
 gabellas/T
 gag/T
@@ -62854,8 +62825,6 @@ gisoc/T
 gisocs/T
 gita/T
 gitas/T
-gitun/T
-gituns/T
 giubilada/TS
 giubiladas/TS
 giubilai/TQRSS
@@ -66338,6 +66307,7 @@ güzzischmas/T
 güzzna/TS
 güzzond/TS
 güzzà/TS
+h
 h'la/PTS
 ha'l/PTS
 ha'la/PTS
@@ -71925,6 +71895,7 @@ incitessat/PTS
 incitessna/PTS
 incitond/PTS
 incità/PTS
+incl.
 inclavigl'la/PTS
 inclavigl/PTS
 inclaviglia'l/PTS
@@ -75294,6 +75265,7 @@ ingiuriond/PTS
 ingiuriusas/T
 ingiurià/PTS
 ingiò/T
+ingl.
 inglais/T
 inglaisa/T
 inglaisas/T
@@ -76119,6 +76091,11 @@ innatüral/T
 innatürala/T
 innatüralas/T
 innatürals/T
+innecessari/T
+innecessaria/T
+innecessariamaing/T
+innecessarias/T
+innecessaris/T
 innocenza/T
 innocenzas/T
 innovada/PTS
@@ -82811,6 +82788,7 @@ ketchup/T
 ketchups/T
 keyboard/T
 keyboards/T
+kg
 kidnappada/TS
 kidnappadas/TS
 kidnappai/TQRSS
@@ -83031,6 +83009,7 @@ lactaziun/T
 lactaziuns/T
 lactosa/T
 lacunter/T
+lad.
 lad/T
 lada/T
 ladamaing/T
@@ -83777,6 +83756,7 @@ lasts/T
 lasupra/T
 lasura/T
 lasuras/T
+lat.
 lat/T
 latent/T
 latenta/T
@@ -86126,6 +86106,8 @@ lütschernas/T
 lütschina/T
 lütschinas/T
 l’Engiadina/T
+m
+m s.m.
 ma/T
 mac/T
 macOS
@@ -90818,6 +90800,7 @@ mezzasaira/T
 mezzasairas/T
 mezzastats/T
 mezzastà/T
+mg
 mi/T
 mia/T
 mialgia/T
@@ -91783,6 +91766,8 @@ mixturas/T
 mixà/TS
 mizguogl/T
 mizguogls/T
+ml
+mm
 mo/T
 moamedan/T
 moamedana/T
@@ -95963,6 +95948,7 @@ nozzaduras/T
 nozzadurs/T
 nozzas/T
 nozzettas/T
+nr.
 nu'm
 nu'ns
 nu's
@@ -98626,6 +98612,7 @@ oziusitats/T
 oziusità/T
 ozon/T
 ozons/T
+p.
 p.ex./T
 p.pl./T
 pa/T
@@ -105029,6 +105016,7 @@ piffer/T
 piffers/T
 pigiama/T
 pigiamas/T
+pigl'la/TS
 pigl/TS
 pigla/TS
 pigli'la/TS
@@ -105074,6 +105062,7 @@ pigliuot/T
 pigliuots/T
 pigliuotta/T
 pigliuottas/T
+piglna/TS
 pigmaint/T
 pigmaints/T
 pigna/T
@@ -107705,6 +107694,7 @@ pornos/T
 porridge/T
 porridges/T
 port'la/TS
+port.
 port/TS
 porta'l/TS
 porta/TQRSS
@@ -110809,6 +110799,7 @@ prodüts/TS
 prodütta/TS
 prodüttas/TS
 prodüà/TS
+prof.
 profan/T
 profana/T
 profanada/TS
@@ -113938,6 +113929,7 @@ pussibiltà/TS
 pussibla/T
 pussiblas/T
 pustüt/T
+put.
 put/T
 putasuolch/T
 putasuolchs/T
@@ -126637,6 +126629,8 @@ rowdy/T
 rowdys/T
 roz/T
 rozs/T
+rp.
+rps.
 rubin/T
 rubins/T
 rubrica/T
@@ -126745,6 +126739,7 @@ rulettadras/T
 rulettas/T
 rulotta/T
 rulottas/T
+rum.
 rum/T
 rumaglia/TS
 rumagliader/T
@@ -127705,6 +127700,7 @@ rüschla/T
 rüschlas/T
 rüzcha/T
 rüzchas/T
+s
 s'abassaivat/TS
 s'abilitaivat/TS
 s'abinaivat/TS
@@ -130202,6 +130198,7 @@ s-chüsessna/TS
 s-chüsna/TS
 s-chüsond/TS
 s-chüsà/TS
+s.
 sa'l/TS
 sa'la/TS
 sa/TS
@@ -133102,6 +133099,7 @@ sbischaiva/TS
 sbischar/TS
 sbischaraja/TS
 sbischarà/TS
+sbischas/T
 sbischess/TS
 sbischessa/TS
 sbischina/T
@@ -150658,6 +150656,7 @@ situessat/TS
 situessna/TS
 situond/TS
 situà/TS
+siɡr.
 skelet/T
 skelets/T
 skennada/TS
@@ -151661,6 +151660,7 @@ spagliada/T
 spagliadas/T
 spagliadur/T
 spagliadurs/T
+spagn.
 spagnoletta/T
 spagnolettas/T
 spagnöl/T
@@ -155847,6 +155847,7 @@ srommessna/TS
 srommna/TS
 srommond/TS
 srommà/TS
+ss.
 st'la/TS
 st/T
 sta'La/T
@@ -164101,6 +164102,7 @@ surlet/TS
 surlets/TS
 surletta/TS
 surlettas/TS
+surm.
 surmagl'la/TS
 surmagl/TS
 surmaglia'l/TS
@@ -164856,6 +164858,7 @@ surs-chodessna/TS
 surs-chodna/TS
 surs-chodond/TS
 surs-chodà/TS
+surs.
 sursagl'la/TS
 sursagl/TS
 sursagli/TQRSS
@@ -165694,6 +165697,7 @@ sustgnüdas/TS
 sustgnüts/TS
 sutana/T
 sutanas/T
+suts.
 sutsilvan/T
 suvent/T
 suveran/T
@@ -167382,6 +167386,7 @@ süusa/T
 süusamaing/T
 süusas/T
 süà/TS
+t
 t'impaissa/T
 t-shirt/T
 t-shirts/T
@@ -167926,6 +167931,7 @@ taja/T
 tajas/T
 tajatschina/T
 tajatschinas/T
+tal.
 tal/T
 tala/T
 talac/T
@@ -176675,6 +176681,7 @@ tuberusas/T
 tubet/T
 tubets/T
 tubs/T
+tud.
 tudais-ch/T
 tudais-cha/T
 tudais-chada/TS
@@ -179007,6 +179014,7 @@ uzun/T
 uzuns/T
 uzöl/T
 v'la/TS
+v.
 va'l/TS
 va'la/TS
 va/TQRSS
@@ -179437,6 +179445,7 @@ valisic/T
 valisica/T
 valisicas/T
 valisics/T
+vall.
 vallada/T
 valladas/T
 vallader/T
@@ -182017,6 +182026,7 @@ vocaziun/T
 vocaziuns/T
 vodca/T
 vodcas/T
+vol.
 volant/T
 volanta/T
 volantas/T
@@ -182426,6 +182436,7 @@ xilofon/T
 xilofons/T
 yoga/T
 yogas/T
+z.Cr.
 zabajun/T
 zabajuns/T
 zaccagn'la/TS
