@@ -1,4 +1,4 @@
-127087
+127152
 -/PQT
 A/T
 Aaron
@@ -1132,6 +1132,7 @@ Putzi
 Pùntcrap/T
 Qual/T
 Quälerei/T
+RG
 RSI
 RTR
 RTS
@@ -1644,7 +1645,10 @@ Zuber
 Zuoz
 Zwahlen
 Zürcher
+a.Cr.
+a.a.a.
 a/T
+aaa.
 abazeia/T
 abazeias/T
 abc/T
@@ -3030,6 +3034,7 @@ aintri/PQT
 aintrian/PQT
 aintrias/PQT
 aintriou/PQT
+al.
 al/T
 ala/T
 alarm/T
@@ -6046,6 +6051,7 @@ angivineias/PQT
 angivino/PQT
 angivinos/PQT
 angivinànd/PQT
+angl.
 anglatsch/PQT
 anglatscha/PQT
 anglatschad/PQT
@@ -17370,6 +17376,7 @@ cesta/T
 cestas/T
 cet/T
 cets/T
+cf.
 cibernetic/T
 cibernetica/T
 ciberneticas/T
@@ -30929,6 +30936,10 @@ divorztgeschiou/PQT
 divorztgo/PQT
 divorztgos/PQT
 divorztgànd/PQT
+dl
+dm
+dna.
+do.
 do/PQT
 doctorad/PQT
 doctorada/PQT
@@ -31334,6 +31345,7 @@ dozent/T
 dozenta/T
 dozentas/T
 dozents/T
+dr.
 drac/T
 draca/T
 dracada/T
@@ -32740,6 +32752,7 @@ eloquents/T
 eloquenza/T
 eloquenzas/T
 els/T
+em.
 emagl/T
 emagliagn/PQT
 emagliainsa/PQT
@@ -33451,6 +33464,7 @@ europeics/T
 euros/T
 euroschec/T
 euroschecs/T
+ev.
 evacuad/PQT
 evacuada/PQT
 evacuadas/PQT
@@ -33669,6 +33683,7 @@ exaust/T
 exausta/T
 exaustas/T
 exausts/T
+excl.
 exclamar/T
 exclamaziùn/T
 exclamaziùns/T
@@ -37463,6 +37478,7 @@ fotozela/T
 fotozelas/T
 foul/T
 fouls/T
+fr.
 frac/T
 fracs/T
 fractura/T
@@ -38073,6 +38089,7 @@ froteschiou/PQT
 froto/PQT
 frotos/PQT
 frotànd/PQT
+frs.
 fructifer/T
 fructifera/T
 fructiferas/T
@@ -38987,6 +39004,7 @@ fòlzameing/T
 fòlzas/T
 fòlzs/T
 fùns/T
+g
 gag/T
 gagia/T
 gagias/T
@@ -42199,6 +42217,7 @@ gèsts/T
 gî/T
 gòld/T
 gòlds/T
+h
 habel/T
 habels/T
 habilitaziùn/T
@@ -42695,6 +42714,7 @@ historiografas/T
 historiografs/T
 hit/T
 hits/T
+hl
 hobi/T
 hobis/T
 hockey/T
@@ -43925,6 +43945,7 @@ incasseschiou/PQT
 incasso/PQT
 incassos/PQT
 incassànd/PQT
+incl.
 includ/PQT
 includa/PQT
 includagn/PQT
@@ -46523,6 +46544,7 @@ juveliers/T
 juvels/T
 ketschup/T
 ketschups/T
+kg
 kilo/T
 kilogram/T
 kilograms/T
@@ -46533,6 +46555,9 @@ kino/T
 kinos/T
 kiosk/T
 kiosks/T
+km
+km/h
+l
 l'oter/T
 la/T
 laagn/T
@@ -46595,6 +46620,7 @@ laconicameing/T
 laconicas/T
 laconics/T
 lacs/T
+lad.
 lada/T
 ladad/PQT
 ladada/PQT
@@ -47102,6 +47128,7 @@ laschivas/T
 lasei/T
 lasperas/T
 lasura/T
+lat.
 lata/T
 latas/T
 lategn/T
@@ -49056,6 +49083,9 @@ lùng/T
 lùnga/T
 lùngas/T
 lùngs/T
+m
+m s.m.
+m/s
 macOS
 macaber/T
 macabera/T
@@ -52462,6 +52492,7 @@ meztga/T
 meztgas/T
 meztger/T
 meztgers/T
+mg
 mi'glieud/T
 mi'ura/T
 mia/T
@@ -52745,6 +52776,7 @@ mimorgia/T
 mimorgias/T
 mimosa/T
 mimosas/T
+min
 mina/T
 minad/PQT
 minada/PQT
@@ -53094,6 +53126,8 @@ mitschànd/PQT
 mitus/T
 mixtura/T
 mixturas/T
+ml
+mm
 mo/T
 mobagn/T
 mobigl/T
@@ -56078,6 +56112,7 @@ nozadurs/T
 nozas/T
 noziùn/T
 noziùns/T
+nr.
 nuclear/T
 nucleara/T
 nuclearas/T
@@ -58624,6 +58659,9 @@ ozonicas/T
 ozonics/T
 ozons/T
 ozseglgi/T
+p.
+p.ex.
+p.pl.
 pac/T
 pacatad/PQT
 pacatada/PQT
@@ -64593,6 +64631,7 @@ porschi/PQT
 porschian/PQT
 porschias/PQT
 porschiou/PQT
+port.
 port/PQT
 porta-clavo/T
 porta/PQT
@@ -66328,6 +66367,7 @@ produzent/T
 produzenta/T
 produzentas/T
 produzents/T
+prof.
 profan/T
 profana/T
 profanad/PQT
@@ -68447,6 +68487,7 @@ pustraca/T
 pustracas/T
 pustànd/PQT
 pusànd/PQT
+put.
 puter/T
 putera/T
 puteras/T
@@ -68481,6 +68522,7 @@ pòlta/T
 pòltas/T
 pùnt/T
 pùnts/T
+q.v.g.
 qua/T
 quaaint/T
 quac/T
@@ -68891,6 +68933,7 @@ quànta/T
 quàntas/T
 quànts/T
 quälen/T
+qvg.
 r/PQT
 rabaglia/T
 rabagliagn/PQT
@@ -74000,6 +74043,7 @@ resozialiseschiou/PQT
 resozialiso/PQT
 resozialisos/PQT
 resozialisànd/PQT
+resp.
 respect/T
 respectabel/T
 respectabels/T
@@ -75822,6 +75866,8 @@ rotschada/T
 rotschadas/T
 rotschas/T
 rotànd/PQT
+rp.
+rps.
 ruagn/PQT
 ruainsa/PQT
 rualad/PQT
@@ -76188,6 +76234,7 @@ rulos/PQT
 rulota/T
 rulotas/T
 rulànd/PQT
+rum.
 rum/T
 rumagn/PQT
 rumainsa/PQT
@@ -76628,6 +76675,7 @@ rùni/PQT
 rùnian/PQT
 rùnias/PQT
 rùniou/PQT
+s
 s'absantar/PQT
 s'abstaner/T
 s'aclimatisar/PQT
@@ -76711,6 +76759,8 @@ s'unir/PQT
 s'unscher/PQT
 s'urtgiclar/PQT
 s'zugliear/PQT
+s.
+s.Cr.
 sa-/T
 sa/PQT
 sabagliaf/PQT
@@ -102779,6 +102829,7 @@ sivlànd/PQT
 sizeglia/T
 sizeglias/T
 siànd/PQT
+siɡr.
 ski/T
 skis/T
 skiza/T
@@ -103153,6 +103204,7 @@ spagas/T
 spagat/T
 spagats/T
 spaghetis/T
+spagn.
 spagnol/T
 spagnola/T
 spagnolas/T
@@ -105394,6 +105446,7 @@ squitschessiou/PQT
 squitschieu/PQT
 squitschieus/PQT
 squitschànd/PQT
+ss.
 ssgregnias/PQT
 ssprùna/PQT
 stab/T
@@ -110316,6 +110369,7 @@ surluvreias/PQT
 surluvro/PQT
 surluvros/PQT
 surluvrànd/PQT
+surm.
 surmagl/PQT
 surmagli/PQT
 surmaglia/PQT
@@ -110830,6 +110884,7 @@ surrisi/PQT
 surrisian/PQT
 surrisiass/PQT
 surriànd/PQT
+surs.
 surs/T
 sursagl/PQT
 sursaglel/PQT
@@ -112333,6 +112388,7 @@ sutpesa/T
 sutpesas/T
 sutpressiùn/T
 sutpressiùns/T
+suts.
 sutsilvan/T
 sutsilvana/T
 sutsilvanas/T
@@ -112952,6 +113008,7 @@ sùnian/PQT
 sùnias/PQT
 sùniou/PQT
 sùns/T
+t.o.
 t/T
 ta/T
 tabalori/T
@@ -113243,6 +113300,7 @@ taintias/PQT
 taintiou/PQT
 taja/T
 tajas/T
+tal.
 tal/T
 tala/T
 talac/T
@@ -120642,6 +120700,7 @@ tuco/PQT
 tucos/PQT
 tucs/T
 tucànd/PQT
+tud.
 tuder/T
 tuders/T
 tudestg/T
@@ -122738,6 +122797,7 @@ uvos/PQT
 uvànd/PQT
 uànza/T
 uànzas/T
+v.
 va/PQT
 vaca/T
 vacas/T
@@ -123012,6 +123072,7 @@ valiteschiou/PQT
 valito/PQT
 valitos/PQT
 valitànd/PQT
+vall.
 valorgia/T
 valorgias/T
 vals/T
@@ -124862,6 +124923,7 @@ vocabulareals/T
 vocabulari/T
 vocal/T
 vocals/T
+vol.
 vol/PQT
 voldet/T
 voldeta/T
@@ -125128,6 +125190,7 @@ xenofobas/T
 xenofobeia/T
 xenofobeias/T
 xenofobs/T
+za.
 zacargead/PQT
 zacargeada/PQT
 zacargeadas/PQT
@@ -126461,6 +126524,8 @@ zivilists/T
 zivilisànd/PQT
 zivilmeing/T
 zivils/T
+zl
+zm
 zoca/T
 zocas/T
 zocla/T

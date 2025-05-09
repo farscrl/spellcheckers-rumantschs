@@ -1,4 +1,4 @@
-147840
+147886
 A/T
 AVS/RT
 Aaron
@@ -1443,6 +1443,7 @@ Putera/RT
 Puteras/RT
 Puters/RT
 Putzi
+RG
 RSI
 RTR
 RTS
@@ -2052,6 +2053,7 @@ Zwahlen
 Zürcher
 a-dur/T
 a-mol/T
+a.Cr.
 a/T
 aba/T
 abandung/RT
@@ -4520,6 +4522,7 @@ aintran/PT
 aintras/PT
 aintrast/PT
 aintrigl/PT
+al.
 ala-nas/RT
 ala-tetg/RT
 ala/RT
@@ -22891,6 +22894,7 @@ cessiun/RT
 cessiuns/RT
 cesura/RT
 cesuras/RT
+cf.
 chauffeur/RT
 chauffeura/RT
 chauffeuras/RT
@@ -34540,6 +34544,7 @@ cuzzonta/T
 cuzzontas/T
 cuzzonts/T
 cuzzos/PT
+cvd.
 cò/T
 d'/T
 d'accord/T
@@ -42387,6 +42392,9 @@ divulgo/PT
 divulgond/PT
 divulgos/PT
 dl/RT
+dm
+dna.
+do.
 do/PT
 dobel/RT
 dobels/RT
@@ -42954,6 +42962,7 @@ dovran/PT
 dovras/PT
 dovrast/PT
 dovrigl/PT
+dr.
 draconic/T
 draconica/T
 draconicamaintg/T
@@ -44647,6 +44656,7 @@ eloquenza/RT
 eloquenzas/RT
 els/T
 els/ellas/T
+em.
 emagl/RT
 emagle/PQT
 emaglea/PT
@@ -44964,6 +44974,7 @@ engaschos/PT
 engiadines/T
 engiadinesa/T
 engiadinesas/T
+engl.
 engles/RT
 englesa/T
 englesas/T
@@ -45864,6 +45875,7 @@ etologias/RT
 etologs/RT
 etui/RT
 etuis/RT
+eua.
 eucaristia/RT
 eucaristias/RT
 eucaristic/T
@@ -46489,6 +46501,7 @@ excitonta/T
 excitontas/T
 excitonts/T
 excitos/PT
+excl.
 exclamada/PT
 exclamadas/PT
 exclamagn/PT
@@ -52404,6 +52417,7 @@ frost/RT
 frosts/RT
 frotte/RT
 frottes/RT
+frs.
 fructificaziun/RT
 fructificaziuns/RT
 fructifitgagn/PT
@@ -53400,6 +53414,7 @@ fuxs/RT
 fè/T
 fò/PQT
 fògl/PT
+g
 gaffanaglia/RT
 gaffen/RT
 gaffens/RT
@@ -57600,6 +57615,7 @@ guvernos/PT
 guverns/RT
 gôt/RT
 gôts/RT
+h
 habit/RT
 habits/RT
 haliho/RT
@@ -57882,6 +57898,7 @@ histericas/T
 histerics/T
 hit/RT
 hits/RT
+hl
 hobi/RT
 hobis/RT
 hockey/RT
@@ -59986,6 +60003,7 @@ incitez/PT
 incito/PT
 incitond/PT
 incitos/PT
+incl.
 inclinada/PT
 inclinadas/PT
 inclinagn/PT
@@ -64553,8 +64571,10 @@ kitschs/RT
 kiwi/RT
 kiwis/RT
 km/RT
+km/h
 koala/RT
 koalas/RT
+l
 l'oter/T
 la/T
 labiatas/RT
@@ -64586,6 +64606,7 @@ lacrizias/RT
 lacs/RT
 lactin/RT
 lactins/RT
+lad.
 ladada/PT
 ladadas/PT
 ladagn/PT
@@ -65081,6 +65102,7 @@ lasso/RT
 lassos/RT
 lastra/RT
 lastras/RT
+lat.
 lategn/RT
 lategna/T
 lategnas/T
@@ -67017,6 +67039,9 @@ lètga/RT
 lètgas/RT
 lètgs/RT
 lò/T
+m
+m s.m.
+m/s
 ma/T
 mabagn/T
 macOS
@@ -78270,6 +78295,8 @@ ozonicas/T
 ozonics/T
 ozons/RT
 p./RT
+p.ex.
+p.pl.
 p/PT
 pac/RT
 paca/T
@@ -85502,6 +85529,7 @@ porschas/PT
 porschast/PT
 porscher/PT
 porschigl/PT
+port.
 port/PRT
 porta-clavo/RT
 porta/PQRT
@@ -88081,6 +88109,7 @@ produtgivas/PT
 produtgivast/PT
 produtgivigl/PT
 produtgond/PT
+prof.
 profan/T
 profana/T
 profanada/PT
@@ -90961,6 +90990,7 @@ pustez/PT
 pusto/PT
 pustond/PT
 pustos/PT
+put.
 putana/RT
 putanas/RT
 puter/T
@@ -101106,6 +101136,7 @@ router/T
 rover/RT
 rovers/RT
 rp./RT
+rps.
 ruada/RT
 ruadas/RT
 ruaneida/RT
@@ -101531,6 +101562,7 @@ rulletta/RT
 rullettas/RT
 rullotta/RT
 rullottas/RT
+rum.
 rum/RT
 rumage/PQT
 rumagea/PT
@@ -101958,6 +101990,7 @@ rètg/RT
 rètgs/RT
 rösti/RT
 röstis/RT
+s
 s'abinar/T
 s'absentar/T
 s'abstigneir/T
@@ -102033,6 +102066,7 @@ s'uneir/T
 s'unfreir/T
 s'urtilar/T
 s./T
+s.Cr.
 sa/PT
 sabbat/RT
 sabbats/RT
@@ -117087,6 +117121,7 @@ sivez/PT
 sivo/PT
 sivond/PT
 sivos/PT
+siɡr.
 skateline/RT
 skatelines/RT
 skating/RT
@@ -120062,6 +120097,7 @@ spagletschevigl/PT
 spagletschez/PT
 spagletschigl/PT
 spagletschond/PT
+spagn.
 spagnol/RT
 spagnola/T
 spagnolas/T
@@ -129822,6 +129858,7 @@ surluvrigl/PT
 surluvro/PT
 surluvrond/PT
 surluvros/PT
+surm.
 surmagl/PT
 surmagle/PQT
 surmaglea/PT
@@ -130432,6 +130469,7 @@ surriivigl/PT
 surriond/surriend/PT
 surrogat/RT
 surrogats/RT
+surs.
 sursae/PQT
 sursaea/PT
 sursaeas/PT
@@ -131842,6 +131880,7 @@ suterast/PT
 suterigl/PT
 sutgruppa/RT
 sutgruppas/RT
+suts.
 sutterran/RT
 sutterrana/T
 sutterranas/T
@@ -132618,8 +132657,10 @@ svungegias/PT
 svungegiast/PT
 svungegigl/PT
 svungetg/PT
+t
 t-shirt/RT
 t-shirts/RT
+t.o.
 ta/PT
 tabalori/RT
 tabaloris/RT
@@ -132872,6 +132913,7 @@ taintast/PT
 taintigl/PT
 taist/PT
 taistt/PT
+tal.
 tal/T
 tala/T
 talar/RT
@@ -141344,6 +141386,7 @@ tuccano/PT
 tuccanond/PT
 tuccanos/PT
 tuccas/RT
+tud.
 tudel/T
 tudela/T
 tudelas/T
@@ -143698,6 +143741,7 @@ utschels/RT
 utschleglia/RT
 uvertura/RT
 uverturas/RT
+v.
 va/PT
 vacant/T
 vacanta/T
@@ -143992,6 +144036,7 @@ valischa/RT
 valischas/RT
 valischera/RT
 valischeras/RT
+vall.
 vallada/RT
 valladas/RT
 vallader/T
@@ -146354,6 +146399,7 @@ vocaziun/RT
 vocaziuns/RT
 vogl/PT
 voia/T
+vol.
 volant/T
 volanta/T
 volantas/T

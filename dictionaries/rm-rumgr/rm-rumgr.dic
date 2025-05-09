@@ -1,4 +1,4 @@
-159850
+159913
 'okina/T
 'okinas/T
 3D/T
@@ -2893,6 +2893,7 @@ Qatara/T
 Qatari/T
 Québec/T
 REM/T
+RG
 RIPOL/T
 ROE/T
 RSI
@@ -4116,6 +4117,7 @@ Züchinsas/T
 Zürcher
 Zürigais/T
 Zürigaisas/T
+a.Cr./O
 a/OT
 abacus/OT
 abadessa/OT
@@ -20278,6 +20280,7 @@ bypass/T
 byte/T
 bückling/T
 bücklings/T
+ca.
 cabala/T
 cabalas/T
 cabalist/T
@@ -22937,6 +22940,7 @@ cetan/T
 cetans/T
 cevapcici/T
 cevapcicis/T
+cf.
 cf.Benutzeroberfläche/T
 cf.Kern/T
 ch'jau/T
@@ -25665,6 +25669,7 @@ civilists/T
 civilisà/T
 civils/T
 civis/T
+cl
 clac/T
 clacca/TQ
 claccada/T
@@ -26410,6 +26415,7 @@ clutschian/T
 clutschias/T
 clutschond/T
 clutschà/T
+cm
 cnap/T
 cnappa/T
 cnappas/T
@@ -44663,6 +44669,11 @@ displaschia/T
 displaschì/T
 displasia/T
 displasias/T
+displastic/T
+displastica/T
+displasticamain/T
+displasticas/T
+displastics/T
 display/T
 displays/T
 dispnea/T
@@ -45573,6 +45584,10 @@ dixies/T
 dj/T
 djane/T
 djanes/T
+dl
+dm
+dna.
+do.
 doc/T
 docent/T
 docenta/T
@@ -46210,6 +46225,7 @@ doxologias/T
 doyen/T
 doyens/T
 dpi/T
+dr.
 drachma/T
 drachmas/T
 draconic/T
@@ -48195,6 +48211,7 @@ eloxeschias/OPT
 eloxond/OPT
 eloxà/OPT
 els/OT
+em./O
 emagl/OT
 emagliada/OPT
 emagliadas/OPT
@@ -50646,6 +50663,7 @@ engirias/OPT
 engirond/OPT
 engirà/OPT
 engiu/OT
+engl./O
 englais/OT
 englatsch/OPT
 englatscha/OPTQ
@@ -53644,10 +53662,12 @@ eutonia/OT
 eutonias/OT
 eutrofisaziun/OT
 eutrofisaziuns/OT
+euv./O
 euxinic/OT
 euxinica/OT
 euxinicas/OT
 euxinics/OT
+ev./O
 evacuada/OPT
 evacuadas/OPT
 evacuads/OPT
@@ -54187,6 +54207,7 @@ exciteschian/OPT
 exciteschias/OPT
 excitond/OPT
 excità/OPT
+excl./O
 exclamada/OPT
 exclamadas/OPT
 exclamads/OPT
@@ -59980,6 +60001,7 @@ foxtrot/T
 foxtrots/T
 foyer/T
 foyers/T
+fr.
 frabiziechel/T
 frabiziechels/T
 frac/T
@@ -60777,6 +60799,7 @@ frottond/T
 frottà/T
 frotté/T
 frottés/T
+frs.
 fructificaziun/T
 fructificaziuns/T
 fructifitgada/T
@@ -61770,6 +61793,7 @@ fux/T
 fuxia/T
 fuxias/T
 fuxs/T
+g
 ga/T
 gabapentin/T
 gabapentins/T
@@ -66440,6 +66464,7 @@ gìa/T
 gìas/T
 gìun/T
 gìuns/T
+h/O
 ha/OPTQ
 habanera/OT
 habaneras/OT
@@ -66921,6 +66946,7 @@ hit/OT
 hits/OT
 hitta/OT
 hittas/OT
+hl/O
 hmong/OT
 hoax/OT
 hoaxs/OT
@@ -69598,6 +69624,7 @@ inciteschian/OPT
 inciteschias/OPT
 incitond/OPT
 incità/OPT
+incl./O
 inclin/OPT
 inclina/OPTQ
 inclinabel/OT
@@ -75866,6 +75893,7 @@ keynesianissem/T
 keynesians/T
 keyword/T
 keywords/T
+kg
 khan/T
 khans/T
 khasi/T
@@ -75979,6 +76007,7 @@ kleenexs/T
 klezmer/T
 klezmers/T
 klingonic/T
+km
 knesset/T
 knickerbockers/T
 knirps/T
@@ -76014,6 +76043,7 @@ kurukh/T
 kutenai/T
 kutsuri/T
 kwikproof/T
+l
 l'Autischem/T
 l'USA/T
 l'agreabel/T
@@ -76130,6 +76160,7 @@ lactulosa/T
 lactulosas/T
 lacuna/T
 lacunas/T
+lad.
 lad/T
 lada/TQ
 ladada/T
@@ -76703,6 +76734,7 @@ lasuenter/T
 lasur/T
 lasura/T
 lasuras/T
+lat.
 latent/T
 latenta/T
 latentamain/T
@@ -79244,6 +79276,8 @@ ländler/T
 ländlers/T
 lètg/T
 lètgs/T
+m
+m s.m.
 ma/T
 maar/T
 maars/T
@@ -83914,6 +83948,7 @@ mezzaninas/T
 mezzanins/T
 mezzotinta/T
 mezzotintas/T
+mg
 mia/T
 miaivel/T
 miaivels/T
@@ -85225,6 +85260,8 @@ mixts/T
 mixtura/T
 mixturas/T
 mixà/T
+ml
+mm
 mnemonica/T
 mnemonicas/T
 mnemotecnic/T
@@ -89238,6 +89275,7 @@ nozzaduras/T
 nozzadurs/T
 nozzas/T
 nozzettas/T
+nr.
 nua/TQ
 nuada/T
 nuadas/T
@@ -93589,8 +93627,10 @@ oziusitads/OT
 ozon/OT
 ozonolisa/OT
 ozonolisas/OT
+p.
 p.ex./T
 p.inc./T
+p.pl.
 pac/T
 paca/T
 pacas/T
@@ -102002,6 +102042,7 @@ porscher/T
 porschia/T
 porschian/T
 porschias/T
+port.
 port/T
 porta-chasa/T
 porta-clavà/T
@@ -105589,6 +105630,7 @@ proeuropeic/T
 proeuropeica/T
 proeuropeicas/T
 proeuropeics/T
+prof.
 profan/T
 profana/T
 profanada/T
@@ -108523,6 +108565,7 @@ pustulusa/T
 pustulusas/T
 pustà/T
 pusà/T
+put.
 putamen/T
 putamens/T
 putativ/T
@@ -108588,6 +108631,7 @@ pèrins/T
 pèrs/T
 pèz/T
 pèzs/T
+q.v.d.
 qua/T
 quac/T
 quachegel/T
@@ -109167,6 +109211,7 @@ quotond/T
 quotà/T
 quozient/T
 quozients/T
+qvd.
 rabagl/T
 rabaglia/TQ
 rabagliada/T
@@ -116337,6 +116382,7 @@ resortivan/T
 resortivas/T
 resorts/T
 resortì/T
+resp.
 respargn/T
 respargns/T
 respect/T
@@ -118964,6 +119010,8 @@ routers/T
 rovers/T
 rowdy/T
 rowdys/T
+rp.
+rps.
 ruaida/T
 ruaidas/T
 ruanaida/T
@@ -119775,6 +119823,7 @@ ruvers/T
 rösti/T
 röstigraben/T
 röstis/T
+s
 s'/T
 s'accordar/T
 s'accumadar/T
@@ -119820,6 +119869,7 @@ s'orientar/T
 s'unir/T
 s-chanfigner/T
 s./T
+s.Cr.
 s.l./T
 sa/TQ
 sabat/T
@@ -131379,6 +131429,7 @@ sixtina/T
 sixtinas/T
 sixtins/T
 sià/T
+siɡr.
 skateaton/T
 skateatons/T
 skateboard/T
@@ -133333,6 +133384,7 @@ spaghettis/T
 spagirica/T
 spagliadur/T
 spagliadurs/T
+spagn.
 spagnol/T
 spagnoletta/T
 spagnolettas/T
@@ -135788,6 +135840,7 @@ sromian/T
 sromias/T
 sromond/T
 sromà/T
+ss.
 sta/T
 stab/T
 stabel/T
@@ -142449,6 +142502,7 @@ surlocala/T
 surlocalas/T
 surlocals/T
 surlonder/T
+surm.
 surmagl/T
 surmaglia/TQ
 surmagliada/T
@@ -143134,6 +143188,7 @@ surrogat/T
 surrogats/T
 surrogaziun/T
 surrogaziuns/T
+surs.
 sursaturada/T
 sursaturadas/T
 sursaturads/T
@@ -144460,6 +144515,7 @@ sutrepublica/T
 sutrepublicas/T
 sutrubrica/T
 sutrubricas/T
+suts.
 sutschef/T
 sutsecretari/T
 sutsecretaris/T
@@ -145291,6 +145347,7 @@ switchs/T
 syncro/T
 synthesizer/T
 synthesizers/T
+t
 t'agitescha/OPT
 t'annunzia/T
 t'explitgescha/OPT
@@ -145299,6 +145356,7 @@ t'inspirescha/OPT
 t'interessescha/OPT
 t'occupescha/OPT
 t-shirt/T
+t.a.
 ta/T
 tabalori/T
 tabaloria/T
@@ -145580,6 +145638,7 @@ taja/T
 tajas/T
 takin/T
 takins/T
+tal.
 tal/T
 tala/T
 talac/T
@@ -153464,6 +153523,7 @@ tucans/T
 tucca/T
 tuccas/T
 tucs/T
+tud.
 tudestg/T
 tudestga/T
 tudestgada/T
@@ -155617,6 +155677,7 @@ uzua/OT
 uzuas/OT
 uzuer/OT
 uzuers/OT
+v.
 va/TQ
 vacant/T
 vacanta/T
@@ -155953,6 +156014,7 @@ valitond/T
 valità/T
 valium/T
 valiums/T
+vall.
 vallabi/T
 vallabis/T
 vallada/T
@@ -158476,6 +158538,7 @@ vocaziuns/T
 vodka/T
 vodkas/T
 voilà/T
+vol.
 volant/T
 volants/T
 volapuk/T
