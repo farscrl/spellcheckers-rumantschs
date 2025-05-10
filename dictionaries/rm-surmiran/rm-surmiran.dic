@@ -1,4 +1,4 @@
-147886
+147933
 A/T
 AVS/RT
 Aaron
@@ -13,6 +13,7 @@ Aebi
 Aebischer
 Aeschlimann
 Affolter
+Afganistan/T
 Africa/RT
 African/RT
 Africana/RT
@@ -303,6 +304,7 @@ Bulgara/RT
 Bulgaras/RT
 Bulgaria/RT
 Bulgars/RT
+Bulsang/T
 Bumang/RT
 Bundi
 Buneia/RT
@@ -338,6 +340,7 @@ Calanda/T
 Calantgil/T
 Caluori
 Camathias
+Cambodscha/T
 Camenisch
 Camichel
 Caminada
@@ -498,6 +501,7 @@ Dietrich
 Disentis
 Disney
 Dolf
+Dolomitas/T
 Domat/T
 Dominic
 Dominik
@@ -521,6 +525,7 @@ Durisch
 Duschletta
 Duvin
 Eberle
+Ecuador/T
 Edith
 Eduard
 Eggenberger
@@ -760,6 +765,7 @@ GiuRu
 Giuan/RT
 Giuanna
 Giuans/RT
+Giuf/T
 Giuli/RT
 Giulia/RT
 Giulias/RT
@@ -871,6 +877,7 @@ Hollandes/RT
 Hollandesa/RT
 Hollandesas/RT
 Honda
+Honduras/T
 Hostettler
 Huawei
 Huber
@@ -897,6 +904,7 @@ Indiana/RT
 Indianas/RT
 Indians/RT
 Indias/RT
+Indonesia/T
 Inds/RT
 Innerferrera
 Instagram
@@ -1029,6 +1037,7 @@ Lang
 Lanicca
 Lantsch/T
 Lanz
+Laos/T
 Lara
 Larissa
 Lars
@@ -1266,6 +1275,7 @@ Murezis/RT
 Murissen
 Murmarera
 Mustér/T
+Myanmar/T
 Myriam
 Mäder
 Müller
@@ -1294,6 +1304,7 @@ Neuschatelesa/RT
 Neuschatelesas/RT
 New York
 Nic
+Nicaragua/T
 Niclo/RT
 Niclos/RT
 Nico
@@ -1977,6 +1988,7 @@ Vienna/T
 Viennes/RT
 Viennesa/RT
 Viennesas/RT
+Vietnam/T
 Vignogn
 Vincens/RT
 Vincent
@@ -2365,6 +2377,7 @@ abroghez/PT
 abrogo/PT
 abrogond/PT
 abrogos/PT
+abrupt/T
 abscess/RT
 abscissa/RT
 abscissas/RT
@@ -2867,7 +2880,6 @@ accorrivigl/PT
 accorriz/PT
 accorsch/PT
 accorscha/PQT
-accorschagn/PT
 accorschainsa/PT
 accorschan/PT
 accorscharo/PT
@@ -2880,26 +2892,20 @@ accorscharossast/PT
 accorschas/PT
 accorschast/PT
 accorsche/PQT
-accorscheida/PT
-accorscheidas/PT
 accorscher/PT
 accorschess/PT
 accorschessa/PT
-accorschessan/PT
 accorschessans/PT
 accorschessas/PT
 accorschessast/PT
 accorschessigl/PT
 accorschev/PT
 accorscheva/PT
-accorschevan/PT
 accorschevans/PT
 accorschevas/PT
 accorschevast/PT
 accorschevigl/PT
 accorschez/PT
-accorschia/PT
-accorschias/PT
 accorschigl/PT
 accorschond/PT
 accredimaint/RT
@@ -3131,6 +3137,18 @@ accurats/T
 accurri/PQT
 accurria/PT
 accurrond/PT
+accurschagn/PT
+accurscheida/PT
+accurscheidas/PT
+accurschess/PT
+accurschessan/PT
+accurschessas/PT
+accurscheva/PT
+accurschevan/PT
+accurschevas/PT
+accurschez/PT
+accurschia/PT
+accurschias/PT
 accus/RT
 accusativ/RT
 accusativs/RT
@@ -5216,6 +5234,8 @@ alvats/RT
 alveola/RT
 alveolas/RT
 alvs/RT
+alzada/RT
+alzadas/RT
 am/PT
 ama/PQT
 amabel/T
@@ -19009,11 +19029,14 @@ bugessas/PT
 bugessast/PT
 bugessigl/PT
 bugez/PT
+bugle/PQT
 bugleida/PRT
 bugleidas/PRT
 bugleir/PT
-buglend/PT
-bugli/PQT
+bugless/PT
+buglessan/PT
+buglessas/PT
+buglez/PT
 buglia/PT
 bugliaca/RT
 bugliacas/RT
@@ -19021,30 +19044,33 @@ bugliadeira/RT
 bugliadeiras/RT
 bugliadoir/RT
 bugliadoirs/RT
+bugliagn/PT
 bugliaint/T
 bugliainta/T
 bugliaintas/T
 bugliaints/T
+bugliaro/PT
+bugliaron/PT
+bugliarossas/PT
 buglias/PT
 buglieder/RT
 buglieders/RT
 buglient/T
-buglign/PT
+buglier/T
 buglignsa/PT
 buglion/RT
+bugliond/PT
 buglions/RT
 bugliotta/RT
 bugliottas/RT
 bugliro/PT
 bugliroia/PT
-bugliron/PT
 buglironigl/PT
 buglironsa/PT
 buglirossas/PT
 buglirossast/PT
 bugliss/PT
 buglissa/PT
-buglissan/PT
 buglissans/PT
 buglissas/PT
 buglissast/PT
@@ -20334,7 +20360,8 @@ canapes/RT
 canarign/RT
 canarigns/RT
 canas/RT
-canasters/T
+canaster/RT
+canasters/RT
 canastra/RT
 canastras/RT
 canastrer/RT
@@ -27472,6 +27499,7 @@ conspiraronigl/PT
 conspiraronsa/PT
 conspirarossas/PT
 conspirarossast/PT
+conspirativ/T
 conspiratour/RT
 conspiratoura/RT
 conspiratouras/RT
@@ -33243,6 +33271,7 @@ cuntradictoricas/T
 cuntradictorics/T
 cuntradicziun/RT
 cuntradicziuns/RT
+cuntraproductiv/T
 cuntrapunct/RT
 cuntrapuncts/RT
 cuntrara/T
@@ -46403,6 +46432,7 @@ excepto/PT
 exceptond/PT
 exceptos/PT
 excepziun/RT
+excepziunal/T
 excepziunalmaintg/T
 excepziuns/RT
 excerpada/PT
@@ -47943,6 +47973,11 @@ extraronigl/PT
 extraronsa/PT
 extrarossas/PT
 extrarossast/PT
+extraterrester/T
+extraterresterramaintg/T
+extraterresters/T
+extraterrestra/T
+extraterrestras/T
 extratg/PT
 extratga/PT
 extratgas/PT
@@ -51305,9 +51340,7 @@ fodegias/PT
 fodegiast/PT
 fodegigl/PT
 fodesch/PT
-fodescha/PQT
-fodeschan/PT
-fodeschas/PT
+fodescha/PT
 fodeschast/PT
 fodeschigl/PT
 fodess/PT
@@ -62820,7 +62853,7 @@ interessents/RT
 interessenza/RT
 interessenzas/RT
 interessesch/PT
-interessescha/PQT
+interessescha/PT
 interesseschan/PT
 interesseschas/PT
 interesseschast/PT
@@ -66510,6 +66543,10 @@ loccamaintg/T
 loccas/RT
 locomotiva/RT
 locomotivas/RT
+locomotivist/RT
+locomotivista/RT
+locomotivistas/RT
+locomotivists/RT
 locs/T
 locuziun/RT
 locuziuns/RT
@@ -67386,6 +67423,8 @@ magnanga/RT
 magnangas/RT
 magnangs/RT
 magnas/PT
+magnascola/RT
+magnascolas/RT
 magnaspousa/RT
 magnaspousas/RT
 magnast/PT
@@ -74696,6 +74735,7 @@ neolategn/T
 neolategna/T
 neolategnas/T
 neolategns/T
+neologissem/T
 neon/RT
 neons/RT
 nepotissem/RT
@@ -75980,6 +76020,7 @@ nunimpurtanzas/RT
 nunindulgent/T
 nuninteressada/T
 nuninteressadas/T
+nuninteressant/T
 nuninteresso/T
 nuninteressos/T
 nuninterrot/T
@@ -78295,7 +78336,7 @@ ozonicas/T
 ozonics/T
 ozons/RT
 p./RT
-p.ex.
+p.ex./T
 p.pl.
 p/PT
 pac/RT
@@ -84817,7 +84858,7 @@ plevra/RT
 plevras/RT
 plievgia/RT
 plievgias/RT
-plievgous/T
+plievgious/T
 plimagl/RT
 plimagls/RT
 plimatsch/RT
@@ -89128,6 +89169,7 @@ protecziunisticas/T
 protecziunistics/T
 protecziuns/RT
 protege/PQT
+protegeas/PT
 protegeida/PRT
 protegeidas/PRT
 proteger/PT
@@ -91169,6 +91211,7 @@ quadriglia/RT
 quadriglias/RT
 quadrign/RT
 quadrigns/RT
+quadrilinguitad/T
 quadro/PT
 quadrond/PT
 quadros/PT
@@ -113693,6 +113736,7 @@ sfiglivans/PT
 sfiglivas/PT
 sfiglivast/PT
 sfiglivigl/PT
+sfigurar/T
 sfilada/PT
 sfiladas/PT
 sfilagn/PT
@@ -115148,14 +115192,13 @@ sgarso/PT
 sgarsond/PT
 sgarsos/PT
 sgart/PT
-sgarta/PQT
+sgarta/PT
 sgartada/PT
 sgartadas/PT
 sgartadoira/RT
 sgartadoiras/RT
 sgartagn/PT
 sgartainsa/PT
-sgartan/PT
 sgartar/PT
 sgartaro/PT
 sgartaroia/PT
@@ -115164,7 +115207,6 @@ sgartaronigl/PT
 sgartaronsa/PT
 sgartarossas/PT
 sgartarossast/PT
-sgartas/PT
 sgartast/PT
 sgartav/PT
 sgartava/PT
@@ -115642,8 +115684,11 @@ sgoztgast/PT
 sgoztgigl/PT
 sgrafit/RT
 sgrafits/RT
-sgrat/RT
+sgrat/PRT
 sgrats/RT
+sgratta/PQT
+sgrattan/PT
+sgrattas/PT
 sgrattatschiel/RT
 sgrattatschiels/RT
 sgrefel/RT
@@ -123137,6 +123182,7 @@ srantez/PT
 sranto/PT
 srantond/PT
 srantos/PT
+srattas/PT
 srieisch/PT
 srieischa/PQT
 srieischan/PT
@@ -138167,6 +138213,7 @@ transfurmond/PT
 transfurmos/PT
 transfusiun/RT
 transfusiuns/RT
+transgender/T
 transistour/RT
 transistours/RT
 transit/RT
