@@ -1,4 +1,4 @@
-159909
+159928
 'okina/T
 'okinas/T
 3D/T
@@ -91,6 +91,7 @@ Algerian/OT
 Algeriana/OT
 Algerianas/OT
 Algerians/OT
+Algier/OT
 Alibaba/O
 Alice/O
 Aliesch/O
@@ -487,6 +488,7 @@ Birmanas/T
 Birmans/T
 Birrer
 Biscaia/T
+Bischkek/T
 Bischof
 Bischoff
 Bislin
@@ -1033,6 +1035,7 @@ Daniela
 Danubi/T
 Danuder/T
 Dardanellas/T
+Daressalam/T
 Dario
 Darms
 Davatz
@@ -1838,6 +1841,7 @@ Jacobus/T
 Jacomet
 Jacqueline
 Jacques
+Jakarta/T
 Jakob
 Jan
 Jana
@@ -2315,6 +2319,7 @@ Masagn/T
 Masai/T
 Masais/T
 Mascarenas/T
+Mascat/T
 Mastrils/T
 Mathias
 Mathis
@@ -2800,6 +2805,7 @@ Pitasch/T
 Pitcairn/T
 Pitsch
 Pittet
+Pjöngjang/T
 Planeiras/T
 Planira/T
 Planta
@@ -2973,6 +2979,7 @@ Rezia/T
 Reziòlta/T
 Rhodos/T
 Rhäzüns
+Riad/T
 Ricardo
 Richard
 Rico
@@ -3744,6 +3751,7 @@ Triest/T
 Trimmis/T
 Trin/T
 Trinidad/T
+Tripolis/T
 Trojan/T
 Trojans/T
 Trun/T
@@ -4004,6 +4012,7 @@ Visigotas/T
 Visigots/T
 Vital
 Viva/T
+Vladivostok/T
 Vnuost/T
 Vnà
 Vogel
@@ -19323,10 +19332,8 @@ brinet/T
 brinets/T
 brins-uliva/T
 brins/T
-brio/T
 brioche/T
 brioches/T
-brios/T
 brisa/T
 brisant/T
 brisanta/T
@@ -57128,7 +57135,6 @@ fermà/T
 feroais/T
 feroaisa/T
 feroaisas/T
-feroce/T
 feromon/T
 feromons/T
 ferra/T
@@ -66629,6 +66635,7 @@ harissa/OT
 harissas/OT
 harpia/OT
 harpias/OT
+haryanvi/OT
 has/OPT
 hasch/OT
 haschemit/OT
@@ -75810,6 +75817,7 @@ kafkaesc/T
 kafkaesca/T
 kafkaescas/T
 kafkaescs/T
+kaingang/T
 kajal/T
 kaki/T
 kakis/T
@@ -75824,6 +75832,8 @@ kamasutras/T
 kamba/T
 kame/T
 kames/T
+kangri/T
+kannada/T
 kantele/T
 kanteles/T
 kanuri/T
@@ -75893,6 +75903,7 @@ kg
 khan/T
 khans/T
 khasi/T
+khmer/T
 khoisan/T
 khotonais/T
 khotta/T
@@ -75954,6 +75965,7 @@ kincaju/T
 kincajus/T
 kino/T
 kinos/T
+kinyarwanda/T
 kiosc/T
 kioscs/T
 kippa/T
@@ -77980,6 +77992,7 @@ lignin/T
 lignond/T
 ligns/T
 lignà/T
+ligurian/T
 liguster/T
 ligusters/T
 likada/T
@@ -85747,6 +85760,7 @@ mongias/T
 mongin/T
 mongins/T
 mongo/T
+mongol/T
 mongolic/T
 mongolica/T
 mongolicas/T
@@ -87474,6 +87488,7 @@ münster/T
 münstera/T
 münsteras/T
 münsters/T
+māori/T
 n'ko/T
 n./T
 na-Grischun/T
@@ -88647,6 +88662,7 @@ ninavas/T
 ninia/T
 ninian/T
 ninias/T
+ninja/T
 ninond/T
 ninà/T
 niob/T
@@ -97816,6 +97832,7 @@ performads/T
 performai/T
 performain/T
 performais/T
+performance/T
 performant/T
 performanta/T
 performantas/T
@@ -99217,6 +99234,7 @@ piculezza/T
 piculezzas/T
 pidera/T
 pideras/T
+pidgin/T
 pidra-mustgin/T
 pidra-scut/T
 pidra/T
@@ -156803,6 +156821,7 @@ venerologia/T
 venerologias/T
 venerond/T
 venerà/T
+venetic/T
 venezian/T
 veneziana/T
 venezianas/T
