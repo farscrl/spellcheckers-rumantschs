@@ -1,4 +1,4 @@
-147933
+147965
 A/T
 AVS/RT
 Aaron
@@ -1547,6 +1547,7 @@ Rumania/RT
 Rumantsch/RT
 Rumantscha/RT
 Rumantschas/RT
+Rumantscheia/T
 Rumantschs/RT
 Rumen/RT
 Rumena/RT
@@ -13563,6 +13564,8 @@ astas-bandiera/RT
 astas/RT
 asterisc/RT
 asteriscs/RT
+asteroid/RT
+asteroids/RT
 astra/RT
 astragl/RT
 astragls/RT
@@ -15935,6 +15938,8 @@ bargung/RT
 bargungs/RT
 bariton/RT
 baritons/RT
+barlac/T
+barlacca/T
 barlangia/RT
 barlangias/RT
 barletg/RT
@@ -21296,6 +21301,8 @@ cargea/PT
 cargeas/PT
 cargeda/PRT
 cargedas/PRT
+cargeder/RT
+cargeders/RT
 carger/PT
 cargess/PT
 cargessa/PT
@@ -44887,6 +44894,11 @@ emoziunals/T
 emoziuns/RT
 empatia/RT
 empatias/RT
+empatic/T
+empatica/T
+empaticamaintg/T
+empaticas/T
+empatics/T
 empiria/RT
 empirias/RT
 empiric/T
@@ -64532,6 +64544,8 @@ jac/RT
 jacht/RT
 jachts/RT
 jacs/RT
+jaguar/RT
+jaguars/RT
 jamnil/T
 jamnila/T
 jamnilas/T
@@ -71482,6 +71496,11 @@ migivigl/PT
 migler/RT
 miglers/RT
 miglia/RT
+migliabel/T
+migliabels/T
+migliabla/T
+migliablamaintg/T
+migliablas/T
 miglias/RT
 migliurada/PT
 migliuradas/PT
@@ -76317,6 +76336,11 @@ nunvenal/T
 nunvenala/T
 nunvenalas/T
 nunvenals/T
+nunverbal/T
+nunverbala/T
+nunverbalas/T
+nunverbalmaintg/T
+nunverbals/T
 nunverdad/RT
 nunverdads/RT
 nunverdevel/T
@@ -121249,6 +121273,7 @@ speziala/RT
 spezialas/RT
 spezialisada/T
 spezialisadas/T
+spezialisar/T
 spezialisaziun/RT
 spezialisaziuns/RT
 spezialiso/T
@@ -126093,6 +126118,8 @@ straverdas/T
 straverds/T
 strebel/T
 strebels/T
+streber/RT
+strebers/RT
 strebl/PT
 strebla/PQT
 streblan/PT
@@ -144397,6 +144424,7 @@ varda/PQT
 vardan/PT
 vardas/PT
 vardast/PT
+vardasteilas/RT
 vardigl/PT
 vareila/RT
 vareilas/RT
@@ -147272,6 +147300,8 @@ zarclessast/PT
 zarclessigl/PT
 zarclez/PT
 zarcligl/PT
+zarclign/RT
+zarcligns/RT
 zarclo/PT
 zarclond/PT
 zarclos/PT
@@ -147486,6 +147516,8 @@ zocca/RT
 zoccas/RT
 zocla/RT
 zoclas/RT
+zodiac/RT
+zodiacs/RT
 zoffel/RT
 zoffels/RT
 zoffen/RT
