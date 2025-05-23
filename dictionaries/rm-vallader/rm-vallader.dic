@@ -1,4 +1,4 @@
-184222
+184244
 --/TQRSS
 A/T
 Aaron/T
@@ -1779,7 +1779,7 @@ Markus
 Marlisa/T
 Marlisas/T
 Marlise
-Marmorera
+Marmorera/T
 Maroc/T
 Mars/T
 Marsiglia/T
@@ -1915,7 +1915,7 @@ Muoth
 Murezzan/T
 Murezzans/T
 Murissen/T
-Murmarera/T
+Murmarera
 Mustér/T
 Mut/T
 Myriam
@@ -2891,10 +2891,10 @@ Türchia/T
 Türchs/T
 Türin/T
 UNESCO
+Ucrain/T
 Ucraina/T
-Ucrainais/T
-Ucrainaisa/T
-Ucrainaisas/T
+Ucrainas/T
+Ucrains/T
 Ucranais/T
 Ucranaisa/T
 Ucranaisas/T
@@ -61910,6 +61910,10 @@ ghüz/T
 ghüzs/T
 ghüzza/T
 ghüzzas/T
+ghüzzischem/T
+ghüzzischems/T
+ghüzzischma/T
+ghüzzischmas/T
 giabana/T
 giabanas/T
 giabus/T
@@ -62337,10 +62341,6 @@ giasmins/T
 giassa/T
 giassas/T
 giast/T
-giastautur/T
-giastautura/T
-giastauturas/T
-giastauturs/T
 giasts/T
 giat/T
 giatrera/T
@@ -64658,6 +64658,10 @@ grittantessna/TS
 grittantond/TS
 grittantà/TS
 grittas/T
+grittischem/T
+grittischems/T
+grittischma/T
+grittischmas/T
 grob/T
 groba/T
 grobamaing/T
@@ -76089,6 +76093,8 @@ innaivarà'la/PTS
 innaivarà/PTS
 innaivast/PTS
 innaivat/PTS
+innaivaziun/T
+innaivaziuns/T
 innaiver/PTQRSS
 innaivess'la/PTS
 innaivess/PTS
@@ -81900,6 +81906,8 @@ involv'la/PTS
 involv/PTS
 involva'l/PTS
 involva/PTQRSS
+involvada/PTS
+involvadas/PTS
 involvai/PTQRSS
 involvain/PTS
 involvaina/PTS
@@ -81912,6 +81920,7 @@ involvaivast/PTS
 involvaivat/PTS
 involvaivna/PTS
 involvan/PTS
+involvar/PTQRSS
 involvarai/PTQRSS
 involvaraja/PTS
 involvaran/PTS
@@ -81923,7 +81932,7 @@ involvarà'la/PTS
 involvarà/PTS
 involvast/PTS
 involvat/PTS
-involver/PTQRSS
+involvats/PTS
 involvess'la/PTS
 involvess/PTS
 involvessa'l/PTS
@@ -81944,10 +81953,7 @@ invoulan/PTS
 invoulast/PTS
 invoulat/PTS
 invoulna/PTS
-invout/PTS
-invouta/PTS
-invoutas/PTS
-invouts/PTS
+invouta/T
 invulnerabel/T
 invulnerabels/T
 invulnerabla/T
@@ -94702,6 +94708,10 @@ narraturas/T
 narraturs/T
 narraziun/T
 narraziuns/T
+narrischem/T
+narrischems/T
+narrischma/T
+narrischmas/T
 narrun/T
 nars/T
 nas/T
@@ -100637,7 +100647,6 @@ parlamentarias/T
 parlamentaris/T
 parlata/T
 parlatas/T
-parlotina/T
 parmesan/T
 parmesans/T
 parmuoglia/T
@@ -131532,7 +131541,7 @@ sapiainta/T
 sapienza/T
 sapienzas/T
 sapperlot/T
-sapperlotina/T
+sapperlottina/T
 sapperment/T
 sappör/T
 sappöra/T
@@ -157007,8 +157016,6 @@ statutaridas/T
 statutarits/T
 statüt/T
 statüts/T
-stau/T
-staus/T
 stausch/T
 stauscha/T
 stauschas/T
@@ -161356,6 +161363,8 @@ suicidond/TS
 suicidà/TS
 suita/T
 suitas/T
+sujet/T
+sujets/T
 sul/T
 sula/T
 sulaglin/T
@@ -163578,9 +163587,11 @@ suressast/TS
 suressat/TS
 suressna/TS
 surestramaint/T
+surf'la/TS
+surf/TS
 surfa'l/TS
 surfa'la/TS
-surfa/TS
+surfa/TQRSS
 surfabricaziun/T
 surfabricaziuns/T
 surfabrich'la/TS
@@ -163629,6 +163640,9 @@ surfabrichessna/TS
 surfabrichna/TS
 surfabrichond/TS
 surfabrichà/TS
+surfada/TS
+surfadas/TS
+surfai/TQRSS
 surfain/TS
 surfaina/TS
 surfais/TS
@@ -163676,7 +163690,11 @@ surfetschan/TS
 surfetschast/TS
 surfetschat/TS
 surfing/T
-surfings/T
+surfist/T
+surfista/T
+surfistas/T
+surfists/T
+surfna/TS
 surfond/TS
 surfra/T
 surfras/T
@@ -177569,9 +177587,11 @@ ual/T
 uals/T
 uatsch/T
 uatschs/T
+ucrain/T
+ucraina/T
 ucrainais/T
-ucrainaisa/T
-ucrainaisas/T
+ucrainas/T
+ucrains/T
 ucranais/T
 ucranaisa/T
 ucranaisas/T
@@ -179880,8 +179900,10 @@ varà'la/TS
 varà/TS
 vas/T
 vasal/T
-vasala/T
-vasalas/T
+vasalla/T
+vasallagi/T
+vasallagis/T
+vasallas/T
 vasals/T
 vasca/T
 vascas/T
