@@ -1,4 +1,4 @@
-159934
+159957
 'okina/T
 'okinas/T
 3D/T
@@ -213,6 +213,7 @@ Appenzellaisa/OT
 Appenzellaisas/OT
 Appenzells/OT
 Apple/O
+Aqtobe/OT
 Aquileja/OT
 Aquitania/OT
 Arab/OT
@@ -2297,7 +2298,7 @@ Mario
 Mark
 Markus
 Marlise
-Marmorera
+Marmorera/T
 Maroc/T
 Marocan/T
 Marocana/T
@@ -3116,6 +3117,7 @@ Salvatore
 Salzgeber
 Sam/T
 Sama/T
+Samarcand/T
 Samaria/T
 Samas/T
 Sambia/T
@@ -10630,6 +10632,7 @@ applitgeschian/OPT
 applitgeschias/OPT
 applitgond/OPT
 applitgà/OPT
+appoggiatura/OT
 apport/OPT
 apporta/OPTQ
 apportada/OPT
@@ -15788,6 +15791,7 @@ barramundis/T
 barras/T
 barrascha/T
 barraschas/T
+barrel/T
 barricada/T
 barricadada/T
 barricadadas/T
@@ -16598,6 +16602,7 @@ beatifitgeschias/T
 beatifitgond/T
 beatifitgà/T
 beau/T
+beaufort/T
 beaus/T
 bebop/T
 bebops/T
@@ -16607,6 +16612,7 @@ becassa/T
 becassas/T
 becassina/T
 becassinas/T
+becquerel/T
 becs-papagagl/T
 becs/T
 bedscha/T
@@ -31678,6 +31684,7 @@ cotschnì/T
 coturn/T
 coturns/T
 coulis/T
+coulomb/T
 countdown/T
 countdowns/T
 coup/T
@@ -36866,6 +36873,7 @@ dalmatin/T
 dalmatins/T
 dalonder/T
 dals/T
+dalton/T
 daltonic/T
 dalunga/T
 dalunsch/T
@@ -46264,6 +46272,7 @@ drajavan/T
 drajavas/T
 drajond/T
 drajà/T
+dram/T
 drama/T
 dramas/T
 dramatic/T
@@ -46966,6 +46975,7 @@ dumping/T
 dumpings/T
 dun/T
 duna/T
+dunam/T
 dunas/T
 dunna-media/T
 dunna/T
@@ -47952,6 +47962,7 @@ electromecanists/OT
 electromobilitad/OT
 electromobilitads/OT
 electromontader/OT
+electron/OT
 electronegativitad/OT
 electronegativitads/OT
 electroneuromiografia/OT
@@ -47965,6 +47976,7 @@ electronista/OT
 electronistas/OT
 electronists/OT
 electrons/OT
+electronvolt/OT
 electrooptic/OT
 electrooptica/OT
 electroopticas/OT
@@ -65459,6 +65471,7 @@ gravura/T
 gravuras/T
 gravurs/T
 gravà/T
+gray/T
 grazia/T
 graziada/T
 graziadas/T
@@ -75679,6 +75692,7 @@ jiddic/T
 jiddica/T
 jiddicas/T
 jiddics/T
+jigger/T
 jingle/T
 jingles/T
 jiu-jitsu/T
@@ -75757,6 +75771,7 @@ jordanicas/T
 jordanics/T
 jota/T
 jotas/T
+joule/T
 joystick/T
 joysticks/T
 ju-jutsu/T
@@ -80003,6 +80018,7 @@ make-up/T
 make-upa/T
 makes-up/T
 makes-upa/T
+makhuwa/T
 making-of/T
 makings-of/T
 mal'administraziun/T
@@ -83035,6 +83051,7 @@ megafons/T
 megahit/T
 megahits/T
 megalit/T
+megaliter/T
 megalits/T
 megaloblast/T
 megaloblasts/T
@@ -89468,6 +89485,7 @@ numnias/T
 numnond/T
 numnà/T
 nums/T
+nun-mort/T
 nun/T
 nunabitada/T
 nunabitadas/T
@@ -130366,6 +130384,7 @@ sierv/T
 siervs/T
 siesta/T
 siestas/T
+sievert/T
 sifac/T
 sifacs/T
 sifilis/T
@@ -138875,6 +138894,8 @@ streams/T
 streamà/T
 streber/T
 strebers/T
+strebra/T
+strebras/T
 stregl/T
 streglia/TQ
 stregliada/T
@@ -140771,6 +140792,8 @@ suitas/T
 suja/T
 sujan/T
 sujas/T
+sujet/T
+sujets/T
 sukuma/T
 sul/T
 sula/T
