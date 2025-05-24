@@ -1,4 +1,4 @@
-184244
+184260
 --/TQRSS
 A/T
 Aaron/T
@@ -189,6 +189,9 @@ Antonin/T
 Antonins/T
 Antonio
 Appenzell/T
+Appenzellais/T
+Appenzellaisa/T
+Appenzellaisas/T
 Appenzells/T
 Apple
 Ara/T
@@ -10758,6 +10761,8 @@ apaticas/T
 apatics/T
 aperitiv/T
 aperitivs/T
+apero/T
+aperos/T
 apicultur/T
 apicultura/T
 apiculturas/T
@@ -28539,7 +28544,6 @@ cliainta/T
 cliaintas/T
 cliaints/T
 cliantella/T
-cliantellas/T
 clic/TS
 clicc'la/TS
 clicca'l/TS
@@ -53646,6 +53650,8 @@ explorarà'la/PTS
 explorarà/PTS
 explorats/PTS
 exploratur/T
+exploratura/T
+exploraturas/T
 exploraturs/T
 exploraziun/T
 exploraziuns/T
@@ -65156,18 +65162,13 @@ guardessna/TS
 guardgia/T
 guardgiabarrieras/T
 guardgiabogn/T
-guardgiabogns/T
 guardgiachamonna/T
-guardgiachamonnas/T
 guardgiachatscha/T
-guardgiachatschas/T
 guardgialingia/T
 guardgialingias/T
 guardgiapes-cha/T
-guardgiapes-chas/T
 guardgias/T
 guardgiasulvaschina/T
-guardgiasulvaschinas/T
 guardian/T
 guardiana/T
 guardianas/T
@@ -74787,11 +74788,13 @@ influrissan/PTS
 influrits/PTS
 influriva/PTS
 influrivan/PTS
+info/T
 informatica/T
 informaticra/T
 informaticras/T
 informatiker/T
 informatikers/T
+infos/T
 infra/T
 infracotschen/T
 infracotschens/T
@@ -74810,6 +74813,7 @@ infrüttaivla/T
 infrüttaivlas/T
 infrüttaivlezza/T
 infrüttaivlezzas/T
+infu/T
 infuorchada/PTS
 infuorchadas/PTS
 infuorchai/PTQRSS
@@ -74995,6 +74999,7 @@ infuriessat/PTS
 infuriessna/PTS
 infuriond/PTS
 infurià/PTS
+infus/T
 infusiun/T
 infusiuns/T
 ingasch'la/PTS
@@ -86660,7 +86665,7 @@ mainagestiun/T
 mainagö/T
 mainan/TS
 mainaquiz/T
-mainaquizs/T
+mainascoula/T
 mainast/TS
 mainat/TS
 mainatraxs/T
@@ -103486,6 +103491,8 @@ perforessan/TS
 perforessast/TS
 perforessat/TS
 perforessna/TS
+performance/T
+performances/T
 performanza/T
 performanzas/T
 perforond/TS
@@ -144509,6 +144516,8 @@ selecziuns/T
 selecziunà/TS
 selerin/T
 selerins/T
+selfie/T
+selfies/T
 sell'la/TS
 sella'l/TS
 sella/TQRSS
@@ -167244,6 +167253,8 @@ sörfarà/TS
 sörfast/TS
 sörfat/TS
 sörfats/TS
+sörfer/T
+sörfers/T
 sörfess'la/TS
 sörfess/TS
 sörfessa'l/TS
@@ -167252,8 +167263,14 @@ sörfessan/TS
 sörfessast/TS
 sörfessat/TS
 sörfessna/TS
+sörfist/T
+sörfista/T
+sörfistas/T
+sörfists/T
 sörfna/TS
 sörfond/TS
+sörfra/T
+sörfras/T
 sörfà/TS
 sörs/T
 sü'la/TS
@@ -179909,7 +179926,6 @@ vasca/T
 vascas/T
 vasch/T
 vaschella/T
-vaschellas/T
 vaschels/T
 vaschia/T
 vaschias/T
