@@ -1,4 +1,4 @@
-159960
+159979
 'okina/T
 'okinas/T
 3D/T
@@ -2509,6 +2509,8 @@ Napel/T
 Napoleun/T
 Napoli/T
 Narbona/T
+Nasirer/T
+Nasirers/T
 Nasrids/T
 Nathalie
 Nathan
@@ -2542,6 +2544,7 @@ Neuchâtelaisas/T
 Neuenschwander
 Neuschatel/T
 New York
+Newton/T
 Ngwane/T
 Nic
 Nicaragua/T
@@ -4052,7 +4055,7 @@ Waltensburg
 Walter
 Walther
 Wasescha
-Weber
+Weber/T
 Wehrli
 Weibel
 Weiss
@@ -12143,6 +12146,7 @@ asimmetrica/OT
 asimmetricamain/OT
 asimmetricas/OT
 asimmetrics/OT
+asimptotic/OT
 asincron/OT
 asincrona/OT
 asincronas/OT
@@ -16882,6 +16886,7 @@ beo/T
 beos/T
 bepop/T
 bepops/T
+bequader/T
 berb/T
 berbere/T
 berberes/T
@@ -17442,6 +17447,7 @@ bintgunias/T
 bintgunond/T
 bintguns/T
 bintgunà/T
+binturong/T
 biocenosa/T
 biocenosas/T
 biochemia/T
@@ -20875,6 +20881,7 @@ cancers/T
 cancerus/T
 cancerusa/T
 cancerusas/T
+candela/T
 candelaber/T
 candelabers/T
 candesch/T
@@ -66613,6 +66620,7 @@ handicaps/OT
 handicapà/OPT
 handout/OT
 handouts/OT
+handpan/OT
 hands/OT
 handy/OT
 handys/OT
@@ -73366,6 +73374,7 @@ internista/OT
 internistas/OT
 internists/OT
 internodal/OT
+internodium/OT
 internond/OPT
 interns/OT
 internà/OPT
@@ -75876,6 +75885,7 @@ kaschin/T
 kashmiri/T
 katakana/T
 katakanas/T
+katal/T
 kauri/T
 kawi/T
 kea/T
@@ -75973,6 +75983,7 @@ kilos/T
 kilotonna/T
 kilotonnas/T
 kilovolt/T
+kilowatt-ura/T
 kilowatt/T
 kimbanguissem/T
 kimbundu/T
@@ -79290,6 +79301,7 @@ lutgond/T
 lutgà/T
 lutian/T
 lutians/T
+lux/T
 luxaziun/T
 luxaziuns/T
 luxemburgais/T
@@ -79447,6 +79459,8 @@ madagasca/T
 madagascas/T
 madagascs/T
 madas/T
+madeleine/T
+madeleines/T
 mader/T
 maders/T
 madir/T
@@ -87182,6 +87196,7 @@ murtadellas/T
 murter/T
 murters/T
 musa/T
+musang/T
 musas/T
 musc/T
 muscardin/T
@@ -109450,6 +109465,7 @@ radiala/T
 radialas/T
 radialmain/T
 radials/T
+radian/T
 radiant/T
 radiar/T
 radiass/T
@@ -158995,7 +159011,10 @@ wasabi/T
 wasabis/T
 washo/T
 washos/T
+watt-secunda/T
+watt-ura/T
 watt/T
+wattmeter/T
 watts/T
 web-beacon/T
 web-beacons/T
