@@ -1,4 +1,4 @@
-159981
+159999
 'okina/T
 'okinas/T
 3D/T
@@ -54,6 +54,10 @@ Afroamericana/OT
 Afroamericanas/OT
 Afroamericans/OT
 Afrodita/OT
+Afrosvizra/OT
+Afrosvizras/OT
+Afrosvizzer/OT
+Afrosvizzers/OT
 Agamemnon/OT
 Agnes/O
 Ah/OT
@@ -1648,6 +1652,7 @@ Hartmann/O
 Hasler/O
 Hassler/O
 Hauser/O
+Havanna/OT
 Hawai/OT
 Hawaian/OT
 Hawaiana/OT
@@ -7309,6 +7314,8 @@ alabaster/OT
 alabasters/OT
 alalia/OT
 alalias/OT
+alambic/OT
+alambics/OT
 alarm/OT
 alarmada/OPT
 alarmadas/OPT
@@ -7576,6 +7583,7 @@ algoritmus/OT
 alias/OT
 alibi/OT
 alibis/OT
+alien/OT
 alienabel/OT
 alienabels/OT
 alienabla/OT
@@ -7607,6 +7615,7 @@ alieneschia/OPT
 alieneschian/OPT
 alieneschias/OPT
 alienond/OPT
+aliens/OT
 alienà/OPT
 alifatic/OT
 alifatica/OT
@@ -12584,6 +12593,7 @@ astenosferas/OT
 aster/OT
 asterisc/OT
 asteriscs/OT
+asterism/OT
 asterissem/OT
 asterissems/OT
 asteroid/OT
@@ -98884,6 +98894,7 @@ pes-sgrasader/T
 pes-tschierv/T
 pes-tschierva/T
 pes-tschitsch/T
+pes/T
 pesant/T
 pesanta/T
 pesantas/T
@@ -105135,6 +105146,7 @@ primo/T
 primogenitura/T
 primogenituras/T
 primpremià/T
+prims/T
 primsacerdot/T
 primsacerdota/T
 primsacerdotas/T
@@ -106693,6 +106705,7 @@ prospectura/T
 prospecturas/T
 prospecturs/T
 prospectà/T
+prospecziun/T
 prosperada/T
 prosperadas/T
 prosperads/T
@@ -132596,6 +132609,8 @@ snarrentond/T
 snarrentà/T
 snavur/T
 snavurs/T
+sneaker/T
+sneakers/T
 sneg/T
 snega/TQ
 snegada/T
@@ -136881,8 +136896,8 @@ steppa/T
 steppas/T
 steps/T
 ster/T
-steradiant/T
-steradiants/T
+steradian/T
+steradians/T
 steran/T
 stereo/T
 stereocumparatur/T
@@ -143657,6 +143672,7 @@ surtreneschian/T
 surtreneschias/T
 surtrenond/T
 surtrenà/T
+surtritg/T
 surtschent/T
 surtschenta/TQ
 surtschentada/T
@@ -149952,6 +149968,8 @@ tracheotomiseschias/T
 tracheotomisond/T
 tracheotomisà/T
 track/T
+trackball/T
+trackballs/T
 tracks/T
 tract/T
 tracta/TQ
