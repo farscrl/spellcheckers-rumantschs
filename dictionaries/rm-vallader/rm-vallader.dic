@@ -1,4 +1,4 @@
-184986
+184999
 --/TQRSS
 A/T
 Aaron/T
@@ -8218,6 +8218,8 @@ alienà/PTS
 alimaints/T
 alimentada/PTS
 alimentadas/PTS
+alimentader/T
+alimentaders/T
 alimentai/PTQRSS
 alimentain/PTS
 alimentaina/PTS
@@ -12737,8 +12739,6 @@ arteriosclerosas/T
 artezza/T
 artezzas/T
 artichel/T
-artichela/T
-artichelas/T
 artichels/T
 articulada/PTS
 articuladas/PTS
@@ -80731,6 +80731,7 @@ intransitivas/T
 intransitivs/T
 intransparent/T
 intransparenta/T
+intransparentamaing/T
 intransparentas/T
 intransparents/T
 intransparenza/T
@@ -84327,6 +84328,7 @@ lav/TS
 lava'l/TS
 lava/TQRSS
 lavabel/T
+lavabelmaing/T
 lavabels/T
 lavabla/T
 lavablas/T
@@ -90998,6 +91000,7 @@ messa/T
 messagi/T
 messagis/T
 messas/T
+messias/T
 mestiz/T
 mestizza/T
 met/TS
@@ -147557,6 +147560,7 @@ sfrischlà/TS
 sfrol/T
 sfrols/T
 sfruntada/T
+sfruntadamaing/T
 sfruntadas/T
 sfruntadezza/T
 sfruntadezzas/T
@@ -154153,6 +154157,9 @@ spisgiantessast/TS
 spisgiantessat/TS
 spisgiantessna/TS
 spisgiantond/TS
+spisgiantus/T
+spisgiantusa/T
+spisgiantusamaing/T
 spisgiantusas/T
 spisgiantà/TS
 spital/T
@@ -161547,6 +161554,10 @@ substanziala/T
 substanzialas/T
 substanzialmaing/T
 substanzials/T
+substanzius/T
+substanziusa/T
+substanziusamaing/T
+substanziusas/T
 substitui/TQRSS
 substituida/TS
 substituidas/TS
@@ -166405,7 +166416,6 @@ sustantarà/TS
 sustantess/TS
 sustantessan/TS
 sustantond/TS
-sustantusas/T
 sustantà/TS
 sustegn'la/TS
 sustegn/TS
@@ -171380,6 +171390,8 @@ tifus/T
 tigal/T
 tigals/T
 tigher/T
+tigherin/T
+tigherins/T
 tighers/T
 tigl/T
 tigls/T
@@ -179382,6 +179394,7 @@ urologas/T
 urologia/T
 urologs/T
 urond/PTS
+urs/T
 urta/T
 urtada/PTS
 urtadas/PTS
