@@ -1,4 +1,4 @@
-185348
+185382
 --/TQRSS
 A/T
 Aaron/T
@@ -1110,6 +1110,8 @@ Frei
 Frena/T
 Frenas/T
 Frey
+Friaul/T
+Friauls/T
 Friberg
 Friburg/T
 Friburgaisas/T
@@ -1121,7 +1123,6 @@ Friedli
 Frischknecht
 Frislanda/T
 Fritz
-Friul/T
 Frédéric
 Ftan/T
 Fuchs
@@ -1131,6 +1132,10 @@ Fumias/T
 Fundaziun Medias Rumantschas
 Fuond/T
 Furca/T
+Furlan/T
+Furlana/T
+Furlanas/T
+Furlans/T
 Furna/T
 Furrer
 Fässler
@@ -1594,8 +1599,10 @@ La Quotidiana
 Laax/T
 Laban/T
 Labans/T
+Ladin/T
 Ladina/T
 Ladinas/T
+Ladins/T
 Ladir/T
 Lai/T
 Lais/T
@@ -2375,6 +2382,7 @@ S-chanfringher/T
 S-chanfringhers/T
 S-chanfringra/T
 S-chanfringras/T
+S-charl/T
 SA
 SRF
 SRG
@@ -2594,6 +2602,7 @@ Slovenia/T
 Slovens/T
 Sofia/T
 Sofias/T
+Solas/T
 Soloturn/T
 Solèr
 Sommer
@@ -4871,6 +4880,8 @@ accreditarà'l/PTS
 accreditarà'la/PTS
 accreditarà/PTS
 accreditats/PTS
+accreditaziun/T
+accreditaziuns/T
 accreditesch'la/PTS
 accreditesch/PTS
 accreditescha'l/PTS
@@ -9135,6 +9146,7 @@ amaivast/PTS
 amaivat/PTS
 amaivna/PTS
 amalada/T
+amaladamaing/T
 amaladas/T
 amalats/T
 amalgam/T
@@ -14349,6 +14361,8 @@ autograf/T
 autografs/T
 autogram/T
 autograms/T
+autoimmun/T
+autoimmunità/T
 autoimpollinaziun/T
 autoinflammaziun/T
 autoinflammaziuns/T
@@ -24268,6 +24282,8 @@ celestiala/T
 celestialas/T
 celestials/T
 celests/T
+celiac/T
+celiaca/T
 celiakia/T
 celibat/T
 celibatari/T
@@ -48185,6 +48201,7 @@ dolmetschras/T
 dolomia/T
 dolomias/T
 dolomit/T
+dolomitan/T
 dolur/T
 dolurs/T
 dolurus/T
@@ -64832,6 +64849,8 @@ grearà/TS
 greats/TS
 grec/T
 greca/T
+grecas/T
+grecs/T
 greesch'la/TS
 greesch/TS
 greescha'l/TS
@@ -79628,6 +79647,10 @@ interferiva/PTS
 interferivan/PTS
 interfon/T
 interfons/T
+interidiomatic/T
+interidiomatica/T
+interidiomaticas/T
+interidiomatics/T
 interim/T
 interimistic/T
 interimistica/T
@@ -80220,6 +80243,10 @@ interroghessna/PTS
 interrogond/PTS
 interrogà/PTS
 interrond/PTS
+interrumantsch/T
+interrumantscha/T
+interrumantschas/T
+interrumantschs/T
 interrump'la/PTS
 interrump/PTS
 interrumpa'l/PTS
@@ -83391,7 +83418,6 @@ know-how/T
 kössler/T
 kösslers/T
 l'/T
-l'amalada/T
 l'animatura/T
 l'importanta/T
 l'inimia/T
@@ -83539,6 +83565,8 @@ ladinessan/TS
 ladinessast/TS
 ladinessat/TS
 ladinessna/TS
+ladinissem/T
+ladinissems/T
 ladinna/TS
 ladinond/TS
 ladins/T
@@ -87772,7 +87800,12 @@ malsgürezza/T
 malsgürezzas/T
 malsgürs/T
 malspiert/T
+malspiertada/T
+malspiertadamaing/T
+malspiertadas/T
+malspiertats/T
 malspierts/T
+malspiertà/T
 malspüdaivel/T
 malstamprada/T
 malstampradas/T
@@ -170201,6 +170234,7 @@ tegnapurtrets/T
 tegnas/T
 tegnast/TS
 tegnasüaintamans/T
+tegnasüamans/T
 tegnat/TS
 tegner/PTQRSS
 tegnitsch/T
