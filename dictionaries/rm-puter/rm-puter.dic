@@ -1,4 +1,4 @@
-200697
+200765
 A/T
 Aaron/T
 Aarons/T
@@ -247,6 +247,11 @@ Beck
 Beeli
 Beer
 Beiva/T
+Belarus/T
+Belaruss/T
+Belarussa/T
+Belarussas/T
+Belarussia/T
 Belg/T
 Belgia/T
 Belgias/T
@@ -524,11 +529,21 @@ Coop
 Coray
 Corea/T
 Coreas/T
+Coreaun/T
+Coreauna/T
+Coreaunas/T
+Coreauns/T
 Corinne
 Corint/T
 Cornelia
 Corsin/T
 Corsins/T
+Cosovar/T
+Cosovara/T
+Cosovaras/T
+Cosovars/T
+Cosovo/T
+Cosovos/T
 Costa
 Cotti
 Crameri
@@ -561,6 +576,8 @@ DNA/T
 DNAs/T
 DRG
 Da Silva
+Dalmazia/T
+Dalmazias/T
 Damal/T
 Danais/T
 Danaisa/T
@@ -967,6 +984,9 @@ Grossenbacher
 Gruber
 Gruober
 Grönlanda/T
+Grönlandais/T
+Grönlandaisa/T
+Grönlandaisas/T
 Grünenfelder
 Guadench/T
 Guadenchs/T
@@ -1460,7 +1480,12 @@ Mirjam
 Mitsubishi
 Moamed/T
 Mohamed
+Moldav/T
+Moldava/T
+Moldavas/T
 Moldavia/T
+Moldavias/T
+Moldavs/T
 Mon
 Monaco/T
 Mongolia/T
@@ -1470,6 +1495,12 @@ Monika
 Monique
 Monn
 Monney
+Montenegrin/T
+Montenegrina/T
+Montenegrinas/T
+Montenegrins/T
+Montenegro/T
+Montenegros/T
 Morissen
 Moser
 Moses/T
@@ -2203,6 +2234,7 @@ Tschecoslovakia/T
 Tschecoslovakias/T
 Tschecs/T
 Tschekia/T
+Tschekias/T
 Tschenett
 Tschierv/T
 Tschilover/T
@@ -19268,6 +19300,9 @@ beischlan/T
 beischlane/T
 bel/T
 bela/T
+belaruss/T
+belarussa/T
+belarussas/T
 belas/T
 belbel/T
 belg/T
@@ -21030,6 +21065,10 @@ bos-cher/T
 bos-chera/T
 bos-chus/T
 bos-chusa/T
+bosniac/T
+bosniaca/T
+bosniacas/T
+bosniacs/T
 bostitsch/T
 bostitschs/T
 bot/T
@@ -28179,6 +28218,8 @@ chiischs/T
 chil/T
 chila/T
 chilas/T
+chili/T
+chilis/T
 chill'la/T
 chilla'l/T
 chilla/TQR
@@ -36013,6 +36054,10 @@ cordielmaing/T
 cordiels/T
 cordöli/T
 cordölis/T
+coreaun/T
+coreauna/T
+coreaunas/T
+coreauns/T
 coreografia/T
 coreografias/T
 coriander/T
@@ -36343,6 +36388,10 @@ cosmopolita/T
 cosmopolitas/T
 cosmopolits/T
 cosmos/T
+cosovar/T
+cosovara/T
+cosovaras/T
+cosovars/T
 coss/T
 cossa/T
 cossas/T
@@ -69013,6 +69062,7 @@ ginecologia/T
 ginecologias/T
 ginecologic/T
 ginecologica/T
+ginecologicamaing/T
 ginecologicas/T
 ginecologics/T
 ginecologs/T
@@ -71659,6 +71709,9 @@ grusaidas/T
 gruschun/T
 grô/T
 grôs/T
+grönlandais/T
+grönlandaisa/T
+grönlandaisas/T
 gröss/T
 grü/T
 grüs/T
@@ -100837,6 +100890,10 @@ mofas/T
 mol/T
 molassa/T
 molassas/T
+moldav/T
+moldava/T
+moldavas/T
+moldavs/T
 moleculer/T
 moleculera/T
 moleculeras/T
@@ -101024,6 +101081,10 @@ montascha/T
 montaschas/T
 monteda/T
 montedas/T
+montenegrin/T
+montenegrina/T
+montenegrinas/T
+montenegrins/T
 monter/TQR
 montesch'la/T
 montesch/T
@@ -112540,9 +112601,11 @@ penultimas/T
 penultims/T
 peonia/T
 peonias/T
+peperoncino/T
+peperoncinos/T
+peperoni/T
+peperonis/T
 peperun/T
-peperunchin/T
-peperunchins/T
 peperuns/T
 per'la/T
 per/T
@@ -152581,6 +152644,8 @@ schonglöra/T
 schont/T
 schoppa/T
 schoppas/T
+schottisch/T
+schottischs/T
 schovinissem/T
 schovinissems/T
 schraffains/T
@@ -153675,6 +153740,7 @@ scorzè/TQR
 scossa/T
 scossas/T
 scot/T
+scots/T
 scotta/T
 scottas/T
 scoud'la/T
@@ -191958,6 +192024,8 @@ tschüvlunzs/T
 tschüvlè/TQR
 tschüvlöz/T
 tschüvlözs/T
+tsunami/T
+tsunamis/T
 tuaglia/T
 tuaglias/T
 tualetta/T
