@@ -1,4 +1,4 @@
-201156
+201183
 A/T
 Aaron/T
 Aarons/T
@@ -15340,6 +15340,7 @@ aula/T
 aulas/T
 aunch'adüna/T
 aunch'alura/T
+aunch'üna/T
 auncha/T
 aungel/T
 aungelin/T
@@ -19906,6 +19907,7 @@ birikin/T
 birikina/T
 birikinas/T
 birikins/T
+bis/T
 bisabiedgia/T
 bisabiedgias/T
 bisabiedi/T
@@ -21644,6 +21646,8 @@ bravaregiane/T
 bravaregians/T
 bravaregias/T
 bravaregiast/T
+bravaria/T
+bravarias/T
 bravaro'l/T
 bravaro'la/T
 bravaro/T
@@ -21693,6 +21697,8 @@ bravun/T
 bravuna/T
 bravunas/T
 bravuns/T
+bravura/T
+bravuras/T
 bravè/TQR
 bravüra/T
 bravüras/T
@@ -70547,6 +70553,7 @@ gnögnessi/T
 gnögni/T
 gnögno/T
 gnögnos/T
+gnögns/T
 gnögnè/TQR
 gnögnöz/T
 gnögnözs/T
@@ -71244,6 +71251,8 @@ grazchusamaing/T
 grazchusas/T
 grazius/T
 graziusa/T
+graziusamaing/T
+graziusas/T
 grec/T
 greca/T
 grecas/T
@@ -99384,6 +99393,13 @@ metodica/T
 metodicamaing/T
 metodicas/T
 metodics/T
+metonimia/T
+metonimias/T
+metonimic/T
+metonimica/T
+metonimicamaing/T
+metonimicas/T
+metonimics/T
 metra/T
 metras/T
 metressa/T
@@ -110408,12 +110424,11 @@ partecipaziun/T
 partecipaziuns/T
 partecipeda/T
 partecipedas/T
-parteciper/PTQR
+parteciper/TQR
 partecipesch'la/T
 partecipesch/T
 partecipescha'l/T
-partecipescha't/TQR
-partecipescha/T
+partecipescha/TQR
 partecipeschan/T
 partecipeschane/T
 partecipeschans/T
@@ -110431,7 +110446,6 @@ partecipessast/T
 partecipessi/T
 partecipo/T
 partecipos/T
-partecipè's/TQR
 partecipè/TQR
 partenari/T
 partenaria/T
@@ -157766,6 +157780,8 @@ segn'la/T
 segn/T
 segna'l/T
 segna/TQR
+segnacudesch/T
+segnacudeschs/T
 segnains/T
 segnainsa/T
 segnais/T
@@ -164219,6 +164235,13 @@ sinodelas/T
 sinodelmaing/T
 sinodels/T
 sinonim/T
+sinonima/T
+sinonimas/T
+sinonimic/T
+sinonimica/T
+sinonimicamaing/T
+sinonimicas/T
+sinonimics/T
 sinonims/T
 sinos/T
 sintactic/T
@@ -182359,6 +182382,10 @@ sömg'la/T
 sömg/T
 sömgeda/T
 sömgedas/T
+sömgeder/T
+sömgeders/T
+sömgedra/T
+sömgedras/T
 sömger/TQR
 sömgess'la/T
 sömgess/T
