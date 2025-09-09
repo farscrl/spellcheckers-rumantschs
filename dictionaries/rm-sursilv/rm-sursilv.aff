@@ -1,0 +1,21 @@
+SET UTF-8
+TRY aioertnsclmdpgubzfvhàq'ACMSkBGPLxEyRTVòIODNwFéùèìjUZKHWJYQXÙÀÒÈÌÉ
+
+MAP 5
+MAP aàAÀ
+MAP eéèEÉÈ
+MAP iìIÌ
+MAP oòOÒ
+MAP uùUÙ
+
+REP 4
+REP ó ò
+REP á à
+REP ú ù
+REP í ì
+
+ICONV 1
+ICONV ’ '
+
+OCONV 1
+OCONV ' ’
