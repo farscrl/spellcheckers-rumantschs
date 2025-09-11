@@ -1,4 +1,4 @@
-201492
+201500
 A/T
 Aaron/T
 Aarons/T
@@ -2099,7 +2099,7 @@ Suogl/T
 Suotsilvania/T
 Suotsilvauna/T
 Suprem/T
-Surava
+Surava/T
 Surcasti/T
 Surcuolm
 Surlej/T
@@ -7521,11 +7521,9 @@ aisel/T
 aisels/T
 aisla/T
 aislas/T
-aiva/PT
 aivan/PT
 aiver/T
 aivers/T
-aivi/PT
 aivla/T
 aivlas/T
 aivra/T
@@ -23094,6 +23092,8 @@ buttatschidas/T
 buttatschieu/T
 buttatschieus/T
 buttatschs/T
+buttatschun/T
+buttatschuns/T
 buttun'la/T
 buttun/T
 buttuna'l/T
@@ -47683,6 +47683,8 @@ deschevla/T
 deschevlas/T
 deschina/T
 deschinas/T
+deschma/T
+deschmas/T
 deschmilli/T
 deschnouv/T
 deschset/T
@@ -94988,7 +94990,9 @@ madrastra/T
 madrastras/T
 madrütscha/T
 madrütschas/T
+madür'la/T
 madür/T
+madüra'l/T
 madüra/TQR
 madürains/T
 madürainsa/T
@@ -95001,9 +95005,11 @@ madüraivane/T
 madüraivans/T
 madüraivas/T
 madüraivast/T
+madüraivi/T
 madüramaing/T
 madüran/T
 madürand/T
+madürane/T
 madürans/T
 madürareg'la/T
 madüraregi/T
@@ -95030,11 +95036,6 @@ madüraunzas/T
 madüreda/T
 madüredas/T
 madürer/TQR
-madüresch'la/T
-madürescha'l/T
-madürescha/T
-madüreschan/T
-madüreschane/T
 madüress'la/T
 madüress/T
 madüressa'l/T
@@ -105156,6 +105157,7 @@ nouvelettas/T
 nouvevel/T
 nouvevels/T
 nouvevla/T
+nouvevlas/T
 nouvischem/T
 nouvischems/T
 nouvischma/T
@@ -106225,6 +106227,7 @@ ochers/T
 ochevel/T
 ochevels/T
 ochevla/T
+ochevlas/T
 ochmilli/T
 ochtschient/T
 ocra/T
@@ -159128,6 +159131,7 @@ setters/T
 settevel/T
 settevels/T
 settevla/T
+settevlas/T
 settschient/T
 sever/T
 severa/T
@@ -175606,6 +175610,10 @@ subordinos/T
 subordinè/TQR
 subscripziun/T
 subscripziuns/T
+subseguaint/T
+subseguainta/T
+subseguaintas/T
+subseguaints/T
 subsidi/T
 subsidiains/T
 subsidiainsa/T
