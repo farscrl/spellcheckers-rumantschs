@@ -1,4 +1,4 @@
-186414
+186417
 --/TQRSS
 1000avel/T
 1000avels/T
@@ -2652,6 +2652,8 @@ Scots/T
 Scotta/T
 Scottas/T
 Scozia/T
+Scrl/T
+Scrls/T
 Scuol/T
 Sebastian
 Sedrun/T
@@ -17826,8 +17828,6 @@ battna/TS
 battond/TS
 battosta/T
 battostas/T
-battun/T
-battuns/T
 battunzs/T
 battuori/T
 battuoria/T
@@ -18460,6 +18460,8 @@ bertrams/T
 bes-cha/T
 bes-cham/T
 bes-chas/T
+bes-china/T
+bes-chinas/T
 bes-chom/T
 bes-choms/T
 besch/T
@@ -22325,8 +22327,6 @@ bös-chins/T
 bös-chs/T
 böt/T
 böts/T
-böttel/T
-böttels/T
 büchüler/T
 büchülers/T
 büdschet/T
@@ -76491,6 +76491,7 @@ ingrischivan/PTS
 ingrischivast/PTS
 ingrischivat/PTS
 ingrischivna/PTS
+ingronda/T
 ingrondi/PTQRSS
 ingrondida/PTS
 ingrondidas/PTS
@@ -87620,6 +87621,8 @@ maisdna/TS
 maisetta/T
 maisettas/T
 maisin/T
+maisina/T
+maisinas/T
 maisins/T
 maister/T
 maisters/T
