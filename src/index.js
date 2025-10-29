@@ -7,7 +7,7 @@ const loadIniFile = require('read-ini-file')
 const handlebars = require('handlebars');
 const zipDir = require('zip-dir');
 
-const validIdioms = ['puter', 'rumgr', 'surmiran', 'sutsilv', 'vallader'];
+const validIdioms = ['puter', 'rumgr', 'surmiran', 'sursilv', 'sutsilv', 'vallader'];
 
 async function pack() {
     const idiom = process.argv[3];

@@ -36,6 +36,9 @@ jobs:
       - name: Run pack-surmiran
         run: npm run pack-surmiran
 
+      - name: Run pack-sursilv
+        run: npm run pack-sursilv
+
       - name: Run pack-sutsilv
         run: npm run pack-sutsilv
 
@@ -81,6 +84,13 @@ jobs:
         with:
           name: addins-surmiran_${{ env.CURRENT_DATE }}
           path: build/rm-surmiran
+
+      - name: Upload addins for Sursilvan
+        if: ${{ github.event.inputs.upload_additional_artifacts == 'true' }}
+        uses: actions/upload-artifact@v4.4.1
+        with:
+          name: addins-sursilv_${{ env.CURRENT_DATE }}
+          path: build/rm-sursilv
 
       - name: Upload addins for Sutsilvan
         if: ${{ github.event.inputs.upload_additional_artifacts == 'true' }}
