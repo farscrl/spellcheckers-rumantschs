@@ -1,4 +1,4 @@
-190556
+190627
 #Sumvitg/T
 'emplenescha/PT
 'empleneschi/PT
@@ -133727,6 +133727,7 @@ sbuccassien/PT
 sbuccassies/PT
 sbuccau/PT
 sbuccaun/T
+sbuccauns/T
 sbuccaus/PT
 sbuccava/PT
 sbuccavan/PT
@@ -133781,10 +133782,12 @@ sbuffein/PT
 sbuffeis/PT
 sbuffel/PT
 sbuffet/T
+sbuffets/T
 sbuffi/PT
 sbuffien/PT
 sbuffies/PT
 sbuffond/PT
+sbufs/T
 sbugl/T
 sbuglend/PT
 sbugless/PT
@@ -133803,12 +133806,14 @@ sbuglevies/PT
 sbugli/PT
 sbuglia/PT
 sbugliadetsch/T
+sbugliadetschs/T
 sbuglian/PT
 sbuglias/PT
 sbuglida/PT
 sbuglidas/PT
 sbugliel/PT
 sbugliem/T
+sbugliems/T
 sbuglien/PT
 sbuglienta/PT
 sbuglientada/PT
@@ -133848,6 +133853,7 @@ sbuglir/PT
 sbuglis/PT
 sbugliu/PT
 sbuglius/PT
+sbugls/T
 sbuglîen/PT
 sbuglîes/PT
 sbuhanada/PT
@@ -133875,6 +133881,7 @@ sbuhaneies/PT
 sbuhanein/PT
 sbuhaneis/PT
 sbuhanem/T
+sbuhanems/T
 sbuhanond/PT
 sbullada/PT
 sbulladas/PT
@@ -133899,6 +133906,7 @@ sbullei/PT
 sbulleien/PT
 sbulleies/PT
 sbullein/PT
+sbulleins/T
 sbulleis/PT
 sbullond/PT
 sbuntanada/PT
@@ -133954,6 +133962,9 @@ sburbatassien/PT
 sburbatassies/PT
 sburbatau/PT
 sburbatauner/T
+sburbatauners/T
+sburbataunra/T
+sburbataunras/T
 sburbataus/PT
 sburbatava/PT
 sburbatavan/PT
@@ -133968,6 +133979,7 @@ sburbateies/PT
 sburbatein/PT
 sburbateis/PT
 sburbatem/T
+sburbatems/T
 sburbatond/PT
 sburbigliada/PT
 sburbigliadas/PT
@@ -134025,6 +134037,7 @@ sburdaneies/PT
 sburdanein/PT
 sburdaneis/PT
 sburdanem/T
+sburdanems/T
 sburdanond/PT
 sburdar/PT
 sburdas/PT
@@ -134057,6 +134070,7 @@ sburfla/PT
 sburflada/PT
 sburfladas/PT
 sburflader/T
+sburfladers/T
 sburflai/PT
 sburflan/PT
 sburflar/PT
@@ -134148,6 +134162,7 @@ sburleies/PT
 sburlein/PT
 sburleis/PT
 sburlet/T
+sburlets/T
 sburlond/PT
 sburrada/T
 sburretscha/PT
@@ -134186,6 +134201,7 @@ sbursada/PT
 sbursadas/PT
 sbursai/PT
 sbursament/T
+sbursaments/T
 sbursar/PT
 sbursass/PT
 sbursassen/PT
@@ -134371,6 +134387,7 @@ scadeneies/PT
 scadenein/PT
 scadeneis/PT
 scadenem/T
+scadenems/T
 scadenond/PT
 scadenza/T
 scader/PT
@@ -134399,6 +134416,9 @@ scadis/PT
 scadiu/PT
 scadius/PT
 scadler/T
+scadlera/T
+scadleras/T
+scadlers/T
 scadluna/T
 scadlutta/T
 scadîen/PT
@@ -134440,6 +134460,9 @@ scaffergnond/PT
 scafferlada/PT
 scafferladas/PT
 scafferlader/T
+scafferladers/T
+scafferladra/T
+scafferladras/T
 scafferlai/PT
 scafferlar/PT
 scafferlass/PT
@@ -134463,6 +134486,7 @@ scafferleies/PT
 scafferlein/PT
 scafferleis/PT
 scafferlem/T
+scafferlems/T
 scafferlescha/PT
 scafferleschan/PT
 scafferleschas/PT
@@ -134474,7 +134498,13 @@ scafferlier/T
 scafferliera/T
 scafferlond/PT
 scafferlun/T
+scafferluna/T
+scafferlunas/T
+scafferluns/T
 scafferlut/T
+scafferluts/T
+scafferlutta/T
+scafferluttas/T
 scaffescha/PT
 scaffeschan/PT
 scaffeschas/PT
@@ -134490,6 +134520,7 @@ scaffessien/PT
 scaffessies/PT
 scaffet/T
 scaffeta/T
+scaffets/T
 scaffeva/PT
 scaffevan/PT
 scaffevas/PT
@@ -134508,8 +134539,12 @@ scaffiarlies/PT
 scaffida/PT
 scaffidas/PT
 scaffider/T
+scaffiders/T
+scaffidra/T
+scaffidras/T
 scaffientscha/T
 scaffiment/T
+scaffiments/T
 scaffin/PT
 scaffir/PT
 scaffis/PT
@@ -134622,14 +134657,19 @@ scagneien/PT
 scagneies/PT
 scagnein/PT
 scagneis/PT
+scagneuls/T
 scagniel/T
 scagnond/PT
+scagns/T
 scagnus/T
 scagnusa/T
 scagnusamein/T
 scagnusas/T
 scala/T
 scaladur/T
+scaladura/T
+scaladuras/T
+scaladurs/T
 scalas/T
 scalchignada/PT
 scalchignadas/PT
@@ -134672,9 +134712,11 @@ scaldada/PT
 scaldadamein/T
 scaldadas/PT
 scaldader/T
+scaldaders/T
 scaldadira/T
 scaldai/PT
 scaldament/T
+scaldaments/T
 scaldar/PT
 scaldass/PT
 scaldassen/PT
@@ -134698,11 +134740,15 @@ scaldein/PT
 scaldeis/PT
 scaldera/T
 scaldin/T
+scaldins/T
 scaldond/PT
 scalegl/T
 scalegliera/T
+scalegls/T
 scalem/T
+scalems/T
 scalep/T
+scaleps/T
 scalera/T
 scaletga/T
 scalfin/T
@@ -134738,6 +134784,7 @@ scalfini/PT
 scalfinien/PT
 scalfinies/PT
 scalfinond/PT
+scalfins/T
 scalgia/T
 scaligia/T
 scalin/T
@@ -134747,6 +134794,7 @@ scalinadamein/T
 scalinadas/PT
 scalinai/PT
 scalinam/T
+scalinams/T
 scalinan/PT
 scalinar/PT
 scalinas/PT
@@ -134775,8 +134823,10 @@ scalini/PT
 scalinien/PT
 scalinies/PT
 scalinond/PT
+scalins/T
 scalp/T
 scalper/T
+scalpers/T
 scalpra/PT
 scalprada/PT
 scalpradas/PT
@@ -134810,6 +134860,7 @@ scalpri/PT
 scalprien/PT
 scalpries/PT
 scalprond/PT
+scalps/T
 scaltschuna/PT
 scaltschunan/PT
 scaltschunas/PT
@@ -134824,6 +134875,7 @@ scalunai/T
 scalunau/T
 scalunaus/T
 scalut/T
+scaluts/T
 scalutta/T
 scamada/T
 scamoda/PT
@@ -134841,6 +134893,7 @@ scamondel/PT
 scamondi/PT
 scamondien/PT
 scamondies/PT
+scamonds/T
 scampa/T
 scampada/PT
 scampadas/PT
@@ -134870,10 +134923,12 @@ scampein/PT
 scampeis/PT
 scampond/PT
 scanatsch/T
+scanatschs/T
 scandada/PT
 scandadas/PT
 scandai/PT
 scandal/T
+scandals/T
 scandar/PT
 scandass/PT
 scandassen/PT
@@ -134899,6 +134954,9 @@ scandel/T
 scandelisada/PT
 scandelisadas/PT
 scandelisader/T
+scandelisaders/T
+scandelisadra/T
+scandelisadras/T
 scandelisai/PT
 scandelisar/PT
 scandelisass/PT
@@ -134929,6 +134987,7 @@ scandeliseschi/PT
 scandeliseschien/PT
 scandeliseschies/PT
 scandelisond/PT
+scandels/T
 scandelus/T
 scandelusa/T
 scandelusamein/T
@@ -134943,6 +135002,7 @@ scandeschien/PT
 scandeschies/PT
 scandiala/T
 scandler/T
+scandlers/T
 scandond/PT
 scanellada/PT
 scanelladas/PT
@@ -134979,6 +135039,7 @@ scanelleschies/PT
 scanellond/PT
 scangler/T
 scanglera/T
+scanglers/T
 scaniera/T
 scanna/PT
 scannada/PT
@@ -135018,6 +135079,9 @@ scappa/PT
 scappada/PT
 scappadas/PT
 scappader/T
+scappaders/T
+scappadra/T
+scappadras/T
 scappai/PT
 scappan/PT
 scappar/PT
@@ -135079,7 +135143,9 @@ scappi/PT
 scappien/PT
 scappies/PT
 scappond/PT
+scaps/T
 scapulier/T
+scapulors/T
 scaramutscha/PT
 scaramutschada/PT
 scaramutschadas/PT
@@ -135149,8 +135215,12 @@ scarga/PT
 scargada/PT
 scargadas/PT
 scargader/T
+scargaders/T
+scargadra/T
+scargadras/T
 scargai/PT
 scargament/T
+scargaments/T
 scargan/PT
 scargar/PT
 scargas/PT
@@ -135280,6 +135350,7 @@ scarniu/PT
 scarnius/PT
 scarnond/PT
 scarnuz/T
+scarnuzs/T
 scarnîen/PT
 scarnîes/PT
 scarp/T
