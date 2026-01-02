@@ -1,4 +1,4 @@
-232963
+233240
 'emplenescha/PT
 'empleneschi/PT
 'empleneschien/PT
@@ -2196,6 +2196,7 @@ abanduni/PT
 abandunien/PT
 abandunies/PT
 abandunond/PT
+abanduns/T
 abass/T
 abbadessa/T
 abbadessas/T
@@ -2207,6 +2208,7 @@ abbazialmein/T
 abbazials/T
 abbazias/T
 abc/T
+abcs/T
 abdicada/PT
 abdicadas/PT
 abdicai/PT
@@ -2242,6 +2244,7 @@ abdicheschien/PT
 abdicheschies/PT
 abdicond/PT
 abdomen/T
+abdomens/T
 abdominal/T
 abdominala/T
 abdominalas/T
@@ -2289,6 +2292,7 @@ aberrontamein/T
 aberrontas/T
 aberronts/T
 abersac/T
+abersacs/T
 abgiudicada/PT
 abgiudicadas/PT
 abgiudicai/PT
@@ -2330,7 +2334,11 @@ abissalas/T
 abissalmein/T
 abissals/T
 abiturient/T
+abiturienta/T
+abiturientas/T
+abiturients/T
 ablativ/T
+ablativs/T
 abluziun/T
 abluziuns/T
 abnegaziun/T
@@ -2425,6 +2433,7 @@ abonnada/PT
 abonnadas/PT
 abonnai/PT
 abonnament/T
+abonnaments/T
 abonnar/PT
 abonnass/PT
 abonnassen/PT
@@ -2447,6 +2456,9 @@ abonneies/PT
 abonnein/PT
 abonneis/PT
 abonnent/T
+abonnenta/T
+abonnentas/T
+abonnents/T
 abonnescha/PT
 abonneschan/PT
 abonneschas/PT
@@ -18039,6 +18051,7 @@ brutalitads/T
 brutalmein/T
 brutals/T
 brutg/T
+brutga/T
 brutget/T
 brutgets/T
 brutgs/T
@@ -19026,6 +19039,7 @@ burdonas/T
 burel/T
 burels/T
 burer/T
+burera/T
 burers/T
 burfli/T
 burflida/T
@@ -19097,6 +19111,7 @@ burgs/T
 buric/T
 burichel/T
 burichels/T
+buricla/T
 burics/T
 burlada/PT
 burladas/PT
@@ -22692,8 +22707,10 @@ carplutta/T
 carpluttas/T
 carpond/PT
 carpugl/T
+carpuglia/T
 carpugls/T
 carpun/T
+carpuna/T
 carpuns/T
 carpus/T
 carpusa/T
@@ -25451,6 +25468,7 @@ chisavien/PT
 chisavies/PT
 chischar/T
 chischer/T
+chischers/T
 chischlet/T
 chischlets/T
 chischnar/T
@@ -33933,6 +33951,7 @@ crisolits/T
 cristagl/T
 cristaglia/T
 cristagliam/T
+cristaglias/T
 cristagls/T
 cristal/T
 cristalla/T
@@ -43874,7 +43893,7 @@ depopuleschi/PT
 depopuleschien/PT
 depopuleschies/PT
 depopulond/PT
-deport/T
+deport-/T
 depos/T
 deposit/T
 depositada/PT
@@ -45826,6 +45845,7 @@ detscharts/T
 detschas/T
 detschiert/T
 detta-pei/T
+detta/T
 dettal/T
 dettals/T
 detti/PT
@@ -63951,6 +63971,7 @@ far/PT
 farbun/T
 farbuns/T
 farcagl/T
+farcaglia/T
 farcagliatschs/T
 farcaglietsch/T
 farchegei/PT
@@ -81158,7 +81179,7 @@ incommoditad/T
 incommoditads/T
 incomod/T
 incomods/T
-incomp/T
+incomp-/T
 inconscient/T
 inconscienta/T
 inconscientamein/T
@@ -98988,6 +99009,7 @@ meidias/T
 meil/T
 meila/T
 meilasch/T
+meilascha/T
 meilaschs/T
 meilgranat/T
 meils/T
@@ -99074,6 +99096,7 @@ melliavels/T
 melliavla/T
 melliavlas/T
 mellifegl/T
+mellifeglia/T
 mellifegls/T
 mellipeis/T
 mellis/T
@@ -102560,6 +102583,7 @@ motoriseschies/PT
 motorisond/PT
 motors/T
 motorvelo/T
+motorvelos/T
 motto/T
 mottos/T
 motur/T
@@ -119565,6 +119589,7 @@ pleder/T
 pleders/T
 pledoyer/T
 pledoyers/T
+pledra/T
 plegabel/T
 plegabels/T
 plegabla/T
@@ -152847,6 +152872,7 @@ scaldin/T
 scaldins/T
 scaldond/PT
 scalegl/T
+scaleglia/T
 scalegliera/T
 scaleglieras/T
 scalegls/T
@@ -153036,6 +153062,7 @@ scampein/PT
 scampeis/PT
 scampond/PT
 scanatsch/T
+scanatscha/T
 scanatschs/T
 scandada/PT
 scandadas/PT
@@ -154509,6 +154536,8 @@ schanias/T
 schanis/T
 schans/T
 schanugl/T
+schanuglia/T
+schanuglias/T
 schanugliera/T
 schanuglieras/T
 schanugls/T
@@ -155192,6 +155221,7 @@ schieber/T
 schiebers/T
 schiember/T
 schiembers/T
+schiembra/T
 schiender/T
 schienders/T
 schientscha/T
@@ -192031,6 +192061,7 @@ sitguras/T
 sitgurs/T
 sitier/T
 sitschin/T
+sitschina/T
 sitschins/T
 sittada/PT
 sittadas/PT
@@ -196857,6 +196888,7 @@ spazzettas/T
 spazzi/PT
 spazzien/PT
 spazzies/PT
+spazzola/T
 spazzond/PT
 specia/T
 special/T
@@ -197129,6 +197161,7 @@ spellitschein/PT
 spellitscheis/PT
 spellitschond/PT
 spelm/T
+spelma/T
 spelms/T
 spelond/PT
 spels/T
@@ -197723,6 +197756,7 @@ spinassies/PT
 spinat/T
 spinats/T
 spinatsch/T
+spinatscha/T
 spinatschs/T
 spinau/PT
 spinaus/PT
@@ -201105,6 +201139,7 @@ steppamein/T
 steppas/T
 steps/T
 ster/T
+stera/T
 stereo/T
 stereometria/T
 stereometrias/T
@@ -212147,6 +212182,7 @@ tagliacrut/T
 tagliada/PT
 tagliadas/PT
 tagliadetsch/T
+tagliadetscha/T
 tagliadetschs/T
 tagliadinas/T
 tagliadira/T
@@ -220065,6 +220101,7 @@ triefas/T
 triemas/T
 triembel/T
 triembels/T
+triembla/T
 triemblas/T
 trienni/T
 triennis/T
@@ -220470,6 +220507,7 @@ tropicals/T
 tropicamein/T
 tropicas/T
 tropics/T
+troppa/T
 troppada/T
 troppadas/T
 trops/T
@@ -227470,8 +227508,11 @@ vacants/T
 vacanza/T
 vacanzas/T
 vacatura/T
+vacaturas/T
 vacca/T
 vaccada/T
+vaccadas/T
+vaccas/T
 vaccin/T
 vaccinada/PT
 vaccinadas/PT
@@ -227497,6 +227538,7 @@ vaccinavi/PT
 vaccinavien/PT
 vaccinavies/PT
 vaccinaziun/T
+vaccinaziuns/T
 vaccinei/PT
 vaccineien/PT
 vaccineies/PT
@@ -227514,9 +227556,11 @@ vaccins/T
 vaccun/T
 vaccuns/T
 vachera/T
+vacheras/T
 vachetg/T
 vachetgs/T
 vachetta/T
+vachettas/T
 vacrogn/T
 vacrogna/T
 vacrognamein/T
@@ -227526,7 +227570,9 @@ vacuum/T
 vacuums/T
 vadabot/T
 vadeglia/T
+vadeglias/T
 vadella/T
+vadellas/T
 vadels/T
 vadi/T
 vadiala/T
@@ -227630,7 +227676,9 @@ vaginala/T
 vaginalas/T
 vaginalmein/T
 vaginals/T
+vaginas/T
 vaglia/T
+vaglias/T
 vagond/PT
 vags/T
 vagun/T
@@ -227644,6 +227692,7 @@ val/T
 vala/PT
 valan/PT
 valania/T
+valanias/T
 valanuot/T
 valanuots/T
 valapauc/T
@@ -227656,6 +227705,7 @@ valeivel/T
 valeivels/T
 valeivla/T
 valeivladad/T
+valeivladads/T
 valeivlamein/T
 valeivlas/T
 valel/PT
@@ -227666,10 +227716,12 @@ valentamein/T
 valentas/T
 valents/T
 valenza/T
+valenzas/T
 valer/PT
 valerus/T
 valerusa/T
 valerusadad/T
+valerusadads/T
 valerusamein/T
 valerusas/T
 valess/PT
@@ -227687,6 +227739,7 @@ valetadra/T
 valetadras/T
 valetai/PT
 valetar/PT
+valetas/T
 valetass/PT
 valetassen/PT
 valetasses/PT
@@ -227703,6 +227756,7 @@ valetavi/PT
 valetavien/PT
 valetavies/PT
 valetaziun/T
+valetaziuns/T
 valetei/PT
 valeteien/PT
 valeteies/PT
@@ -227747,6 +227801,7 @@ validavi/PT
 validavien/PT
 validavies/PT
 validaziun/T
+validaziuns/T
 validei/PT
 valideien/PT
 valideies/PT
@@ -227763,25 +227818,31 @@ validond/PT
 valien/PT
 valies/PT
 valischa/T
+valischas/T
 valiu/PT
 valius/PT
 vall.
 vallada/T
+valladas/T
 vallader/T
 valladers/T
 valladra/T
 valladras/T
 vallatsch/T
 vallatscha/T
+vallatschas/T
 vallatschs/T
 vallet/T
 vallets/T
 valletta/T
+vallettas/T
 vallorca/T
+vallorcas/T
 vallutg/T
 vallutgs/T
 vallà/T
 vallàs/T
+vals/T
 valser/T
 valsers/T
 valtrin/T
@@ -227789,7 +227850,9 @@ valtrina/T
 valtrinas/T
 valtrins/T
 valur/T
+valurs/T
 valuta/T
+valutas/T
 valzen/T
 valzens/T
 vamp/T
@@ -227799,10 +227862,13 @@ vamps/T
 van/T
 vana/T
 vanadad/T
+vanadads/T
 vanagloria/T
+vanaglorias/T
 vanamein/T
 vanas/T
 vanaun/T
+vanauns/T
 vandal/T
 vandala/T
 vandalas/T
@@ -227848,8 +227914,11 @@ vanegiond/PT
 vanel/T
 vanels/T
 vanetta/T
+vanettas/T
 vaniglia/T
+vaniglias/T
 vanitad/T
+vanitads/T
 vanitus/T
 vanitusa/T
 vanitusamein/T
@@ -227880,6 +227949,7 @@ vannein/PT
 vanneis/PT
 vannond/PT
 vannunza/T
+vannunzas/T
 vans/T
 vantada/T
 vantadamein/T
@@ -227943,6 +228013,7 @@ vapuravi/PT
 vapuravien/PT
 vapuravies/PT
 vapuraziun/T
+vapuraziuns/T
 vapurei/PT
 vapureien/PT
 vapureies/PT
@@ -227978,6 +228049,7 @@ vapurisavi/PT
 vapurisavien/PT
 vapurisavies/PT
 vapurisaziun/T
+vapurisaziuns/T
 vapurisei/PT
 vapuriseien/PT
 vapuriseies/PT
@@ -228025,6 +228097,7 @@ vargheivel/T
 vargheivels/T
 vargheivla/T
 vargheivladad/T
+vargheivladads/T
 vargheivlamein/T
 vargheivlas/T
 varghel/PT
@@ -228070,6 +228143,7 @@ variabel/T
 variabels/T
 variabla/T
 variabladad/T
+variabladads/T
 variablamein/T
 variablas/T
 variada/PT
@@ -228077,6 +228151,7 @@ variadas/PT
 variai/PT
 variamein/T
 varianta/T
+variantas/T
 variar/PT
 varias/T
 variass/PT
@@ -228095,6 +228170,7 @@ variavi/PT
 variavien/PT
 variavies/PT
 variaziun/T
+variaziuns/T
 variei/PT
 varieien/PT
 varieies/PT
@@ -228108,6 +228184,7 @@ varieschi/PT
 varieschien/PT
 varieschies/PT
 varietad/T
+varietads/T
 variond/PT
 variont/T
 varionta/T
@@ -228116,6 +228193,7 @@ variontas/T
 varionts/T
 varis/T
 variza/T
+varizas/T
 varnegei/PT
 varnegeien/PT
 varnegeies/PT
@@ -228155,18 +228233,22 @@ varnetgs/T
 varschella/T
 varschellas/T
 vart/T
+varts/T
 vas/T
 vasa/T
 vasal/T
 vasalladi/T
 vasalladis/T
 vasals/T
+vasas/T
 vasch/T
 vaschs/T
 vaselina/T
+vaselinas/T
 vast/T
 vasta/T
 vastadad/T
+vastadads/T
 vastamein/T
 vastas/T
 vasts/T
@@ -228183,6 +228265,7 @@ vattada/PT
 vattadas/PT
 vattai/PT
 vattar/PT
+vattas/T
 vattass/PT
 vattassen/PT
 vattasses/PT
@@ -228213,6 +228296,7 @@ vatteschies/PT
 vattond/PT
 vau/T
 vaulta/T
+vaultas/T
 vaus/T
 vectur/T
 vecturial/T
@@ -228322,6 +228406,7 @@ vegetavi/PT
 vegetavien/PT
 vegetavies/PT
 vegetaziun/T
+vegetaziuns/T
 vegetei/PT
 vegeteien/PT
 vegeteies/PT
@@ -228364,6 +228449,7 @@ vegliadas/PT
 vegliader/T
 vegliaders/T
 vegliadetgna/T
+vegliadetgnas/T
 vegliadra/T
 vegliadras/T
 vegliai/PT
@@ -228408,10 +228494,12 @@ vegliond/PT
 vegliont/T
 veglionta/T
 vegliontadad/T
+vegliontadads/T
 vegliontamein/T
 vegliontas/T
 veglionts/T
 veglionza/T
+veglionzas/T
 vegliuord/T
 vegliuorda/T
 vegliuordamein/T
@@ -228420,6 +228508,7 @@ vegliuords/T
 veglius/T
 vegliusa/T
 vegliusadad/T
+vegliusadads/T
 vegliusamein/T
 vegliusas/T
 vegls/T
@@ -228473,6 +228562,7 @@ vehementamein/T
 vehementas/T
 vehements/T
 vehemenza/T
+vehemenzas/T
 vehichel/T
 vehichels/T
 veider/T
@@ -228482,8 +228572,10 @@ veier/T
 veiers/T
 veies/PT
 veigelia/T
+veigelias/T
 vein/PT
 veina/T
+veinas/T
 veis/PT
 vel/T
 vela/PT
@@ -228530,6 +228622,7 @@ veli/PT
 velien/PT
 velies/PT
 vella/T
+vellas/T
 velo/T
 velociped/T
 velocipedist/T
@@ -228538,6 +228631,7 @@ velocipedistas/T
 velocipedists/T
 velocipeds/T
 velocitad/T
+velocitads/T
 velocross/T
 velodrom/T
 velodroms/T
@@ -228551,8 +228645,10 @@ venal/T
 venala/T
 venalas/T
 venalitad/T
+venalitads/T
 venalmein/T
 venals/T
+venas/T
 venda/PT
 vendagasettas/T
 vendalatg/T
@@ -228575,6 +228671,7 @@ vendemiader/T
 vendemiaders/T
 vendemiadra/T
 vendemiadras/T
+vendemias/T
 vendend/PT
 vendent/T
 vendenta/T
@@ -228590,6 +228687,7 @@ vendessi/PT
 vendessien/PT
 vendessies/PT
 vendetga/T
+vendetgas/T
 vendetgus/T
 vendetgusa/T
 vendetgusamein/T
@@ -228613,6 +228711,7 @@ vendies/PT
 vendin/PT
 vendis/PT
 vendita/T
+venditas/T
 vendiu/PT
 vendius/PT
 vendîen/PT
@@ -228621,6 +228720,7 @@ venerabel/T
 venerabels/T
 venerabla/T
 venerabladad/T
+venerabladads/T
 venerablamein/T
 venerablas/T
 venerada/PT
@@ -228653,6 +228753,7 @@ veneravi/PT
 veneravien/PT
 veneravies/PT
 veneraziun/T
+veneraziuns/T
 venerei/PT
 venereien/PT
 venereies/PT
@@ -228674,6 +228775,7 @@ venerond/PT
 vengonz/T
 vengonza/T
 vengonzadad/T
+vengonzadads/T
 vengonzamein/T
 vengonzas/T
 vengonzs/T
@@ -228720,6 +228822,7 @@ ventilavi/PT
 ventilavien/PT
 ventilavies/PT
 ventilaziun/T
+ventilaziuns/T
 ventilei/PT
 ventileien/PT
 ventileies/PT
@@ -228737,6 +228840,7 @@ ventils/T
 ventin/T
 ventins/T
 ventira/T
+ventiras/T
 ventireivel/T
 ventireivels/T
 ventireivla/T
@@ -228815,9 +228919,11 @@ venusas/T
 ver/T
 vera/T
 veracitad/T
+veracitads/T
 veradem/T
 veramein/T
 veranda/T
+verandas/T
 veras/T
 verb/T
 verbal/T
@@ -228844,6 +228950,7 @@ verbalisavi/PT
 verbalisavien/PT
 verbalisavies/PT
 verbalisaziun/T
+verbalisaziuns/T
 verbalisei/PT
 verbaliseien/PT
 verbaliseies/PT
@@ -228865,6 +228972,7 @@ verbanaglia/T
 verbel/T
 verbels/T
 verbla/T
+verblas/T
 verbs/T
 verc/T
 vercartent/T
@@ -228876,12 +228984,14 @@ vercellins/T
 verclus/T
 verclusa/T
 verclusadad/T
+verclusadads/T
 verclusamein/T
 verclusas/T
 vercs/T
 verd/T
 verda/T
 verdad/T
+verdads/T
 verdamein/T
 verdas/T
 verdaun/T
@@ -228934,10 +229044,12 @@ verdegontamein/T
 verdegontas/T
 verdegonts/T
 verdegonza/T
+verdegonzas/T
 verdeivel/T
 verdeivels/T
 verdeivla/T
 verdeivladad/T
+verdeivladads/T
 verdeivlamein/T
 verdeivlas/T
 verdict/T
@@ -228982,22 +229094,28 @@ verdineschies/PT
 verdinond/PT
 verdins/T
 verdira/T
+verdiras/T
 verdirom/T
 verdiroms/T
 verds/T
 verdur/T
 verdura/T
+verduras/T
 verfel/T
 verfels/T
 vergia/T
 vergiar/T
+vergias/T
 vergla/T
+verglas/T
 vergna/T
+vergnas/T
 vergugna/T
 vergugnada/PT
 vergugnadas/PT
 vergugnai/PT
 vergugnar/PT
+vergugnas/T
 vergugnass/PT
 vergugnassen/PT
 vergugnasses/PT
@@ -229029,6 +229147,7 @@ vergugnond/PT
 vergugnus/T
 vergugnusa/T
 vergugnusadad/T
+vergugnusadads/T
 vergugnusamein/T
 vergugnusas/T
 verificada/PT
@@ -229056,6 +229175,7 @@ verificavi/PT
 verificavien/PT
 verificavies/PT
 verificaziun/T
+verificaziuns/T
 verificescha/PT
 verifichei/PT
 verificheien/PT
@@ -229070,12 +229190,15 @@ verificheschi/PT
 verificheschien/PT
 verificheschies/PT
 verificond/PT
+verischaria/T
+verischarias/T
 veritabel/T
 veritabels/T
 veritabla/T
 veritablamein/T
 veritablas/T
 vermanada/T
+vermanadas/T
 vermanegl/T
 vermaneglia/T
 vermanegls/T
@@ -229111,7 +229234,6 @@ vernischadra/T
 vernischadras/T
 vernischai/PT
 vernischar/PT
-vernischaria/T
 vernischass/PT
 vernischassen/PT
 vernischasses/PT
@@ -229140,8 +229262,11 @@ vernischeschi/PT
 vernischeschien/PT
 vernischeschies/PT
 vernischond/PT
+vernischs/T
 vernissascha/T
+vernissaschas/T
 veronica/T
+veronicas/T
 verr/T
 verrs/T
 vers/T
@@ -229151,6 +229276,7 @@ versadamein/T
 versadas/PT
 versai/PT
 versar/PT
+versas/T
 versass/PT
 versassen/PT
 versasses/PT
@@ -229167,6 +229293,7 @@ versavi/PT
 versavien/PT
 versavies/PT
 versch/T
+verschs/T
 versei/PT
 verseien/PT
 verseies/PT
@@ -229188,7 +229315,9 @@ versificatura/T
 versificaturas/T
 versificaturs/T
 versificaziun/T
+versificaziuns/T
 versiun/T
+versiuns/T
 versond/PT
 verteberal/T
 verteberala/T
@@ -229204,6 +229333,7 @@ vertentamein/T
 vertentas/T
 vertents/T
 vertenza/T
+vertenzas/T
 vertescha/PT
 verteschan/PT
 verteschas/PT
@@ -229242,6 +229372,7 @@ vertider/T
 vertiders/T
 vertidra/T
 vertidras/T
+vertids/T
 vertiginus/T
 vertiginusa/T
 vertiginusamein/T
@@ -229250,9 +229381,11 @@ vertin/PT
 vertir/PT
 vertis/PT
 vertit/T
+vertits/T
 vertiu/PT
 vertius/PT
 vertscha/T
+vertschas/T
 vertschel/T
 vertschelada/T
 vertscheladamein/T
@@ -229292,6 +229425,7 @@ veseivel/T
 veseivels/T
 veseivla/T
 veseivladad/T
+veseivladads/T
 veseivlamein/T
 veseivlas/T
 vesel/PT
@@ -229325,6 +229459,7 @@ vesis/PT
 vesiu/PT
 vesius/PT
 vespa/T
+vespas/T
 vespertin/T
 vespertina/T
 vespertinamein/T
@@ -229342,8 +229477,11 @@ vesss/T
 vest/T
 vesta-tgil/T
 vesta/T
+vestas-tgil/T
+vestas/T
 vestga/T
 vestgadira/T
+vestgas/T
 vestgem/T
 vestgems/T
 vestgend/PT
@@ -229385,6 +229523,7 @@ vests/T
 vesîen/PT
 vesîes/PT
 veta/T
+vetas/T
 veteran/T
 veterana/T
 veteranas/T
@@ -229398,6 +229537,7 @@ veterinarias/T
 veterinaris/T
 veterinars/T
 vetga/T
+vetgas/T
 veto/T
 vetos/T
 vetrificada/PT
@@ -229420,6 +229560,7 @@ vetrificavi/PT
 vetrificavien/PT
 vetrificavies/PT
 vetrificaziun/T
+vetrificaziuns/T
 vetrifichei/PT
 vetrificheien/PT
 vetrificheies/PT
@@ -229434,7 +229575,9 @@ vetrificheschien/PT
 vetrificheschies/PT
 vetrificond/PT
 vetrina/T
+vetrinas/T
 vetscha/T
+vetschas/T
 vetschlar/T
 veva/PT
 vevan/PT
@@ -229463,6 +229606,7 @@ vexavi/PT
 vexavien/PT
 vexavies/PT
 vexaziun/T
+vexaziuns/T
 vexei/PT
 vexeien/PT
 vexeies/PT
@@ -229488,6 +229632,7 @@ vezis/T
 vezs/T
 vezus/T
 vezusadad/T
+vezusadads/T
 vi/PT
 via/PT
 viada/PT
@@ -229603,19 +229748,25 @@ viandontamein/T
 viandontas/T
 viandonts/T
 viandonza/T
+viandonzas/T
 vianeu/T
 viar/PT
 viarcla/T
+viarclas/T
 viarms/T
 viars/T
 viartscha/T
+viartschas/T
 viarva/T
+viarvas/T
 viarvs/T
 vias/PT
+viasfier/T
 viasi/T
 viasp/T
 viaspra/T
 viaspras/T
+viasps/T
 viass/PT
 viassen/PT
 viasses/PT
@@ -229661,6 +229812,7 @@ vibravi/PT
 vibravien/PT
 vibravies/PT
 vibraziun/T
+vibraziuns/T
 vibrei/PT
 vibreien/PT
 vibreies/PT
@@ -229734,6 +229886,7 @@ vicendeivel/T
 vicendeivels/T
 vicendeivla/T
 vicendeivladad/T
+vicendeivladads/T
 vicendeivlamein/T
 vicendeivlas/T
 vicepresident/T
@@ -229744,6 +229897,7 @@ vicepresidi/T
 vicepresidis/T
 vices/T
 victoria/T
+victorias/T
 victorisada/PT
 victorisadas/PT
 victorisader/T
@@ -229791,6 +229945,7 @@ victuramein/T
 victuras/T
 victurs/T
 vicugna/T
+vicugnas/T
 vid/T
 vida/T
 vidad/T
@@ -229802,6 +229957,7 @@ videm/T
 video/T
 videos/T
 videoteca/T
+videotecas/T
 vidimada/PT
 vidimadas/PT
 vidimai/PT
@@ -229822,6 +229978,7 @@ vidimavi/PT
 vidimavien/PT
 vidimavies/PT
 vidimaziun/T
+vidimaziuns/T
 vidimei/PT
 vidimeien/PT
 vidimeies/PT
@@ -229837,6 +229994,7 @@ vidimeschies/PT
 vidimond/PT
 vidlunder/T
 vidraria/T
+vidrarias/T
 vidrer/T
 vidrera/T
 vidreras/T
@@ -229849,6 +230007,7 @@ vidula/T
 vidulas/T
 vidvart/T
 viega/T
+viegas/T
 viei/PT
 vieien/PT
 vieies/PT
@@ -229893,6 +230052,7 @@ vienteschies/PT
 vientond/PT
 vier/T
 vierla/T
+vierlas/T
 vierm/T
 viers/T
 vierv/T
@@ -229907,6 +230067,7 @@ vieschies/PT
 vieti/T
 vietia/T
 vietiadad/T
+vietiadads/T
 vietiamein/T
 vietias/T
 vietis/T
@@ -229917,9 +230078,11 @@ vieuas/T
 vieus/T
 viez/T
 viezla/T
+viezlas/T
 viezler/T
 viezlers/T
 vigelgia/T
+vigelgias/T
 vigend/PT
 vigent/T
 vigescha/PT
@@ -229987,6 +230150,7 @@ vigilontamein/T
 vigilontas/T
 vigilonts/T
 vigilonza/T
+vigilonzas/T
 vigin/PT
 vigir/PT
 vigis/PT
@@ -230005,15 +230169,18 @@ vignerola/T
 vignerolas/T
 vignerols/T
 vignetta/T
+vignettas/T
 vigur/T
 vigureivel/T
 vigureivels/T
 vigureivla/T
 vigureivlamein/T
 vigureivlas/T
+vigurs/T
 vigurus/T
 vigurusa/T
 vigurusadad/T
+vigurusadads/T
 vigurusamein/T
 vigurusas/T
 vigîen/PT
@@ -230073,13 +230240,17 @@ vilentien/PT
 vilenties/PT
 vilentond/PT
 villa/T
+villas/T
 vilomgna/T
+vilomgnas/T
 vilomia/T
+vilomias/T
 vin/T
 vinadi/T
 vinadis/T
 vinars/T
 vinarsaria/T
+vinarsarias/T
 vinatscha/T
 vinatscher/T
 vinatschers/T
@@ -230165,6 +230336,7 @@ violabel/T
 violabels/T
 violabla/T
 violabladad/T
+violabladads/T
 violablamein/T
 violablas/T
 violada/PT
@@ -230177,6 +230349,7 @@ violai/PT
 violament/T
 violaments/T
 violar/PT
+violas/T
 violass/PT
 violassen/PT
 violasses/PT
@@ -230197,6 +230370,7 @@ violavi/PT
 violavien/PT
 violavies/PT
 violaziun/T
+violaziuns/T
 violei/PT
 violeien/PT
 violeies/PT
@@ -230206,6 +230380,7 @@ violent/T
 violenta/T
 violentada/PT
 violentadad/T
+violentadads/T
 violentadas/PT
 violentai/PT
 violentamein/T
@@ -230241,6 +230416,7 @@ violenteschies/PT
 violentond/PT
 violents/T
 violenza/T
+violenzas/T
 violescha/PT
 violeschan/PT
 violeschas/PT
@@ -230254,6 +230430,7 @@ violetamein/T
 violetas/T
 violets/T
 violina/T
+violinas/T
 violinist/T
 violinista/T
 violinistas/T
@@ -230268,6 +230445,7 @@ violontas/T
 violonts/T
 viond/PT
 vipra/T
+vipras/T
 vir/T
 viral/T
 virala/T
@@ -230284,12 +230462,15 @@ virginals/T
 virginamein/T
 virginas/T
 virginitad/T
+virginitads/T
 virgins/T
 virguletta/T
+virgulettas/T
 viril/T
 virila/T
 virilas/T
 virilitad/T
+virilitads/T
 virilmein/T
 virils/T
 viriveri/T
@@ -230304,6 +230485,7 @@ viroladra/T
 viroladras/T
 virolai/PT
 virolar/PT
+virolas/T
 virolass/PT
 virolassen/PT
 virolasses/PT
@@ -230320,6 +230502,7 @@ virolavi/PT
 virolavien/PT
 virolavies/PT
 virolaziun/T
+virolaziuns/T
 virolei/PT
 viroleien/PT
 viroleies/PT
@@ -230338,6 +230521,7 @@ virtual/T
 virtuala/T
 virtualas/T
 virtualitad/T
+virtualitads/T
 virtualmein/T
 virtuals/T
 virtuos/T
@@ -230345,9 +230529,11 @@ virtuosa/T
 virtuosamein/T
 virtuosas/T
 virtuositad/T
+virtuositads/T
 virtuus/T
 virtuusa/T
 virtuusadad/T
+virtuusadads/T
 virtuusamein/T
 virtuusas/T
 virulent/T
@@ -230356,11 +230542,13 @@ virulentamein/T
 virulentas/T
 virulents/T
 virulenza/T
+virulenzas/T
 virus/T
 visabel/T
 visabels/T
 visabla/T
 visabladad/T
+visabladads/T
 visablamein/T
 visablas/T
 visada/PT
@@ -230374,6 +230562,7 @@ visaglorias/T
 visai/PT
 visar/PT
 visascha/T
+visaschas/T
 visaschist/T
 visaschista/T
 visaschistas/T
@@ -230408,6 +230597,7 @@ vischendeivlamein/T
 vischendeivlas/T
 vischi/T
 vischigia/T
+vischigias/T
 vischin/T
 vischina/PT
 vischinada/PT
@@ -230455,6 +230645,7 @@ vischinontamein/T
 vischinontas/T
 vischinonts/T
 vischinonza/T
+vischinonzas/T
 vischins/T
 vischlada/PT
 vischladas/PT
@@ -230488,8 +230679,10 @@ vischleras/T
 vischlers/T
 vischlond/PT
 vischnaunca/T
+vischnauncas/T
 viscla/T
 viscladad/T
+viscladads/T
 visclamein/T
 visclas/T
 visdadas/T
@@ -230523,11 +230716,13 @@ visibel/T
 visibels/T
 visibla/T
 visibladad/T
+visibladads/T
 visiblamein/T
 visiblas/T
 visicatur/T
 visicaturs/T
 visiera/T
+visieras/T
 visitada/PT
 visitadas/PT
 visitader/T
@@ -230552,6 +230747,7 @@ visitavi/PT
 visitavien/PT
 visitavies/PT
 visitaziun/T
+visitaziuns/T
 visitei/PT
 visiteien/PT
 visiteies/PT
@@ -230603,6 +230799,7 @@ visiuneschi/PT
 visiuneschien/PT
 visiuneschies/PT
 visiunond/PT
+visiuns/T
 viski/T
 viskis/T
 visond/PT
@@ -230658,6 +230855,7 @@ visurs/T
 vit/T
 vita/T
 vitadad/T
+vitadads/T
 vital/T
 vitala/T
 vitalas/T
@@ -230700,12 +230898,15 @@ vitalezieschies/PT
 vitaleziond/PT
 vitalezis/T
 vitalitad/T
+vitalitads/T
 vitalmein/T
 vitals/T
 vitamein/T
 vitamina/T
+vitaminas/T
 vitas/T
 vitezia/T
+vitezias/T
 vitg/T
 vitger/T
 vitgera/T
@@ -230714,6 +230915,7 @@ vitgers/T
 vitget/T
 vitgets/T
 vitgira/T
+vitgiras/T
 vitgs/T
 viticultur/T
 viticultura/T
@@ -230721,10 +230923,12 @@ viticulturas/T
 viticulturs/T
 vitier/T
 vitrina/T
+vitrinas/T
 vitriol/T
 vits/T
 vitta/T
 vitturaria/T
+vitturarias/T
 vitturier/T
 vitturiera/T
 vitturieras/T
@@ -230735,6 +230939,7 @@ vitturinas/T
 vitturins/T
 vituperar/T
 vituperaziun/T
+vituperaziuns/T
 viu/PT
 viult/PT
 viulta/PT
@@ -230751,6 +230956,7 @@ viv/T
 viva/PT
 vivabein/T
 vivacitad/T
+vivacitads/T
 vivamein/T
 vivan/PT
 vivas/PT
@@ -230832,6 +231038,7 @@ vivificavi/PT
 vivificavien/PT
 vivificavies/PT
 vivificaziun/T
+vivificaziuns/T
 vivifichei/PT
 vivificheien/PT
 vivificheies/PT
@@ -230858,10 +231065,12 @@ viviparmein/T
 vivipars/T
 vivis/PT
 vivisecziun/T
+vivisecziuns/T
 viviu/PT
 vivius/PT
 vivon/T
 vivonda/T
+vivondas/T
 vivra/T
 vivras/T
 vivs/T
@@ -230872,6 +231081,7 @@ vizdums/T
 vizius/T
 viziusa/T
 viziusadad/T
+viziusadads/T
 viziusamein/T
 viziusas/T
 vocabulari/T
@@ -230904,6 +231114,7 @@ vocalisavi/PT
 vocalisavien/PT
 vocalisavies/PT
 vocalisaziun/T
+vocalisaziuns/T
 vocalisei/PT
 vocaliseien/PT
 vocaliseies/PT
@@ -230924,7 +231135,9 @@ vocals/T
 vocativ/T
 vocativs/T
 vocaziun/T
+vocaziuns/T
 voga/T
+vogas/T
 vol.
 volt/T
 volta/T
@@ -230933,10 +231146,12 @@ voltaica/T
 voltaicas/T
 voltaiccamein/T
 voltaics/T
+voltas/T
 volts/T
 volubel/T
 volubels/T
 volubilitad/T
+volubilitads/T
 volubla/T
 volublamein/T
 volublas/T
@@ -230949,6 +231164,7 @@ voluminusamein/T
 voluminusas/T
 volums/T
 voluntad/T
+voluntads/T
 voluntar/T
 voluntara/T
 voluntaras/T
@@ -230961,11 +231177,13 @@ voluntaris/T
 voluntarmein/T
 voluntars/T
 voluptad/T
+voluptads/T
 voluptuus/T
 voluptuusa/T
 voluptuusamein/T
 voluptuusas/T
 voluta/T
+volutas/T
 volva/PT
 volvan/PT
 volvas/PT
@@ -231012,6 +231230,7 @@ vomitiv/T
 vomitivs/T
 vomitond/PT
 vomiziun/T
+vomiziuns/T
 von/T
 vonn/T
 vonna/PT
@@ -231060,6 +231279,7 @@ votavi/PT
 votavien/PT
 votavies/PT
 votaziun/T
+votaziuns/T
 votei/PT
 voteien/PT
 voteies/PT
@@ -231083,7 +231303,9 @@ votums/T
 vrac/T
 vracs/T
 vraunca/T
+vrauncas/T
 vricla/T
+vriclas/T
 vuclin/T
 vuclina/T
 vuclinas/T
@@ -231136,6 +231358,8 @@ vuleies/PT
 vulein/PT
 vuleis/PT
 vulend/PT
+vulenrada/T
+vulenradas/T
 vuler/PT
 vuless/PT
 vulessen/PT
@@ -231173,6 +231397,7 @@ vulgarisavi/PT
 vulgarisavien/PT
 vulgarisavies/PT
 vulgarisaziun/T
+vulgarisaziuns/T
 vulgarisei/PT
 vulgariseien/PT
 vulgariseies/PT
@@ -231187,9 +231412,11 @@ vulgariseschien/PT
 vulgariseschies/PT
 vulgarisond/PT
 vulgaritad/T
+vulgaritads/T
 vulgarmein/T
 vulgars/T
 vulgata/T
+vulgatas/T
 vulgo/T
 vuli/PT
 vulida/PT
@@ -231200,6 +231427,7 @@ vulnerabel/T
 vulnerabels/T
 vulnerabla/T
 vulnerabladad/T
+vulnerabladads/T
 vulnerablamein/T
 vulnerablas/T
 vulnerada/PT
@@ -231222,6 +231450,7 @@ vulneravi/PT
 vulneravien/PT
 vulneravies/PT
 vulneraziun/T
+vulneraziuns/T
 vulnerei/PT
 vulnereien/PT
 vulnereies/PT
@@ -231309,6 +231538,7 @@ vuscheschi/PT
 vuscheschien/PT
 vuscheschies/PT
 vuschond/PT
+vuschs/T
 vut/T
 vuts/T
 w/T
@@ -231324,21 +231554,26 @@ www
 x-avel/T
 x/T
 xantippa/T
+xantippas/T
 xenofob/T
 xenofoba/T
 xenofobamein/T
 xenofobas/T
 xenofobia/T
+xenofobias/T
 xenofobs/T
 xerografia/T
+xerografias/T
 xilofon/T
 xilofons/T
 xilografia/T
+xilografias/T
 xsesfranzleschien/PT
 z/T
 zaberghenis/T
 zac/T
 zaccada/T
+zaccadas/T
 zaccogn/T
 zaccogna/PT
 zaccognan/PT
@@ -231372,6 +231607,7 @@ zaccudevien/PT
 zaccudevies/PT
 zaccudi/PT
 zaccudiala/T
+zaccudialas/T
 zaccudida/PT
 zaccudidas/PT
 zaccudien/PT
@@ -231399,6 +231635,7 @@ zachegi/PT
 zachegia/PT
 zachegiada/PT
 zachegiadadad/T
+zachegiadadads/T
 zachegiadamein/T
 zachegiadas/PT
 zachegiai/PT
@@ -231521,6 +231758,7 @@ zaclins/T
 zaco/T
 zacons/T
 zacra/T
+zacras/T
 zacregel/PT
 zacregi/PT
 zacregia/PT
@@ -231547,6 +231785,7 @@ zaffermusten/T
 zaffermustgasen/T
 zaffermustgasenamiez/T
 zafrauna/T
+zafraunas/T
 zagrender/T
 zagrenders/T
 zagrendra/T
@@ -231554,9 +231793,11 @@ zagrendras/T
 zai/T
 zaia/T
 zaiadad/T
+zaiadads/T
 zaiamein/T
 zaias/T
 zaina/T
+zainas/T
 zais/T
 zambagl/T
 zambagli/PT
@@ -231598,6 +231839,7 @@ zambergeies/PT
 zambergein/PT
 zambergeis/PT
 zambergera/T
+zambergeras/T
 zambergiada/PT
 zambergiadas/PT
 zambergiader/T
@@ -231672,7 +231914,9 @@ zampugnem/T
 zampugnems/T
 zampugns/T
 zamustra/T
+zamustras/T
 zamustrauna/T
+zamustraunas/T
 zanchignada/PT
 zanchignadas/PT
 zanchignai/PT
@@ -231768,6 +232012,7 @@ zanua/T
 zanuauter/T
 zanunder/T
 zanur/T
+zanurs/T
 zappa/PT
 zappada/PT
 zappadas/PT
@@ -232000,10 +232245,12 @@ zars/T
 zart/T
 zarta/T
 zartadad/T
+zartadads/T
 zartamein/T
 zartas/T
 zarts/T
 zarva/T
+zarvas/T
 zatgei/T
 zatgeininas/T
 zatgeinins/T
@@ -232011,7 +232258,9 @@ zatget/T
 zatgets/T
 zatgi/T
 zatgna/T
+zatgnas/T
 zaunga/T
+zaungas/T
 zavra/PT
 zavrada/PT
 zavradas/PT
@@ -232054,9 +232303,11 @@ zavrins/T
 zavrond/PT
 zazza/T
 zebra/T
+zebras/T
 zebu/T
 zebus/T
 zecca/T
+zeccas/T
 zechel/T
 zechin/T
 zechins/T
@@ -232072,10 +232323,12 @@ zedels/T
 zehti/T
 zehtia/T
 zehtiadad/T
+zehtiadads/T
 zehtiamein/T
 zehtias/T
 zehtis/T
 zeicla/T
+zeiclas/T
 zeiger/T
 zeigers/T
 zeisch/T
@@ -232118,6 +232371,7 @@ zepli/PT
 zeplien/PT
 zeplies/PT
 zera/T
+zeras/T
 zercla/PT
 zerclada/PT
 zercladas/PT
@@ -232158,7 +232412,10 @@ zerclies/PT
 zerclin/T
 zerclins/T
 zerclond/PT
+zerclunz/T
 zerclunza/T
+zerclunzas/T
+zerclunzs/T
 zerpegei/PT
 zerpegeien/PT
 zerpegeies/PT
@@ -232192,14 +232449,18 @@ zerpegien/PT
 zerpegies/PT
 zerpegiond/PT
 zespadauna/T
+zespadaunas/T
 zetga/T
+zetgas/T
 zezen/T
 zezens/T
 zezna/T
 zeznas/T
 ziaghelia/T
+ziaghelias/T
 ziaghels/T
 zibellina/T
+zibellinas/T
 ziclada/PT
 zicladas/PT
 ziclader/T
@@ -232242,6 +232503,7 @@ zighinghers/T
 zighinghra/T
 zighinghras/T
 zila/T
+zilas/T
 zinc/T
 zincada/PT
 zincadamein/T
@@ -232277,6 +232539,7 @@ zincheschien/PT
 zincheschies/PT
 zincond/PT
 zinia/T
+zinias/T
 zinn/T
 zinna/PT
 zinnada/PT
@@ -232440,6 +232703,7 @@ zollers/T
 zols/T
 zon/T
 zona/T
+zonas/T
 zons/T
 zoolog/T
 zoologa/T
@@ -232455,6 +232719,7 @@ zoppa/T
 zoppamein/T
 zoppas/T
 zoppina/T
+zoppinas/T
 zops/T
 zopss/T
 zuairna/PT
@@ -232536,6 +232801,8 @@ zuavs/T
 zuc/T
 zucca/T
 zuccadida/T
+zuccadidas/T
+zuccas/T
 zucher/T
 zuchera/PT
 zucherada/PT
@@ -232569,9 +232836,11 @@ zucherein/PT
 zuchereis/PT
 zucherel/PT
 zucherera/T
+zuchereras/T
 zucheri/PT
 zucherien/PT
 zucheriera/T
+zucherieras/T
 zucheries/PT
 zucherond/PT
 zuchers/T
@@ -232607,12 +232876,15 @@ zuclond/PT
 zucmies/T
 zucs/T
 zudra/T
+zudras/T
 zuec/T
 zuecs/T
 zueila/T
+zueilas/T
 zues-cher/T
 zues-chers/T
 zuesca/T
+zuescas/T
 zuffen/T
 zuffena/PT
 zuffenachel/T
@@ -232645,6 +232917,7 @@ zuffenein/PT
 zuffeneis/PT
 zuffenel/PT
 zuffenera/T
+zuffeneras/T
 zuffeni/PT
 zuffenien/PT
 zuffenies/PT
@@ -232776,6 +233049,7 @@ zulpreies/PT
 zulprein/PT
 zulpreis/PT
 zulprera/T
+zulpreras/T
 zulprin/T
 zulprins/T
 zulprond/PT
@@ -232786,7 +233060,9 @@ zulprusas/T
 zumpignar/T
 zun/T
 zunaun/T
+zunauns/T
 zundada/T
+zundadas/T
 zundar/T
 zundauns/T
 zunder/T
@@ -232898,6 +233174,7 @@ zuppa/PT
 zuppabeinbein/T
 zuppada/PT
 zuppadadad/T
+zuppadadads/T
 zuppadamein/T
 zuppadas/PT
 zuppai/PT
