@@ -1,4 +1,4 @@
-233398
+233438
 'emplenescha/PT
 'empleneschi/PT
 'empleneschien/PT
@@ -16257,6 +16257,9 @@ bitta/T
 bittar/T
 bittas/T
 biua/T
+biuaa/T
+biuaamein/T
+biuaas/T
 biuas/T
 biula/T
 biulas/T
@@ -56259,6 +56262,7 @@ encurschîes/PT
 encurîen/PT
 encurîes/PT
 endadens/T
+endamaun/T
 endamen/T
 endaquella/T
 endatier/T
@@ -78404,7 +78408,7 @@ huzregiel/PT
 huzregien/PT
 huzregies/PT
 huzs/T
-i/T
+i/PT
 iOS
 iPad
 iPhone
@@ -78423,7 +78427,8 @@ iconograficamein/T
 iconograficas/T
 iconografics/T
 icons/T
-ida/T
+ida/PT
+idas/PT
 idea/T
 ideada/PT
 ideadas/PT
@@ -87875,7 +87880,7 @@ ioniseschi/PT
 ioniseschien/PT
 ioniseschies/PT
 ionisond/PT
-ir/T
+ir/PT
 ira/T
 iral/T
 iralada/PT
@@ -88558,8 +88563,10 @@ itinerari/T
 itineraris/T
 itschal/T
 itschals/T
+iu/PT
 iua/T
 iuas/T
+ius/PT
 iva/T
 ivas/T
 iver/T
@@ -93208,6 +93215,10 @@ luminusa/T
 luminusamein/T
 luminusas/T
 lumiond/PT
+lumnezian/T
+lumneziana/T
+lumnezianas/T
+lumnezians/T
 lump/T
 lumpa/T
 lumpamenta
@@ -98125,6 +98136,7 @@ masolcas/T
 masolcs/T
 masolta/T
 masoltas/T
+mass/PT
 massa/T
 massacra/T
 massacras/T
@@ -98199,10 +98211,12 @@ massein/PT
 masseis/PT
 massella/T
 massellas/T
+massen/PT
 masser/T
 massera/T
 masseras/T
 massers/T
+masses/PT
 massescha/PT
 masseschan/PT
 masseschas/PT
@@ -98210,8 +98224,11 @@ masseschel/PT
 masseschi/PT
 masseschien/PT
 masseschies/PT
+massi/PT
 massiala/T
 massialas/T
+massien/PT
+massies/PT
 massiv/T
 massiva/T
 massivadad/T
@@ -98506,6 +98523,13 @@ maunsutra/T
 maunsutras/T
 maunsutter/T
 maunsutters/T
+mava/PT
+mavan/PT
+mavas/PT
+mavel/PT
+mavi/PT
+mavien/PT
+mavies/PT
 maxima/T
 maximada/PT
 maximadas/PT
@@ -99061,9 +99085,11 @@ megliuraments/T
 megliurar/T
 megls/T
 megna/T
-mei/T
+mei/PT
 meidia/T
 meidias/T
+meien/PT
+meies/PT
 meil/T
 meila/T
 meilasch/T
@@ -99072,6 +99098,7 @@ meilaschs/T
 meilgranat/T
 meils/T
 meilsgranats/T
+mein/PT
 meina/PT
 meinablocca/T
 meinacamels/T
@@ -99114,7 +99141,7 @@ meinsils/T
 meinsvaleta/T
 meinsvaletas/T
 meinsvart/T
-meis/T
+meis/PT
 meisa/T
 meisas/T
 meisetta/T
@@ -101981,6 +102008,7 @@ momentanamein/T
 momentanas/T
 momentans/T
 momo/T
+mon/PT
 mona/T
 monacal/T
 monacala/T
@@ -102012,6 +102040,11 @@ monastica/T
 monasticamein/T
 monasticas/T
 monastics/T
+mond/PT
+mondel/PT
+mondi/PT
+mondien/PT
+mondies/PT
 mondura/T
 mondurada/PT
 monduradamein/T
@@ -128692,7 +128725,6 @@ quasera/T
 quasi/T
 quatal/T
 quatals/T
-quatembras/T
 quatempras/T
 quater/T
 quaterdubel/T
@@ -144829,7 +144861,12 @@ s'empleinies/PT
 s'emplena/PT
 s'emplenend/PT
 s'emplenesch/PT
+s'emplenescha/PT
+s'empleneschan/PT
 s'empleneschel/PT
+s'empleneschi/PT
+s'empleneschien/PT
+s'empleneschies/PT
 s'empleness/PT
 s'emplenessen/PT
 s'emplenesses/PT
@@ -220408,6 +220445,8 @@ tripels/T
 tripla/T
 triplamein/T
 triplas/T
+tripletta/T
+triplettas/T
 triplicada/PT
 triplicadas/PT
 triplicai/PT
@@ -227658,6 +227697,7 @@ uvrèdi/T
 uvrèdis/T
 v.
 v/T
+va/PT
 vacant/T
 vacanta/T
 vacantamein/T
@@ -228018,7 +228058,7 @@ vamp/T
 vampir/T
 vampirs/T
 vamps/T
-van/T
+van/PT
 vana/T
 vanadad/T
 vanadads/T
@@ -228393,7 +228433,7 @@ varschella/T
 varschellas/T
 vart/T
 varts/T
-vas/T
+vas/PT
 vasa/T
 vasal/T
 vasalladi/T
