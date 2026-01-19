@@ -1,4 +1,4 @@
-188180
+188144
 --/TQRSS
 1000avel/T
 1000avels/T
@@ -49104,8 +49104,6 @@ dodast/TS
 dodat/TS
 dodna/TS
 dogga/T
-doggaa/T
-doggaas/T
 doggas/T
 dogma/T
 dogmas/T
@@ -55413,9 +55411,6 @@ extorsiun/T
 extorsiuns/T
 extra-/T
 extra/T
-extraa/T
-extraamaing/T
-extraas/T
 extrachantunal/T
 extrachantunala/T
 extrachantunalas/T
@@ -55439,6 +55434,7 @@ extraivan/PTS
 extraivast/PTS
 extraivat/PTS
 extraivna/PTS
+extramaing/T
 extraordinari/T
 extraordinaria/T
 extraordinariamaing/T
@@ -60154,8 +60150,6 @@ fouressast/TS
 fouressat/TS
 fouressna/TS
 fouricla/T
-fouriclaa/T
-fouriclaas/T
 fouriclada/T
 fouricladas/T
 fouriclas/T
@@ -72339,7 +72333,6 @@ inargivan/PTS
 inarticulada/T
 inarticuladaa/T
 inarticuladaamaing/T
-inarticuladaas/T
 inarticuladamaing/T
 inarticuladas/T
 inarticulats/T
@@ -75008,11 +75001,6 @@ indirectas/T
 indirects/T
 indisciplina/T
 indisciplinas/T
-indiscret,indiscreta/T
-indiscret,indiscretaa/T
-indiscret,indiscretaamaing/T
-indiscret,indiscretaas/T
-indiscret,indiscretas/T
 indiscret/T
 indiscreta/T
 indiscretamaing/T
@@ -85853,8 +85841,6 @@ lattun/T
 latun/T
 latuns/T
 latvacha/T
-latvachaa/T
-latvachaas/T
 latvachas/T
 latvergia/T
 latvergias/T
@@ -89634,8 +89620,6 @@ manessast/TS
 manessat/TS
 manessna/TS
 manetscha/T
-manetschaa/T
-manetschaas/T
 manetschas/T
 mang'la/TS
 mang'na/TS
@@ -98456,8 +98440,6 @@ nuossas/T
 nus/T
 nusch/T
 nuschaglia/T
-nuschagliaa/T
-nuschagliaas/T
 nuschaglias/T
 nuschaivel/T
 nuschaivels/T
@@ -98468,9 +98450,6 @@ nuschaivlezzas/T
 nuschchomp/T
 nuschchomps/T
 nuschella/T
-nuschellaa/T
-nuschellaas/T
-nuschellas/T
 nuschels/T
 nuscher/T
 nuschers/T
@@ -100604,8 +100583,6 @@ oscultessna/PTS
 oscultond/PTS
 oscultà/PTS
 osduoglia/T
-osduogliaa/T
-osduogliaas/T
 osduoglias/T
 osla/T
 oslas/T
@@ -106989,8 +106966,7 @@ pezzunzas/T
 pezzunzs/T
 pezzà/TS
 pia/T
-piaa/T
-piaas/T
+piamaing/T
 pianist/T
 pianista/T
 pianistas/T
@@ -130002,8 +129978,6 @@ rumparà/TS
 rumpast/TS
 rumpat/TS
 rumpatesta/T
-rumpatestaa/T
-rumpatestaas/T
 rumpatestas/T
 rumpatschöver/T
 rumpatschövers/T
@@ -133368,14 +133342,12 @@ sachs/T
 sachun/T
 sachuns/T
 sacra/T
-sacraa/T
-sacraamaing/T
-sacraas/T
 sacral/T
 sacrala/T
 sacralas/T
 sacralmaing/T
 sacrals/T
+sacramaing/T
 sacramaint/T
 sacramaints/T
 sacramental/T
@@ -183250,8 +183222,6 @@ valan/TS
 valanc/T
 valancs/T
 valanöglia/T
-valanögliaa/T
-valanögliaas/T
 valanöglias/T
 valaraja/TS
 valaran/TS
@@ -184602,8 +184572,6 @@ vestivast/TS
 vestivat/TS
 vestivna/TS
 vestplüma/T
-vestplümaa/T
-vestplümaas/T
 vestplümas/T
 vestplümatsch/T
 vestplümatschs/T
@@ -185476,8 +185444,6 @@ viscul/T
 viscula/T
 viscunt/T
 viscuntessa/T
-viscuntessaa/T
-viscuntessaas/T
 viscuntessas/T
 viscunts/T
 viscus/T
@@ -186930,8 +186896,6 @@ zelusas/T
 zember/T
 zembers/T
 zembra/T
-zembraa/T
-zembraas/T
 zembras/T
 zena/T
 zenas/T
