@@ -1,4 +1,4 @@
-188275
+188316
 --/TQRSS
 1000avel/T
 1000avels/T
@@ -450,6 +450,7 @@ Baumann
 Baumgartner
 Baur
 Baviera/T
+Bavierais/T
 Bavieraisa/T
 Bavieraisas/T
 Bearth
@@ -10557,6 +10558,10 @@ animessat/PTS
 animessna/PTS
 animond/PTS
 anims/T
+animus/T
+animusa/T
+animusamaing/T
+animusas/T
 animusitats/T
 animusità/T
 animà/PTS
@@ -13925,6 +13930,8 @@ associessat/PTS
 associessna/PTS
 associond/PTS
 associà/PTS
+assonanza/T
+assonanzas/T
 assorti/PTQRSS
 assortida/PTS
 assortidas/PTS
@@ -18216,6 +18223,8 @@ bavibiltats/T
 bavibiltà/T
 bavibla/T
 baviblas/T
+bavierais/T
+bavieraisa/T
 bavieraisas/T
 bavond/TS
 bavrada/TS
@@ -30456,6 +30465,7 @@ coleopters/T
 colera/T
 coleric/T
 colerica/T
+colericamaing/T
 colericas/T
 colericra/T
 colericras/T
@@ -42071,6 +42081,8 @@ decapitessat/TS
 decapitessna/TS
 decapitond/TS
 decapità/TS
+decasteri/T
+decasteris/T
 decatlon/T
 decatlonist/T
 decatlonista/T
@@ -61652,6 +61664,8 @@ furier/T
 furiera/T
 furieras/T
 furiers/T
+furius/T
+furiusa/T
 furiusamaing/T
 furiusas/T
 furlan/T
@@ -62509,6 +62523,7 @@ galvanisond/TS
 galvanisà/TS
 gamascha/T
 gamaschas/T
+gamba/T
 gamella/T
 gamellas/T
 ganara/T
@@ -68229,6 +68244,7 @@ hopser/T
 hopsers/T
 horror/T
 horrors/T
+hostia/T
 hotel/T
 hotelier/T
 hoteliera/T
@@ -90894,8 +90910,6 @@ marschögn/T
 marschögna/T
 marselber/T
 marselbers/T
-marsola/T
-marsolas/T
 marsöl/T
 marsöls/T
 martagun/T
@@ -126464,7 +126478,32 @@ resorbond/TS
 resorbà/TS
 resorpziun/T
 resorpziuns/T
-resortir/T
+resort'la/TS
+resorta'l/TS
+resorta/TS
+resortan/TS
+resorti/TS
+resortida/TS
+resortidas/TS
+resortind/TS
+resortir/TS
+resortiran/TS
+resortirana/TS
+resortirà'l/TS
+resortirà'la/TS
+resortirà/TS
+resortiss'la/TS
+resortiss/TS
+resortissa'l/TS
+resortissan/TS
+resortissna/TS
+resortits/TS
+resortiv'la/TS
+resortiva'l/TS
+resortiva/TS
+resortivan/TS
+resortivna/TS
+resortna/TS
 resp./T
 respargn/T
 respargns/T
@@ -135932,6 +135971,8 @@ sbavarins/T
 sbavarà'l/TS
 sbavarà'la/TS
 sbavarà/TS
+sbavaröl/T
+sbavaröls/T
 sbavas/T
 sbavast/TS
 sbavat/TS
@@ -135993,6 +136034,7 @@ sbavunza/T
 sbavunzas/T
 sbavunzs/T
 sbavus/T
+sbavusa/T
 sbavusas/T
 sbavà/TS
 sbegal/T
@@ -140273,10 +140315,6 @@ schlubgessat/TS
 schlubgessna/TS
 schlubgiada/TS
 schlubgiadas/TS
-schlubgiader/T
-schlubgiaders/T
-schlubgiadra/T
-schlubgiadras/T
 schlubgiai/TQRSS
 schlubgiain/TS
 schlubgiaina/TS
@@ -147488,6 +147526,7 @@ secundessat/TS
 secundessna/TS
 secundond/TS
 secundà/TS
+securitas/T
 secziun/T
 secziuns/T
 sedia/T
@@ -174604,6 +174643,8 @@ tintüraria/T
 tintürarias/T
 tintüras/T
 tip/TS
+tipa/T
+tipas/T
 tipic/T
 tipica/T
 tipicamaing/T
