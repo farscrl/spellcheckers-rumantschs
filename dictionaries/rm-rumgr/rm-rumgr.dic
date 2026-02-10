@@ -1,4 +1,4 @@
-160230
+160248
 'okina/T
 'okinas/T
 3D/T
@@ -1981,6 +1981,7 @@ Knecht
 Koch
 Kohler
 Koller
+Kostenstelle/T
 Krebs
 Kremlin/T
 Krähenbühl
@@ -8925,6 +8926,11 @@ analogamain/OT
 analogas/OT
 analogia/OT
 analogias/OT
+analogic/OT
+analogica/OT
+analogicamain/OT
+analogicas/OT
+analogics/OT
 analogon/OT
 analogons/OT
 analogs/OT
@@ -26591,6 +26597,7 @@ coaguleschian/T
 coaguleschias/T
 coagulond/T
 coagulà/T
+coala/T
 coalisada/T
 coalisadas/T
 coalisads/T
@@ -31369,7 +31376,6 @@ correctezza/T
 correctezzas/T
 correctiv/T
 correctivs/T
-corrector/T
 correctora/T
 correctorada/T
 correctoradas/T
@@ -31395,11 +31401,12 @@ correctoreschia/T
 correctoreschian/T
 correctoreschias/T
 correctorond/T
-correctors/T
 correctorà/T
 corrects/T
+correctur/T
 correctura/T
 correcturas/T
+correcturs/T
 correcziun/T
 correcziuns/T
 correferat/T
@@ -59598,6 +59605,10 @@ fonavan/T
 fonavas/T
 fonaziun/T
 fonaziuns/T
+fond/T
+fondo/T
+fondos/T
+fonds/T
 fondue/T
 fondues/T
 fonem/T
@@ -65647,6 +65658,7 @@ greenfee/T
 greenkeeper/T
 greenkeepers/T
 greens/T
+greenwashing/T
 gregorian/T
 gregoriana/T
 gregorianas/T
@@ -69692,6 +69704,7 @@ incedibla/OT
 incedibladad/OT
 incedibladads/OT
 incediblas/OT
+incel/OT
 incendi/OT
 incendiada/OPT
 incendiadas/OPT
@@ -81504,6 +81517,7 @@ mansardas/T
 manschetta/T
 manschettas/T
 mansionari/T
+mansplaining/T
 mantegn/T
 mantegna/TQ
 mantegnai/T
@@ -84990,6 +85004,7 @@ mintgamai/T
 mintgatant/T
 mintgiletta/T
 mintgin/T
+mintgina/T
 mintun/T
 mintuns/T
 minuarta/T
@@ -99753,6 +99768,7 @@ pinian/T
 pinias/T
 pinimentol/T
 pinimentols/T
+pinkwashing/T
 pinond/T
 pinot/T
 pinota/T
@@ -138319,6 +138335,7 @@ stilisassas/T
 stilisava/TQ
 stilisavan/T
 stilisavas/T
+stilisaziun/T
 stilisesch/T
 stilisescha/TQ
 stiliseschan/T
@@ -141241,6 +141258,7 @@ summar/T
 summari/T
 summaric/T
 summarica/T
+summaricamain/T
 summaricas/T
 summarics/T
 summaris/T
