@@ -1,4 +1,4 @@
-160248
+160257
 'okina/T
 'okinas/T
 3D/T
@@ -3412,6 +3412,7 @@ Sinti/T
 Sintiza/T
 Sinto/T
 Sion/T
+Sioux/T
 Siracusa/T
 Siria/T
 Sirian/T
@@ -13704,6 +13705,7 @@ autolectorond/OPT
 autolectorà/OPT
 autolimitaziun/OT
 autolimitaziuns/OT
+autolisa/OT
 automaletg/OT
 automaletgs/OT
 automat/OT
@@ -13825,6 +13827,8 @@ autorealisaziun/OT
 autorealisaziuns/OT
 autoreclama/OT
 autoreclamas/OT
+autoreferenza/OT
+autoreferenzas/OT
 autoreferenzial/OT
 autoreferenziala/OT
 autoreferenzialas/OT
@@ -74902,6 +74906,11 @@ ipersensibla/OT
 ipersensibladad/OT
 ipersensibladads/OT
 ipersensiblas/OT
+ipersonic/OT
+ipersonica/OT
+ipersonicamain/OT
+ipersonicas/OT
+ipersonics/OT
 ipersten/OT
 iperstens/OT
 ipertensiun/OT
