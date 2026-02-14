@@ -1,4 +1,4 @@
-205852
+205872
 1000evel/T
 1000evels/T
 1000evla/T
@@ -57705,6 +57705,8 @@ enigmatica/T
 enigmaticamaing/T
 enigmaticas/T
 enigmatics/T
+enjambement/T
+enjambements/T
 enorm/T
 enorma/T
 enormamaing/T
@@ -89476,7 +89478,12 @@ insupportabilteds/T
 insupportabla/T
 insupportablas/T
 insurvisibel/T
+insurvisibelmaing/T
 insurvisibels/T
+insurvisibilited/T
+insurvisibiliteds/T
+insurvisibilted/T
+insurvisibilteds/T
 insurvisibla/T
 insurvisiblas/T
 insus/T
@@ -93163,7 +93170,12 @@ inviolabla/T
 inviolablas/T
 invios/PT
 invisibel/T
+invisibelmaing/T
 invisibels/T
+invisibilited/T
+invisibiliteds/T
+invisibilted/T
+invisibilteds/T
 invisibla/T
 invisiblas/T
 invista/T
@@ -123237,10 +123249,10 @@ presidents/T
 presidenza/T
 presidenzas/T
 presidenziel/T
+presidenziela/T
+presidenzielas/T
 presidenzielmaing/T
 presidenziels/T
-presidenzila/T
-presidenzilas/T
 presidi/T
 presidiains/T
 presidiainsa/T
@@ -184590,6 +184602,10 @@ survisa/T
 survisas/T
 survisibel/T
 survisibels/T
+survisibilited/T
+survisibiliteds/T
+survisibilted/T
+survisibilteds/T
 survisibla/T
 survisiblas/T
 survista/T
@@ -202261,6 +202277,8 @@ vicepresident/T
 vicepresidenta/T
 vicepresidentas/T
 vicepresidents/T
+vicepresidenza/T
+vicepresidenzas/T
 viceversa/T
 vicin/T
 vicina/T
@@ -202693,6 +202711,8 @@ visibelmaing/T
 visibels/T
 visibilited/T
 visibiliteds/T
+visibilted/T
+visibilteds/T
 visibla/T
 visiblas/T
 visiera/T
