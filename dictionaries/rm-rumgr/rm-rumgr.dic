@@ -1,4 +1,4 @@
-160325
+160332
 'okina/T
 'okinas/T
 3D/T
@@ -44561,7 +44561,6 @@ disfuncziunala/T
 disfuncziunalas/T
 disfuncziunalitad/T
 disfuncziunalitads/T
-disfuncziunalmain/T
 disfuncziunals/T
 disfuncziuns/T
 disgerminom/T
@@ -60255,6 +60254,7 @@ fragmentais/T
 fragmentar/T
 fragmentara/T
 fragmentaras/T
+fragmentarmain/T
 fragmentars/T
 fragmentass/T
 fragmentassan/T
@@ -73822,7 +73822,12 @@ interruts/OPT
 interrutta/OPT
 interruttas/OPT
 intersecziun/OT
+intersecziunal/OT
+intersecziunala/OT
+intersecziunalas/OT
 intersecziunalitad/OT
+intersecziunalmain/OT
+intersecziunals/OT
 intersecziuns/OT
 intersexual/OT
 intersexuala/OT
@@ -89408,6 +89413,8 @@ normass/T
 normassan/T
 normassas/T
 normativ/T
+normativitad/T
+normativitads/T
 normava/TQ
 normavan/T
 normavas/T
