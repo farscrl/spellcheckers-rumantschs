@@ -1,4 +1,4 @@
-188959
+188998
 --/TQRSS
 1000avel/T
 1000avels/T
@@ -2174,6 +2174,7 @@ Mut/T
 Myriam
 Mäder
 Müller
+Müsch/T
 Müstair/T
 NZZ
 Nabal/T
@@ -2402,6 +2403,7 @@ Plasch/T
 Plaschs/T
 Platta/T
 Plessur/T
+Plür/T
 Po/T
 Pol/T
 Pola/T
@@ -11123,6 +11125,7 @@ antiquara/T
 antiquaras/T
 antiquariat/T
 antiquariats/T
+antiquarmaing/T
 antiquars/T
 antiquats/T
 antiquitats/T
@@ -11961,6 +11964,8 @@ appuntats/T
 appuntà/T
 apricosa/T
 apricosas/T
+apricoser/T
+apricosers/T
 apropo/T
 apsida/T
 apsidas/T
@@ -21523,8 +21528,6 @@ brillond/TS
 brillà/TS
 brioscha/T
 brioschas/T
-bris-cha/T
-bris-chas/T
 brisant/T
 brisanta/T
 brisantamaing/T
@@ -42014,6 +42017,10 @@ dealers/T
 dealra/T
 dealras/T
 deals/T
+debaculus/T
+debaculusa/T
+debaculusamaing/T
+debaculusas/T
 debakel/T
 debakels/T
 debat/TS
@@ -47492,6 +47499,7 @@ discoteca/T
 discotecas/T
 discredit/T
 discreditada/TS
+discreditadamaing/T
 discreditadas/TS
 discreditai/TQRSS
 discreditain/TS
@@ -47840,6 +47848,7 @@ disfaivast/TS
 disfaivat/TS
 disfaivna/TS
 disfamada/TS
+disfamadamaing/T
 disfamadas/TS
 disfamai/TQRSS
 disfamain/TS
@@ -70883,6 +70892,10 @@ imperialisticas/T
 imperialistics/T
 imperialists/T
 imperials/T
+impericlitada/T
+impericlitadas/T
+impericlitats/T
+impericlità/T
 imperis/T
 impermeabel/T
 impermeabels/T
@@ -93952,6 +93965,8 @@ mira'l/TS
 mira/TQRSS
 mirabella/T
 mirabellas/T
+mirabeller/T
+mirabellers/T
 miracul/T
 miraculs/T
 miraculus/T
@@ -96704,6 +96719,7 @@ mutschessast/TS
 mutschessat/TS
 mutschessna/TS
 mutschign'la/TS
+mutschign'na/TS
 mutschign/TS
 mutschigna'l/TS
 mutschigna/TQRSS
@@ -96743,7 +96759,6 @@ mutschignessan/TS
 mutschignessast/TS
 mutschignessat/TS
 mutschignessna/TS
-mutschignna/TS
 mutschignond/TS
 mutschignus/T
 mutschignusa/T
@@ -97680,6 +97695,10 @@ naïvitats/T
 naïvità/T
 naïvs/T
 ne/T
+nebulus/T
+nebulusa/T
+nebulusamaing/T
+nebulusas/T
 necessari/T
 necessaria/T
 necessariamaing/T
@@ -99878,6 +99897,9 @@ omettond/PTS
 omettà/PTS
 omicidi/T
 omicidis/T
+ominus/T
+ominusa/T
+ominusamaing/T
 ominusas/T
 omiss/PTS
 omissa/PTS
@@ -101930,6 +101952,10 @@ pakettna/TS
 pakettond/TS
 pakettà/TS
 pakin/T
+pakischem/T
+pakischems/T
+pakischma/T
+pakischmas/T
 pal/T
 pala/T
 palafittas/T
@@ -106410,10 +106436,15 @@ perida/TS
 peridas/TS
 perifer/T
 perifera/T
-periferamaing/T
 periferas/T
 periferia/T
 periferias/T
+periferic/T
+periferica/T
+perifericamaing/T
+perifericas/T
+periferics/T
+perifermaing/T
 perifers/T
 perifrasar/T
 periglia/T
@@ -106907,6 +106938,8 @@ persiflessat/TS
 persiflessna/TS
 persiflond/TS
 persiflà/TS
+persiker/T
+persikers/T
 persist'la/TS
 persist/TS
 persista'l/TS
@@ -147322,6 +147355,7 @@ sdegnond/TS
 sdegns/T
 sdegnuoss/T
 sdegnuossa/T
+sdegnuossamaing/T
 sdegnuossas/T
 sdegnà/TS
 sdi/TQRSS
@@ -174994,6 +175028,11 @@ tet/TS
 teta/T
 tetanus/T
 tetas/T
+tetic/T
+tetica/T
+teticamaing/T
+teticas/T
+tetics/T
 tetraplegia/T
 tetraplegias/T
 tets/T
