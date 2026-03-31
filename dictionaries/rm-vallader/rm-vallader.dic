@@ -1,4 +1,4 @@
-189267
+189311
 --/TQRSS
 1000avel/T
 1000avels/T
@@ -271,6 +271,10 @@ Angelo
 Angels/T
 Angiolina/T
 Angiolinas/T
+Anglosaxon/T
+Anglosaxona/T
+Anglosaxonas/T
+Anglosaxons/T
 Anita/T
 Anitas/T
 Anja
@@ -461,8 +465,6 @@ Beatrice
 Beatrix
 Beats/T
 Beck
-Beda/T
-Bedas/T
 Beeli
 Beer
 Beiva/T
@@ -2297,9 +2299,6 @@ Ollandaisa/T
 Ollandaisas/T
 Onna/T
 Onnas/T
-Oriaint/T
-Oriainta/T
-Oriaintas/T
 Origen
 Ortensia/T
 Ortensias/T
@@ -2435,6 +2434,7 @@ Pro Senectute
 Probst
 Projer
 Prussia/T
+Prussias/T
 Präz
 Puntina/T
 Puntraschigna/T
@@ -2701,7 +2701,12 @@ Saul/T
 Sauls/T
 Savognin/T
 Savoia/T
+Saxon/T
+Saxona/T
+Saxonas/T
 Saxonia/T
+Saxonias/T
+Saxons/T
 ScRL
 Scaletta/T
 Scandinavia/T
@@ -7070,6 +7075,8 @@ adüts/PTS
 adütta/PTS
 adüttas/PTS
 adüà/PTS
+aferesa/T
+aferesas/T
 affa'l/PTS
 affa'la/PTS
 affa/PTQRSS
@@ -10477,6 +10484,10 @@ anglofon/T
 anglofona/T
 anglofonas/T
 anglofons/T
+anglosaxon/T
+anglosaxona/T
+anglosaxonas/T
+anglosaxons/T
 anguel/T
 anguela/T
 anguelas/T
@@ -56011,6 +56022,11 @@ extrinsicamaing/T
 extrinsicas/T
 extrinsics/T
 extrond/PTS
+extroverti/T
+extrovertida/T
+extrovertidamaing/T
+extrovertidas/T
+extrovertits/T
 extrà/PTS
 eziologia/T
 ezà/T
@@ -59585,6 +59601,7 @@ flattà/TS
 flectada/TS
 flectadas/TS
 flectader/T
+flectaders/T
 flectai/TQRSS
 flectain/TS
 flectaina/TS
@@ -74476,6 +74493,7 @@ includivat/PTS
 includivna/PTS
 includna/PTS
 includà/PTS
+inclur/T
 inclus/PTS
 inclusa/PTS
 inclusas/PTS
@@ -83252,6 +83270,11 @@ introdüts/PTS
 introdütta/PTS
 introdüttas/PTS
 introdüà/PTS
+introverti/T
+introvertida/T
+introvertidamaing/T
+introvertidas/T
+introvertits/T
 intschadada/PTS
 intschadadas/PTS
 intschadai/PTQRSS
@@ -91016,7 +91039,17 @@ manzögneras/T
 manzögners/T
 manà/TS
 manövrar/T
+manü/T
+manüda/T
 manüdamaing/T
+manüdas/T
+manüdels/T
+manüdezza/T
+manüdezzas/T
+manüdin/T
+manüdina/T
+manüdinas/T
+manüdins/T
 manügl/T
 manüts/T
 manüzcham/T
@@ -97437,6 +97470,7 @@ naivaiva/TS
 naivaraja/TS
 naivarà/TS
 naiver/TS
+naivera/T
 naiveras/T
 naivess/TS
 naivessa/TS
@@ -101091,6 +101125,7 @@ orgiasticamaing/T
 orgiasticas/T
 orgiastics/T
 oriaint/T
+oriaints/T
 orientada/PTS
 orientadas/PTS
 orientai/PTQRSS
@@ -135880,6 +135915,10 @@ saxofonista/T
 saxofonistas/T
 saxofonists/T
 saxofons/T
+saxon/T
+saxona/T
+saxonas/T
+saxons/T
 sazch'la/TS
 sazch/TS
 sazcha'l/TS
@@ -186014,6 +186053,9 @@ vicendaivla/T
 vicendaivlas/T
 vicendaivlezza/T
 vicendaivlezzas/T
+viceparsura/T
+viceparsuradi/T
+viceparsuras/T
 vicepresident/T
 vicepresidenta/T
 vicepresidentas/T
@@ -186492,6 +186534,8 @@ virtuus/T
 virtuusa/T
 virtuusamaing/T
 virtuusas/T
+virtuusitats/T
+virtuusità/T
 virtü/T
 virtüd/T
 virtüdaivel/T
