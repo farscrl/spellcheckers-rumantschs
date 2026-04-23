@@ -1,4 +1,4 @@
-206996
+206999
 1000evel/T
 1000evels/T
 1000evla/T
@@ -8654,6 +8654,7 @@ alleas/T
 allegeda/PT
 allegedas/PT
 alleger/PTQR
+allegermaing/T
 allegers/T
 allegesc'la/PT
 allegesch/PT
@@ -50408,6 +50409,7 @@ devoziun/T
 devoziuns/T
 devozius/T
 devoziusa/T
+devoziusamaing/T
 devoziusas/T
 dezaint/T
 dezainta/T
@@ -96296,6 +96298,7 @@ legiast/T
 legibel/T
 legibelmaing/T
 legibels/T
+legibilited/T
 legibla/T
 legiblas/T
 legislativ/T
@@ -132446,6 +132449,11 @@ rasdiv/T
 rasdivs/T
 raseda/T
 rasedas/T
+rasegn'la/T
+rasegn/T
+rasegna'l/T
+rasegna't/TQR
+rasegna/T
 rasegnains/T
 rasegnainsa/T
 rasegnais/T
@@ -132458,7 +132466,10 @@ rasegnaivans/T
 rasegnaivas/T
 rasegnaivast/T
 rasegnaivi/T
+rasegnan/T
 rasegnand/T
+rasegnane/T
+rasegnans/T
 rasegnareg'la/T
 rasegnaregi/T
 rasegnaregia'l/T
@@ -132477,22 +132488,13 @@ rasegnarons/T
 rasegnaronsa/T
 rasegnaros/T
 rasegnarost/T
+rasegnas/T
+rasegnast/T
 rasegnaziun/T
 rasegnaziuns/T
 rasegneda/T
 rasegnedas/T
 rasegner/PTQR
-rasegnesch'la/T
-rasegnesch/T
-rasegnescha'l/T
-rasegnescha't/TQR
-rasegnescha/T
-rasegneschan/T
-rasegneschane/T
-rasegneschans/T
-rasegneschas/T
-rasegneschast/T
-rasegneschi/T
 rasegness'la/T
 rasegness/T
 rasegnessa'l/T
@@ -132502,6 +132504,7 @@ rasegnessans/T
 rasegnessas/T
 rasegnessast/T
 rasegnessi/T
+rasegni/T
 rasegno/T
 rasegnos/T
 rasegnè's/TQR
