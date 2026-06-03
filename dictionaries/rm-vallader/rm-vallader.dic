@@ -1,4 +1,4 @@
-189909
+189943
 --/TQRSS
 1000avel/T
 1000avels/T
@@ -48791,6 +48791,7 @@ disqualifichessat/TS
 disqualifichessna/TS
 disqualifichond/TS
 disqualifichà/TS
+dissens/T
 dissertaziun/T
 dissertaziuns/T
 dissident/T
@@ -55229,6 +55230,15 @@ existenzial/T
 existenziala/T
 existenzialas/T
 existenzialissem/T
+existenzialist/T
+existenzialista/T
+existenzialistas/T
+existenzialistic/T
+existenzialistica/T
+existenzialisticamaing/T
+existenzialisticas/T
+existenzialistics/T
+existenzialists/T
 existenzialmaing/T
 existenzials/T
 exister/PTQRSS
@@ -55848,6 +55858,11 @@ expressiunissem/T
 expressiunist/T
 expressiunista/T
 expressiunistas/T
+expressiunistic/T
+expressiunistica/T
+expressiunisticamaing/T
+expressiunisticas/T
+expressiunistics/T
 expressiunists/T
 expressiuns/T
 expressiv/T
@@ -83897,6 +83912,10 @@ intuorn/T
 intös-chamaint/T
 intös-chamaints/T
 inua/T
+inudi/T
+inudida/T
+inudidas/T
+inudits/T
 inufficial/T
 inufficiala/T
 inufficialas/T
@@ -109826,6 +109845,8 @@ planimetria/T
 planin/T
 planisabel/T
 planisabels/T
+planisabiltats/T
+planisabiltà/T
 planisabla/T
 planisablas/T
 planisada/TS
@@ -110983,6 +111004,16 @@ poichilotermics/T
 pointa/T
 pointas/T
 pointilissem/T
+pointilissems/T
+pointilist/T
+pointilista/T
+pointilistas/T
+pointilistic/T
+pointilistica/T
+pointilisticamaing/T
+pointilisticas/T
+pointilistics/T
+pointilists/T
 poja
 poker/T
 pokers/T
@@ -121447,6 +121478,8 @@ rapportarà/TS
 rapportast/TS
 rapportat/TS
 rapportats/TS
+rapportaziun/T
+rapportaziuns/T
 rapportess'la/TS
 rapportess/TS
 rapportessa'l/TS
@@ -187784,6 +187817,7 @@ votaziun/T
 votaziuns/T
 votiv/T
 votiva/T
+votivas/T
 votivs/T
 votum/T
 votumaziun/T
