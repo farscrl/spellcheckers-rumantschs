@@ -1,4 +1,4 @@
-190312
+190310
 --/TQRSS
 1000avel/T
 1000avels/T
@@ -92234,12 +92234,10 @@ martels/T
 martir/T
 martira/T
 martiras/T
+martiri/T
+martiris/T
 martirisada/TS
 martirisadas/TS
-martirisader/T
-martirisaders/T
-martirisadra/T
-martirisadras/T
 martirisai/TQRSS
 martirisain/TS
 martirisaina/TS
@@ -92251,7 +92249,7 @@ martirisaivan/TS
 martirisaivast/TS
 martirisaivat/TS
 martirisaivna/TS
-martirisar/PTQRSS
+martirisar/TQRSS
 martirisarai/TQRSS
 martirisaraja/TS
 martirisaran/TS
@@ -92294,7 +92292,7 @@ martriaivan/TS
 martriaivast/TS
 martriaivat/TS
 martriaivna/TS
-martriar/PTQRSS
+martriar/TQRSS
 martriarai/TQRSS
 martriaraja/TS
 martriaran/TS
@@ -97170,6 +97168,10 @@ murbignus/T
 murbignusa/T
 murbignusamaing/T
 murbignusas/T
+murcs'la/TS
+murcs/TS
+murcsa'l/TS
+murcsa/TQRSS
 murcsada/TS
 murcsadas/TS
 murcsai/TQRSS
@@ -97183,6 +97185,7 @@ murcsaivan/TS
 murcsaivast/TS
 murcsaivat/TS
 murcsaivna/TS
+murcsan/TS
 murcsar/TQRSS
 murcsarai/TQRSS
 murcsaraja/TS
@@ -97193,15 +97196,9 @@ murcsarat/TS
 murcsarà'l/TS
 murcsarà'la/TS
 murcsarà/TS
+murcsast/TS
+murcsat/TS
 murcsats/TS
-murcsesch'la/TS
-murcsesch/TS
-murcsescha'l/TS
-murcsescha/TQRSS
-murcseschan/TS
-murcseschast/TS
-murcseschat/TS
-murcseschna/TS
 murcsess'la/TS
 murcsess/TS
 murcsessa'l/TS
@@ -97210,6 +97207,7 @@ murcsessan/TS
 murcsessast/TS
 murcsessat/TS
 murcsessna/TS
+murcsna/TS
 murcsond/TS
 murcsà/TS
 murdieu'la/TS
@@ -129037,7 +129035,6 @@ retroactivmaing/T
 retroactivs/T
 retrograd/T
 retrograda/T
-retrogradamaing/T
 retrogradas/T
 retrograds/T
 retrond/TS
@@ -153123,6 +153120,9 @@ sgiazzond/TS
 sgiazzà/TS
 sgiond/TS
 sgiribiz/T
+sgiribizs/T
+sgiribizza/T
+sgiribizzas/T
 sgiunt/TS
 sgiunta/TS
 sgiuntas/TS
@@ -177267,8 +177267,6 @@ tortura'l/TS
 tortura/TQRSS
 torturada/TS
 torturadas/TS
-torturader/T
-torturaders/T
 torturadra/T
 torturadras/T
 torturai/TQRSS
