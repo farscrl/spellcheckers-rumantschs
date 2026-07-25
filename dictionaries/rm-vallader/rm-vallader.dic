@@ -1,4 +1,4 @@
-190725
+190757
 --/TQRSS
 1000avel/T
 1000avels/T
@@ -3500,7 +3500,6 @@ a/PTQRSS
 aaja/PTS
 abadessa/T
 abadessas/T
-abain/T
 abalchamaint/T
 abalchamaints/T
 abandun'la/PTS
@@ -11110,8 +11109,6 @@ antiautoritari/T
 antiautoritaria/T
 antiautoritarias/T
 antiautoritaris/T
-antibaby/T
-antibabys/T
 antibiotic/T
 antibiotics/T
 antibioticsa/T
@@ -11132,14 +11129,6 @@ anticlericalas/T
 anticlericals/T
 anticoagulant/T
 anticoagulaziun/T
-anticonceptiv/T
-anticonceptivs/T
-anticoncepziun/T
-anticoncepziunal/T
-anticoncepziunala/T
-anticoncepziunalas/T
-anticoncepziunals/T
-anticoncepziuns/T
 anticorp/T
 anticorps/T
 anticrist/T
@@ -11372,6 +11361,8 @@ apiculturs/T
 apidologia/T
 apigl/T
 apigls/T
+apnea/T
+apneas/T
 apocalipsa/T
 apocalipsas/T
 apocaliptic/T
@@ -19471,7 +19462,6 @@ binari/T
 binaris/T
 binaritats/T
 binarità/T
-binarmaing/T
 binars/T
 binda/T
 bindas/T
@@ -23502,6 +23492,7 @@ calmamaing/T
 calman/TS
 calmant/T
 calmanta/T
+calmantas/T
 calmants/T
 calmar/PTQRSS
 calmarai/TQRSS
@@ -24502,6 +24493,11 @@ cardiologics/T
 cardiologs/T
 cardiosperma/T
 cardiospermas/T
+cardiovascular/T
+cardiovasculara/T
+cardiovascularas/T
+cardiovascularmaing/T
+cardiovasculars/T
 carena/T
 carenas/T
 carenza/T
@@ -33152,6 +33148,7 @@ congiuntas/TS
 congiuntiv/T
 congiuntiva/T
 congiuntivas/T
+congiuntivitis/T
 congiuntivs/T
 congiunts/TS
 conglomerat/T
@@ -40139,6 +40136,12 @@ cuntrabassist/T
 cuntrabassista/T
 cuntrabassistas/T
 cuntrabassists/T
+cuntraceptiv/T
+cuntraceptiva/T
+cuntraceptivas/T
+cuntraceptivs/T
+cuntracepziun/T
+cuntracepziuns/T
 cuntrachatsch/T
 cuntrachatschs/T
 cuntrachüsa/T
@@ -40481,6 +40484,7 @@ cuntschet/T
 cuntscheta/T
 cuntschetas/T
 cuntschets/T
+cuntuot/T
 cunvain/TS
 cunvaina/TS
 cunvainst/TS
@@ -41988,6 +41992,15 @@ dadaint/T
 dadaints/T
 dadaintvart/T
 dadais/T
+dadaissem/T
+dadaist/T
+dadaista/T
+dadaistas/T
+dadaistic/T
+dadaistica/T
+dadaisticas/T
+dadaistics/T
+dadaists/T
 dadour/T
 dadoura/T
 dadouragiò/T
@@ -42126,6 +42139,8 @@ dandet/T
 dandetta/T
 dandettamaing/T
 dandettas/T
+dandy/T
+dandys/T
 daner/T
 daners/T
 dannagiar/T
@@ -45873,6 +45888,7 @@ dessat/TS
 dessert/T
 desserts/T
 dessna/TS
+dessous/T
 destabilisada/TS
 destabilisadas/TS
 destabilisai/TQRSS
@@ -47090,6 +47106,10 @@ dioptria/T
 dioptrias/T
 dioxid/T
 dioxids/T
+diploid/T
+diploida/T
+diploidas/T
+diploids/T
 diplom/T
 diplomada/TS
 diplomadas/TS
@@ -47148,8 +47168,6 @@ diplomessna/TS
 diplomond/TS
 diploms/T
 diplomà/TS
-diploïd/T
-diploïda/T
 dir/PTQRSS
 diramar/T
 diramaziun/T
@@ -64824,8 +64842,6 @@ giardinieras/T
 giardiniers/T
 giardins/T
 giareccals/T
-giargiat/T
-giargiats/T
 giargiatta/T
 giargiattas/T
 giarietla/T
@@ -89965,6 +89981,7 @@ maguglitschamaing/T
 maguglitschas/T
 maguglitschs/T
 magun'la/TS
+magun'na/TS
 magun/TS
 maguna'l/TS
 maguna/TQRSS
@@ -90003,7 +90020,6 @@ magunessan/TS
 magunessast/TS
 magunessat/TS
 magunessna/TS
-magunna/TS
 magunond/TS
 maguns/T
 magunà/TS
@@ -92023,8 +92039,6 @@ marginals/T
 margnac/T
 margnüfla/T
 margnüflas/T
-margnüschla/T
-margnüschlas/T
 margüschla/T
 margüschlas/T
 marid'la/TS
@@ -93245,10 +93259,8 @@ maximas/T
 maximum/T
 maximums/T
 maz/TS
-mazoc/T
 mazocla/T
 mazoclas/T
-mazocs/T
 mazs/T
 mazurca/T
 mazurcas/T
@@ -94087,6 +94099,7 @@ metabolissems/T
 metadatas/T
 metadatoteca/T
 metadatotecas/T
+metadon/T
 metafisica/T
 metafonia/T
 metafonias/T
@@ -99528,6 +99541,13 @@ nomnà/TS
 noms/T
 nona/T
 nonas/T
+nonbinar/T
+nonbinara/T
+nonbinaras/T
+nonbinaritats/T
+nonbinarità/T
+nonbinars/T
+nonobstant/T
 nonsen/T
 nonsens/T
 nonupel/T
@@ -100919,12 +100939,16 @@ ombra/T
 ombrus/T
 ombrusa/T
 ombrusas/T
+omeopat/T
+omeopata/T
+omeopatas/T
 omeopatia/T
 omeopatic/T
 omeopatica/T
 omeopaticamaing/T
 omeopaticas/T
 omeopatics/T
+omeopats/T
 omeotermic/T
 omeotermica/T
 omeotermicas/T
@@ -101100,6 +101124,10 @@ onanessast/PTS
 onanessat/PTS
 onanessna/PTS
 onania/T
+onanist/T
+onanista/T
+onanistas/T
+onanists/T
 onanond/PTS
 onanà/PTS
 oncolog/T
@@ -109245,6 +109273,11 @@ pikettà/TS
 pila/T
 pilaster/T
 pilasters/T
+pilla
+pirla/T
+pilla/T
+pillas
+pirlas/T
 pilosella/T
 pilosellas/T
 pilot/T
@@ -109543,8 +109576,6 @@ pirataria/T
 piratarias/T
 piratas/T
 pirats/T
-pirla/T
-pirlas/T
 piroga/T
 pirogas/T
 pirol/T
@@ -114136,8 +114167,6 @@ preservat/TS
 preservativ/T
 preservativs/T
 preservats/TS
-preservaziun/T
-preservaziuns/T
 preservess'la/TS
 preservess/TS
 preservessa'l/TS
@@ -117234,6 +117263,7 @@ psicotropa/T
 psicotropamaing/T
 psicotropas/T
 psicotrops/T
+psoriasis/T
 pst/T
 pubertada/TS
 pubertadas/TS
@@ -150380,6 +150410,7 @@ separessna/TS
 separna/TS
 separond/TS
 separà/TS
+sepsis/T
 septet/T
 septets/T
 septic/T
@@ -163538,6 +163569,8 @@ stessan/TS
 stessast/TS
 stessat/TS
 stessna/TS
+stetosocop/T
+stetosocops/T
 stetta/TS
 stettan/TS
 stettast/TS
@@ -164972,6 +165005,7 @@ straplain/T
 straplaina/T
 straplainas/T
 straplains/T
+strapsas/T
 strar/PTQRSS
 strarai/TQRSS
 straraja/TS
