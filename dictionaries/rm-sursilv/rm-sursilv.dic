@@ -1,4 +1,4 @@
-235254
+235306
 'emplenescha/PT
 'empleneschi/PT
 'empleneschien/PT
@@ -167,6 +167,7 @@ Barclamiu/T
 Bardill
 Bargias/T
 Bargunsegner/T
+Barla/T
 Basc/T
 Basilea-Marcau/T
 Basilea-Tiara/T
@@ -175,6 +176,7 @@ Basiles/T
 Bass
 Bassa/T
 Battaglia
+Battesta/T
 Baumann
 Baumgartner
 Baur
@@ -215,6 +217,8 @@ Bernadette
 Bernard
 Bernasconi
 Bernes/T
+Bernesa/T
+Bernesas/T
 Bernhard
 Bernina/T
 Berther
@@ -782,6 +786,7 @@ Gasser
 Gautschi
 Gehrig
 Geiser
+Geli/T
 Genesaret/T
 Genevra/T
 Genevrin/T
@@ -903,6 +908,7 @@ Helvezia/T
 Hemmi
 Hendry
 Herbert
+Hercli/T
 Hermann
 Herrmann
 Herzegovina/T
@@ -1139,11 +1145,13 @@ Lohn
 Lombris
 Lombriser
 Lon/T
+Londra/T
 Lontsch/T
 Loren/T
 Lorena/T
 Lorenz
 Lorenzo
+Losanna/T
 Louis
 Lozza
 Luana
@@ -1153,6 +1161,7 @@ Lucerna/T
 Lucernes/T
 Lucia
 Lucmagn/T
+Ludivic/T
 Lugano/T
 Luigi
 Luis
@@ -1259,6 +1268,7 @@ Melchior
 Meltger/T
 Menelic/T
 Menelics/T
+Mengia/T
 Meraun/T
 Mercedes
 Mercedes-Benz
@@ -1845,6 +1855,7 @@ Steinmann
 Stephan
 Stephanie
 Stettler
+Stiafen/T
 Stielva/T
 Stierva
 Stiffler
@@ -2020,6 +2031,8 @@ Umber/T
 Umblitg/T
 Umbria/T
 Ungares/T
+Ungaresa/T
+Ungaresas/T
 Ungaria/T
 Uors/T
 Uranes/T
@@ -2046,6 +2059,8 @@ Valladra/T
 Valladras/T
 Valleis/T
 Vallesan/T
+Vallesana/T
+Vallesanas/T
 Valplana/T
 Valrein/T
 Valtellina/T
@@ -19063,10 +19078,12 @@ buobechel/T
 buobechels/T
 buobecla/T
 buobeclas/T
+buobet/T
 buobetgel/T
 buobetgels/T
 buobetgla/T
 buobetglas/T
+buobets/T
 buobetta/T
 buobs/T
 buola/PT
@@ -26923,6 +26940,8 @@ clistiers/T
 clitoris/T
 cloaca/T
 cloacas/T
+clochard/T
+clochards/T
 cloffer/T
 cloffers/T
 clom/T
@@ -57812,6 +57831,9 @@ engepeschi/PT
 engepeschien/PT
 engepeschies/PT
 engepond/PT
+engiadines/T
+engiadinesa/T
+engiadinesas/T
 engiavina/PT
 engiavinada/PT
 engiavinadas/PT
@@ -67019,6 +67041,9 @@ fimond/PT
 fin/T
 fina/T
 finadin/T
+finadina/T
+finadinas/T
+finadins/T
 final/T
 finala/T
 finalas/T
@@ -72928,6 +72953,8 @@ geocentrica/T
 geocentricamein/T
 geocentricas/T
 geocentrics/T
+geofisica/T
+geofisicas/T
 geograf/T
 geografa/T
 geografas/T
@@ -74935,6 +74962,11 @@ glischi/PT
 glischien/PT
 glischies/PT
 glischond/PT
+glischont/T
+glischonta/T
+glischontamein/T
+glischontas/T
+glischonts/T
 glischs/T
 glischun/T
 glischuns/T
@@ -76040,8 +76072,8 @@ graziusadads/T
 graziusamein/T
 graziusas/T
 grec/T
-grecca/T
-greccas/T
+greca/T
+grecas/T
 grecs/T
 gref/T
 greffel/T
@@ -77941,6 +77973,10 @@ helvella/T
 helveller/T
 helvellers/T
 helvetic/T
+helvetica/T
+helveticamein/T
+helveticas/T
+helvetics/T
 hematit/T
 hematits/T
 hematom/T
@@ -101451,6 +101487,10 @@ migrontas/T
 migronts/T
 migîen/PT
 migîes/PT
+milanes/T
+milanesa/T
+milanesamein/T
+milanesas/T
 milarit/T
 milarits/T
 milca/T
@@ -109207,6 +109247,8 @@ nunsignificonza/T
 nunsignificonzas/T
 nunsincer/T
 nunsincera/T
+nunsinceradad/T
+nunsinceradads/T
 nunsinceramein/T
 nunsinceras/T
 nunsincers/T
@@ -142463,6 +142505,10 @@ romantic/T
 romantica/T
 romanticamein/T
 romanticas/T
+romanticher/T
+romantichers/T
+romanticra/T
+romanticras/T
 romantics/T
 romanza/T
 romanzas/T
@@ -207176,6 +207222,8 @@ substantivissem/T
 substantivissems/T
 substantivond/PT
 substantivs/T
+substanza/T
+substanzas/T
 substanzia/T
 substanzial/T
 substanziala/T
@@ -215950,6 +215998,10 @@ tedlunz/T
 tedlunza/T
 tedlunzas/T
 tedlunzs/T
+teenager/T
+teenagera/T
+teenageras/T
+teenagers/T
 tef/T
 teffel/T
 teffels/T
