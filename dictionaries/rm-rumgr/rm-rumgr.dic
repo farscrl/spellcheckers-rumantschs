@@ -1,4 +1,4 @@
-160642
+160657
 'okina/T
 'okinas/T
 3D/T
@@ -72524,8 +72524,11 @@ inspizients/OT
 instabel/OT
 instabels/OT
 instabil/OT
+instabila/OT
+instabilas/OT
 instabilitad/OT
 instabilitads/OT
+instabils/OT
 instabla/OT
 instablamain/OT
 instablas/OT
@@ -82328,6 +82331,9 @@ marschond/T
 marschs/T
 marschà/T
 marsian/T
+marsiana/T
+marsianas/T
+marsians/T
 martellada/T
 martelladas/T
 martellads/T
@@ -90018,6 +90024,11 @@ nunagilas/T
 nunagilitad/T
 nunagilitads/T
 nunagils/T
+nunagitada/T
+nunagitadamain/T
+nunagitadas/T
+nunagitads/T
+nunagità/T
 nunalliada/T
 nunalliadas/T
 nunalliads/T
@@ -137158,6 +137169,7 @@ statista/T
 statistas/T
 statistic/T
 statistica/T
+statisticamain/T
 statisticas/T
 statisticher/T
 statistichers/T
@@ -150871,6 +150883,9 @@ traiatschient/T
 traident/T
 traidents/T
 traidubel/T
+traidubels/T
+traidubla/T
+traidublas/T
 traier/T
 traiers/T
 traifegl-chaval/T
