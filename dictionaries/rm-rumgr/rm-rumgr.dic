@@ -1,4 +1,4 @@
-160657
+160679
 'okina/T
 'okinas/T
 3D/T
@@ -4504,6 +4504,9 @@ abracadabras/OT
 abrasiun/OT
 abrasiuns/OT
 abrasiv/OT
+abrasiva/OT
+abrasivas/OT
+abrasivs/OT
 abratsch/OT
 abreviada/OPT
 abreviadas/OPT
@@ -10220,6 +10223,12 @@ antiviral/OT
 antivirala/OT
 antiviralas/OT
 antivirals/OT
+antizionissem/OT
+antizionistic/OT
+antizionistica/OT
+antizionisticamain/OT
+antizionisticas/OT
+antizionistics/OT
 antologia/OT
 antologias/OT
 antologic/OT
@@ -13266,6 +13275,7 @@ audiopedagogia/OT
 audiopedagogias/OT
 audiopista/OT
 audiopistas/OT
+audios/OT
 audiosdescripziun/OT
 audioseria/OT
 audioserias/OT
@@ -41858,6 +41868,7 @@ detectond/T
 detectur/T
 detecturs/T
 detectà/T
+detecziun/T
 detegn/T
 detegna/TQ
 detegnai/T
@@ -50348,8 +50359,12 @@ endocits/OT
 endocrin/OT
 endocrina/OT
 endocrinas/OT
+endocrinolog/OT
+endocrinologa/OT
+endocrinologas/OT
 endocrinologia/OT
 endocrinologias/OT
+endocrinologs/OT
 endocrins/OT
 endogen/OT
 endogena/OT
@@ -52938,6 +52953,11 @@ erodinamicas/OT
 erodinamics/OT
 erodond/OPT
 erodà/OPT
+eroelectric/OT
+eroelectrica/OT
+eroelectricamain/OT
+eroelectricas/OT
+eroelectrics/OT
 erofagia/OT
 erofagias/OT
 erofon/OT
@@ -152589,6 +152609,8 @@ tripartiziun/T
 tripartiziuns/T
 tripartì/T
 tripel/T
+tripelamain/T
+tripels/T
 tripl/T
 tripla/TQ
 triplada/T
