@@ -1,4 +1,4 @@
-191419
+191446
 --/TQRSS
 1000avel/T
 1000avels/T
@@ -12357,6 +12357,10 @@ archets/T
 archiduca/T
 archiducadi/T
 archiducadis/T
+archiducal/T
+archiducala/T
+archiducalas/T
+archiducals/T
 archiducas/T
 archidukessa/T
 archidukessas/T
@@ -12966,8 +12970,6 @@ armessast/PTS
 armessat/PTS
 armessna/PTS
 armistizi/T
-armistizida/T
-armistizidas/T
 armistizis/T
 armond/PTS
 armonia/T
@@ -51850,6 +51852,10 @@ dublicità/T
 duca/T
 ducadi/T
 ducadis/T
+ducal/T
+ducala/T
+ducalas/T
+ducals/T
 ducas/T
 dudesch/T
 dudeschavel/T
@@ -57383,6 +57389,10 @@ fallibel/T
 fallibels/T
 fallibla/T
 falliblas/T
+fallic/T
+fallica/T
+fallicas/T
+fallics/T
 fallida/TS
 fallidas/TS
 fallimaint/T
@@ -57432,6 +57442,7 @@ fallna/TS
 fallond/TS
 fallun/T
 falluns/T
+fallus/T
 fallà/TS
 falomber/T
 falombers/T
@@ -67228,6 +67239,10 @@ granducadi/T
 granducadida/T
 granducadidas/T
 granducadits/T
+granducal/T
+granducala/T
+granducalas/T
+granducals/T
 granducas/T
 grandukessa/T
 grandukessas/T
@@ -71441,7 +71456,6 @@ immobils/T
 immoral/T
 immorala/T
 immoralas/T
-immoralitats/T
 immoralità/T
 immoralmaing/T
 immorals/T
@@ -74073,9 +74087,6 @@ inargits/PTS
 inargiva/PTS
 inargivan/PTS
 inarticulada/T
-inarticuladaa/T
-inarticuladaamaing/T
-inarticuladamaing/T
 inarticuladas/T
 inarticulats/T
 inarticulà/T
@@ -90435,6 +90446,7 @@ magnanim/T
 magnanima/T
 magnanimamaing/T
 magnanimas/T
+magnanimità/T
 magnanims/T
 magnat/T
 magnats/T
@@ -96397,7 +96409,11 @@ monocroma/T
 monocromamaing/T
 monocromas/T
 monocroms/T
+monogam/T
+monogama/T
+monogamas/T
 monogamia/T
+monogams/T
 monografia/T
 monografias/T
 monogram/T
@@ -112260,7 +112276,16 @@ polifonas/T
 polifonia/T
 polifonias/T
 polifons/T
+poligam/T
+poligama/T
+poligamas/T
 poligamia/T
+poligamias/T
+poligamist/T
+poligamista/T
+poligamistas/T
+poligamists/T
+poligams/T
 poliglot/T
 poliglots/T
 poliglotta/T
@@ -114049,6 +114074,8 @@ prefaziun/T
 prefaziuns
 prefacziuns/T
 prefect/T
+prefecta/T
+prefectas/T
 prefects/T
 prefectura/T
 prefecturas/T
