@@ -1,4 +1,4 @@
-210100
+210127
 1000evel/T
 1000evels/T
 1000evla/T
@@ -11574,6 +11574,8 @@ antistatica/T
 antistaticamaing/T
 antistaticas/T
 antistatics/T
+antitalent/T
+antitalents/T
 antitesa/T
 antitesas/T
 antitetic/T
@@ -14582,12 +14584,12 @@ artificiela/T
 artificielas/T
 artificielmaing/T
 artificiels/T
-artillaria/T
-artillarias/T
-artillarist/T
-artillarista/T
-artillaristas/T
-artillarists/T
+artigliaria/T
+artigliarias/T
+artigliarist/T
+artigliarista/T
+artigliaristas/T
+artigliarists/T
 artisanat/T
 artischaun/T
 artischauna/T
@@ -19669,6 +19671,10 @@ basas/T
 basast/T
 baschatta/T
 baschattas/T
+baschladitsch/T
+baschladitscha/T
+baschladitschas/T
+baschladitschs/T
 baschlaiv'la/T
 baschlaiva'l/T
 baschlaiva/T
@@ -26709,11 +26715,14 @@ casuela/T
 casuelas/T
 casuelmaing/T
 casuels/T
-casuïstic/T
-casuïstica/T
-casuïsticamaing/T
-casuïsticas/T
-casuïstics/T
+casuist/T
+casuista/T
+casuistas/T
+casuistic/T
+casuistica/T
+casuisticas/T
+casuistics/T
+casuists/T
 catacomba/T
 catacombas/T
 catalan/T
@@ -43458,6 +43467,7 @@ cunterattacha/T
 cunterattachas/T
 cunterimsüra/T
 cunterimsüras/T
+cunterreacziun/T
 cunters/T
 cuntessa/T
 cuntessas/T
@@ -45766,6 +45776,7 @@ d'immundizchas/T
 d'import/T
 d'impostas/T
 d'incidenza/T
+d'incuntin/T
 d'incuort/T
 d'industria/T
 d'infurmaziuns/T
@@ -59695,6 +59706,8 @@ epica/T
 epicas/T
 epicenter/T
 epicenters/T
+epicra/T
+epicras/T
 epics/T
 epidemia/T
 epidemias/T
@@ -59706,6 +59719,8 @@ epiderma/T
 epidermas/T
 epigram/T
 epigrams/T
+epiker/T
+epikers/T
 epilepsia/T
 epilepsias/T
 epileptic/T
@@ -59738,6 +59753,7 @@ epoca/T
 epocas/T
 epopea/T
 epopeas/T
+epos/T
 epür/T
 equator/T
 equators/T
@@ -103589,7 +103605,6 @@ melassa/T
 melassas/T
 melasspaisas/T
 melavita/T
-melavitas/T
 melavöglia/T
 melavöglias/T
 melchüt/T
@@ -106884,6 +106899,7 @@ mucosa/T
 mucosas/T
 mudinas/T
 muetta/T
+muettas/T
 muffa/T
 muffas/T
 muflas/T
@@ -113483,6 +113499,8 @@ ostentativ/T
 ostentativa/T
 ostentativas/T
 ostentativs/T
+ostentaziun/T
+ostentaziuns/T
 osteoporosa/T
 ostessa/T
 ostessas/T
@@ -119764,6 +119782,11 @@ perspectiv/T
 perspectiva/T
 perspectivas/T
 perspectivs/T
+perspicacited/T
+perspicaza/T
+perspicazas/T
+perspicazi/T
+perspicazis/T
 persuna/T
 persunalias/T
 persunalited/T
@@ -150040,6 +150063,7 @@ safir/T
 safirs/T
 safran/T
 safrans/T
+sagacited/T
 sageda/T
 sagedas/T
 sagels/T
@@ -150285,6 +150309,7 @@ saids/T
 saimpel/T
 saimpels/T
 saimper/T
+saimpermê/T
 saimperplain/T
 saimperplains/T
 saimperverd/T
@@ -171437,6 +171462,8 @@ signalisessi/T
 signaliso/T
 signalisos/T
 signalisè/TQR
+signatari/T
+signataria/T
 signatura/T
 signaturas/T
 signel/T
@@ -174967,6 +174994,7 @@ spersas/T
 spert/T
 sperta/T
 spertas/T
+spertezza/T
 sperts/T
 sperè/TQR
 spess/T
@@ -183670,7 +183698,6 @@ subtila/T
 subtilas/T
 subtilited/T
 subtiliteds/T
-subtilmaing/T
 subtils/T
 subtracziun/T
 subtracziuns/T
