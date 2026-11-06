@@ -1,4 +1,4 @@
-191601
+191622
 --/TQRSS
 1000avel/T
 1000avels/T
@@ -29818,7 +29818,6 @@ clerdüms/T
 clerezza/T
 clerezzas/T
 clerglüna/T
-clerglünas/T
 clerical/T
 clericala/T
 clericalas/T
@@ -72994,7 +72993,11 @@ impollinond/PTS
 impollinà/PTS
 impon/PTS
 impona/PTS
+imponderada/T
 imponderadamaing/T
+imponderadas/T
+imponderats/T
+imponderà/T
 impopp'la/PTS
 impoppa'l/PTS
 impoppa/PTS
@@ -96933,6 +96936,10 @@ motivarà'l/TS
 motivarà'la/TS
 motivarà/TS
 motivats/TS
+motivatur/T
+motivatura/T
+motivaturas/T
+motivaturs/T
 motivaziun/T
 motivaziuns/T
 motivesch'la/TS
@@ -111555,6 +111562,11 @@ plenum/T
 plenums/T
 pleonassem/T
 pleonassems/T
+pleonastic/T
+pleonastica/T
+pleonasticamaing/T
+pleonasticas/T
+pleonastics/T
 pletscha/T
 pletschas/T
 pleura/T
@@ -112570,6 +112582,7 @@ ponderabels/T
 ponderabla/T
 ponderablas/T
 ponderada/TS
+ponderadamaing/T
 ponderadas/TS
 ponderai/TQRSS
 ponderain/TS
@@ -112612,6 +112625,10 @@ ponderessast/TS
 ponderessat/TS
 ponderessna/TS
 ponderond/TS
+ponderus/T
+ponderusa/T
+ponderusamaing/T
+ponderusas/T
 ponderà/TS
 poni/T
 ponis/T
@@ -154308,9 +154325,9 @@ sgiargiattada/T
 sgiargiattadas/T
 sgiargiattar/T
 sgiarot/T
-sgiarota/T
-sgiarotas/T
 sgiarots/T
+sgiarotta/T
+sgiarottas/T
 sgiarvitsch/T
 sgiarvitschs/T
 sgiarà'l/TS
@@ -155304,6 +155321,9 @@ sgrommna/TS
 sgrommond/TS
 sgrommà/TS
 sgrot/T
+sgrots/T
+sgrotta/T
+sgrottas/T
 sgruflign'la/TS
 sgruflign/TS
 sgrufligna'l/TS
@@ -184160,6 +184180,7 @@ tuorblà/TS
 tuoretta/T
 tuorettas/T
 tuorn'la/TS
+tuorn'na/TS
 tuorn/TS
 tuorna'l/TS
 tuorna/TQRSS
