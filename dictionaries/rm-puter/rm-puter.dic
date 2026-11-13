@@ -1,4 +1,4 @@
-210513
+210540
 1000evel/T
 1000evels/T
 1000evla/T
@@ -591,10 +591,14 @@ Caprez
 Caratsch
 Carigiet
 Carl/T
-Carla
+Carla/T
+Carlas/T
 Carli
 Carlo
 Carlos
+Carlotta/T
+Carlottas/T
+Carls/T
 Carmelia
 Carmen
 Caroline
@@ -19836,6 +19840,7 @@ basset/T
 bassets/T
 bassezza/T
 bassezzas/T
+bassin/T
 bassist/T
 bassista/T
 bassistas/T
@@ -46376,6 +46381,7 @@ daspera/T
 dasperatiers/T
 dasperavi/T
 daspö/T
+dastrusch/T
 data/T
 datains/T
 datainsa/T
@@ -69229,7 +69235,15 @@ frego/T
 fregos/T
 freh/T
 freha/T
-frehezza/T
+frehamaing/T
+frehas/T
+frehdet/T
+frehdets/T
+frehs/T
+frehun/T
+frehuna/T
+frehunas/T
+frehuns/T
 frej'la/T
 freja'l/T
 freja/T
@@ -103780,7 +103794,6 @@ melarcugnuschainta/T
 melarcugnuschaintas/T
 melarcugnuschaints/T
 melarcugnuschentscha/T
-melarcugnuschentschas/T
 melarticuleda/T
 melarticuledamaing/T
 melarticuledas/T
@@ -103926,7 +103939,6 @@ melgratagios/T
 melgratas/T
 melgrats/T
 melgrô/T
-melgrôs/T
 melgualiv/T
 melgualiva/T
 melgualivas/T
@@ -104124,6 +104136,10 @@ melsvouta/T
 melsvoutamaing/T
 melsvoutas/T
 melsvouts/T
+meltempreda/T
+meltempredas/T
+meltempro/T
+meltempros/T
 meltransibel/T
 meltransibelmaing/T
 meltransibels/T
@@ -129501,6 +129517,10 @@ provist/T
 provista/T
 provistas/T
 provists/T
+provocativ/T
+provocativa/T
+provocativas/T
+provocativs/T
 provocatuors/T
 provocatur/T
 provocatura/T
@@ -168616,7 +168636,6 @@ sfrignözs/T
 sfruntadezza/T
 sfruntadezzas/T
 sfrunteda/T
-sfruntedamaing/T
 sfruntedas/T
 sfrunto/T
 sfruntos/T
@@ -172946,6 +172965,10 @@ slammas/T
 slammast/T
 slammeda/T
 slammedas/T
+slammeder/T
+slammeders/T
+slammedra/T
+slammedras/T
 slammer/TQR
 slammera/T
 slammeras/T
@@ -176852,8 +176875,11 @@ spontan/T
 spontana/T
 spontanamaing/T
 spontanas/T
+spontaneited
 spontanited/T
+spontaneiteds
 spontaniteds/T
+spontanited/T
 spontans/T
 spopulains/T
 spopulainsa/T
@@ -178965,7 +178991,6 @@ stadions/T
 stadulina/T
 stadulinas/T
 stafetta/T
-stafettas/T
 staffa/T
 staffas/T
 staffetta/T
@@ -182787,6 +182812,7 @@ strupchessi/T
 strupcho/T
 strupchos/T
 strupchè/TQR
+strusch/T
 struzchains/T
 struzchainsa/T
 struzchais/T
@@ -193833,6 +193859,7 @@ tematisos/T
 tematisè/TQR
 temerari/T
 temeraria/T
+temerariamaing/T
 temerarias/T
 temerarieted/T
 temerarieteds/T
@@ -201980,6 +202007,9 @@ turetta/T
 turettas/T
 turibul/T
 turibuls/T
+turichais/T
+turichaisa/T
+turichaisas/T
 turissem/T
 turissems/T
 turist/T
@@ -203142,10 +203172,11 @@ ungla/T
 unglas/T
 ungler/T
 unglers/T
+ungli
+umbli/T
 ungli/T
-unglih/T
-unglihs/T
-unglis/T
+unglis
+umblis/T
 unguent/T
 unguents/T
 uni's/PTQR
